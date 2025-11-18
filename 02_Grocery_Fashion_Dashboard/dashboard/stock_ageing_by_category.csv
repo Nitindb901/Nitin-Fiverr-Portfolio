@@ -1,0 +1,7 @@
+Category,StockAgeCategory,Transactions,TotalRevenue,TotalQuantity,AvgStockAge
+Fashion,Ageing,22185,291646241.25,44299,135.28
+Fashion,Fresh,7470,95716189.2,14830,15.56
+Fashion,Normal,14960,198294302.04,30160,60.27
+Grocery,Ageing,33345,86712875.38,99771,135.26
+Grocery,Fresh,11186,29519279.33,33579,15.37
+Grocery,Normal,22198,57423902.47,66756,60.42

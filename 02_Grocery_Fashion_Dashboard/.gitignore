@@ -1,6 +1,4 @@
-# Ignore large data files
-data/*.csv
-dashboard/*.csv
+# Large data files are included for complete project
 
 # Python
 __pycache__/

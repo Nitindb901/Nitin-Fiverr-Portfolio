@@ -1,0 +1,5 @@
+Category,Transactions,TotalRevenue,AvgRevenue,TotalQuantity,Day_Type
+Fashion,28011,367969132.25,13136.59,56102,Weekday
+Fashion,16604,217687600.24,13110.55,33187,Weekend
+Grocery,41815,108647163.19,2598.28,125269,Weekday
+Grocery,24914,65008893.99,2609.33,74837,Weekend
