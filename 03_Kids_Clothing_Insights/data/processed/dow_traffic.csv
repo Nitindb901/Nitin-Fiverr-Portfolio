@@ -1,0 +1,8 @@
+DayOfWeek,Sessions,Conversions,ConversionRate,DayNum
+Monday,28456,504,1.77,0
+Tuesday,28840,514,1.78,1
+Wednesday,28585,477,1.67,2
+Thursday,28566,492,1.72,3
+Friday,28495,488,1.71,4
+Saturday,28422,531,1.87,5
+Sunday,28636,509,1.78,6

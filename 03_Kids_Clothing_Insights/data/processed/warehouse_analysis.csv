@@ -1,0 +1,4 @@
+WarehouseID,ProductCount,TotalUnits,StockValue,AvgValuePerProduct
+WH001,306,3552,51161.69,167.2
+WH002,297,3569,52057.81,175.28
+WH003,297,3360,49166.01,165.54

@@ -1,0 +1,901 @@
+ProductID,ProductName,Category,StockLevel,UnitsSold_12M,TurnoverRatio,TurnoverCategory,StockValue
+P0001,JuniorWear Shirts Green 3T,Boys Clothing,6,32,5.33,Fast Moving,86.64
+P0002,TinyTrends Shirts Navy 3T,Boys Clothing,18,50,2.78,Regular,351.36
+P0003,MiniMode Shirts Green 2T,Boys Clothing,11,35,3.18,Regular,89.32
+P0004,MiniMode Shirts Beige 2T,Boys Clothing,5,20,4.0,Regular,40.35
+P0005,KiddoFashion Shirts Navy 8,Boys Clothing,14,33,2.36,Regular,247.94
+P0006,BabyChic Shirts Yellow 4T,Boys Clothing,10,33,3.3,Regular,75.5
+P0007,TinyTrends Shirts Black 7,Boys Clothing,14,46,3.29,Regular,266.28
+P0008,JuniorWear Shirts Red 7,Boys Clothing,3,41,13.67,Fast Moving,25.8
+P0009,YouthStyle Shirts Blue 12,Boys Clothing,3,35,11.67,Fast Moving,34.95
+P0010,SmallStyle Shirts Green 14,Boys Clothing,9,30,3.33,Regular,116.64
+P0011,JuniorWear Shirts Blue 2T,Boys Clothing,20,45,2.25,Regular,303.2
+P0012,JuniorWear Shirts Purple 3T,Boys Clothing,13,40,3.08,Regular,142.09
+P0013,BabyChic Shirts Green 4T,Boys Clothing,13,42,3.23,Regular,199.68
+P0014,LittleFashion Shirts Orange 3T,Boys Clothing,2,35,17.5,Fast Moving,19.6
+P0015,YouthStyle Shirts Yellow 4T,Boys Clothing,12,41,3.42,Regular,173.04
+P0016,BabyChic Shirts Red 12,Boys Clothing,1,58,58.0,Fast Moving,15.24
+P0017,JuniorWear Shirts Blue 7,Boys Clothing,5,32,6.4,Fast Moving,41.9
+P0018,KiddoFashion Shirts Black 7,Boys Clothing,13,40,3.08,Regular,325.78
+P0019,JuniorWear Shirts Pink 10,Boys Clothing,11,29,2.64,Regular,112.75
+P0020,SmallStyle Shirts Black 12,Boys Clothing,14,29,2.07,Regular,249.76
+P0021,MiniMode Shirts Pink 8,Boys Clothing,16,38,2.38,Regular,134.4
+P0022,TinyTrends Shirts Pink 3T,Boys Clothing,18,45,2.5,Regular,138.6
+P0023,TinyTrends Shirts Black 8,Boys Clothing,0,46,0.0,Very Slow/Dead Stock,0.0
+P0024,JuniorWear Shirts Orange 10,Boys Clothing,8,35,4.38,Regular,94.16
+P0025,JuniorWear Shirts Gray 3T,Boys Clothing,15,25,1.67,Slow Moving,215.25
+P0026,LittleFashion Shirts Purple 6,Boys Clothing,6,22,3.67,Regular,149.52
+P0027,PetitMode Shirts Blue 12,Boys Clothing,9,39,4.33,Regular,226.08
+P0028,SmallStyle Shirts Green 6,Boys Clothing,20,38,1.9,Slow Moving,373.4
+P0029,PetitMode Shirts Red 4T,Boys Clothing,17,32,1.88,Slow Moving,121.55
+P0030,TinyTrends Shirts White 10,Boys Clothing,5,24,4.8,Regular,33.65
+P0031,MiniMode Shirts Navy 5T,Boys Clothing,20,47,2.35,Regular,243.6
+P0032,PetitMode Shirts Pink 10,Boys Clothing,17,53,3.12,Regular,336.77
+P0033,LittleFashion Shirts Yellow 10,Boys Clothing,16,51,3.19,Regular,180.8
+P0034,PetitMode Shirts Beige 8,Boys Clothing,14,26,1.86,Slow Moving,133.0
+P0035,BabyChic Shirts Purple 6,Boys Clothing,12,30,2.5,Regular,103.8
+P0036,MiniMode Shirts Green 10,Boys Clothing,15,51,3.4,Regular,269.7
+P0037,PetitMode Shirts Green 2T,Boys Clothing,12,57,4.75,Regular,83.64
+P0038,KidsStyle Shirts Green 2T,Boys Clothing,5,46,9.2,Fast Moving,98.8
+P0039,PetitMode Shirts Green 7,Boys Clothing,10,40,4.0,Regular,172.7
+P0040,PetitMode Shirts Pink 10,Boys Clothing,15,31,2.07,Regular,167.1
+P0041,MiniMode Shirts Purple 14,Boys Clothing,14,43,3.07,Regular,308.0
+P0042,TinyTrends Shirts Gray 5T,Boys Clothing,10,26,2.6,Regular,105.3
+P0043,KiddoFashion Shirts Beige 8,Boys Clothing,12,40,3.33,Regular,133.2
+P0044,YouthStyle Shirts Beige 3T,Boys Clothing,2,39,19.5,Fast Moving,39.38
+P0045,MiniMode Shirts Orange 5T,Boys Clothing,13,34,2.62,Regular,279.5
+P0046,JuniorWear Shirts Purple 8,Boys Clothing,6,37,6.17,Fast Moving,53.28
+P0047,TinyTrends Shirts Red 10,Boys Clothing,12,40,3.33,Regular,237.84
+P0048,MiniMode Shirts Pink 2T,Boys Clothing,5,44,8.8,Fast Moving,98.1
+P0049,YouthStyle Shirts Red 10,Boys Clothing,14,37,2.64,Regular,210.56
+P0050,JuniorWear Shirts Purple 2T,Boys Clothing,14,43,3.07,Regular,83.86
+P0051,LittleFashion Pants Green 12,Boys Clothing,13,46,3.54,Regular,92.43
+P0052,PetitMode Pants Red 2T,Boys Clothing,6,27,4.5,Regular,70.62
+P0053,SmallStyle Pants Purple 2T,Boys Clothing,7,34,4.86,Regular,143.15
+P0054,PetitMode Pants Blue 4T,Boys Clothing,17,30,1.76,Slow Moving,244.63
+P0055,TinyTrends Pants Gray 3T,Boys Clothing,20,45,2.25,Regular,180.4
+P0056,SmallStyle Pants Green 8,Boys Clothing,14,44,3.14,Regular,143.08
+P0057,TinyTrends Pants Black 2T,Boys Clothing,11,46,4.18,Regular,268.18
+P0058,BabyChic Pants Yellow 14,Boys Clothing,6,54,9.0,Fast Moving,114.66
+P0059,JuniorWear Pants Black 7,Boys Clothing,18,38,2.11,Regular,331.38
+P0060,BabyChic Pants Blue 6,Boys Clothing,9,34,3.78,Regular,198.09
+P0061,TinyTrends Pants Blue 14,Boys Clothing,8,32,4.0,Regular,180.72
+P0062,LittleFashion Pants White 12,Boys Clothing,16,38,2.38,Regular,167.84
+P0063,JuniorWear Pants Pink 5T,Boys Clothing,9,37,4.11,Regular,90.27
+P0064,PetitMode Pants Red 6,Boys Clothing,19,51,2.68,Regular,429.02
+P0065,LittleFashion Pants Yellow 6,Boys Clothing,14,40,2.86,Regular,90.16
+P0066,JuniorWear Pants Yellow 12,Boys Clothing,8,55,6.88,Fast Moving,99.68
+P0067,JuniorWear Pants Orange 7,Boys Clothing,5,43,8.6,Fast Moving,39.95
+P0068,YouthStyle Pants Yellow 2T,Boys Clothing,15,60,4.0,Regular,322.35
+P0069,JuniorWear Pants Pink 7,Boys Clothing,16,44,2.75,Regular,258.72
+P0070,PetitMode Pants Red 12,Boys Clothing,7,35,5.0,Fast Moving,100.1
+P0071,KidsStyle Pants White 4T,Boys Clothing,8,34,4.25,Regular,170.72
+P0072,LittleFashion Pants Red 4T,Boys Clothing,9,41,4.56,Regular,126.63
+P0073,MiniMode Pants Gray 2T,Boys Clothing,19,36,1.89,Slow Moving,185.25
+P0074,PetitMode Pants Black 3T,Boys Clothing,5,31,6.2,Fast Moving,84.4
+P0075,LittleFashion Pants Black 5T,Boys Clothing,11,40,3.64,Regular,74.14
+P0076,MiniMode Pants Yellow 7,Boys Clothing,14,45,3.21,Regular,285.46
+P0077,KiddoFashion Pants Green 8,Boys Clothing,13,47,3.62,Regular,114.14
+P0078,MiniMode Pants Green 7,Boys Clothing,15,46,3.07,Regular,324.9
+P0079,BabyChic Pants Yellow 5T,Boys Clothing,16,41,2.56,Regular,308.64
+P0080,PetitMode Pants Black 6,Boys Clothing,16,30,1.88,Slow Moving,177.6
+P0081,TinyTrends Pants Yellow 7,Boys Clothing,12,46,3.83,Regular,157.8
+P0082,TinyTrends Pants Navy 6,Boys Clothing,15,28,1.87,Slow Moving,261.75
+P0083,SmallStyle Pants Orange 7,Boys Clothing,4,49,12.25,Fast Moving,34.48
+P0084,JuniorWear Pants Red 14,Boys Clothing,15,28,1.87,Slow Moving,162.0
+P0085,PetitMode Pants Gray 2T,Boys Clothing,3,45,15.0,Fast Moving,21.57
+P0086,YouthStyle Pants Blue 5T,Boys Clothing,14,38,2.71,Regular,217.7
+P0087,TinyTrends Pants Beige 14,Boys Clothing,18,34,1.89,Slow Moving,251.82
+P0088,YouthStyle Pants White 12,Boys Clothing,8,56,7.0,Fast Moving,126.8
+P0089,MiniMode Pants Black 12,Boys Clothing,19,39,2.05,Regular,335.92
+P0090,SmallStyle Pants Yellow 4T,Boys Clothing,7,44,6.29,Fast Moving,141.33
+P0091,JuniorWear Pants Green 2T,Boys Clothing,9,30,3.33,Regular,97.74
+P0092,KiddoFashion Pants Purple 14,Boys Clothing,17,47,2.76,Regular,420.24
+P0093,KiddoFashion Pants Beige 5T,Boys Clothing,17,33,1.94,Slow Moving,191.42
+P0094,PetitMode Pants Gray 3T,Boys Clothing,14,43,3.07,Regular,290.92
+P0095,MiniMode Pants Gray 7,Boys Clothing,5,55,11.0,Fast Moving,71.7
+P0096,KidsStyle Pants Red 5T,Boys Clothing,14,47,3.36,Regular,123.34
+P0097,KiddoFashion Pants Black 14,Boys Clothing,10,46,4.6,Regular,227.3
+P0098,YouthStyle Pants Purple 14,Boys Clothing,15,48,3.2,Regular,174.75
+P0099,TinyTrends Pants Black 4T,Boys Clothing,17,42,2.47,Regular,357.34
+P0100,KidsStyle Pants Orange 12,Boys Clothing,13,35,2.69,Regular,304.2
+P0101,KiddoFashion Shorts Gray 10,Boys Clothing,0,33,0.0,Very Slow/Dead Stock,0.0
+P0102,KiddoFashion Shorts Navy 14,Boys Clothing,0,42,0.0,Very Slow/Dead Stock,0.0
+P0103,KiddoFashion Shorts Pink 8,Boys Clothing,13,31,2.38,Regular,187.85
+P0104,MiniMode Shorts Gray 10,Boys Clothing,20,36,1.8,Slow Moving,168.8
+P0105,JuniorWear Shorts Purple 10,Boys Clothing,0,50,0.0,Very Slow/Dead Stock,0.0
+P0106,BabyChic Shorts White 5T,Boys Clothing,12,38,3.17,Regular,200.04
+P0107,LittleFashion Shorts Green 3T,Boys Clothing,3,45,15.0,Fast Moving,48.63
+P0108,YouthStyle Shorts Black 5T,Boys Clothing,12,52,4.33,Regular,206.88
+P0109,KidsStyle Shorts Green 10,Boys Clothing,6,30,5.0,Fast Moving,76.68
+P0110,KidsStyle Shorts Navy 8,Boys Clothing,17,45,2.65,Regular,328.27
+P0111,JuniorWear Shorts Black 2T,Boys Clothing,13,32,2.46,Regular,234.52
+P0112,SmallStyle Shorts Green 12,Boys Clothing,6,40,6.67,Fast Moving,45.72
+P0113,KiddoFashion Shorts Red 6,Boys Clothing,17,48,2.82,Regular,171.7
+P0114,KiddoFashion Shorts Pink 8,Boys Clothing,10,33,3.3,Regular,224.5
+P0115,SmallStyle Shorts Navy 2T,Boys Clothing,10,42,4.2,Regular,225.7
+P0116,LittleFashion Shorts Purple 3T,Boys Clothing,5,46,9.2,Fast Moving,100.45
+P0117,BabyChic Shorts Green 6,Boys Clothing,16,41,2.56,Regular,260.16
+P0118,JuniorWear Shorts Black 7,Boys Clothing,12,35,2.92,Regular,123.6
+P0119,PetitMode Shorts Red 10,Boys Clothing,13,39,3.0,Regular,125.45
+P0120,KidsStyle Shorts Green 3T,Boys Clothing,14,49,3.5,Regular,222.18
+P0121,MiniMode Shorts Pink 14,Boys Clothing,18,36,2.0,Regular,459.54
+P0122,MiniMode Shorts Purple 3T,Boys Clothing,15,41,2.73,Regular,319.95
+P0123,SmallStyle Shorts Navy 7,Boys Clothing,14,49,3.5,Regular,103.18
+P0124,TinyTrends Shorts Navy 4T,Boys Clothing,16,37,2.31,Regular,248.8
+P0125,YouthStyle Shorts Beige 14,Boys Clothing,0,38,0.0,Very Slow/Dead Stock,0.0
+P0126,TinyTrends Shorts Beige 14,Boys Clothing,16,49,3.06,Regular,176.48
+P0127,SmallStyle Shorts Red 14,Boys Clothing,5,55,11.0,Fast Moving,99.75
+P0128,TinyTrends Shorts Orange 8,Boys Clothing,15,43,2.87,Regular,140.7
+P0129,KiddoFashion Shorts Blue 2T,Boys Clothing,11,37,3.36,Regular,261.58
+P0130,YouthStyle Shorts Pink 10,Boys Clothing,8,37,4.62,Regular,114.48
+P0131,PetitMode Shorts Purple 6,Boys Clothing,17,36,2.12,Regular,328.61
+P0132,BabyChic Shorts Green 14,Boys Clothing,15,39,2.6,Regular,131.55
+P0133,MiniMode Shorts Purple 6,Boys Clothing,16,46,2.88,Regular,367.68
+P0134,KidsStyle Shorts Purple 8,Boys Clothing,5,31,6.2,Fast Moving,97.2
+P0135,MiniMode Shorts White 4T,Boys Clothing,19,51,2.68,Regular,224.01
+P0136,SmallStyle Shorts Beige 7,Boys Clothing,15,37,2.47,Regular,331.8
+P0137,PetitMode Shorts Green 12,Boys Clothing,14,31,2.21,Regular,333.76
+P0138,PetitMode Shorts Green 8,Boys Clothing,19,26,1.37,Slow Moving,288.04
+P0139,KidsStyle Shorts Blue 10,Boys Clothing,19,42,2.21,Regular,398.81
+P0140,JuniorWear Shorts Gray 8,Boys Clothing,6,43,7.17,Fast Moving,120.12
+P0141,PetitMode Shorts White 10,Boys Clothing,10,45,4.5,Regular,207.1
+P0142,KiddoFashion Shorts Yellow 7,Boys Clothing,7,44,6.29,Fast Moving,79.24
+P0143,MiniMode Shorts White 5T,Boys Clothing,12,23,1.92,Slow Moving,169.8
+P0144,MiniMode Shorts Beige 4T,Boys Clothing,16,38,2.38,Regular,232.64
+P0145,SmallStyle Shorts Yellow 14,Boys Clothing,19,47,2.47,Regular,219.64
+P0146,BabyChic Shorts Pink 6,Boys Clothing,12,47,3.92,Regular,71.16
+P0147,JuniorWear Shorts Red 12,Boys Clothing,12,34,2.83,Regular,236.76
+P0148,KiddoFashion Shorts Blue 6,Boys Clothing,13,44,3.38,Regular,111.15
+P0149,KiddoFashion Shorts Purple 14,Boys Clothing,13,40,3.08,Regular,234.65
+P0150,JuniorWear Shorts Purple 4T,Boys Clothing,17,34,2.0,Regular,256.19
+P0151,TinyTrends Jackets Navy 8,Boys Clothing,18,44,2.44,Regular,130.68
+P0152,SmallStyle Jackets Yellow 4T,Boys Clothing,11,48,4.36,Regular,179.08
+P0153,YouthStyle Jackets Navy 3T,Boys Clothing,12,46,3.83,Regular,257.4
+P0154,YouthStyle Jackets Purple 5T,Boys Clothing,5,58,11.6,Fast Moving,72.35
+P0155,YouthStyle Jackets Yellow 6,Boys Clothing,9,38,4.22,Regular,168.84
+P0156,TinyTrends Jackets Green 2T,Boys Clothing,12,33,2.75,Regular,146.76
+P0157,LittleFashion Jackets Green 6,Boys Clothing,19,44,2.32,Regular,144.97
+P0158,KidsStyle Jackets Black 3T,Boys Clothing,12,36,3.0,Regular,263.4
+P0159,KidsStyle Jackets Green 10,Boys Clothing,19,46,2.42,Regular,230.66
+P0160,MiniMode Jackets Yellow 10,Boys Clothing,20,31,1.55,Slow Moving,167.4
+P0161,YouthStyle Jackets Blue 14,Boys Clothing,15,40,2.67,Regular,251.7
+P0162,LittleFashion Jackets Blue 4T,Boys Clothing,15,46,3.07,Regular,249.3
+P0163,SmallStyle Jackets Yellow 6,Boys Clothing,6,42,7.0,Fast Moving,146.4
+P0164,YouthStyle Jackets Yellow 10,Boys Clothing,5,33,6.6,Fast Moving,82.05
+P0165,TinyTrends Jackets Navy 10,Boys Clothing,10,35,3.5,Regular,125.9
+P0166,JuniorWear Jackets Red 7,Boys Clothing,9,27,3.0,Regular,120.51
+P0167,KidsStyle Jackets Gray 14,Boys Clothing,19,34,1.79,Slow Moving,110.77
+P0168,LittleFashion Jackets Purple 14,Boys Clothing,10,47,4.7,Regular,61.7
+P0169,LittleFashion Jackets Navy 10,Boys Clothing,6,48,8.0,Fast Moving,134.1
+P0170,KiddoFashion Jackets White 10,Boys Clothing,4,42,10.5,Fast Moving,51.4
+P0171,LittleFashion Jackets White 7,Boys Clothing,9,56,6.22,Fast Moving,132.3
+P0172,PetitMode Jackets Red 6,Boys Clothing,8,33,4.12,Regular,73.04
+P0173,BabyChic Jackets Blue 7,Boys Clothing,11,47,4.27,Regular,150.04
+P0174,PetitMode Jackets Purple 12,Boys Clothing,17,46,2.71,Regular,256.02
+P0175,BabyChic Jackets Navy 5T,Boys Clothing,11,41,3.73,Regular,145.75
+P0176,MiniMode Jackets Yellow 10,Boys Clothing,7,34,4.86,Regular,115.78
+P0177,KiddoFashion Jackets Blue 6,Boys Clothing,11,56,5.09,Fast Moving,176.11
+P0178,LittleFashion Jackets Yellow 14,Boys Clothing,11,40,3.64,Regular,86.13
+P0179,TinyTrends Jackets Green 12,Boys Clothing,17,37,2.18,Regular,117.64
+P0180,LittleFashion Jackets Purple 10,Boys Clothing,15,33,2.2,Regular,346.2
+P0181,YouthStyle Jackets Purple 12,Boys Clothing,19,42,2.21,Regular,257.64
+P0182,LittleFashion Jackets Black 10,Boys Clothing,8,27,3.38,Regular,115.36
+P0183,TinyTrends Jackets Yellow 12,Boys Clothing,16,30,1.88,Slow Moving,350.08
+P0184,JuniorWear Jackets Red 7,Boys Clothing,12,48,4.0,Regular,307.32
+P0185,KiddoFashion Jackets Pink 14,Boys Clothing,8,37,4.62,Regular,68.0
+P0186,BabyChic Jackets Orange 10,Boys Clothing,17,44,2.59,Regular,117.98
+P0187,BabyChic Jackets Green 8,Boys Clothing,1,40,40.0,Fast Moving,8.35
+P0188,MiniMode Jackets Black 14,Boys Clothing,18,48,2.67,Regular,128.52
+P0189,YouthStyle Jackets Gray 10,Boys Clothing,10,34,3.4,Regular,180.9
+P0190,KidsStyle Jackets Pink 4T,Boys Clothing,7,43,6.14,Fast Moving,133.98
+P0191,KiddoFashion Jackets Blue 7,Boys Clothing,5,43,8.6,Fast Moving,44.1
+P0192,YouthStyle Jackets Gray 2T,Boys Clothing,12,42,3.5,Regular,228.6
+P0193,BabyChic Jackets Navy 10,Boys Clothing,10,44,4.4,Regular,206.9
+P0194,PetitMode Jackets Black 3T,Boys Clothing,6,45,7.5,Fast Moving,60.96
+P0195,KidsStyle Jackets Navy 10,Boys Clothing,15,47,3.13,Regular,315.0
+P0196,TinyTrends Jackets Black 6,Boys Clothing,19,38,2.0,Regular,434.72
+P0197,LittleFashion Jackets Beige 3T,Boys Clothing,9,44,4.89,Regular,123.75
+P0198,KidsStyle Jackets Yellow 2T,Boys Clothing,0,29,0.0,Very Slow/Dead Stock,0.0
+P0199,MiniMode Jackets Orange 8,Boys Clothing,5,32,6.4,Fast Moving,103.7
+P0200,LittleFashion Jackets Blue 4T,Boys Clothing,12,45,3.75,Regular,248.52
+P0201,KiddoFashion Sweaters Navy 14,Boys Clothing,3,46,15.33,Fast Moving,27.03
+P0202,KiddoFashion Sweaters Yellow 10,Boys Clothing,19,47,2.47,Regular,312.74
+P0203,PetitMode Sweaters Pink 10,Boys Clothing,2,45,22.5,Fast Moving,26.36
+P0204,JuniorWear Sweaters Gray 7,Boys Clothing,5,50,10.0,Fast Moving,56.1
+P0205,MiniMode Sweaters Black 10,Boys Clothing,15,32,2.13,Regular,291.3
+P0206,YouthStyle Sweaters Navy 3T,Boys Clothing,8,50,6.25,Fast Moving,106.88
+P0207,KidsStyle Sweaters Gray 6,Boys Clothing,18,35,1.94,Slow Moving,418.5
+P0208,KidsStyle Sweaters Navy 2T,Boys Clothing,11,55,5.0,Fast Moving,186.89
+P0209,SmallStyle Sweaters White 6,Boys Clothing,5,51,10.2,Fast Moving,54.1
+P0210,JuniorWear Sweaters Gray 5T,Boys Clothing,19,29,1.53,Slow Moving,365.56
+P0211,KidsStyle Sweaters Yellow 4T,Boys Clothing,11,33,3.0,Regular,238.37
+P0212,BabyChic Sweaters Beige 2T,Boys Clothing,14,42,3.0,Regular,110.18
+P0213,YouthStyle Sweaters Pink 6,Boys Clothing,0,31,0.0,Very Slow/Dead Stock,0.0
+P0214,PetitMode Sweaters Orange 12,Boys Clothing,17,33,1.94,Slow Moving,263.33
+P0215,KiddoFashion Sweaters Yellow 4T,Boys Clothing,19,36,1.89,Slow Moving,209.57
+P0216,TinyTrends Sweaters Pink 3T,Boys Clothing,8,34,4.25,Regular,75.44
+P0217,BabyChic Sweaters Blue 8,Boys Clothing,9,37,4.11,Regular,135.63
+P0218,PetitMode Sweaters Blue 2T,Boys Clothing,7,44,6.29,Fast Moving,57.47
+P0219,YouthStyle Sweaters Gray 6,Boys Clothing,20,47,2.35,Regular,165.2
+P0220,KidsStyle Sweaters Navy 5T,Boys Clothing,6,41,6.83,Fast Moving,97.92
+P0221,MiniMode Sweaters Gray 7,Boys Clothing,5,53,10.6,Fast Moving,44.25
+P0222,YouthStyle Sweaters Blue 10,Boys Clothing,18,43,2.39,Regular,221.58
+P0223,KiddoFashion Sweaters Blue 2T,Boys Clothing,18,31,1.72,Slow Moving,413.64
+P0224,YouthStyle Sweaters Purple 12,Boys Clothing,7,35,5.0,Fast Moving,175.56
+P0225,SmallStyle Sweaters Beige 12,Boys Clothing,17,42,2.47,Regular,191.93
+P0226,KiddoFashion Sweaters Navy 8,Boys Clothing,14,47,3.36,Regular,281.4
+P0227,MiniMode Sweaters Purple 2T,Boys Clothing,16,48,3.0,Regular,243.68
+P0228,BabyChic Sweaters Orange 7,Boys Clothing,7,37,5.29,Fast Moving,57.47
+P0229,YouthStyle Sweaters Yellow 7,Boys Clothing,0,51,0.0,Very Slow/Dead Stock,0.0
+P0230,MiniMode Sweaters Gray 10,Boys Clothing,7,49,7.0,Fast Moving,45.36
+P0231,BabyChic Sweaters Green 2T,Boys Clothing,19,29,1.53,Slow Moving,165.11
+P0232,PetitMode Sweaters Green 5T,Boys Clothing,18,51,2.83,Regular,354.24
+P0233,LittleFashion Sweaters Navy 5T,Boys Clothing,16,50,3.12,Regular,354.4
+P0234,PetitMode Sweaters Yellow 4T,Boys Clothing,15,45,3.0,Regular,186.6
+P0235,LittleFashion Sweaters Red 3T,Boys Clothing,18,54,3.0,Regular,207.36
+P0236,KidsStyle Sweaters Pink 14,Boys Clothing,10,44,4.4,Regular,73.8
+P0237,PetitMode Sweaters Blue 4T,Boys Clothing,15,39,2.6,Regular,117.45
+P0238,BabyChic Sweaters Orange 10,Boys Clothing,15,24,1.6,Slow Moving,264.15
+P0239,MiniMode Sweaters Navy 10,Boys Clothing,9,38,4.22,Regular,69.3
+P0240,KiddoFashion Sweaters Gray 12,Boys Clothing,2,48,24.0,Fast Moving,46.5
+P0241,YouthStyle Sweaters Gray 10,Boys Clothing,9,41,4.56,Regular,163.53
+P0242,TinyTrends Sweaters White 10,Boys Clothing,13,49,3.77,Regular,190.97
+P0243,JuniorWear Sweaters Navy 3T,Boys Clothing,9,32,3.56,Regular,164.7
+P0244,YouthStyle Sweaters Navy 12,Boys Clothing,15,52,3.47,Regular,99.6
+P0245,SmallStyle Sweaters Black 10,Boys Clothing,17,37,2.18,Regular,430.1
+P0246,YouthStyle Sweaters Purple 12,Boys Clothing,20,59,2.95,Regular,293.6
+P0247,KiddoFashion Sweaters Black 8,Boys Clothing,13,37,2.85,Regular,131.43
+P0248,BabyChic Sweaters Gray 7,Boys Clothing,12,28,2.33,Regular,164.76
+P0249,TinyTrends Sweaters Blue 4T,Boys Clothing,8,37,4.62,Regular,115.44
+P0250,TinyTrends Sweaters Beige 3T,Boys Clothing,0,35,0.0,Very Slow/Dead Stock,0.0
+P0251,KidsStyle Dresses Navy 4T,Girls Clothing,17,38,2.24,Regular,387.09
+P0252,YouthStyle Dresses White 7,Girls Clothing,5,28,5.6,Fast Moving,78.3
+P0253,JuniorWear Dresses Navy 8,Girls Clothing,5,43,8.6,Fast Moving,100.55
+P0254,PetitMode Dresses Green 3T,Girls Clothing,11,33,3.0,Regular,324.39
+P0255,TinyTrends Dresses White 10,Girls Clothing,9,53,5.89,Fast Moving,266.49
+P0256,JuniorWear Dresses Navy 7,Girls Clothing,15,43,2.87,Regular,304.05
+P0257,SmallStyle Dresses Gray 12,Girls Clothing,1,64,64.0,Fast Moving,30.34
+P0258,JuniorWear Dresses Red 2T,Girls Clothing,2,45,22.5,Fast Moving,15.26
+P0259,BabyChic Dresses Red 6,Girls Clothing,5,33,6.6,Fast Moving,85.9
+P0260,TinyTrends Dresses Pink 14,Girls Clothing,5,41,8.2,Fast Moving,128.75
+P0261,PetitMode Dresses Green 2T,Girls Clothing,1,65,65.0,Fast Moving,19.66
+P0262,LittleFashion Dresses White 10,Girls Clothing,12,53,4.42,Regular,372.12
+P0263,TinyTrends Dresses Red 14,Girls Clothing,13,38,2.92,Regular,328.25
+P0264,TinyTrends Dresses Yellow 14,Girls Clothing,14,42,3.0,Regular,217.14
+P0265,SmallStyle Dresses Purple 8,Girls Clothing,7,40,5.71,Fast Moving,70.07
+P0266,TinyTrends Dresses White 5T,Girls Clothing,11,42,3.82,Regular,313.61
+P0267,KiddoFashion Dresses Orange 6,Girls Clothing,9,53,5.89,Fast Moving,263.34
+P0268,YouthStyle Dresses Navy 2T,Girls Clothing,6,45,7.5,Fast Moving,162.48
+P0269,MiniMode Dresses Pink 5T,Girls Clothing,20,42,2.1,Regular,477.2
+P0270,TinyTrends Dresses Red 6,Girls Clothing,12,41,3.42,Regular,186.0
+P0271,YouthStyle Dresses Orange 4T,Girls Clothing,16,28,1.75,Slow Moving,460.16
+P0272,BabyChic Dresses Blue 12,Girls Clothing,5,55,11.0,Fast Moving,66.5
+P0273,KiddoFashion Dresses Blue 8,Girls Clothing,14,52,3.71,Regular,280.14
+P0274,SmallStyle Dresses Black 14,Girls Clothing,20,54,2.7,Regular,215.2
+P0275,TinyTrends Dresses Black 8,Girls Clothing,15,42,2.8,Regular,303.9
+P0276,KiddoFashion Dresses Beige 4T,Girls Clothing,11,39,3.55,Regular,227.59
+P0277,TinyTrends Dresses Green 3T,Girls Clothing,17,43,2.53,Regular,336.77
+P0278,TinyTrends Dresses Black 8,Girls Clothing,16,49,3.06,Regular,408.96
+P0279,BabyChic Dresses Pink 7,Girls Clothing,6,45,7.5,Fast Moving,55.5
+P0280,PetitMode Dresses Green 3T,Girls Clothing,18,33,1.83,Slow Moving,441.9
+P0281,MiniMode Dresses Blue 7,Girls Clothing,19,42,2.21,Regular,395.2
+P0282,SmallStyle Dresses Pink 5T,Girls Clothing,2,52,26.0,Fast Moving,18.5
+P0283,KiddoFashion Dresses Purple 3T,Girls Clothing,5,48,9.6,Fast Moving,78.15
+P0284,SmallStyle Dresses Gray 14,Girls Clothing,3,50,16.67,Fast Moving,47.46
+P0285,LittleFashion Dresses Purple 7,Girls Clothing,7,41,5.86,Fast Moving,179.9
+P0286,JuniorWear Dresses Navy 10,Girls Clothing,1,45,45.0,Fast Moving,20.18
+P0287,JuniorWear Dresses Purple 12,Girls Clothing,19,42,2.21,Regular,318.63
+P0288,JuniorWear Dresses Blue 2T,Girls Clothing,18,50,2.78,Regular,527.76
+P0289,PetitMode Dresses Black 14,Girls Clothing,5,35,7.0,Fast Moving,61.5
+P0290,KiddoFashion Dresses Navy 12,Girls Clothing,10,33,3.3,Regular,169.5
+P0291,KiddoFashion Dresses Orange 7,Girls Clothing,6,57,9.5,Fast Moving,119.52
+P0292,BabyChic Dresses Beige 10,Girls Clothing,5,40,8.0,Fast Moving,86.65
+P0293,MiniMode Dresses Beige 4T,Girls Clothing,15,50,3.33,Regular,294.15
+P0294,SmallStyle Dresses Pink 12,Girls Clothing,17,39,2.29,Regular,143.82
+P0295,YouthStyle Dresses White 6,Girls Clothing,14,54,3.86,Regular,133.14
+P0296,TinyTrends Dresses White 2T,Girls Clothing,10,45,4.5,Regular,112.2
+P0297,JuniorWear Dresses Beige 8,Girls Clothing,19,48,2.53,Regular,212.42
+P0298,BabyChic Dresses Blue 14,Girls Clothing,13,59,4.54,Regular,344.63
+P0299,JuniorWear Dresses Gray 4T,Girls Clothing,4,51,12.75,Fast Moving,79.36
+P0300,SmallStyle Dresses Beige 8,Girls Clothing,14,43,3.07,Regular,144.9
+P0301,BabyChic Dresses Pink 12,Girls Clothing,20,42,2.1,Regular,214.0
+P0302,PetitMode Dresses White 3T,Girls Clothing,5,49,9.8,Fast Moving,51.15
+P0303,MiniMode Dresses White 6,Girls Clothing,19,43,2.26,Regular,195.51
+P0304,LittleFashion Dresses Pink 5T,Girls Clothing,11,52,4.73,Regular,129.03
+P0305,PetitMode Dresses Beige 3T,Girls Clothing,7,29,4.14,Regular,136.15
+P0306,SmallStyle Dresses Pink 2T,Girls Clothing,10,65,6.5,Fast Moving,94.4
+P0307,LittleFashion Dresses Beige 4T,Girls Clothing,15,55,3.67,Regular,278.25
+P0308,KidsStyle Dresses Black 4T,Girls Clothing,14,57,4.07,Regular,411.18
+P0309,SmallStyle Dresses Yellow 5T,Girls Clothing,18,69,3.83,Regular,154.26
+P0310,MiniMode Dresses Yellow 5T,Girls Clothing,17,59,3.47,Regular,451.69
+P0311,SmallStyle Tops Purple 5T,Girls Clothing,6,70,11.67,Fast Moving,64.62
+P0312,PetitMode Tops Black 8,Girls Clothing,11,39,3.55,Regular,171.49
+P0313,JuniorWear Tops Red 14,Girls Clothing,14,50,3.57,Regular,281.12
+P0314,TinyTrends Tops Beige 7,Girls Clothing,12,50,4.17,Regular,225.96
+P0315,TinyTrends Tops Pink 3T,Girls Clothing,19,42,2.21,Regular,152.76
+P0316,YouthStyle Tops Blue 12,Girls Clothing,16,38,2.38,Regular,406.88
+P0317,KidsStyle Tops Black 10,Girls Clothing,11,54,4.91,Regular,206.69
+P0318,MiniMode Tops Black 12,Girls Clothing,6,38,6.33,Fast Moving,59.88
+P0319,BabyChic Tops Blue 5T,Girls Clothing,10,53,5.3,Fast Moving,176.6
+P0320,LittleFashion Tops Red 7,Girls Clothing,18,49,2.72,Regular,234.9
+P0321,KiddoFashion Tops Navy 4T,Girls Clothing,6,44,7.33,Fast Moving,47.22
+P0322,MiniMode Tops Pink 2T,Girls Clothing,11,39,3.55,Regular,128.81
+P0323,TinyTrends Tops Yellow 12,Girls Clothing,6,34,5.67,Fast Moving,69.3
+P0324,MiniMode Tops Black 3T,Girls Clothing,7,37,5.29,Fast Moving,149.66
+P0325,TinyTrends Tops Purple 10,Girls Clothing,18,42,2.33,Regular,439.92
+P0326,SmallStyle Tops Green 2T,Girls Clothing,16,45,2.81,Regular,156.8
+P0327,KidsStyle Tops Navy 6,Girls Clothing,12,41,3.42,Regular,259.32
+P0328,LittleFashion Tops Gray 14,Girls Clothing,5,53,10.6,Fast Moving,75.7
+P0329,TinyTrends Tops Orange 12,Girls Clothing,14,33,2.36,Regular,186.06
+P0330,KidsStyle Tops Black 12,Girls Clothing,5,34,6.8,Fast Moving,109.35
+P0331,BabyChic Tops Yellow 2T,Girls Clothing,9,47,5.22,Fast Moving,157.32
+P0332,BabyChic Tops Green 7,Girls Clothing,2,39,19.5,Fast Moving,38.1
+P0333,BabyChic Tops Pink 3T,Girls Clothing,15,45,3.0,Regular,135.3
+P0334,LittleFashion Tops Gray 12,Girls Clothing,14,50,3.57,Regular,164.92
+P0335,TinyTrends Tops Beige 4T,Girls Clothing,9,51,5.67,Fast Moving,99.63
+P0336,MiniMode Tops Red 2T,Girls Clothing,5,42,8.4,Fast Moving,64.1
+P0337,JuniorWear Tops Orange 2T,Girls Clothing,15,58,3.87,Regular,144.45
+P0338,KidsStyle Tops Gray 10,Girls Clothing,16,45,2.81,Regular,300.32
+P0339,BabyChic Tops Yellow 7,Girls Clothing,8,50,6.25,Fast Moving,79.44
+P0340,KiddoFashion Tops Black 8,Girls Clothing,13,46,3.54,Regular,405.34
+P0341,BabyChic Tops Orange 10,Girls Clothing,19,51,2.68,Regular,442.7
+P0342,YouthStyle Tops Navy 8,Girls Clothing,8,60,7.5,Fast Moving,96.16
+P0343,BabyChic Tops Blue 12,Girls Clothing,10,43,4.3,Regular,278.4
+P0344,KiddoFashion Tops Navy 6,Girls Clothing,19,34,1.79,Slow Moving,353.97
+P0345,BabyChic Tops Purple 4T,Girls Clothing,9,34,3.78,Regular,197.01
+P0346,JuniorWear Tops Gray 14,Girls Clothing,17,50,2.94,Regular,244.12
+P0347,BabyChic Tops Orange 3T,Girls Clothing,11,45,4.09,Regular,188.87
+P0348,LittleFashion Tops Navy 4T,Girls Clothing,9,34,3.78,Regular,95.49
+P0349,TinyTrends Tops Green 2T,Girls Clothing,6,37,6.17,Fast Moving,85.56
+P0350,YouthStyle Tops Navy 7,Girls Clothing,19,45,2.37,Regular,209.95
+P0351,BabyChic Tops White 4T,Girls Clothing,18,41,2.28,Regular,299.16
+P0352,PetitMode Tops White 14,Girls Clothing,11,41,3.73,Regular,147.18
+P0353,TinyTrends Tops Red 6,Girls Clothing,16,40,2.5,Regular,167.84
+P0354,YouthStyle Tops Orange 10,Girls Clothing,15,49,3.27,Regular,239.1
+P0355,MiniMode Tops Navy 6,Girls Clothing,18,55,3.06,Regular,250.38
+P0356,LittleFashion Tops Blue 5T,Girls Clothing,9,45,5.0,Fast Moving,220.41
+P0357,BabyChic Tops Gray 10,Girls Clothing,11,49,4.45,Regular,190.63
+P0358,JuniorWear Tops Yellow 12,Girls Clothing,18,43,2.39,Regular,307.08
+P0359,PetitMode Tops Green 4T,Girls Clothing,13,47,3.62,Regular,372.84
+P0360,KiddoFashion Tops Red 4T,Girls Clothing,6,34,5.67,Fast Moving,67.08
+P0361,KiddoFashion Tops Orange 14,Girls Clothing,5,50,10.0,Fast Moving,125.35
+P0362,JuniorWear Tops Black 3T,Girls Clothing,13,48,3.69,Regular,128.83
+P0363,YouthStyle Tops Navy 12,Girls Clothing,7,50,7.14,Fast Moving,153.23
+P0364,KiddoFashion Tops Purple 7,Girls Clothing,12,47,3.92,Regular,140.64
+P0365,PetitMode Tops Gray 7,Girls Clothing,18,49,2.72,Regular,197.1
+P0366,PetitMode Tops Red 4T,Girls Clothing,17,59,3.47,Regular,209.78
+P0367,JuniorWear Tops Pink 12,Girls Clothing,9,64,7.11,Fast Moving,197.91
+P0368,PetitMode Tops Yellow 5T,Girls Clothing,0,52,0.0,Very Slow/Dead Stock,0.0
+P0369,PetitMode Tops Yellow 6,Girls Clothing,16,56,3.5,Regular,281.28
+P0370,PetitMode Tops Blue 6,Girls Clothing,8,46,5.75,Fast Moving,132.0
+P0371,SmallStyle Skirts Pink 4T,Girls Clothing,6,52,8.67,Fast Moving,99.54
+P0372,BabyChic Skirts Navy 14,Girls Clothing,16,42,2.62,Regular,377.44
+P0373,SmallStyle Skirts Yellow 3T,Girls Clothing,6,37,6.17,Fast Moving,85.26
+P0374,SmallStyle Skirts Gray 14,Girls Clothing,18,47,2.61,Regular,290.52
+P0375,JuniorWear Skirts Purple 12,Girls Clothing,6,45,7.5,Fast Moving,167.22
+P0376,TinyTrends Skirts Beige 6,Girls Clothing,30,54,1.8,Slow Moving,348.9
+P0377,KiddoFashion Skirts Purple 10,Girls Clothing,15,41,2.73,Regular,300.9
+P0378,BabyChic Skirts Beige 14,Girls Clothing,17,53,3.12,Regular,199.07
+P0379,BabyChic Skirts Orange 8,Girls Clothing,15,60,4.0,Regular,316.35
+P0380,KiddoFashion Skirts Blue 7,Girls Clothing,6,29,4.83,Regular,173.1
+P0381,TinyTrends Skirts Red 5T,Girls Clothing,18,46,2.56,Regular,188.46
+P0382,MiniMode Skirts Pink 14,Girls Clothing,13,44,3.38,Regular,182.13
+P0383,MiniMode Skirts Pink 14,Girls Clothing,20,46,2.3,Regular,175.0
+P0384,JuniorWear Skirts Purple 10,Girls Clothing,17,42,2.47,Regular,449.82
+P0385,KiddoFashion Skirts Green 8,Girls Clothing,2,60,30.0,Fast Moving,32.88
+P0386,KidsStyle Skirts Yellow 7,Girls Clothing,18,62,3.44,Regular,201.78
+P0387,PetitMode Skirts Red 10,Girls Clothing,9,32,3.56,Regular,92.16
+P0388,JuniorWear Skirts Beige 8,Girls Clothing,16,65,4.06,Regular,354.4
+P0389,YouthStyle Skirts Red 7,Girls Clothing,13,39,3.0,Regular,175.5
+P0390,PetitMode Skirts Yellow 5T,Girls Clothing,13,46,3.54,Regular,310.96
+P0391,PetitMode Skirts Yellow 12,Girls Clothing,16,42,2.62,Regular,363.52
+P0392,LittleFashion Skirts Blue 14,Girls Clothing,18,45,2.5,Regular,226.44
+P0393,BabyChic Skirts Pink 7,Girls Clothing,15,33,2.2,Regular,195.75
+P0394,PetitMode Skirts Red 12,Girls Clothing,8,44,5.5,Fast Moving,156.48
+P0395,KiddoFashion Skirts Orange 4T,Girls Clothing,7,37,5.29,Fast Moving,138.74
+P0396,LittleFashion Skirts White 14,Girls Clothing,9,42,4.67,Regular,102.33
+P0397,YouthStyle Skirts Navy 7,Girls Clothing,16,29,1.81,Slow Moving,305.44
+P0398,PetitMode Skirts Orange 14,Girls Clothing,13,47,3.62,Regular,118.69
+P0399,KiddoFashion Skirts Red 14,Girls Clothing,10,54,5.4,Fast Moving,279.6
+P0400,SmallStyle Skirts Yellow 3T,Girls Clothing,20,27,1.35,Slow Moving,504.4
+P0401,KiddoFashion Skirts Yellow 2T,Girls Clothing,2,59,29.5,Fast Moving,40.94
+P0402,KidsStyle Skirts Navy 14,Girls Clothing,19,37,1.95,Slow Moving,391.21
+P0403,YouthStyle Skirts Pink 12,Girls Clothing,15,67,4.47,Regular,268.8
+P0404,SmallStyle Skirts Beige 5T,Girls Clothing,22,53,2.41,Regular,678.48
+P0405,BabyChic Skirts Black 2T,Girls Clothing,6,63,10.5,Fast Moving,92.52
+P0406,PetitMode Skirts Navy 5T,Girls Clothing,9,32,3.56,Regular,281.88
+P0407,PetitMode Skirts Green 2T,Girls Clothing,14,47,3.36,Regular,164.64
+P0408,YouthStyle Skirts White 10,Girls Clothing,19,42,2.21,Regular,499.51
+P0409,PetitMode Skirts White 12,Girls Clothing,5,48,9.6,Fast Moving,98.55
+P0410,KiddoFashion Skirts Green 6,Girls Clothing,17,52,3.06,Regular,146.2
+P0411,MiniMode Skirts Yellow 12,Girls Clothing,7,50,7.14,Fast Moving,148.61
+P0412,BabyChic Skirts Purple 5T,Girls Clothing,8,34,4.25,Regular,115.6
+P0413,TinyTrends Skirts Navy 6,Girls Clothing,20,42,2.1,Regular,429.2
+P0414,BabyChic Skirts Pink 8,Girls Clothing,5,40,8.0,Fast Moving,72.4
+P0415,BabyChic Skirts Purple 6,Girls Clothing,16,51,3.19,Regular,368.64
+P0416,MiniMode Skirts Orange 10,Girls Clothing,5,49,9.8,Fast Moving,62.1
+P0417,TinyTrends Skirts Navy 6,Girls Clothing,3,41,13.67,Fast Moving,29.49
+P0418,KidsStyle Skirts Gray 5T,Girls Clothing,19,45,2.37,Regular,340.29
+P0419,KidsStyle Skirts Blue 5T,Girls Clothing,17,40,2.35,Regular,442.34
+P0420,LittleFashion Skirts Red 10,Girls Clothing,19,55,2.89,Regular,395.58
+P0421,KiddoFashion Skirts Gray 8,Girls Clothing,19,36,1.89,Slow Moving,162.07
+P0422,KidsStyle Skirts Blue 7,Girls Clothing,8,49,6.12,Fast Moving,105.12
+P0423,KidsStyle Skirts Pink 5T,Girls Clothing,10,66,6.6,Fast Moving,107.3
+P0424,KiddoFashion Skirts Pink 2T,Girls Clothing,8,51,6.38,Fast Moving,88.32
+P0425,JuniorWear Skirts Navy 2T,Girls Clothing,3,50,16.67,Fast Moving,56.76
+P0426,KiddoFashion Skirts Gray 7,Girls Clothing,16,36,2.25,Regular,159.04
+P0427,PetitMode Skirts Purple 10,Girls Clothing,6,39,6.5,Fast Moving,82.08
+P0428,LittleFashion Skirts Beige 3T,Girls Clothing,6,33,5.5,Fast Moving,66.66
+P0429,KidsStyle Skirts Beige 6,Girls Clothing,13,50,3.85,Regular,111.41
+P0430,LittleFashion Skirts Navy 14,Girls Clothing,18,29,1.61,Slow Moving,311.22
+P0431,PetitMode Leggings White 8,Girls Clothing,13,45,3.46,Regular,309.92
+P0432,LittleFashion Leggings Purple 3T,Girls Clothing,15,49,3.27,Regular,278.55
+P0433,YouthStyle Leggings Green 2T,Girls Clothing,8,37,4.62,Regular,132.56
+P0434,SmallStyle Leggings Beige 7,Girls Clothing,8,45,5.62,Fast Moving,80.96
+P0435,MiniMode Leggings Red 6,Girls Clothing,16,66,4.12,Regular,468.48
+P0436,LittleFashion Leggings Black 10,Girls Clothing,1,41,41.0,Fast Moving,14.68
+P0437,JuniorWear Leggings White 6,Girls Clothing,7,45,6.43,Fast Moving,145.88
+P0438,KiddoFashion Leggings Pink 5T,Girls Clothing,7,36,5.14,Fast Moving,53.06
+P0439,PetitMode Leggings Purple 7,Girls Clothing,36,62,1.72,Slow Moving,862.2
+P0440,SmallStyle Leggings Blue 5T,Girls Clothing,7,51,7.29,Fast Moving,54.39
+P0441,TinyTrends Leggings Navy 12,Girls Clothing,17,62,3.65,Regular,226.95
+P0442,MiniMode Leggings Navy 12,Girls Clothing,8,53,6.62,Fast Moving,58.8
+P0443,PetitMode Leggings Purple 4T,Girls Clothing,3,40,13.33,Fast Moving,67.23
+P0444,KiddoFashion Leggings Blue 5T,Girls Clothing,5,49,9.8,Fast Moving,99.85
+P0445,KiddoFashion Leggings Pink 10,Girls Clothing,7,51,7.29,Fast Moving,64.61
+P0446,KidsStyle Leggings Orange 10,Girls Clothing,16,53,3.31,Regular,406.08
+P0447,YouthStyle Leggings Yellow 6,Girls Clothing,6,30,5.0,Fast Moving,147.42
+P0448,TinyTrends Leggings Red 5T,Girls Clothing,5,43,8.6,Fast Moving,100.3
+P0449,KidsStyle Leggings Blue 3T,Girls Clothing,20,48,2.4,Regular,312.4
+P0450,YouthStyle Leggings Pink 2T,Girls Clothing,18,49,2.72,Regular,129.24
+P0451,YouthStyle Leggings Purple 8,Girls Clothing,16,50,3.12,Regular,169.44
+P0452,PetitMode Leggings Pink 8,Girls Clothing,7,49,7.0,Fast Moving,83.72
+P0453,PetitMode Leggings Black 3T,Girls Clothing,20,49,2.45,Regular,372.0
+P0454,KidsStyle Leggings Yellow 5T,Girls Clothing,10,31,3.1,Regular,239.1
+P0455,PetitMode Leggings Black 12,Girls Clothing,11,56,5.09,Fast Moving,141.57
+P0456,BabyChic Leggings Pink 5T,Girls Clothing,5,56,11.2,Fast Moving,94.65
+P0457,YouthStyle Leggings Navy 3T,Girls Clothing,20,43,2.15,Regular,408.8
+P0458,TinyTrends Leggings Blue 5T,Girls Clothing,20,44,2.2,Regular,382.2
+P0459,KidsStyle Leggings Green 10,Girls Clothing,8,47,5.88,Fast Moving,126.88
+P0460,MiniMode Leggings Orange 8,Girls Clothing,50,55,1.1,Slow Moving,1072.5
+P0461,JuniorWear Leggings Green 4T,Girls Clothing,12,38,3.17,Regular,312.24
+P0462,SmallStyle Leggings Gray 7,Girls Clothing,20,47,2.35,Regular,578.8
+P0463,LittleFashion Leggings Gray 5T,Girls Clothing,11,44,4.0,Regular,159.61
+P0464,JuniorWear Leggings Red 8,Girls Clothing,5,34,6.8,Fast Moving,68.4
+P0465,PetitMode Leggings Purple 4T,Girls Clothing,19,43,2.26,Regular,374.49
+P0466,BabyChic Leggings Beige 8,Girls Clothing,20,35,1.75,Slow Moving,236.6
+P0467,YouthStyle Leggings Pink 4T,Girls Clothing,11,36,3.27,Regular,316.36
+P0468,MiniMode Leggings Yellow 10,Girls Clothing,16,34,2.12,Regular,171.68
+P0469,PetitMode Leggings Black 10,Girls Clothing,16,37,2.31,Regular,147.84
+P0470,YouthStyle Leggings Green 12,Girls Clothing,8,57,7.12,Fast Moving,84.56
+P0471,KiddoFashion Leggings White 7,Girls Clothing,12,45,3.75,Regular,166.08
+P0472,JuniorWear Leggings Black 5T,Girls Clothing,14,51,3.64,Regular,330.26
+P0473,TinyTrends Leggings Green 14,Girls Clothing,17,42,2.47,Regular,178.67
+P0474,KiddoFashion Leggings Green 12,Girls Clothing,10,55,5.5,Fast Moving,119.8
+P0475,MiniMode Leggings Green 6,Girls Clothing,8,46,5.75,Fast Moving,215.68
+P0476,SmallStyle Leggings Beige 10,Girls Clothing,6,45,7.5,Fast Moving,128.7
+P0477,BabyChic Leggings Yellow 5T,Girls Clothing,11,58,5.27,Fast Moving,142.12
+P0478,JuniorWear Leggings Yellow 12,Girls Clothing,0,32,0.0,Very Slow/Dead Stock,0.0
+P0479,TinyTrends Leggings Beige 10,Girls Clothing,5,53,10.6,Fast Moving,81.7
+P0480,BabyChic Leggings Black 5T,Girls Clothing,8,52,6.5,Fast Moving,97.12
+P0481,KidsStyle Leggings Yellow 5T,Girls Clothing,17,41,2.41,Regular,168.3
+P0482,JuniorWear Leggings Pink 14,Girls Clothing,19,43,2.26,Regular,239.59
+P0483,SmallStyle Leggings Green 5T,Girls Clothing,5,37,7.4,Fast Moving,66.8
+P0484,KiddoFashion Leggings Beige 7,Girls Clothing,11,33,3.0,Regular,238.04
+P0485,BabyChic Leggings Pink 10,Girls Clothing,16,41,2.56,Regular,314.24
+P0486,PetitMode Leggings Gray 10,Girls Clothing,2,48,24.0,Fast Moving,49.08
+P0487,KidsStyle Leggings Red 2T,Girls Clothing,20,50,2.5,Regular,427.2
+P0488,LittleFashion Leggings Red 5T,Girls Clothing,15,47,3.13,Regular,119.25
+P0489,KidsStyle Leggings Navy 10,Girls Clothing,12,41,3.42,Regular,213.12
+P0490,KiddoFashion Leggings Red 14,Girls Clothing,19,58,3.05,Regular,357.2
+P0491,KidsStyle Jackets Red 12,Girls Clothing,8,29,3.62,Regular,128.4
+P0492,KidsStyle Jackets Orange 12,Girls Clothing,13,43,3.31,Regular,115.44
+P0493,TinyTrends Jackets Blue 8,Girls Clothing,11,53,4.82,Regular,254.54
+P0494,SmallStyle Jackets Orange 5T,Girls Clothing,20,47,2.35,Regular,438.4
+P0495,TinyTrends Jackets White 6,Girls Clothing,8,31,3.88,Regular,113.92
+P0496,MiniMode Jackets Yellow 14,Girls Clothing,15,43,2.87,Regular,390.6
+P0497,YouthStyle Jackets Black 2T,Girls Clothing,5,35,7.0,Fast Moving,69.7
+P0498,KidsStyle Jackets Beige 10,Girls Clothing,15,31,2.07,Regular,204.75
+P0499,BabyChic Jackets Navy 10,Girls Clothing,14,31,2.21,Regular,340.48
+P0500,MiniMode Jackets Green 12,Girls Clothing,17,47,2.76,Regular,465.8
+P0501,KidsStyle Jackets Blue 10,Girls Clothing,7,41,5.86,Fast Moving,83.37
+P0502,KidsStyle Jackets Pink 12,Girls Clothing,6,41,6.83,Fast Moving,167.7
+P0503,SmallStyle Jackets Pink 2T,Girls Clothing,7,46,6.57,Fast Moving,181.58
+P0504,LittleFashion Jackets Navy 3T,Girls Clothing,7,48,6.86,Fast Moving,172.55
+P0505,BabyChic Jackets Black 8,Girls Clothing,11,45,4.09,Regular,143.88
+P0506,BabyChic Jackets Red 3T,Girls Clothing,20,40,2.0,Regular,285.4
+P0507,BabyChic Jackets Navy 5T,Girls Clothing,20,41,2.05,Regular,481.0
+P0508,BabyChic Jackets Red 14,Girls Clothing,19,32,1.68,Slow Moving,483.55
+P0509,MiniMode Jackets White 10,Girls Clothing,20,46,2.3,Regular,237.8
+P0510,SmallStyle Jackets Gray 8,Girls Clothing,2,65,32.5,Fast Moving,46.98
+P0511,MiniMode Jackets Beige 14,Girls Clothing,6,32,5.33,Fast Moving,127.32
+P0512,YouthStyle Jackets Beige 6,Girls Clothing,16,43,2.69,Regular,495.36
+P0513,BabyChic Jackets White 4T,Girls Clothing,6,42,7.0,Fast Moving,165.0
+P0514,KiddoFashion Jackets White 2T,Girls Clothing,15,41,2.73,Regular,427.95
+P0515,TinyTrends Jackets Pink 3T,Girls Clothing,17,36,2.12,Regular,270.98
+P0516,PetitMode Jackets Black 12,Girls Clothing,8,43,5.38,Fast Moving,71.12
+P0517,PetitMode Jackets Blue 3T,Girls Clothing,10,47,4.7,Regular,113.3
+P0518,KidsStyle Jackets Yellow 7,Girls Clothing,19,44,2.32,Regular,190.38
+P0519,MiniMode Jackets Navy 3T,Girls Clothing,1,43,43.0,Fast Moving,15.97
+P0520,LittleFashion Jackets Yellow 8,Girls Clothing,9,60,6.67,Fast Moving,78.84
+P0521,TinyTrends Jackets Pink 10,Girls Clothing,19,57,3.0,Regular,395.2
+P0522,KiddoFashion Jackets Blue 8,Girls Clothing,9,60,6.67,Fast Moving,135.81
+P0523,SmallStyle Jackets Navy 5T,Girls Clothing,13,46,3.54,Regular,355.68
+P0524,JuniorWear Jackets Red 3T,Girls Clothing,6,43,7.17,Fast Moving,66.18
+P0525,BabyChic Jackets Purple 14,Girls Clothing,12,60,5.0,Fast Moving,270.84
+P0526,JuniorWear Jackets White 14,Girls Clothing,12,32,2.67,Regular,317.52
+P0527,LittleFashion Jackets Black 10,Girls Clothing,5,47,9.4,Fast Moving,149.75
+P0528,MiniMode Jackets White 10,Girls Clothing,13,41,3.15,Regular,358.8
+P0529,TinyTrends Jackets Navy 8,Girls Clothing,12,48,4.0,Regular,279.84
+P0530,PetitMode Jackets Red 12,Girls Clothing,11,49,4.45,Regular,204.71
+P0531,JuniorWear Jackets Beige 5T,Girls Clothing,10,55,5.5,Fast Moving,298.5
+P0532,JuniorWear Jackets Green 10,Girls Clothing,18,31,1.72,Slow Moving,421.92
+P0533,YouthStyle Jackets Blue 4T,Girls Clothing,8,43,5.38,Fast Moving,142.88
+P0534,YouthStyle Jackets Orange 10,Girls Clothing,7,45,6.43,Fast Moving,80.15
+P0535,BabyChic Jackets Beige 12,Girls Clothing,20,60,3.0,Regular,287.8
+P0536,TinyTrends Jackets Green 14,Girls Clothing,1,51,51.0,Fast Moving,13.02
+P0537,SmallStyle Jackets Red 7,Girls Clothing,17,32,1.88,Slow Moving,128.35
+P0538,YouthStyle Jackets Blue 8,Girls Clothing,5,43,8.6,Fast Moving,140.15
+P0539,PetitMode Jackets Beige 6,Girls Clothing,19,38,2.0,Regular,318.44
+P0540,MiniMode Jackets Purple 14,Girls Clothing,17,55,3.24,Regular,239.02
+P0541,PetitMode Jackets Pink 10,Girls Clothing,7,61,8.71,Fast Moving,150.71
+P0542,JuniorWear Jackets Black 10,Girls Clothing,11,46,4.18,Regular,202.95
+P0543,BabyChic Jackets Yellow 3T,Girls Clothing,5,51,10.2,Fast Moving,137.3
+P0544,KiddoFashion Jackets White 5T,Girls Clothing,0,29,0.0,Very Slow/Dead Stock,0.0
+P0545,BabyChic Jackets Blue 10,Girls Clothing,18,47,2.61,Regular,476.82
+P0546,BabyChic Jackets Gray 3T,Girls Clothing,4,50,12.5,Fast Moving,115.44
+P0547,PetitMode Jackets Pink 4T,Girls Clothing,5,46,9.2,Fast Moving,103.55
+P0548,YouthStyle Jackets Purple 7,Girls Clothing,19,54,2.84,Regular,219.45
+P0549,YouthStyle Jackets Black 4T,Girls Clothing,12,46,3.83,Regular,136.68
+P0550,SmallStyle Jackets Black 5T,Girls Clothing,0,49,0.0,Very Slow/Dead Stock,0.0
+P0551,JuniorWear Onesies Beige 3-6M,Infants,11,48,4.36,Regular,62.59
+P0552,PetitMode Onesies Pink 18-24M,Infants,15,54,3.6,Regular,281.55
+P0553,TinyTrends Onesies Yellow 3-6M,Infants,0,47,0.0,Very Slow/Dead Stock,0.0
+P0554,SmallStyle Onesies Black 18-24M,Infants,15,43,2.87,Regular,158.1
+P0555,BabyChic Onesies White 18-24M,Infants,5,54,10.8,Fast Moving,63.35
+P0556,JuniorWear Onesies Navy 18-24M,Infants,11,41,3.73,Regular,159.72
+P0557,TinyTrends Onesies Green 3-6M,Infants,8,26,3.25,Regular,59.6
+P0558,LittleFashion Onesies Orange 3-6M,Infants,16,38,2.38,Regular,206.24
+P0559,SmallStyle Onesies Black 18-24M,Infants,12,42,3.5,Regular,73.08
+P0560,LittleFashion Onesies Orange 12-18M,Infants,10,43,4.3,Regular,71.2
+P0561,LittleFashion Onesies White 6-12M,Infants,9,32,3.56,Regular,170.91
+P0562,BabyChic Onesies Red 18-24M,Infants,19,38,2.0,Regular,339.53
+P0563,PetitMode Onesies Orange 3-6M,Infants,12,43,3.58,Regular,164.16
+P0564,YouthStyle Onesies Beige 12-18M,Infants,11,29,2.64,Regular,58.19
+P0565,TinyTrends Onesies Navy 12-18M,Infants,19,33,1.74,Slow Moving,167.77
+P0566,JuniorWear Onesies Green 6-12M,Infants,14,40,2.86,Regular,202.16
+P0567,SmallStyle Onesies Beige 3-6M,Infants,5,34,6.8,Fast Moving,24.6
+P0568,TinyTrends Onesies Navy 18-24M,Infants,13,31,2.38,Regular,158.6
+P0569,PetitMode Onesies Red 18-24M,Infants,20,37,1.85,Slow Moving,324.8
+P0570,YouthStyle Onesies Blue 18-24M,Infants,3,39,13.0,Fast Moving,33.93
+P0571,KidsStyle Onesies Purple 3-6M,Infants,16,40,2.5,Regular,243.2
+P0572,TinyTrends Onesies Green 0-3M,Infants,13,34,2.62,Regular,182.91
+P0573,YouthStyle Onesies Pink 6-12M,Infants,10,46,4.6,Regular,88.5
+P0574,KidsStyle Onesies Navy 3-6M,Infants,9,38,4.22,Regular,145.89
+P0575,PetitMode Onesies Pink 6-12M,Infants,9,51,5.67,Fast Moving,161.73
+P0576,JuniorWear Onesies Orange 6-12M,Infants,9,37,4.11,Regular,140.49
+P0577,YouthStyle Onesies Red 0-3M,Infants,12,25,2.08,Regular,177.72
+P0578,MiniMode Onesies Pink 3-6M,Infants,7,43,6.14,Fast Moving,97.3
+P0579,KiddoFashion Onesies Pink 3-6M,Infants,15,47,3.13,Regular,107.25
+P0580,YouthStyle Onesies Purple 6-12M,Infants,18,37,2.06,Regular,257.94
+P0581,PetitMode Onesies Beige 0-3M,Infants,13,39,3.0,Regular,184.86
+P0582,BabyChic Onesies Navy 12-18M,Infants,13,35,2.69,Regular,124.41
+P0583,TinyTrends Onesies Orange 12-18M,Infants,13,47,3.62,Regular,91.91
+P0584,KiddoFashion Onesies Yellow 12-18M,Infants,8,47,5.88,Fast Moving,128.24
+P0585,SmallStyle Onesies Pink 6-12M,Infants,7,43,6.14,Fast Moving,28.21
+P0586,KidsStyle Onesies Blue 6-12M,Infants,11,52,4.73,Regular,162.03
+P0587,LittleFashion Onesies Purple 0-3M,Infants,8,26,3.25,Regular,98.0
+P0588,LittleFashion Onesies Gray 12-18M,Infants,9,36,4.0,Regular,120.06
+P0589,BabyChic Onesies Yellow 6-12M,Infants,10,41,4.1,Regular,135.4
+P0590,YouthStyle Onesies Gray 3-6M,Infants,17,34,2.0,Regular,257.89
+P0591,TinyTrends Sleepwear Red 12-18M,Infants,5,44,8.8,Fast Moving,85.2
+P0592,SmallStyle Sleepwear Green 0-3M,Infants,20,52,2.6,Regular,295.8
+P0593,KidsStyle Sleepwear Beige 12-18M,Infants,6,53,8.83,Fast Moving,38.16
+P0594,KiddoFashion Sleepwear Blue 12-18M,Infants,17,54,3.18,Regular,207.91
+P0595,TinyTrends Sleepwear White 0-3M,Infants,11,35,3.18,Regular,98.67
+P0596,LittleFashion Sleepwear Gray 3-6M,Infants,5,39,7.8,Fast Moving,26.4
+P0597,SmallStyle Sleepwear Red 0-3M,Infants,16,39,2.44,Regular,150.72
+P0598,BabyChic Sleepwear Beige 3-6M,Infants,14,42,3.0,Regular,75.18
+P0599,SmallStyle Sleepwear Gray 3-6M,Infants,12,39,3.25,Regular,244.92
+P0600,LittleFashion Sleepwear Blue 0-3M,Infants,14,33,2.36,Regular,185.64
+P0601,BabyChic Sleepwear Pink 6-12M,Infants,14,33,2.36,Regular,180.88
+P0602,PetitMode Sleepwear Navy 0-3M,Infants,7,32,4.57,Regular,30.03
+P0603,JuniorWear Sleepwear Green 6-12M,Infants,18,26,1.44,Slow Moving,215.64
+P0604,YouthStyle Sleepwear Yellow 18-24M,Infants,17,30,1.76,Slow Moving,232.39
+P0605,YouthStyle Sleepwear Blue 3-6M,Infants,10,36,3.6,Regular,92.3
+P0606,PetitMode Sleepwear Red 18-24M,Infants,12,36,3.0,Regular,121.2
+P0607,SmallStyle Sleepwear Black 3-6M,Infants,7,51,7.29,Fast Moving,49.49
+P0608,TinyTrends Sleepwear Red 3-6M,Infants,17,57,3.35,Regular,219.47
+P0609,MiniMode Sleepwear Red 0-3M,Infants,5,45,9.0,Fast Moving,28.2
+P0610,JuniorWear Sleepwear Gray 12-18M,Infants,5,36,7.2,Fast Moving,63.0
+P0611,YouthStyle Sleepwear Blue 12-18M,Infants,13,51,3.92,Regular,206.83
+P0612,LittleFashion Sleepwear Yellow 18-24M,Infants,0,31,0.0,Very Slow/Dead Stock,0.0
+P0613,MiniMode Sleepwear Pink 0-3M,Infants,6,39,6.5,Fast Moving,63.3
+P0614,TinyTrends Sleepwear Yellow 12-18M,Infants,6,43,7.17,Fast Moving,55.2
+P0615,MiniMode Sleepwear Blue 3-6M,Infants,18,39,2.17,Regular,318.24
+P0616,SmallStyle Sleepwear Navy 0-3M,Infants,19,41,2.16,Regular,295.83
+P0617,KidsStyle Sleepwear Beige 3-6M,Infants,9,52,5.78,Fast Moving,56.25
+P0618,BabyChic Sleepwear Orange 3-6M,Infants,8,36,4.5,Regular,103.52
+P0619,LittleFashion Sleepwear Beige 3-6M,Infants,16,41,2.56,Regular,261.28
+P0620,BabyChic Sleepwear Black 0-3M,Infants,7,46,6.57,Fast Moving,114.17
+P0621,SmallStyle Sleepwear Gray 0-3M,Infants,14,44,3.14,Regular,249.48
+P0622,BabyChic Sleepwear Red 12-18M,Infants,8,31,3.88,Regular,132.96
+P0623,LittleFashion Sleepwear Yellow 3-6M,Infants,12,41,3.42,Regular,186.36
+P0624,MiniMode Sleepwear Beige 18-24M,Infants,2,39,19.5,Fast Moving,10.5
+P0625,MiniMode Sleepwear Red 0-3M,Infants,15,37,2.47,Regular,267.45
+P0626,LittleFashion Sleepwear Red 12-18M,Infants,12,38,3.17,Regular,184.92
+P0627,BabyChic Sleepwear Green 12-18M,Infants,13,39,3.0,Regular,68.12
+P0628,SmallStyle Sleepwear White 6-12M,Infants,3,44,14.67,Fast Moving,40.92
+P0629,MiniMode Sleepwear Orange 0-3M,Infants,11,37,3.36,Regular,77.22
+P0630,JuniorWear Sleepwear Yellow 0-3M,Infants,17,49,2.88,Regular,88.91
+P0631,KidsStyle Rompers White 18-24M,Infants,12,50,4.17,Regular,104.28
+P0632,SmallStyle Rompers Green 18-24M,Infants,13,25,1.92,Slow Moving,110.37
+P0633,MiniMode Rompers Beige 18-24M,Infants,5,27,5.4,Fast Moving,19.15
+P0634,KidsStyle Rompers Black 3-6M,Infants,14,56,4.0,Regular,135.94
+P0635,KidsStyle Rompers White 18-24M,Infants,16,36,2.25,Regular,191.2
+P0636,TinyTrends Rompers Green 12-18M,Infants,17,48,2.82,Regular,263.33
+P0637,KidsStyle Rompers Pink 12-18M,Infants,16,34,2.12,Regular,212.0
+P0638,MiniMode Rompers Orange 0-3M,Infants,19,58,3.05,Regular,185.63
+P0639,SmallStyle Rompers Blue 12-18M,Infants,12,51,4.25,Regular,104.28
+P0640,SmallStyle Rompers Navy 12-18M,Infants,8,63,7.88,Fast Moving,49.76
+P0641,JuniorWear Rompers Yellow 3-6M,Infants,6,43,7.17,Fast Moving,82.26
+P0642,BabyChic Rompers Purple 12-18M,Infants,17,33,1.94,Slow Moving,177.31
+P0643,LittleFashion Rompers Navy 0-3M,Infants,12,49,4.08,Regular,106.44
+P0644,KiddoFashion Rompers Purple 0-3M,Infants,18,51,2.83,Regular,93.78
+P0645,BabyChic Rompers Green 0-3M,Infants,19,43,2.26,Regular,78.09
+P0646,TinyTrends Rompers Blue 12-18M,Infants,18,33,1.83,Slow Moving,158.4
+P0647,MiniMode Rompers White 18-24M,Infants,6,42,7.0,Fast Moving,77.46
+P0648,YouthStyle Rompers Orange 3-6M,Infants,11,43,3.91,Regular,156.42
+P0649,LittleFashion Rompers Red 6-12M,Infants,19,46,2.42,Regular,110.77
+P0650,MiniMode Rompers Blue 18-24M,Infants,18,43,2.39,Regular,252.0
+P0651,KidsStyle Rompers Red 3-6M,Infants,13,65,5.0,Fast Moving,67.99
+P0652,YouthStyle Rompers White 3-6M,Infants,9,47,5.22,Fast Moving,44.91
+P0653,SmallStyle Rompers Yellow 0-3M,Infants,6,36,6.0,Fast Moving,94.56
+P0654,MiniMode Rompers Gray 0-3M,Infants,12,39,3.25,Regular,186.72
+P0655,TinyTrends Rompers Red 0-3M,Infants,18,32,1.78,Slow Moving,176.94
+P0656,YouthStyle Rompers Beige 3-6M,Infants,11,45,4.09,Regular,65.34
+P0657,YouthStyle Rompers Pink 0-3M,Infants,16,18,1.12,Slow Moving,208.64
+P0658,JuniorWear Rompers Purple 3-6M,Infants,19,38,2.0,Regular,209.95
+P0659,SmallStyle Rompers Navy 0-3M,Infants,15,34,2.27,Regular,186.45
+P0660,YouthStyle Rompers Orange 6-12M,Infants,7,39,5.57,Fast Moving,32.76
+P0661,YouthStyle Rompers Pink 0-3M,Infants,5,53,10.6,Fast Moving,34.75
+P0662,PetitMode Rompers Red 18-24M,Infants,7,34,4.86,Regular,106.61
+P0663,KiddoFashion Rompers White 12-18M,Infants,14,51,3.64,Regular,240.66
+P0664,YouthStyle Rompers Yellow 18-24M,Infants,14,37,2.64,Regular,102.76
+P0665,MiniMode Rompers Red 6-12M,Infants,6,47,7.83,Fast Moving,81.18
+P0666,PetitMode Rompers White 0-3M,Infants,12,48,4.0,Regular,153.96
+P0667,TinyTrends Rompers Green 3-6M,Infants,1,43,43.0,Fast Moving,8.49
+P0668,KidsStyle Rompers Green 6-12M,Infants,12,22,1.83,Slow Moving,225.48
+P0669,LittleFashion Rompers Green 6-12M,Infants,16,37,2.31,Regular,118.24
+P0670,KidsStyle Rompers Beige 6-12M,Infants,14,35,2.5,Regular,63.28
+P0671,LittleFashion Bibs Navy 18-24M,Infants,14,33,2.36,Regular,108.78
+P0672,LittleFashion Bibs Purple 18-24M,Infants,17,33,1.94,Slow Moving,298.86
+P0673,SmallStyle Bibs Green 0-3M,Infants,7,42,6.0,Fast Moving,100.87
+P0674,BabyChic Bibs Navy 12-18M,Infants,12,42,3.5,Regular,105.24
+P0675,BabyChic Bibs Red 6-12M,Infants,18,40,2.22,Regular,284.58
+P0676,TinyTrends Bibs Orange 18-24M,Infants,13,26,2.0,Regular,219.18
+P0677,YouthStyle Bibs Navy 0-3M,Infants,14,26,1.86,Slow Moving,155.26
+P0678,LittleFashion Bibs Pink 6-12M,Infants,20,51,2.55,Regular,245.6
+P0679,LittleFashion Bibs Beige 12-18M,Infants,16,56,3.5,Regular,265.44
+P0680,SmallStyle Bibs Pink 6-12M,Infants,7,40,5.71,Fast Moving,58.38
+P0681,LittleFashion Bibs Beige 6-12M,Infants,1,46,46.0,Fast Moving,15.71
+P0682,KidsStyle Bibs Pink 12-18M,Infants,5,34,6.8,Fast Moving,67.6
+P0683,SmallStyle Bibs Blue 18-24M,Infants,8,33,4.12,Regular,104.4
+P0684,TinyTrends Bibs Green 3-6M,Infants,9,43,4.78,Regular,144.27
+P0685,BabyChic Bibs Purple 3-6M,Infants,7,43,6.14,Fast Moving,43.68
+P0686,TinyTrends Bibs White 3-6M,Infants,9,34,3.78,Regular,146.97
+P0687,YouthStyle Bibs Purple 0-3M,Infants,6,52,8.67,Fast Moving,97.68
+P0688,KiddoFashion Bibs Black 3-6M,Infants,18,41,2.28,Regular,153.36
+P0689,KiddoFashion Bibs Navy 12-18M,Infants,16,34,2.12,Regular,168.8
+P0690,TinyTrends Bibs Red 3-6M,Infants,14,35,2.5,Regular,133.56
+P0691,TinyTrends Bibs Blue 6-12M,Infants,8,30,3.75,Regular,50.56
+P0692,TinyTrends Bibs Orange 12-18M,Infants,14,38,2.71,Regular,233.8
+P0693,SmallStyle Bibs Purple 6-12M,Infants,19,39,2.05,Regular,243.77
+P0694,SmallStyle Bibs Black 12-18M,Infants,5,43,8.6,Fast Moving,67.8
+P0695,MiniMode Bibs Green 0-3M,Infants,10,40,4.0,Regular,177.1
+P0696,JuniorWear Bibs Yellow 18-24M,Infants,15,28,1.87,Slow Moving,99.3
+P0697,SmallStyle Bibs Orange 0-3M,Infants,17,37,2.18,Regular,112.88
+P0698,BabyChic Bibs Red 3-6M,Infants,15,41,2.73,Regular,147.3
+P0699,KiddoFashion Bibs Green 6-12M,Infants,10,37,3.7,Regular,95.7
+P0700,JuniorWear Bibs Blue 3-6M,Infants,7,48,6.86,Fast Moving,95.97
+P0701,KiddoFashion Bibs Purple 6-12M,Infants,17,35,2.06,Regular,100.98
+P0702,PetitMode Bibs Black 6-12M,Infants,7,34,4.86,Regular,35.28
+P0703,LittleFashion Bibs Purple 12-18M,Infants,16,48,3.0,Regular,216.16
+P0704,JuniorWear Bibs Green 12-18M,Infants,9,34,3.78,Regular,158.22
+P0705,LittleFashion Bibs Beige 18-24M,Infants,12,36,3.0,Regular,165.72
+P0706,PetitMode Bibs Black 0-3M,Infants,13,32,2.46,Regular,82.29
+P0707,KidsStyle Bibs Black 3-6M,Infants,6,66,11.0,Fast Moving,42.06
+P0708,KiddoFashion Bibs Navy 12-18M,Infants,0,27,0.0,Very Slow/Dead Stock,0.0
+P0709,TinyTrends Bibs Black 12-18M,Infants,16,41,2.56,Regular,67.84
+P0710,PetitMode Bibs Navy 18-24M,Infants,7,45,6.43,Fast Moving,83.51
+P0711,KiddoFashion Blankets Pink 3-6M,Infants,15,43,2.87,Regular,130.5
+P0712,KidsStyle Blankets Black 3-6M,Infants,7,26,3.71,Regular,30.17
+P0713,LittleFashion Blankets Navy 12-18M,Infants,11,49,4.45,Regular,226.6
+P0714,YouthStyle Blankets Orange 0-3M,Infants,15,40,2.67,Regular,72.3
+P0715,PetitMode Blankets Purple 6-12M,Infants,14,46,3.29,Regular,205.24
+P0716,PetitMode Blankets Black 18-24M,Infants,6,43,7.17,Fast Moving,64.14
+P0717,SmallStyle Blankets Navy 3-6M,Infants,9,51,5.67,Fast Moving,104.94
+P0718,TinyTrends Blankets Yellow 0-3M,Infants,9,32,3.56,Regular,48.15
+P0719,JuniorWear Blankets Black 6-12M,Infants,18,36,2.0,Regular,163.08
+P0720,KiddoFashion Blankets Red 18-24M,Infants,18,35,1.94,Slow Moving,133.38
+P0721,SmallStyle Blankets Navy 12-18M,Infants,14,48,3.43,Regular,222.18
+P0722,BabyChic Blankets Beige 0-3M,Infants,2,53,26.5,Fast Moving,27.02
+P0723,BabyChic Blankets Red 12-18M,Infants,11,32,2.91,Regular,164.78
+P0724,KiddoFashion Blankets Beige 6-12M,Infants,12,38,3.17,Regular,184.44
+P0725,JuniorWear Blankets Beige 3-6M,Infants,18,48,2.67,Regular,333.18
+P0726,SmallStyle Blankets Gray 6-12M,Infants,1,22,22.0,Fast Moving,11.62
+P0727,YouthStyle Blankets Beige 12-18M,Infants,14,46,3.29,Regular,235.9
+P0728,PetitMode Blankets Pink 6-12M,Infants,19,41,2.16,Regular,98.8
+P0729,LittleFashion Blankets Orange 18-24M,Infants,11,43,3.91,Regular,161.48
+P0730,MiniMode Blankets Green 0-3M,Infants,7,39,5.57,Fast Moving,53.06
+P0731,KiddoFashion Blankets Red 3-6M,Infants,8,39,4.88,Regular,81.6
+P0732,BabyChic Blankets Purple 3-6M,Infants,11,39,3.55,Regular,65.67
+P0733,MiniMode Blankets White 0-3M,Infants,9,45,5.0,Fast Moving,143.91
+P0734,KiddoFashion Blankets Navy 12-18M,Infants,9,35,3.89,Regular,158.13
+P0735,JuniorWear Blankets Beige 6-12M,Infants,16,53,3.31,Regular,286.08
+P0736,YouthStyle Blankets Red 6-12M,Infants,7,36,5.14,Fast Moving,91.49
+P0737,MiniMode Blankets Gray 3-6M,Infants,8,31,3.88,Regular,129.6
+P0738,KidsStyle Blankets Gray 12-18M,Infants,7,39,5.57,Fast Moving,64.82
+P0739,SmallStyle Blankets Red 3-6M,Infants,7,40,5.71,Fast Moving,117.74
+P0740,JuniorWear Blankets Black 18-24M,Infants,8,28,3.5,Regular,121.76
+P0741,JuniorWear Blankets Green 6-12M,Infants,15,43,2.87,Regular,211.2
+P0742,YouthStyle Blankets Navy 18-24M,Infants,12,51,4.25,Regular,122.76
+P0743,PetitMode Blankets Gray 18-24M,Infants,10,50,5.0,Fast Moving,84.6
+P0744,TinyTrends Blankets Purple 6-12M,Infants,10,36,3.6,Regular,103.7
+P0745,JuniorWear Blankets Yellow 6-12M,Infants,20,48,2.4,Regular,191.2
+P0746,LittleFashion Blankets Orange 6-12M,Infants,5,36,7.2,Fast Moving,36.45
+P0747,YouthStyle Blankets Gray 0-3M,Infants,10,51,5.1,Fast Moving,65.2
+P0748,KiddoFashion Blankets Yellow 3-6M,Infants,13,43,3.31,Regular,173.81
+P0749,KidsStyle Blankets Navy 12-18M,Infants,11,33,3.0,Regular,141.35
+P0750,MiniMode Blankets Gray 3-6M,Infants,2,27,13.5,Fast Moving,21.16
+P0751,PetitMode Shoes Yellow L,Accessories,12,29,2.42,Regular,145.08
+P0752,JuniorWear Shoes Blue XL,Accessories,5,30,6.0,Fast Moving,14.8
+P0753,LittleFashion Shoes Gray M,Accessories,7,20,2.86,Regular,65.31
+P0754,BabyChic Shoes Green XS,Accessories,5,40,8.0,Fast Moving,67.1
+P0755,BabyChic Shoes Yellow L,Accessories,17,38,2.24,Regular,252.28
+P0756,KiddoFashion Shoes Red L,Accessories,3,38,12.67,Fast Moving,55.98
+P0757,SmallStyle Shoes Blue XL,Accessories,17,35,2.06,Regular,295.8
+P0758,YouthStyle Shoes Orange XL,Accessories,19,27,1.42,Slow Moving,101.65
+P0759,LittleFashion Shoes Green XS,Accessories,8,29,3.62,Regular,129.36
+P0760,LittleFashion Shoes White XL,Accessories,11,29,2.64,Regular,87.56
+P0761,BabyChic Shoes Gray XS,Accessories,18,35,1.94,Slow Moving,75.6
+P0762,KiddoFashion Shoes Yellow XS,Accessories,15,23,1.53,Slow Moving,120.75
+P0763,KiddoFashion Shoes Blue XL,Accessories,8,25,3.12,Regular,86.0
+P0764,YouthStyle Shoes Black L,Accessories,9,10,1.11,Slow Moving,66.87
+P0765,PetitMode Shoes Green XS,Accessories,20,37,1.85,Slow Moving,351.6
+P0766,PetitMode Shoes Green XS,Accessories,9,25,2.78,Regular,77.49
+P0767,MiniMode Shoes Beige XS,Accessories,16,39,2.44,Regular,236.16
+P0768,TinyTrends Shoes Black M,Accessories,20,20,1.0,Slow Moving,182.4
+P0769,TinyTrends Shoes Red M,Accessories,17,33,1.94,Slow Moving,106.42
+P0770,SmallStyle Shoes Orange L,Accessories,20,31,1.55,Slow Moving,120.0
+P0771,KiddoFashion Shoes White S,Accessories,5,16,3.2,Regular,69.5
+P0772,KidsStyle Shoes Green S,Accessories,13,39,3.0,Regular,157.82
+P0773,SmallStyle Shoes Orange S,Accessories,13,28,2.15,Regular,262.86
+P0774,YouthStyle Shoes Gray M,Accessories,11,31,2.82,Regular,194.59
+P0775,SmallStyle Shoes Red XL,Accessories,18,34,1.89,Slow Moving,63.9
+P0776,TinyTrends Shoes Black XS,Accessories,10,28,2.8,Regular,206.9
+P0777,JuniorWear Shoes Purple XS,Accessories,11,32,2.91,Regular,215.82
+P0778,JuniorWear Shoes Black S,Accessories,10,17,1.7,Slow Moving,62.5
+P0779,SmallStyle Shoes Navy XL,Accessories,6,38,6.33,Fast Moving,81.0
+P0780,PetitMode Shoes Beige L,Accessories,16,41,2.56,Regular,321.92
+P0781,TinyTrends Hats Purple M,Accessories,5,24,4.8,Regular,42.15
+P0782,PetitMode Hats Green S,Accessories,17,29,1.71,Slow Moving,269.96
+P0783,KidsStyle Hats Orange M,Accessories,6,26,4.33,Regular,104.1
+P0784,MiniMode Hats Red L,Accessories,20,24,1.2,Slow Moving,263.4
+P0785,SmallStyle Hats Gray XS,Accessories,9,27,3.0,Regular,125.1
+P0786,TinyTrends Hats Beige XS,Accessories,19,36,1.89,Slow Moving,230.47
+P0787,KiddoFashion Hats Yellow M,Accessories,10,28,2.8,Regular,178.4
+P0788,LittleFashion Hats Red XS,Accessories,6,36,6.0,Fast Moving,35.1
+P0789,YouthStyle Hats Beige M,Accessories,1,37,37.0,Fast Moving,3.18
+P0790,LittleFashion Hats Gray XS,Accessories,12,27,2.25,Regular,167.64
+P0791,KiddoFashion Hats Navy M,Accessories,9,35,3.89,Regular,60.03
+P0792,LittleFashion Hats Blue M,Accessories,11,19,1.73,Slow Moving,148.94
+P0793,YouthStyle Hats Beige L,Accessories,11,26,2.36,Regular,204.82
+P0794,TinyTrends Hats Pink L,Accessories,9,40,4.44,Regular,134.82
+P0795,YouthStyle Hats Navy S,Accessories,7,30,4.29,Regular,78.05
+P0796,SmallStyle Hats Black L,Accessories,5,32,6.4,Fast Moving,87.55
+P0797,LittleFashion Hats Purple XL,Accessories,5,20,4.0,Regular,22.1
+P0798,KiddoFashion Hats Red XS,Accessories,4,34,8.5,Fast Moving,65.16
+P0799,PetitMode Hats Beige M,Accessories,9,26,2.89,Regular,60.66
+P0800,PetitMode Hats Orange S,Accessories,5,13,2.6,Regular,23.35
+P0801,MiniMode Hats Purple XS,Accessories,11,23,2.09,Regular,64.24
+P0802,PetitMode Hats Navy L,Accessories,18,33,1.83,Slow Moving,117.18
+P0803,KiddoFashion Hats Purple S,Accessories,4,39,9.75,Fast Moving,15.68
+P0804,BabyChic Hats Green XS,Accessories,8,23,2.88,Regular,33.6
+P0805,MiniMode Hats Orange XS,Accessories,6,40,6.67,Fast Moving,42.0
+P0806,TinyTrends Hats Purple L,Accessories,6,32,5.33,Fast Moving,117.66
+P0807,KiddoFashion Hats Purple L,Accessories,18,21,1.17,Slow Moving,212.22
+P0808,TinyTrends Hats Black L,Accessories,7,25,3.57,Regular,64.19
+P0809,KidsStyle Hats Blue XL,Accessories,13,31,2.38,Regular,284.18
+P0810,PetitMode Hats Orange XL,Accessories,16,30,1.88,Slow Moving,219.52
+P0811,BabyChic Bags Red L,Accessories,9,23,2.56,Regular,87.93
+P0812,PetitMode Bags Navy L,Accessories,10,52,5.2,Fast Moving,146.5
+P0813,TinyTrends Bags Blue M,Accessories,16,31,1.94,Slow Moving,98.72
+P0814,BabyChic Bags White S,Accessories,13,24,1.85,Slow Moving,82.94
+P0815,PetitMode Bags White M,Accessories,9,22,2.44,Regular,39.06
+P0816,KiddoFashion Bags Pink XS,Accessories,6,24,4.0,Regular,94.8
+P0817,SmallStyle Bags Green XS,Accessories,16,29,1.81,Slow Moving,257.44
+P0818,KiddoFashion Bags Green L,Accessories,15,15,1.0,Slow Moving,272.55
+P0819,KidsStyle Bags Gray XS,Accessories,19,42,2.21,Regular,170.43
+P0820,KiddoFashion Bags Purple XL,Accessories,15,37,2.47,Regular,351.15
+P0821,KiddoFashion Bags Red XL,Accessories,5,13,2.6,Regular,68.85
+P0822,SmallStyle Bags Purple XL,Accessories,20,22,1.1,Slow Moving,252.6
+P0823,LittleFashion Bags Beige S,Accessories,19,32,1.68,Slow Moving,86.83
+P0824,SmallStyle Bags Navy XS,Accessories,8,33,4.12,Regular,43.44
+P0825,YouthStyle Bags Navy XL,Accessories,5,23,4.6,Regular,90.05
+P0826,BabyChic Bags Yellow M,Accessories,17,37,2.18,Regular,52.87
+P0827,SmallStyle Bags Beige S,Accessories,20,31,1.55,Slow Moving,143.2
+P0828,BabyChic Bags Beige M,Accessories,17,24,1.41,Slow Moving,81.09
+P0829,MiniMode Bags Navy S,Accessories,15,40,2.67,Regular,181.35
+P0830,LittleFashion Bags Orange M,Accessories,13,28,2.15,Regular,127.01
+P0831,BabyChic Bags Orange M,Accessories,17,22,1.29,Slow Moving,233.24
+P0832,PetitMode Bags Yellow XL,Accessories,15,24,1.6,Slow Moving,292.5
+P0833,TinyTrends Bags Red XS,Accessories,11,41,3.73,Regular,252.45
+P0834,MiniMode Bags Yellow XS,Accessories,18,28,1.56,Slow Moving,130.5
+P0835,LittleFashion Bags Red M,Accessories,10,30,3.0,Regular,51.9
+P0836,KidsStyle Bags White S,Accessories,1,27,27.0,Fast Moving,10.66
+P0837,PetitMode Bags Green XS,Accessories,12,37,3.08,Regular,242.4
+P0838,MiniMode Bags Orange XL,Accessories,17,23,1.35,Slow Moving,275.06
+P0839,YouthStyle Bags Black XS,Accessories,9,33,3.67,Regular,36.0
+P0840,KidsStyle Bags Beige XL,Accessories,17,29,1.71,Slow Moving,104.38
+P0841,MiniMode Socks Gray XL,Accessories,11,30,2.73,Regular,112.2
+P0842,PetitMode Socks Beige M,Accessories,7,25,3.57,Regular,110.11
+P0843,KiddoFashion Socks Pink S,Accessories,5,20,4.0,Regular,27.9
+P0844,PetitMode Socks Blue S,Accessories,14,25,1.79,Slow Moving,273.14
+P0845,PetitMode Socks Yellow L,Accessories,16,43,2.69,Regular,236.96
+P0846,KidsStyle Socks White XL,Accessories,15,30,2.0,Regular,87.6
+P0847,BabyChic Socks Navy XS,Accessories,20,12,0.6,Slow Moving,178.8
+P0848,KiddoFashion Socks Navy XL,Accessories,12,27,2.25,Regular,98.64
+P0849,PetitMode Socks Green XS,Accessories,20,35,1.75,Slow Moving,55.4
+P0850,LittleFashion Socks Black XS,Accessories,7,30,4.29,Regular,144.27
+P0851,BabyChic Socks Green L,Accessories,10,27,2.7,Regular,199.8
+P0852,BabyChic Socks Yellow M,Accessories,15,29,1.93,Slow Moving,125.55
+P0853,PetitMode Socks Gray XL,Accessories,5,25,5.0,Fast Moving,47.45
+P0854,MiniMode Socks Gray M,Accessories,9,20,2.22,Regular,119.07
+P0855,BabyChic Socks Black S,Accessories,13,23,1.77,Slow Moving,189.93
+P0856,PetitMode Socks Beige L,Accessories,9,38,4.22,Regular,42.66
+P0857,PetitMode Socks Orange XL,Accessories,10,41,4.1,Regular,167.8
+P0858,MiniMode Socks White XS,Accessories,16,23,1.44,Slow Moving,67.52
+P0859,PetitMode Socks Orange XS,Accessories,9,21,2.33,Regular,35.01
+P0860,MiniMode Socks Gray XS,Accessories,7,23,3.29,Regular,134.12
+P0861,YouthStyle Socks Gray S,Accessories,5,24,4.8,Regular,23.35
+P0862,KiddoFashion Socks Beige S,Accessories,17,27,1.59,Slow Moving,123.42
+P0863,KidsStyle Socks Pink XS,Accessories,11,31,2.82,Regular,147.73
+P0864,SmallStyle Socks Green XL,Accessories,14,24,1.71,Slow Moving,191.66
+P0865,KiddoFashion Socks Gray L,Accessories,12,25,2.08,Regular,217.92
+P0866,YouthStyle Socks Gray M,Accessories,20,22,1.1,Slow Moving,171.0
+P0867,TinyTrends Socks Beige XS,Accessories,13,37,2.85,Regular,156.65
+P0868,PetitMode Socks Blue XS,Accessories,19,23,1.21,Slow Moving,106.02
+P0869,JuniorWear Socks Purple XL,Accessories,2,38,19.0,Fast Moving,19.88
+P0870,LittleFashion Socks Orange XS,Accessories,11,27,2.45,Regular,100.65
+P0871,JuniorWear Belts Gray L,Accessories,6,36,6.0,Fast Moving,114.12
+P0872,PetitMode Belts Orange M,Accessories,13,27,2.08,Regular,187.46
+P0873,SmallStyle Belts Navy XS,Accessories,14,31,2.21,Regular,143.08
+P0874,JuniorWear Belts Green XL,Accessories,17,28,1.65,Slow Moving,47.09
+P0875,PetitMode Belts Pink S,Accessories,8,23,2.88,Regular,118.96
+P0876,JuniorWear Belts Green S,Accessories,10,40,4.0,Regular,114.5
+P0877,PetitMode Belts Purple XL,Accessories,9,41,4.56,Regular,23.76
+P0878,TinyTrends Belts Yellow XS,Accessories,18,20,1.11,Slow Moving,401.94
+P0879,BabyChic Belts White XL,Accessories,17,38,2.24,Regular,343.23
+P0880,JuniorWear Belts Navy S,Accessories,10,27,2.7,Regular,47.0
+P0881,KiddoFashion Belts White M,Accessories,5,32,6.4,Fast Moving,60.25
+P0882,LittleFashion Belts Navy M,Accessories,9,34,3.78,Regular,39.69
+P0883,LittleFashion Belts Red M,Accessories,20,28,1.4,Slow Moving,102.2
+P0884,JuniorWear Belts White S,Accessories,8,29,3.62,Regular,128.48
+P0885,KiddoFashion Belts Purple M,Accessories,15,27,1.8,Slow Moving,138.75
+P0886,TinyTrends Belts Pink L,Accessories,16,27,1.69,Slow Moving,191.52
+P0887,LittleFashion Belts Orange XS,Accessories,6,46,7.67,Fast Moving,128.94
+P0888,KidsStyle Belts Orange XS,Accessories,14,28,2.0,Regular,226.52
+P0889,YouthStyle Belts Navy XL,Accessories,6,31,5.17,Fast Moving,89.94
+P0890,PetitMode Belts Orange XL,Accessories,3,27,9.0,Fast Moving,24.03
+P0891,YouthStyle Belts Green S,Accessories,6,27,4.5,Regular,22.26
+P0892,KiddoFashion Belts Orange M,Accessories,18,29,1.61,Slow Moving,207.72
+P0893,PetitMode Belts Red L,Accessories,20,30,1.5,Slow Moving,328.2
+P0894,PetitMode Belts Pink XL,Accessories,11,33,3.0,Regular,162.69
+P0895,SmallStyle Belts Gray S,Accessories,15,38,2.53,Regular,58.05
+P0896,KidsStyle Belts Green L,Accessories,18,25,1.39,Slow Moving,103.5
+P0897,JuniorWear Belts White S,Accessories,15,29,1.93,Slow Moving,189.9
+P0898,BabyChic Belts Black S,Accessories,13,45,3.46,Regular,38.87
+P0899,BabyChic Belts Blue XS,Accessories,7,27,3.86,Regular,97.02
+P0900,SmallStyle Belts Orange M,Accessories,18,19,1.06,Slow Moving,60.84

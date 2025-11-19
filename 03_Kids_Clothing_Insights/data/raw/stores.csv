@@ -1,0 +1,11 @@
+StoreID,StoreName,City,State,Region,OpenDate,SquareFeet,StoreType,Latitude,Longitude
+ST001,Manhattan Kids Hub,New York,NY,Northeast,2020-01-01,3200,Flagship,40.7589,-73.9851
+ST002,LA Fashion Kids,Los Angeles,CA,West,2020-03-01,2800,Regular,34.0522,-118.2437
+ST003,Chicago Little Ones,Chicago,IL,Midwest,2020-04-30,3500,Regular,41.8781,-87.6298
+ST004,Houston Tiny Trends,Houston,TX,South,2020-06-29,2900,Regular,29.7604,-95.3698
+ST005,Miami Kids Corner,Miami,FL,South,2020-08-28,2600,Regular,25.7617,-80.1918
+ST006,Phoenix Children Store,Phoenix,AZ,West,2020-10-27,2400,Small,33.4484,-112.074
+ST007,Dallas Kids Boutique,Dallas,TX,South,2020-12-26,3100,Regular,32.7767,-96.797
+ST008,San Diego Mini Fashion,San Diego,CA,West,2021-02-24,2700,Small,32.7157,-117.1611
+ST009,Boston Kids Plaza,Boston,MA,Northeast,2021-04-25,3300,Flagship,42.3601,-71.0589
+ST010,Seattle Children Hub,Seattle,WA,West,2021-06-24,2500,Regular,47.6062,-122.3321

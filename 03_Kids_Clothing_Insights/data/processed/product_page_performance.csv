@@ -1,0 +1,901 @@
+ProductID,Views,AvgTimeOnPage,AddToCartCount,AddToCartRate,ProductName,Category,Price
+P0181,87,83.12820512820512,30,34.48,YouthStyle Jackets Purple 12,Boys Clothing,24.81
+P0596,86,81.85365853658537,37,43.02,LittleFashion Sleepwear Gray 3-6M,Infants,9.82
+P0272,84,78.86086956521739,31,36.9,BabyChic Dresses Blue 12,Girls Clothing,24.15
+P0234,84,85.84684684684684,27,32.14,PetitMode Sweaters Yellow 4T,Boys Clothing,21.43
+P0062,84,76.34920634920636,42,50.0,LittleFashion Pants White 12,Boys Clothing,22.49
+P0836,83,81.08695652173913,32,38.55,KidsStyle Bags White S,Accessories,18.32
+P0314,83,85.71428571428571,36,43.37,TinyTrends Tops Beige 7,Girls Clothing,33.5
+P0595,83,82.59649122807018,31,37.35,TinyTrends Sleepwear White 0-3M,Infants,16.13
+P0420,82,79.11818181818182,28,34.15,LittleFashion Skirts Red 10,Girls Clothing,38.22
+P0265,82,88.26851851851852,26,31.71,SmallStyle Dresses Purple 8,Girls Clothing,17.26
+P0558,81,82.11607142857143,31,38.27,LittleFashion Onesies Orange 3-6M,Infants,24.01
+P0618,81,81.5982905982906,36,44.44,BabyChic Sleepwear Orange 3-6M,Infants,25.6
+P0771,81,85.24107142857143,31,38.27,KiddoFashion Shoes White S,Accessories,29.82
+P0516,81,76.56896551724138,35,43.21,PetitMode Jackets Black 12,Girls Clothing,16.48
+P0762,80,82.7,30,37.5,KiddoFashion Shoes Yellow XS,Accessories,17.31
+P0846,79,80.84070796460178,34,43.04,KidsStyle Socks White XL,Accessories,11.12
+P0567,79,81.8,36,45.57,SmallStyle Onesies Beige 3-6M,Infants,10.19
+P0146,79,84.56756756756756,32,40.51,BabyChic Shorts Pink 6,Boys Clothing,13.01
+P0745,79,79.61206896551724,37,46.84,JuniorWear Blankets Yellow 6-12M,Infants,18.49
+P0387,79,81.25454545454545,31,39.24,PetitMode Skirts Red 10,Girls Clothing,20.1
+P0689,79,70.90756302521008,40,50.63,KiddoFashion Bibs Navy 12-18M,Infants,20.02
+P0214,79,88.86666666666666,26,32.91,PetitMode Sweaters Orange 12,Boys Clothing,26.57
+P0306,79,87.60377358490567,27,34.18,SmallStyle Dresses Pink 2T,Girls Clothing,16.57
+P0044,79,80.75,29,36.71,YouthStyle Shirts Beige 3T,Boys Clothing,36.08
+P0560,79,78.14035087719299,35,44.3,LittleFashion Onesies Orange 12-18M,Infants,15.17
+P0631,78,87.77884615384616,26,33.33,KidsStyle Rompers White 18-24M,Infants,15.26
+P0446,78,84.04716981132076,28,35.9,KidsStyle Leggings Orange 10,Girls Clothing,43.89
+P0868,78,79.8,37,47.44,PetitMode Socks Blue XS,Accessories,9.57
+P0197,78,85.28971962616822,29,37.18,LittleFashion Jackets Beige 3T,Boys Clothing,24.28
+P0337,77,80.23636363636363,33,42.86,JuniorWear Tops Orange 2T,Girls Clothing,18.21
+P0042,77,76.83035714285714,35,45.45,TinyTrends Shirts Gray 5T,Boys Clothing,22.92
+P0505,77,78.52830188679245,29,37.66,BabyChic Jackets Black 8,Girls Clothing,24.99
+P0018,77,78.43518518518519,31,40.26,KiddoFashion Shirts Black 7,Boys Clothing,43.87
+P0829,77,84.77884615384616,27,35.06,MiniMode Bags Navy S,Accessories,24.38
+P0289,77,91.2135922330097,26,33.77,PetitMode Dresses Black 14,Girls Clothing,20.88
+P0373,77,84.33663366336634,24,31.17,SmallStyle Skirts Yellow 3T,Girls Clothing,24.29
+P0747,77,85.26168224299066,30,38.96,YouthStyle Blankets Gray 0-3M,Infants,14.14
+P0191,77,88.15533980582525,26,33.77,KiddoFashion Jackets Blue 7,Boys Clothing,15.9
+P0130,76,78.52212389380531,37,48.68,YouthStyle Shorts Pink 10,Boys Clothing,30.81
+P0851,76,84.69724770642202,33,43.42,BabyChic Socks Green L,Accessories,38.8
+P0007,76,81.82352941176471,26,34.21,TinyTrends Shirts Black 7,Boys Clothing,39.47
+P0320,76,85.87378640776699,27,35.53,LittleFashion Tops Red 7,Girls Clothing,25.77
+P0401,76,82.85849056603773,30,39.47,KiddoFashion Skirts Yellow 2T,Girls Clothing,43.29
+P0218,76,90.14432989690722,21,27.63,PetitMode Sweaters Blue 2T,Boys Clothing,14.78
+P0793,76,81.5,30,39.47,YouthStyle Hats Beige L,Accessories,39.57
+P0260,75,77.71428571428571,37,49.33,TinyTrends Dresses Pink 14,Girls Clothing,54.49
+P0500,75,77.40517241379311,41,54.67,MiniMode Jackets Green 12,Girls Clothing,53.01
+P0291,75,72.07207207207207,36,48.0,KiddoFashion Dresses Orange 7,Girls Clothing,33.37
+P0382,75,77.18691588785046,32,42.67,MiniMode Skirts Pink 14,Girls Clothing,24.94
+P0719,75,82.95959595959596,24,32.0,JuniorWear Blankets Black 6-12M,Infants,16.31
+P0562,75,78.1842105263158,39,52.0,BabyChic Onesies Red 18-24M,Infants,31.28
+P0283,75,71.63963963963964,36,48.0,KiddoFashion Dresses Purple 3T,Girls Clothing,29.02
+P0607,75,80.56190476190476,30,40.0,SmallStyle Sleepwear Black 3-6M,Infants,12.42
+P0676,75,79.81481481481481,33,44.0,TinyTrends Bibs Orange 18-24M,Infants,31.41
+P0528,75,79.45871559633028,34,45.33,MiniMode Jackets White 10,Girls Clothing,54.92
+P0212,75,80.1047619047619,30,40.0,BabyChic Sweaters Beige 2T,Boys Clothing,15.01
+P0004,75,84.02803738317758,32,42.67,MiniMode Shirts Beige 2T,Boys Clothing,13.92
+P0081,75,87.3076923076923,29,38.67,TinyTrends Pants Yellow 7,Boys Clothing,24.14
+P0240,75,71.15315315315316,36,48.0,KiddoFashion Sweaters Gray 12,Boys Clothing,43.99
+P0837,74,82.65384615384616,30,40.54,PetitMode Bags Green XS,Accessories,35.38
+P0065,74,85.62,26,35.14,LittleFashion Pants Yellow 6,Boys Clothing,12.23
+P0301,74,80.41584158415841,27,36.49,BabyChic Dresses Pink 12,Girls Clothing,21.76
+P0261,74,81.85,26,35.14,PetitMode Dresses Green 2T,Girls Clothing,38.77
+P0358,74,76.96330275229357,35,47.3,JuniorWear Tops Yellow 12,Girls Clothing,28.95
+P0623,74,79.35779816513761,35,47.3,LittleFashion Sleepwear Yellow 3-6M,Infants,28.55
+P0144,74,78.62616822429906,33,44.59,MiniMode Shorts Beige 4T,Boys Clothing,27.36
+P0385,74,74.15384615384616,30,40.54,KiddoFashion Skirts Green 8,Girls Clothing,28.68
+P0728,74,81.00952380952381,31,41.89,PetitMode Blankets Pink 6-12M,Infants,8.82
+P0540,74,76.73333333333333,31,41.89,MiniMode Jackets Purple 14,Girls Clothing,23.73
+P0049,74,84.02857142857142,31,41.89,YouthStyle Shirts Red 10,Boys Clothing,29.25
+P0682,74,75.5233644859813,33,44.59,KidsStyle Bibs Pink 12-18M,Infants,24.82
+P0642,74,79.99115044247787,39,52.7,BabyChic Rompers Purple 12-18M,Infants,23.11
+P0640,73,79.70476190476191,32,43.84,SmallStyle Rompers Navy 12-18M,Infants,11.85
+P0104,73,82.28,27,36.99,MiniMode Shorts Gray 10,Boys Clothing,15.35
+P0484,73,84.90816326530613,25,34.25,KiddoFashion Leggings Beige 7,Girls Clothing,43.76
+P0304,73,80.81553398058253,30,41.1,LittleFashion Dresses Pink 5T,Girls Clothing,23.25
+P0201,73,73.45614035087719,41,56.16,KiddoFashion Sweaters Navy 14,Boys Clothing,15.4
+P0765,73,83.82474226804123,24,32.88,PetitMode Shoes Green XS,Accessories,33.11
+P0175,73,74.98058252427184,30,41.1,BabyChic Jackets Navy 5T,Boys Clothing,24.36
+P0402,73,74.06306306306307,38,52.05,KidsStyle Skirts Navy 14,Girls Clothing,38.05
+P0349,73,85.59615384615384,31,42.47,TinyTrends Tops Green 2T,Girls Clothing,26.55
+P0886,73,85.84313725490196,29,39.73,TinyTrends Belts Pink L,Accessories,21.08
+P0279,73,84.31632653061224,25,34.25,BabyChic Dresses Pink 7,Girls Clothing,20.36
+P0750,73,78.91509433962264,33,45.21,MiniMode Blankets Gray 3-6M,Infants,18.25
+P0319,73,76.53703703703704,35,47.95,BabyChic Tops Blue 5T,Girls Clothing,36.3
+P0892,73,89.33673469387755,25,34.25,KiddoFashion Belts Orange M,Accessories,21.15
+P0330,73,87.46875,23,31.51,KidsStyle Tops Black 12,Girls Clothing,40.84
+P0127,73,90.0,27,36.99,SmallStyle Shorts Red 14,Boys Clothing,40.09
+P0877,73,79.59223300970874,30,41.1,PetitMode Belts Purple XL,Accessories,5.42
+P0431,73,76.4095238095238,32,43.84,PetitMode Leggings White 8,Girls Clothing,46.02
+P0032,73,85.63,27,36.99,PetitMode Shirts Pink 10,Boys Clothing,39.35
+P0087,73,82.10679611650485,30,41.1,TinyTrends Pants Beige 14,Boys Clothing,28.9
+P0438,73,83.5049504950495,28,38.36,KiddoFashion Leggings Pink 5T,Girls Clothing,16.02
+P0855,73,89.42268041237114,24,32.88,BabyChic Socks Black S,Accessories,26.69
+P0075,73,76.28155339805825,30,41.1,LittleFashion Pants Black 5T,Boys Clothing,13.7
+P0599,72,80.18627450980392,30,41.67,SmallStyle Sleepwear Gray 3-6M,Infants,34.28
+P0043,72,93.46808510638297,22,30.56,KiddoFashion Shirts Beige 8,Boys Clothing,22.26
+P0121,72,81.11881188118812,29,40.28,MiniMode Shorts Pink 14,Boys Clothing,43.04
+P0276,72,81.97029702970298,29,40.28,KiddoFashion Dresses Beige 4T,Girls Clothing,35.81
+P0078,72,82.61682242990655,35,48.61,MiniMode Pants Green 7,Boys Clothing,44.53
+P0584,72,84.0576923076923,32,44.44,KiddoFashion Onesies Yellow 12-18M,Infants,30.47
+P0601,72,89.2872340425532,22,30.56,BabyChic Sleepwear Pink 6-12M,Infants,28.47
+P0475,72,77.53465346534654,29,40.28,MiniMode Leggings Green 6,Girls Clothing,49.96
+P0864,72,83.06930693069307,29,40.28,SmallStyle Socks Green XL,Accessories,22.83
+P0870,72,79.79591836734694,26,36.11,LittleFashion Socks Orange XS,Accessories,17.87
+P0651,72,84.11111111111111,27,37.5,KidsStyle Rompers Red 3-6M,Infants,8.85
+P0093,72,84.72448979591837,26,36.11,KiddoFashion Pants Beige 5T,Boys Clothing,20.51
+P0196,72,85.48958333333333,24,33.33,TinyTrends Jackets Black 6,Boys Clothing,44.69
+P0471,72,85.92079207920793,29,40.28,KiddoFashion Leggings White 7,Girls Clothing,25.96
+P0397,72,76.05882352941177,30,41.67,YouthStyle Skirts Navy 7,Girls Clothing,35.24
+P0199,72,82.11340206185567,25,34.72,MiniMode Jackets Orange 8,Boys Clothing,40.33
+P0051,71,80.0673076923077,33,46.48,LittleFashion Pants Green 12,Boys Clothing,13.04
+P0206,71,77.05050505050505,28,39.44,YouthStyle Sweaters Navy 3T,Boys Clothing,22.54
+P0021,71,82.18095238095238,34,47.89,MiniMode Shirts Pink 8,Boys Clothing,16.03
+P0406,71,74.55238095238096,34,47.89,PetitMode Skirts Navy 5T,Girls Clothing,54.39
+P0734,71,81.42718446601941,32,45.07,KiddoFashion Blankets Navy 12-18M,Infants,34.38
+P0843,71,80.42574257425743,30,42.25,KiddoFashion Socks Pink S,Accessories,9.64
+P0637,71,84.56701030927834,26,36.62,KidsStyle Rompers Pink 12-18M,Infants,29.06
+P0424,71,73.66,29,40.85,KiddoFashion Skirts Pink 2T,Girls Clothing,18.41
+P0583,71,83.85858585858585,28,39.44,TinyTrends Onesies Orange 12-18M,Infants,12.34
+P0627,71,70.6574074074074,37,52.11,BabyChic Sleepwear Green 12-18M,Infants,11.17
+P0180,71,79.9375,25,35.21,LittleFashion Jackets Purple 10,Boys Clothing,43.03
+P0088,71,82.73195876288659,26,36.62,YouthStyle Pants White 12,Boys Clothing,33.29
+P0790,71,84.99,29,40.85,LittleFashion Hats Gray XS,Accessories,26.25
+P0091,71,78.15463917525773,26,36.62,JuniorWear Pants Green 2T,Boys Clothing,23.26
+P0107,71,83.26804123711341,26,36.62,LittleFashion Shorts Green 3T,Boys Clothing,33.51
+P0784,71,85.77319587628865,26,36.62,MiniMode Hats Red L,Accessories,28.36
+P0561,71,80.36893203883496,32,45.07,LittleFashion Onesies White 6-12M,Infants,32.0
+P0115,71,76.23853211009174,38,53.52,SmallStyle Shorts Navy 2T,Boys Clothing,41.44
+P0467,71,77.39622641509433,35,49.3,YouthStyle Leggings Pink 4T,Girls Clothing,54.38
+P0187,70,88.40625,26,37.14,BabyChic Jackets Green 8,Boys Clothing,15.12
+P0731,70,78.21428571428571,28,40.0,KiddoFashion Blankets Red 3-6M,Infants,18.63
+P0154,70,85.0,27,38.57,YouthStyle Jackets Purple 5T,Boys Clothing,29.04
+P0660,70,81.07142857142857,28,40.0,YouthStyle Rompers Orange 6-12M,Infants,10.2
+P0156,70,86.80898876404494,19,27.14,TinyTrends Jackets Green 2T,Boys Clothing,26.49
+P0267,70,89.06315789473685,25,35.71,KiddoFashion Dresses Orange 6,Girls Clothing,54.87
+P0393,70,78.2,30,42.86,BabyChic Skirts Pink 7,Girls Clothing,22.26
+P0296,70,81.6842105263158,25,35.71,TinyTrends Dresses White 2T,Girls Clothing,20.55
+P0403,70,84.63829787234043,24,34.29,YouthStyle Skirts Pink 12,Girls Clothing,31.97
+P0605,70,80.55,30,42.86,YouthStyle Sleepwear Blue 3-6M,Infants,15.39
+P0521,70,76.31372549019608,32,45.71,TinyTrends Jackets Pink 10,Girls Clothing,36.58
+P0854,70,84.55670103092784,27,38.57,MiniMode Socks Gray M,Accessories,27.43
+P0551,70,80.5959595959596,29,41.43,JuniorWear Onesies Beige 3-6M,Infants,9.56
+P0789,70,80.26804123711341,27,38.57,YouthStyle Hats Beige M,Accessories,5.83
+P0200,70,72.13592233009709,33,47.14,LittleFashion Jackets Blue 4T,Boys Clothing,36.78
+P0268,70,91.8021978021978,21,30.0,YouthStyle Dresses Navy 2T,Girls Clothing,45.76
+P0641,70,80.95959595959596,29,41.43,JuniorWear Rompers Yellow 3-6M,Infants,24.69
+P0360,70,83.02884615384616,34,48.57,KiddoFashion Tops Red 4T,Girls Clothing,19.97
+P0644,70,82.2258064516129,23,32.86,KiddoFashion Rompers Purple 0-3M,Infants,10.37
+P0064,70,80.6,30,42.86,PetitMode Pants Red 6,Boys Clothing,38.99
+P0809,70,79.06796116504854,33,47.14,KidsStyle Hats Blue XL,Accessories,39.79
+P0764,70,77.16831683168317,31,44.29,YouthStyle Shoes Black L,Accessories,14.97
+P0255,70,84.98936170212765,24,34.29,TinyTrends Dresses White 10,Girls Clothing,52.99
+P0421,70,82.33333333333333,26,37.14,KiddoFashion Skirts Gray 8,Girls Clothing,15.52
+P0578,70,81.85714285714286,28,40.0,MiniMode Onesies Pink 3-6M,Infants,24.7
+P0339,70,80.42156862745098,32,45.71,BabyChic Tops Yellow 7,Girls Clothing,19.48
+P0067,70,84.0,29,41.43,JuniorWear Pants Orange 7,Boys Clothing,15.96
+P0096,70,72.11650485436893,33,47.14,KidsStyle Pants Red 5T,Boys Clothing,15.07
+P0834,70,78.8265306122449,28,40.0,MiniMode Bags Yellow XS,Accessories,12.3
+P0587,69,92.11494252873563,18,26.09,LittleFashion Onesies Purple 0-3M,Infants,25.06
+P0036,69,84.52127659574468,25,36.23,MiniMode Shirts Green 10,Boys Clothing,37.48
+P0318,69,76.04040404040404,30,43.48,MiniMode Tops Black 12,Girls Clothing,19.29
+P0577,69,81.25,27,39.13,YouthStyle Onesies Red 0-3M,Infants,26.83
+P0474,69,72.87128712871286,32,46.38,KiddoFashion Leggings Green 12,Girls Clothing,20.48
+P0415,69,81.36734693877551,29,42.03,BabyChic Skirts Purple 6,Girls Clothing,44.5
+P0210,69,74.11538461538461,35,50.72,JuniorWear Sweaters Gray 5T,Boys Clothing,34.19
+P0183,69,84.48936170212765,25,36.23,TinyTrends Jackets Yellow 12,Boys Clothing,43.07
+P0038,69,92.31868131868131,22,31.88,KidsStyle Shirts Green 2T,Boys Clothing,35.33
+P0189,69,75.17821782178218,32,46.38,YouthStyle Jackets Gray 10,Boys Clothing,39.88
+P0647,69,87.80898876404494,20,28.99,MiniMode Rompers White 18-24M,Infants,23.32
+P0312,69,93.74157303370787,20,28.99,PetitMode Tops Black 8,Girls Clothing,29.82
+P0195,69,77.75757575757575,30,43.48,KidsStyle Jackets Navy 10,Boys Clothing,36.77
+P0758,69,79.12871287128714,32,46.38,YouthStyle Shoes Orange XL,Accessories,11.85
+P0098,69,83.29032258064517,24,34.78,YouthStyle Pants Purple 14,Boys Clothing,23.19
+P0076,69,87.19791666666667,27,39.13,MiniMode Pants Yellow 7,Boys Clothing,41.97
+P0435,69,74.94949494949495,30,43.48,MiniMode Leggings Red 6,Girls Clothing,49.47
+P0374,69,86.7872340425532,25,36.23,SmallStyle Skirts Gray 14,Girls Clothing,30.36
+P0133,69,82.88541666666667,27,39.13,MiniMode Shorts Purple 6,Boys Clothing,40.95
+P0727,69,84.30434782608695,23,33.33,YouthStyle Blankets Beige 12-18M,Infants,31.46
+P0150,69,78.56,31,44.93,JuniorWear Shorts Purple 4T,Boys Clothing,32.56
+P0071,69,78.43564356435644,32,46.38,KidsStyle Pants White 4T,Boys Clothing,43.76
+P0022,69,77.58695652173913,23,33.33,TinyTrends Shirts Pink 3T,Boys Clothing,13.13
+P0604,69,87.45555555555555,21,30.43,YouthStyle Sleepwear Yellow 18-24M,Infants,26.45
+P0761,69,88.42222222222222,21,30.43,BabyChic Shoes Gray XS,Accessories,7.11
+P0141,69,86.38461538461539,22,31.88,PetitMode Shorts White 10,Boys Clothing,41.37
+P0693,69,83.42708333333333,27,39.13,SmallStyle Bibs Purple 6-12M,Infants,25.73
+P0458,69,79.57291666666667,27,39.13,TinyTrends Leggings Blue 5T,Girls Clothing,37.08
+P0499,68,87.31868131868131,23,33.82,BabyChic Jackets Navy 10,Girls Clothing,51.69
+P0571,68,83.56989247311827,25,36.76,KidsStyle Onesies Purple 3-6M,Infants,30.27
+P0645,68,89.04347826086956,24,35.29,BabyChic Rompers Green 0-3M,Infants,8.9
+P0344,68,85.9010989010989,23,33.82,KiddoFashion Tops Navy 6,Girls Clothing,37.86
+P0497,68,79.77319587628865,29,42.65,YouthStyle Jackets Black 2T,Girls Clothing,25.89
+P0535,68,79.4,27,39.71,BabyChic Jackets Beige 12,Girls Clothing,29.18
+P0859,68,76.12244897959184,30,44.12,PetitMode Socks Orange XS,Accessories,7.02
+P0746,68,82.54639175257732,29,42.65,LittleFashion Blankets Orange 6-12M,Infants,14.41
+P0617,68,80.39583333333333,28,41.18,KidsStyle Sleepwear Beige 3-6M,Infants,13.75
+P0398,68,84.76595744680851,26,38.24,PetitMode Skirts Orange 14,Girls Clothing,15.72
+P0810,68,86.65957446808511,26,38.24,PetitMode Hats Orange XL,Accessories,24.52
+P0072,68,87.9090909090909,31,45.59,LittleFashion Pants Red 4T,Boys Clothing,28.41
+P0495,68,84.37755102040816,30,44.12,TinyTrends Jackets White 6,Girls Clothing,24.86
+P0543,68,85.69072164948453,29,42.65,BabyChic Jackets Yellow 3T,Girls Clothing,52.79
+P0878,68,83.78947368421052,27,39.71,TinyTrends Belts Yellow XS,Accessories,39.16
+P0755,68,80.21212121212122,31,45.59,BabyChic Shoes Yellow L,Accessories,26.28
+P0432,68,82.27551020408163,30,44.12,LittleFashion Leggings Purple 3T,Girls Clothing,35.98
+P0566,68,75.87128712871286,33,48.53,JuniorWear Onesies Green 6-12M,Infants,27.53
+P0806,68,80.58241758241758,23,33.82,TinyTrends Hats Purple L,Accessories,35.8
+P0386,68,77.69473684210526,27,39.71,KidsStyle Skirts Yellow 7,Girls Clothing,19.43
+P0321,68,77.65306122448979,30,44.12,KiddoFashion Tops Navy 4T,Girls Clothing,15.8
+P0404,68,79.48453608247422,29,42.65,SmallStyle Skirts Beige 5T,Girls Clothing,52.37
+P0677,68,83.29292929292929,31,45.59,YouthStyle Bibs Navy 0-3M,Infants,19.84
+P0110,68,84.27173913043478,24,35.29,KidsStyle Shorts Navy 8,Boys Clothing,33.44
+P0328,68,86.22340425531915,26,38.24,LittleFashion Tops Gray 14,Girls Clothing,32.27
+P0670,68,87.0,23,33.82,KidsStyle Rompers Beige 6-12M,Infants,9.95
+P0084,68,84.0,24,35.29,JuniorWear Pants Red 14,Boys Clothing,22.59
+P0357,68,85.72043010752688,25,36.76,BabyChic Tops Gray 10,Girls Clothing,33.86
+P0026,68,83.57142857142857,30,44.12,LittleFashion Shirts Purple 6,Boys Clothing,44.0
+P0565,68,82.48387096774194,25,36.76,TinyTrends Onesies Navy 12-18M,Infants,18.06
+P0025,68,74.66666666666667,34,50.0,JuniorWear Shirts Gray 3T,Boys Clothing,30.04
+P0470,68,79.72448979591837,30,44.12,YouthStyle Leggings Green 12,Girls Clothing,19.71
+P0485,68,84.36842105263158,27,39.71,BabyChic Leggings Pink 10,Girls Clothing,37.66
+P0690,68,73.80582524271844,35,51.47,TinyTrends Bibs Red 3-6M,Infants,17.7
+P0611,67,78.29166666666667,29,43.28,YouthStyle Sleepwear Blue 12-18M,Infants,33.67
+P0557,67,79.16161616161617,32,47.76,TinyTrends Onesies Green 3-6M,Infants,14.04
+P0235,67,82.50549450549451,24,35.82,LittleFashion Sweaters Red 3T,Boys Clothing,19.38
+P0250,67,76.45918367346938,31,46.27,TinyTrends Sweaters Beige 3T,Boys Clothing,44.16
+P0229,67,81.34408602150538,26,38.81,YouthStyle Sweaters Yellow 7,Boys Clothing,12.37
+P0237,67,81.95698924731182,26,38.81,PetitMode Sweaters Blue 4T,Boys Clothing,13.42
+P0451,67,77.25773195876289,30,44.78,YouthStyle Leggings Purple 8,Girls Clothing,23.32
+P0634,67,84.49473684210527,28,41.79,KidsStyle Rompers Black 3-6M,Infants,18.6
+P0713,67,79.90625,29,43.28,LittleFashion Blankets Navy 12-18M,Infants,34.64
+P0125,67,83.2840909090909,21,31.34,YouthStyle Shorts Beige 14,Boys Clothing,43.8
+P0487,67,85.3010752688172,26,38.81,KidsStyle Leggings Red 2T,Girls Clothing,44.3
+P0781,67,84.04347826086956,25,37.31,TinyTrends Hats Purple M,Accessories,17.37
+P0105,67,83.50515463917526,30,44.78,JuniorWear Shorts Purple 10,Boys Clothing,12.17
+P0815,67,81.08888888888889,23,34.33,PetitMode Bags White M,Accessories,8.38
+P0464,67,85.59139784946237,26,38.81,JuniorWear Leggings Red 8,Girls Clothing,25.75
+P0372,67,85.61797752808988,22,32.84,BabyChic Skirts Navy 14,Girls Clothing,44.9
+P0845,67,82.41836734693878,31,46.27,PetitMode Socks Yellow L,Accessories,26.22
+P0059,67,84.8021978021978,24,35.82,JuniorWear Pants Black 7,Boys Clothing,38.52
+P0002,67,85.15789473684211,28,41.79,TinyTrends Shirts Navy 3T,Boys Clothing,36.16
+P0047,67,82.13684210526316,28,41.79,TinyTrends Shirts Red 10,Boys Clothing,37.11
+P0034,67,80.79381443298969,30,44.78,PetitMode Shirts Beige 8,Boys Clothing,16.65
+P0392,67,85.27659574468085,27,40.3,LittleFashion Skirts Blue 14,Girls Clothing,25.07
+P0427,67,77.56382978723404,27,40.3,PetitMode Skirts Purple 10,Girls Clothing,23.4
+P0417,67,84.52688172043011,26,38.81,TinyTrends Skirts Navy 6,Girls Clothing,20.63
+P0510,67,91.32608695652173,25,37.31,SmallStyle Jackets Gray 8,Girls Clothing,51.62
+P0503,67,87.14736842105263,28,41.79,SmallStyle Jackets Pink 2T,Girls Clothing,47.26
+P0177,67,82.65168539325843,22,32.84,KiddoFashion Jackets Blue 6,Boys Clothing,33.74
+P0176,67,79.4950495049505,34,50.75,MiniMode Jackets Yellow 10,Boys Clothing,28.6
+P0636,67,79.78571428571429,31,46.27,TinyTrends Rompers Green 12-18M,Infants,26.76
+P0211,67,84.92222222222222,23,34.33,KidsStyle Sweaters Yellow 4T,Boys Clothing,38.12
+P0530,67,84.86666666666666,23,34.33,PetitMode Jackets Red 12,Girls Clothing,34.2
+P0198,67,75.97916666666667,29,43.28,KidsStyle Jackets Yellow 2T,Boys Clothing,23.25
+P0657,67,78.07843137254902,35,52.24,YouthStyle Rompers Pink 0-3M,Infants,22.78
+P0526,67,74.68085106382979,27,40.3,JuniorWear Jackets White 14,Girls Clothing,49.99
+P0316,67,85.58947368421053,28,41.79,YouthStyle Tops Blue 12,Girls Clothing,43.53
+P0679,67,74.53125,29,43.28,LittleFashion Bibs Beige 12-18M,Infants,32.32
+P0341,67,84.25842696629213,22,32.84,BabyChic Tops Orange 10,Girls Clothing,47.68
+P0706,67,89.01149425287356,20,29.85,PetitMode Bibs Black 0-3M,Infants,13.56
+P0160,67,82.23157894736842,28,41.79,MiniMode Jackets Yellow 10,Boys Clothing,17.16
+P0700,67,79.5625,29,43.28,JuniorWear Bibs Blue 3-6M,Infants,24.66
+P0552,66,91.47126436781609,21,31.82,PetitMode Onesies Pink 18-24M,Infants,31.86
+P0426,66,75.3578947368421,29,43.94,KiddoFashion Skirts Gray 7,Girls Clothing,17.68
+P0334,66,81.27173913043478,26,39.39,LittleFashion Tops Gray 12,Girls Clothing,24.84
+P0533,66,77.80645161290323,27,40.91,YouthStyle Jackets Blue 4T,Girls Clothing,31.85
+P0430,66,86.72727272727273,22,33.33,LittleFashion Skirts Navy 14,Girls Clothing,37.59
+P0298,66,77.63218390804597,21,31.82,BabyChic Dresses Blue 14,Girls Clothing,50.87
+P0559,66,86.87777777777778,24,36.36,SmallStyle Onesies Black 18-24M,Infants,10.47
+P0361,66,82.6043956043956,25,37.88,KiddoFashion Tops Orange 14,Girls Clothing,52.53
+P0489,66,80.61290322580645,27,40.91,KidsStyle Leggings Navy 10,Girls Clothing,38.8
+P0326,66,86.44086021505376,27,40.91,SmallStyle Tops Green 2T,Girls Clothing,18.48
+P0369,66,83.76086956521739,26,39.39,PetitMode Tops Yellow 6,Girls Clothing,30.7
+P0332,66,79.31868131868131,25,37.88,BabyChic Tops Green 7,Girls Clothing,39.23
+P0466,66,76.56521739130434,26,39.39,BabyChic Leggings Beige 8,Girls Clothing,20.57
+P0331,66,86.02298850574712,21,31.82,BabyChic Tops Yellow 2T,Girls Clothing,29.24
+P0414,66,89.96511627906976,20,30.3,BabyChic Skirts Pink 8,Girls Clothing,28.85
+P0148,66,80.8265306122449,32,48.48,KiddoFashion Shorts Blue 6,Boys Clothing,16.19
+P0600,66,93.36904761904762,18,27.27,LittleFashion Sleepwear Blue 0-3M,Infants,28.24
+P0871,66,87.63333333333334,24,36.36,JuniorWear Belts Gray L,Accessories,33.96
+P0875,66,77.16,34,51.52,PetitMode Belts Pink S,Accessories,31.61
+P0215,66,82.13541666666667,30,45.45,KiddoFashion Sweaters Yellow 4T,Boys Clothing,23.58
+P0063,66,80.9247311827957,27,40.91,JuniorWear Pants Pink 5T,Boys Clothing,19.52
+P0152,66,84.02272727272727,22,33.33,SmallStyle Jackets Yellow 4T,Boys Clothing,29.84
+P0069,66,83.96739130434783,26,39.39,JuniorWear Pants Pink 7,Boys Clothing,29.12
+P0852,66,79.28888888888889,24,36.36,BabyChic Socks Yellow M,Accessories,15.91
+P0142,66,85.76595744680851,28,42.42,KiddoFashion Shorts Yellow 7,Boys Clothing,24.39
+P0885,66,88.35227272727273,22,33.33,KiddoFashion Belts Purple M,Accessories,18.16
+P0830,66,78.70103092783505,31,46.97,LittleFashion Bags Orange M,Accessories,18.89
+P0203,66,86.55913978494624,27,40.91,PetitMode Sweaters Pink 10,Boys Clothing,22.56
+P0244,66,81.5,22,33.33,YouthStyle Sweaters Navy 12,Boys Clothing,13.5
+P0080,66,81.03092783505154,31,46.97,PetitMode Pants Black 6,Boys Clothing,19.84
+P0589,66,74.05050505050505,33,50.0,BabyChic Onesies Yellow 6-12M,Infants,29.06
+P0135,66,77.6082474226804,31,46.97,MiniMode Shorts White 4T,Boys Clothing,23.86
+P0009,66,79.49462365591398,27,40.91,YouthStyle Shirts Blue 12,Boys Clothing,22.04
+P0751,66,88.26436781609195,21,31.82,PetitMode Shoes Yellow L,Accessories,23.17
+P0867,66,85.64044943820225,23,34.85,TinyTrends Socks Beige XS,Accessories,23.45
+P0667,66,81.16129032258064,27,40.91,TinyTrends Rompers Green 3-6M,Infants,14.17
+P0033,66,92.94047619047619,18,27.27,LittleFashion Shirts Yellow 10,Boys Clothing,21.27
+P0454,65,81.13684210526316,30,46.15,KidsStyle Leggings Yellow 5T,Girls Clothing,47.7
+P0519,65,90.77906976744185,21,32.31,MiniMode Jackets Navy 3T,Girls Clothing,28.59
+P0167,65,85.80645161290323,28,43.08,KidsStyle Jackets Gray 14,Boys Clothing,12.47
+P0518,65,83.03333333333333,25,38.46,KidsStyle Jackets Yellow 7,Girls Clothing,18.08
+P0168,65,72.25531914893617,29,44.62,LittleFashion Jackets Purple 14,Boys Clothing,13.52
+P0696,65,82.75280898876404,24,36.92,JuniorWear Bibs Yellow 18-24M,Infants,14.37
+P0343,65,82.88505747126437,22,33.85,BabyChic Tops Blue 12,Girls Clothing,52.18
+P0515,65,80.72448979591837,33,50.77,TinyTrends Jackets Pink 3T,Girls Clothing,27.76
+P0523,65,79.14285714285714,33,50.77,SmallStyle Jackets Navy 5T,Girls Clothing,50.44
+P0740,65,82.57142857142857,26,40.0,JuniorWear Blankets Black 18-24M,Infants,29.54
+P0742,65,72.36734693877551,33,50.77,YouthStyle Blankets Navy 18-24M,Infants,22.7
+P0137,65,73.94897959183673,33,50.77,PetitMode Shorts Green 12,Boys Clothing,40.61
+P0827,65,74.55913978494624,28,43.08,SmallStyle Bags Beige S,Accessories,14.21
+P0134,65,77.10309278350516,32,49.23,KidsStyle Shorts Purple 8,Boys Clothing,35.0
+P0085,65,79.56989247311827,28,43.08,PetitMode Pants Gray 2T,Boys Clothing,13.35
+P0817,65,76.16494845360825,32,49.23,SmallStyle Bags Green XS,Accessories,28.27
+P0099,65,85.06896551724138,22,33.85,TinyTrends Pants Black 4T,Boys Clothing,35.96
+P0865,65,83.20238095238095,19,29.23,KiddoFashion Socks Gray L,Accessories,33.49
+P0315,65,81.87640449438203,24,36.92,TinyTrends Tops Pink 3T,Girls Clothing,16.47
+P0040,65,80.0721649484536,32,49.23,PetitMode Shirts Pink 10,Boys Clothing,23.83
+P0300,65,76.86315789473684,30,46.15,SmallStyle Dresses Beige 8,Girls Clothing,22.69
+P0580,65,77.6304347826087,27,41.54,YouthStyle Onesies Purple 6-12M,Infants,31.54
+P0282,65,73.3069306930693,36,55.38,SmallStyle Dresses Pink 5T,Girls Clothing,20.45
+P0896,65,93.2289156626506,18,27.69,KidsStyle Belts Green L,Accessories,10.26
+P0256,65,84.54838709677419,28,43.08,JuniorWear Dresses Navy 7,Girls Clothing,39.54
+P0597,65,82.1086956521739,27,41.54,SmallStyle Sleepwear Red 0-3M,Infants,17.34
+P0015,65,82.19318181818181,23,35.38,YouthStyle Shirts Yellow 4T,Boys Clothing,31.55
+P0020,65,78.72631578947369,30,46.15,SmallStyle Shirts Black 12,Boys Clothing,34.58
+P0610,65,73.81818181818181,34,52.31,JuniorWear Sleepwear Gray 12-18M,Infants,25.67
+P0428,65,92.14606741573034,24,36.92,LittleFashion Skirts Beige 3T,Girls Clothing,23.21
+P0880,65,77.79775280898876,24,36.92,JuniorWear Belts Navy S,Accessories,8.84
+P0541,65,81.85227272727273,23,35.38,PetitMode Jackets Pink 10,Girls Clothing,46.45
+P0802,65,80.8695652173913,27,41.54,PetitMode Hats Navy L,Accessories,12.93
+P0654,65,83.51724137931035,22,33.85,MiniMode Rompers Gray 0-3M,Infants,27.28
+P0656,65,81.14893617021276,29,44.62,YouthStyle Rompers Beige 3-6M,Infants,10.16
+P0388,65,79.33333333333333,31,47.69,JuniorWear Skirts Beige 8,Girls Clothing,46.89
+P0783,65,84.06818181818181,23,35.38,KidsStyle Hats Orange M,Accessories,33.79
+P0649,65,74.5204081632653,33,50.77,LittleFashion Rompers Red 6-12M,Infants,12.52
+P0413,65,81.51578947368421,30,46.15,TinyTrends Skirts Navy 6,Girls Clothing,36.5
+P0529,65,82.91208791208791,26,40.0,TinyTrends Jackets Navy 8,Girls Clothing,45.69
+P0027,65,80.51648351648352,26,40.0,PetitMode Shirts Blue 12,Boys Clothing,43.0
+P0003,64,85.33720930232558,22,34.38,MiniMode Shirts Green 2T,Boys Clothing,17.15
+P0092,64,80.45161290322581,29,45.31,KiddoFashion Pants Purple 14,Boys Clothing,42.51
+P0826,64,83.03448275862068,23,35.94,BabyChic Bags Yellow M,Accessories,6.27
+P0006,64,84.98837209302326,22,34.38,BabyChic Shirts Yellow 4T,Boys Clothing,12.68
+P0364,64,82.13333333333334,26,40.62,KiddoFashion Tops Purple 7,Girls Clothing,20.59
+P0060,64,89.48314606741573,25,39.06,BabyChic Pants Blue 6,Boys Clothing,41.45
+P0054,64,79.93548387096774,29,45.31,PetitMode Pants Blue 4T,Boys Clothing,25.54
+P0011,64,79.58585858585859,35,54.69,JuniorWear Shirts Blue 2T,Boys Clothing,32.19
+P0888,64,83.81395348837209,22,34.38,KidsStyle Belts Orange XS,Accessories,32.54
+P0014,64,83.63529411764706,21,32.81,LittleFashion Shirts Orange 3T,Boys Clothing,18.59
+P0058,64,79.2247191011236,25,39.06,BabyChic Pants Yellow 14,Boys Clothing,32.9
+P0053,64,73.12631578947368,31,48.44,SmallStyle Pants Purple 2T,Boys Clothing,41.95
+P0371,64,90.5764705882353,21,32.81,SmallStyle Skirts Pink 4T,Girls Clothing,33.51
+P0461,64,87.78823529411764,21,32.81,JuniorWear Leggings Green 4T,Girls Clothing,49.74
+P0205,64,73.50537634408602,29,45.31,MiniMode Sweaters Black 10,Boys Clothing,41.88
+P0775,64,74.98947368421052,31,48.44,SmallStyle Shoes Red XL,Accessories,6.52
+P0548,64,87.25287356321839,23,35.94,YouthStyle Jackets Purple 7,Girls Clothing,24.23
+P0522,64,90.2235294117647,21,32.81,KiddoFashion Jackets Blue 8,Girls Clothing,27.75
+P0681,64,90.97619047619048,20,31.25,LittleFashion Bibs Beige 6-12M,Infants,32.63
+P0675,64,81.06741573033707,25,39.06,BabyChic Bibs Red 6-12M,Infants,34.67
+P0305,64,79.06451612903226,29,45.31,PetitMode Dresses Beige 3T,Girls Clothing,35.14
+P0638,64,79.26966292134831,25,39.06,MiniMode Rompers Orange 0-3M,Infants,20.97
+P0230,64,84.14117647058823,21,32.81,MiniMode Sweaters Gray 10,Boys Clothing,13.86
+P0609,64,80.68539325842697,25,39.06,MiniMode Sleepwear Red 0-3M,Infants,10.22
+P0708,64,84.51724137931035,23,35.94,KiddoFashion Bibs Navy 12-18M,Infants,22.34
+P0241,64,81.2159090909091,24,37.5,YouthStyle Sweaters Gray 10,Boys Clothing,32.77
+P0292,64,83.72043010752688,29,45.31,BabyChic Dresses Beige 10,Girls Clothing,34.7
+P0592,64,82.45454545454545,24,37.5,SmallStyle Sleepwear Green 0-3M,Infants,25.08
+P0588,64,80.82978723404256,30,46.88,LittleFashion Onesies Gray 12-18M,Infants,25.12
+P0263,64,81.7752808988764,25,39.06,TinyTrends Dresses Red 14,Girls Clothing,48.53
+P0281,64,80.64367816091954,23,35.94,MiniMode Dresses Blue 7,Girls Clothing,43.16
+P0164,64,75.77272727272727,24,37.5,YouthStyle Jackets Yellow 10,Boys Clothing,30.29
+P0688,64,82.82978723404256,30,46.88,KiddoFashion Bibs Black 3-6M,Infants,14.68
+P0744,64,82.21111111111111,26,40.62,TinyTrends Blankets Purple 6-12M,Infants,18.7
+P0736,64,86.02222222222223,26,40.62,YouthStyle Blankets Red 6-12M,Infants,23.31
+P0733,64,87.44444444444444,26,40.62,MiniMode Blankets White 0-3M,Infants,34.98
+P0772,64,73.3061224489796,34,53.12,KidsStyle Shoes Green S,Accessories,24.86
+P0352,64,77.28888888888889,26,40.62,PetitMode Tops White 14,Girls Clothing,28.46
+P0741,64,88.66666666666667,20,31.25,JuniorWear Blankets Green 6-12M,Infants,30.08
+P0572,64,89.21428571428571,20,31.25,TinyTrends Onesies Green 0-3M,Infants,26.31
+P0766,64,74.45263157894736,31,48.44,PetitMode Shoes Green XS,Accessories,15.9
+P0883,63,85.04395604395604,28,44.44,LittleFashion Belts Red M,Accessories,10.25
+P0493,63,84.71910112359551,26,41.27,TinyTrends Jackets Blue 8,Girls Clothing,44.13
+P0884,63,83.26190476190476,21,33.33,JuniorWear Belts White S,Accessories,30.81
+P0490,63,80.6,32,50.79,KiddoFashion Leggings Red 14,Girls Clothing,34.85
+P0887,63,89.08536585365853,19,30.16,LittleFashion Belts Orange XS,Accessories,36.22
+P0757,63,86.61904761904762,21,33.33,SmallStyle Shoes Blue XL,Accessories,38.44
+P0488,63,87.13095238095238,21,33.33,LittleFashion Leggings Red 5T,Girls Clothing,16.25
+P0813,63,78.69473684210526,32,50.79,TinyTrends Bags Blue M,Accessories,11.14
+P0586,63,80.63636363636364,25,39.68,KidsStyle Onesies Blue 6-12M,Infants,24.66
+P0898,63,79.3529411764706,22,34.92,BabyChic Belts Black S,Accessories,6.46
+P0574,63,79.05434782608695,29,46.03,KidsStyle Onesies Navy 3-6M,Infants,29.53
+P0621,63,90.10112359550561,26,41.27,SmallStyle Sleepwear Gray 0-3M,Infants,31.45
+P0841,63,87.7710843373494,20,31.75,MiniMode Socks Gray XL,Accessories,17.11
+P0622,63,78.5909090909091,25,39.68,BabyChic Sleepwear Red 12-18M,Infants,28.81
+P0711,63,78.92222222222222,27,42.86,KiddoFashion Blankets Pink 3-6M,Infants,16.54
+P0539,63,72.41836734693878,35,55.56,PetitMode Jackets Beige 6,Girls Clothing,30.37
+P0643,63,83.26666666666667,27,42.86,LittleFashion Rompers Navy 0-3M,Infants,16.81
+P0664,63,90.56962025316456,16,25.4,YouthStyle Rompers Yellow 18-24M,Infants,12.92
+P0835,63,83.65060240963855,20,31.75,LittleFashion Bags Red M,Accessories,9.07
+P0433,63,85.75555555555556,27,42.86,YouthStyle Leggings Green 2T,Girls Clothing,31.03
+P0863,63,83.02298850574712,24,38.1,KidsStyle Socks Pink XS,Accessories,29.23
+P0788,63,97.85185185185185,18,28.57,LittleFashion Hats Red XS,Accessories,12.59
+P0436,63,88.26829268292683,19,30.16,LittleFashion Leggings Black 10,Girls Clothing,29.93
+P0460,63,82.44318181818181,25,39.68,MiniMode Leggings Orange 8,Girls Clothing,45.54
+P0698,63,76.73033707865169,26,41.27,BabyChic Bibs Red 3-6M,Infants,17.1
+P0508,63,73.05555555555556,27,42.86,BabyChic Jackets Red 14,Girls Clothing,43.22
+P0701,63,84.47727272727273,25,39.68,KiddoFashion Bibs Purple 6-12M,Infants,12.51
+P0456,63,82.67415730337079,26,41.27,BabyChic Leggings Pink 5T,Girls Clothing,38.61
+P0569,63,80.3932584269663,26,41.27,PetitMode Onesies Red 18-24M,Infants,30.98
+P0001,63,81.9659090909091,25,39.68,JuniorWear Shirts Green 3T,Boys Clothing,24.36
+P0179,63,76.45977011494253,24,38.1,TinyTrends Jackets Green 12,Boys Clothing,12.87
+P0264,63,85.70588235294117,22,34.92,TinyTrends Dresses Yellow 14,Girls Clothing,31.59
+P0101,63,76.98850574712644,24,38.1,KiddoFashion Shorts Gray 10,Boys Clothing,33.19
+P0288,63,80.75,25,39.68,JuniorWear Dresses Blue 2T,Girls Clothing,49.49
+P0274,63,75.08510638297872,31,49.21,SmallStyle Dresses Black 14,Girls Clothing,19.54
+P0227,63,87.8953488372093,23,36.51,MiniMode Sweaters Purple 2T,Boys Clothing,26.0
+P0162,63,74.02197802197803,28,44.44,LittleFashion Jackets Blue 4T,Boys Clothing,33.79
+P0266,63,76.76923076923077,28,44.44,TinyTrends Dresses White 5T,Girls Clothing,47.52
+P0169,63,85.32183908045977,24,38.1,LittleFashion Jackets Navy 10,Boys Clothing,40.23
+P0184,63,80.11363636363636,25,39.68,JuniorWear Jackets Red 7,Boys Clothing,43.72
+P0070,63,86.95294117647059,22,34.92,PetitMode Pants Red 12,Boys Clothing,24.0
+P0356,63,79.2183908045977,24,38.1,LittleFashion Tops Blue 5T,Girls Clothing,45.41
+P0186,63,76.86046511627907,23,36.51,BabyChic Jackets Orange 10,Boys Clothing,15.33
+P0190,63,79.7741935483871,30,47.62,KidsStyle Jackets Pink 4T,Boys Clothing,38.88
+P0238,63,79.71428571428571,28,44.44,BabyChic Sweaters Orange 10,Boys Clothing,29.41
+P0193,63,83.30232558139535,23,36.51,BabyChic Jackets Navy 10,Boys Clothing,36.26
+P0348,63,86.76404494382022,26,41.27,LittleFashion Tops Navy 4T,Girls Clothing,19.59
+P0225,63,81.21428571428571,21,33.33,SmallStyle Sweaters Beige 12,Boys Clothing,24.42
+P0079,63,84.0,24,38.1,BabyChic Pants Yellow 5T,Boys Clothing,34.18
+P0138,63,84.25301204819277,20,31.75,PetitMode Shorts Green 8,Boys Clothing,28.87
+P0228,63,87.15384615384616,28,44.44,BabyChic Sweaters Orange 7,Boys Clothing,15.67
+P0005,63,83.04597701149426,24,38.1,KiddoFashion Shirts Navy 8,Boys Clothing,31.84
+P0024,63,85.58620689655173,24,38.1,JuniorWear Shirts Orange 10,Boys Clothing,22.29
+P0303,63,85.24137931034483,24,38.1,MiniMode Dresses White 6,Girls Clothing,19.83
+P0013,62,81.31460674157303,27,43.55,BabyChic Shirts Green 4T,Boys Clothing,27.05
+P0838,62,83.25882352941177,23,37.1,MiniMode Bags Orange XL,Accessories,32.65
+P0029,62,81.12941176470588,23,37.1,PetitMode Shirts Red 4T,Boys Clothing,14.92
+P0333,62,76.26966292134831,27,43.55,BabyChic Tops Pink 3T,Girls Clothing,19.07
+P0400,62,81.06741573033707,27,43.55,SmallStyle Skirts Yellow 3T,Girls Clothing,42.87
+P0685,62,79.52808988764045,27,43.55,BabyChic Bibs Purple 3-6M,Infants,12.85
+P0262,62,76.08510638297872,32,51.61,LittleFashion Dresses White 10,Girls Clothing,53.8
+P0253,62,80.52941176470588,23,37.1,JuniorWear Dresses Navy 8,Girls Clothing,42.39
+P0678,62,78.57142857142857,29,46.77,LittleFashion Bibs Pink 6-12M,Infants,21.14
+P0023,62,87.5764705882353,23,37.1,TinyTrends Shirts Black 8,Boys Clothing,20.54
+P0185,62,86.82352941176471,23,37.1,KiddoFashion Jackets Pink 14,Boys Clothing,18.46
+P0246,62,89.275,18,29.03,YouthStyle Sweaters Purple 12,Boys Clothing,27.04
+P0672,62,89.15294117647059,23,37.1,LittleFashion Bibs Purple 18-24M,Infants,31.44
+P0715,62,67.69148936170212,32,51.61,PetitMode Blankets Purple 6-12M,Infants,25.26
+P0891,62,84.5609756097561,20,32.26,YouthStyle Belts Green S,Accessories,6.34
+P0480,62,88.36144578313252,21,33.87,BabyChic Leggings Black 5T,Girls Clothing,21.65
+P0188,62,88.67816091954023,25,40.32,MiniMode Jackets Black 14,Boys Clothing,14.35
+P0416,62,78.85227272727273,26,41.94,MiniMode Skirts Orange 10,Girls Clothing,23.98
+P0008,62,81.80246913580247,19,30.65,JuniorWear Shirts Red 7,Boys Clothing,18.0
+P0412,62,81.6547619047619,22,35.48,BabyChic Skirts Purple 5T,Girls Clothing,28.34
+P0204,62,72.93258426966293,27,43.55,JuniorWear Sweaters Gray 7,Boys Clothing,24.84
+P0650,62,83.30952380952381,22,35.48,MiniMode Rompers Blue 18-24M,Infants,25.18
+P0897,62,90.82142857142857,22,35.48,JuniorWear Belts White S,Accessories,22.93
+P0629,62,81.9090909090909,26,41.94,MiniMode Sleepwear Orange 0-3M,Infants,13.41
+P0579,62,89.5909090909091,26,41.94,KiddoFashion Onesies Pink 3-6M,Infants,12.28
+P0847,62,78.3409090909091,26,41.94,BabyChic Socks Navy XS,Accessories,18.95
+P0718,62,85.82716049382717,19,30.65,TinyTrends Blankets Yellow 0-3M,Infants,11.77
+P0450,62,82.6,28,45.16,YouthStyle Leggings Pink 2T,Girls Clothing,15.52
+P0077,62,82.91666666666667,22,35.48,KiddoFashion Pants Green 8,Boys Clothing,16.78
+P0313,62,93.91358024691358,19,30.65,JuniorWear Tops Red 14,Girls Clothing,39.73
+P0546,62,79.66292134831461,27,43.55,BabyChic Jackets Gray 3T,Girls Clothing,52.71
+P0437,62,88.4047619047619,22,35.48,JuniorWear Leggings White 6,Girls Clothing,40.76
+P0816,62,83.9,18,29.03,KiddoFashion Bags Pink XS,Accessories,31.47
+P0094,62,79.43010752688173,31,50.0,PetitMode Pants Gray 3T,Boys Clothing,38.97
+P0807,62,90.09756097560975,20,32.26,KiddoFashion Hats Purple L,Accessories,23.65
+P0787,62,81.04597701149426,25,40.32,KiddoFashion Hats Yellow M,Accessories,30.79
+P0563,62,74.69565217391305,30,48.39,PetitMode Onesies Orange 3-6M,Infants,25.69
+P0048,62,75.01075268817205,31,50.0,MiniMode Shirts Pink 2T,Boys Clothing,37.44
+P0311,62,81.1,28,45.16,SmallStyle Tops Purple 5T,Girls Clothing,22.38
+P0724,62,88.77922077922078,15,24.19,KiddoFashion Blankets Beige 6-12M,Infants,26.7
+P0748,62,85.33734939759036,21,33.87,KiddoFashion Blankets Yellow 3-6M,Infants,24.29
+P0425,62,88.5764705882353,23,37.1,JuniorWear Skirts Navy 2T,Girls Clothing,35.09
+P0575,62,82.84146341463415,20,32.26,PetitMode Onesies Pink 6-12M,Infants,30.97
+P0455,62,88.16455696202532,17,27.42,PetitMode Leggings Black 12,Girls Clothing,25.38
+P0860,62,81.83333333333333,28,45.16,MiniMode Socks Gray XS,Accessories,39.43
+P0377,62,72.08888888888889,28,45.16,KiddoFashion Skirts Purple 10,Girls Clothing,40.11
+P0547,61,84.75294117647059,24,39.34,PetitMode Jackets Pink 4T,Girls Clothing,39.31
+P0542,61,76.17777777777778,29,47.54,JuniorWear Jackets Black 10,Girls Clothing,31.7
+P0615,61,75.65116279069767,25,40.98,MiniMode Sleepwear Blue 3-6M,Infants,34.57
+P0614,61,79.60240963855422,22,36.07,TinyTrends Sleepwear Yellow 12-18M,Infants,18.74
+P0271,61,78.20689655172414,26,42.62,YouthStyle Dresses Orange 4T,Girls Clothing,53.16
+P0568,61,87.3625,19,31.15,TinyTrends Onesies Navy 18-24M,Infants,26.45
+P0581,61,84.2560975609756,21,34.43,PetitMode Onesies Beige 0-3M,Infants,30.3
+P0550,61,88.4,19,31.15,SmallStyle Jackets Black 5T,Girls Clothing,46.18
+P0239,61,81.17647058823529,24,39.34,MiniMode Sweaters Navy 10,Boys Clothing,14.44
+P0608,61,84.54878048780488,21,34.43,TinyTrends Sleepwear Red 3-6M,Infants,26.73
+P0554,61,88.01204819277109,22,36.07,SmallStyle Onesies Black 18-24M,Infants,18.7
+P0270,61,84.275,19,31.15,TinyTrends Dresses Red 6,Girls Clothing,33.02
+P0251,61,79.53488372093024,25,40.98,KidsStyle Dresses Navy 4T,Girls Clothing,42.93
+P0286,61,81.78571428571429,23,37.7,JuniorWear Dresses Navy 10,Girls Clothing,35.56
+P0536,61,82.11627906976744,25,40.98,TinyTrends Jackets Green 14,Girls Clothing,26.85
+P0411,61,79.44565217391305,31,50.82,MiniMode Skirts Yellow 12,Girls Clothing,47.11
+P0624,61,79.44186046511628,25,40.98,MiniMode Sleepwear Beige 18-24M,Infants,11.54
+P0097,61,88.14117647058823,24,39.34,KiddoFashion Pants Black 14,Boys Clothing,41.71
+P0767,61,79.51162790697674,25,40.98,MiniMode Shoes Beige XS,Accessories,30.07
+P0773,61,76.88505747126437,26,42.62,SmallStyle Shoes Orange S,Accessories,38.7
+P0113,61,72.73563218390805,26,42.62,KiddoFashion Shorts Red 6,Boys Clothing,20.75
+P0776,61,73.30588235294118,24,39.34,TinyTrends Shoes Black XS,Accessories,38.3
+P0102,61,80.10588235294118,24,39.34,KiddoFashion Shorts Navy 14,Boys Clothing,17.33
+P0805,61,79.4,24,39.34,MiniMode Hats Orange XS,Accessories,13.18
+P0089,61,80.14772727272727,27,44.26,MiniMode Pants Black 12,Boys Clothing,34.8
+P0226,61,85.0,28,45.9,KiddoFashion Sweaters Navy 8,Boys Clothing,37.65
+P0823,61,72.58823529411765,24,39.34,LittleFashion Bags Beige S,Accessories,8.12
+P0850,61,87.05128205128206,17,27.87,LittleFashion Socks Black XS,Accessories,38.71
+P0056,61,81.14285714285714,23,37.7,SmallStyle Pants Green 8,Boys Clothing,21.56
+P0050,61,76.34117647058824,24,39.34,JuniorWear Shirts Purple 2T,Boys Clothing,12.84
+P0031,61,78.71428571428571,30,49.18,MiniMode Shirts Navy 5T,Boys Clothing,24.83
+P0893,61,85.0246913580247,20,32.79,PetitMode Belts Red L,Accessories,28.08
+P0737,61,80.33333333333333,26,42.62,MiniMode Blankets Gray 3-6M,Infants,31.72
+P0732,61,83.9186046511628,25,40.98,BabyChic Blankets Purple 3-6M,Infants,10.88
+P0723,61,83.87209302325581,25,40.98,BabyChic Blankets Red 12-18M,Infants,31.44
+P0712,61,74.70454545454545,27,44.26,KidsStyle Blankets Black 3-6M,Infants,9.12
+P0703,61,80.4320987654321,20,32.79,LittleFashion Bibs Purple 12-18M,Infants,25.92
+P0165,61,84.36842105263158,15,24.59,TinyTrends Jackets Navy 10,Boys Clothing,25.85
+P0695,61,88.2560975609756,21,34.43,MiniMode Bibs Green 0-3M,Infants,34.19
+P0171,61,76.89024390243902,21,34.43,LittleFashion Jackets White 7,Boys Clothing,28.22
+P0680,61,79.73033707865169,28,45.9,SmallStyle Bibs Pink 6-12M,Infants,15.47
+P0532,61,88.67857142857143,23,37.7,JuniorWear Jackets Green 10,Girls Clothing,45.73
+P0673,61,85.55434782608695,31,50.82,SmallStyle Bibs Green 0-3M,Infants,28.05
+P0671,61,79.1590909090909,27,44.26,LittleFashion Bibs Navy 18-24M,Infants,14.96
+P0669,61,80.23076923076923,30,49.18,LittleFashion Rompers Green 6-12M,Infants,13.39
+P0668,61,82.8170731707317,21,34.43,KidsStyle Rompers Green 6-12M,Infants,34.32
+P0658,61,76.30337078651685,28,45.9,JuniorWear Rompers Purple 3-6M,Infants,20.21
+P0648,61,82.51136363636364,27,44.26,YouthStyle Rompers Orange 3-6M,Infants,29.62
+P0208,61,79.60919540229885,26,42.62,KidsStyle Sweaters Navy 2T,Boys Clothing,32.85
+P0534,61,78.67415730337079,28,45.9,YouthStyle Jackets Orange 10,Girls Clothing,24.55
+P0194,61,85.47560975609755,21,34.43,PetitMode Jackets Black 3T,Boys Clothing,21.31
+P0405,61,93.7560975609756,21,34.43,BabyChic Skirts Black 2T,Girls Clothing,33.03
+P0410,61,89.15294117647059,24,39.34,KiddoFashion Skirts Green 6,Girls Clothing,17.19
+P0486,61,87.1566265060241,22,36.07,PetitMode Leggings Gray 10,Girls Clothing,41.55
+P0445,61,75.75280898876404,28,45.9,KiddoFashion Leggings Pink 10,Girls Clothing,18.98
+P0462,61,76.26086956521739,31,50.82,SmallStyle Leggings Gray 7,Girls Clothing,50.78
+P0459,61,73.52325581395348,25,40.98,KidsStyle Leggings Green 10,Girls Clothing,26.78
+P0512,60,75.81111111111112,30,50.0,YouthStyle Jackets Beige 6,Girls Clothing,51.98
+P0812,60,84.70370370370371,21,35.0,PetitMode Bags Navy L,Accessories,24.68
+P0100,60,84.08974358974359,18,30.0,KidsStyle Pants Orange 12,Boys Clothing,41.27
+P0798,60,83.59493670886076,19,31.67,KiddoFashion Hats Red XS,Accessories,30.35
+P0564,60,79.39080459770115,27,45.0,YouthStyle Onesies Beige 12-18M,Infants,10.35
+P0109,60,76.72289156626506,23,38.33,KidsStyle Shorts Green 10,Boys Clothing,22.74
+P0768,60,84.67816091954023,27,45.0,TinyTrends Shoes Black M,Accessories,19.47
+P0716,60,79.38823529411765,25,41.67,PetitMode Blankets Black 18-24M,Infants,20.28
+P0157,60,78.95402298850574,27,45.0,LittleFashion Jackets Green 6,Boys Clothing,12.84
+P0821,60,80.24418604651163,26,43.33,KiddoFashion Bags Red XL,Accessories,23.9
+P0158,60,80.95061728395062,21,35.0,KidsStyle Jackets Black 3T,Boys Clothing,39.59
+P0163,60,75.63953488372093,26,43.33,SmallStyle Jackets Yellow 6,Boys Clothing,43.51
+P0365,60,78.82142857142857,24,40.0,PetitMode Tops Gray 7,Girls Clothing,23.07
+P0506,60,79.3855421686747,23,38.33,BabyChic Jackets Red 3T,Girls Clothing,23.85
+P0482,60,93.46835443037975,19,31.67,JuniorWear Leggings Pink 14,Girls Clothing,24.81
+P0216,60,83.87341772151899,19,31.67,TinyTrends Sweaters Pink 3T,Boys Clothing,16.72
+P0630,60,83.95348837209302,26,43.33,JuniorWear Sleepwear Yellow 0-3M,Infants,9.73
+P0287,60,82.5679012345679,21,35.0,JuniorWear Dresses Purple 12,Girls Clothing,30.86
+P0791,60,80.19047619047619,24,40.0,KiddoFashion Hats Navy M,Accessories,13.12
+P0879,60,73.51764705882353,25,41.67,BabyChic Belts White XL,Accessories,38.59
+P0869,60,89.85185185185185,21,35.0,JuniorWear Socks Purple XL,Accessories,20.74
+P0899,60,76.17977528089888,29,48.33,BabyChic Belts Blue XS,Accessories,30.07
+P0310,60,81.28571428571429,24,40.0,MiniMode Dresses Yellow 5T,Girls Clothing,47.25
+P0537,60,89.81012658227849,19,31.67,SmallStyle Jackets Red 7,Girls Clothing,16.68
+P0409,60,96.10126582278481,19,31.67,PetitMode Skirts White 12,Girls Clothing,38.65
+P0894,60,79.17073170731707,22,36.67,PetitMode Belts Pink XL,Accessories,27.28
+P0302,60,80.54545454545455,28,46.67,PetitMode Dresses White 3T,Girls Clothing,22.08
+P0299,60,80.27380952380952,24,40.0,JuniorWear Dresses Gray 4T,Girls Clothing,41.7
+P0016,60,87.46341463414635,22,36.67,BabyChic Shirts Red 12,Boys Clothing,32.05
+P0876,60,91.83333333333333,18,30.0,JuniorWear Belts Green S,Accessories,23.74
+P0619,60,86.2125,20,33.33,LittleFashion Sleepwear Beige 3-6M,Infants,31.34
+P0057,60,81.08333333333333,24,40.0,TinyTrends Pants Black 2T,Boys Clothing,42.68
+P0055,60,74.97752808988764,29,48.33,TinyTrends Pants Gray 3T,Boys Clothing,19.55
+P0178,59,76.16666666666667,25,42.37,LittleFashion Jackets Yellow 14,Boys Clothing,14.33
+P0182,59,80.3855421686747,24,40.68,LittleFashion Jackets Black 10,Boys Clothing,27.12
+P0473,59,77.6375,21,35.59,TinyTrends Leggings Green 14,Girls Clothing,23.26
+P0844,59,75.32530120481928,24,40.68,PetitMode Socks Blue S,Accessories,37.3
+P0443,59,81.9620253164557,20,33.9,PetitMode Leggings Purple 4T,Girls Clothing,47.0
+P0483,59,98.47297297297297,15,25.42,SmallStyle Leggings Green 5T,Girls Clothing,26.55
+P0661,59,88.3076923076923,19,32.2,YouthStyle Rompers Pink 0-3M,Infants,14.67
+P0389,59,74.48275862068965,28,47.46,YouthStyle Skirts Red 7,Girls Clothing,24.17
+P0073,59,77.51162790697674,27,45.76,MiniMode Pants Gray 2T,Boys Clothing,21.4
+P0221,59,84.08433734939759,24,40.68,MiniMode Sweaters Gray 7,Boys Clothing,14.8
+P0347,59,82.3855421686747,24,40.68,BabyChic Tops Orange 3T,Girls Clothing,35.3
+P0828,59,90.09638554216868,24,40.68,BabyChic Bags Beige M,Accessories,8.07
+P0346,59,82.29069767441861,27,45.76,JuniorWear Tops Gray 14,Girls Clothing,27.95
+P0496,59,90.375,21,35.59,MiniMode Jackets Yellow 14,Girls Clothing,46.98
+P0620,59,76.96428571428571,25,42.37,BabyChic Sleepwear Black 0-3M,Infants,34.14
+P0362,59,80.79268292682927,23,38.98,JuniorWear Tops Black 3T,Girls Clothing,17.66
+P0379,59,83.7,21,35.59,BabyChic Skirts Orange 8,Girls Clothing,39.8
+P0046,59,84.9375,21,35.59,JuniorWear Shirts Purple 8,Boys Clothing,15.95
+P0457,59,79.34883720930233,27,45.76,YouthStyle Leggings Navy 3T,Girls Clothing,39.97
+P0037,59,79.33333333333333,25,42.37,PetitMode Shirts Green 2T,Boys Clothing,12.18
+P0378,59,84.08536585365853,23,38.98,BabyChic Skirts Beige 14,Girls Clothing,20.57
+P0117,59,87.9375,21,35.59,BabyChic Shorts Green 6,Boys Clothing,31.04
+P0759,59,77.52325581395348,27,45.76,LittleFashion Shoes Green XS,Accessories,27.66
+P0128,59,74.01149425287356,28,47.46,TinyTrends Shorts Orange 8,Boys Clothing,17.59
+P0739,59,83.88888888888889,22,37.29,SmallStyle Blankets Red 3-6M,Infants,29.81
+P0502,59,71.80459770114942,28,47.46,KidsStyle Jackets Pink 12,Girls Clothing,49.92
+P0795,59,84.60919540229885,28,47.46,YouthStyle Hats Navy S,Accessories,19.99
+P0721,59,73.88505747126437,28,47.46,SmallStyle Blankets Navy 12-18M,Infants,34.19
+P0814,59,81.79220779220779,18,30.51,BabyChic Bags White S,Accessories,12.03
+P0794,59,80.76923076923077,19,32.2,TinyTrends Hats Pink L,Accessories,29.33
+P0010,59,77.66279069767442,27,45.76,SmallStyle Shirts Green 14,Boys Clothing,26.25
+P0710,59,75.14285714285714,25,42.37,PetitMode Bibs Navy 18-24M,Infants,20.21
+P0709,59,84.35,21,35.59,TinyTrends Bibs Black 12-18M,Infants,9.06
+P0820,59,80.2,26,44.07,KiddoFashion Bags Purple XL,Accessories,39.74
+P0531,59,85.46341463414635,23,38.98,JuniorWear Jackets Beige 5T,Girls Clothing,49.95
+P0514,59,84.01234567901234,22,37.29,KiddoFashion Jackets White 2T,Girls Clothing,49.48
+P0254,59,89.90123456790124,22,37.29,PetitMode Dresses Green 3T,Girls Clothing,51.44
+P0556,59,71.69662921348315,30,50.85,JuniorWear Onesies Navy 18-24M,Infants,30.03
+P0247,59,79.24691358024691,22,37.29,KiddoFashion Sweaters Black 8,Boys Clothing,21.15
+P0509,59,93.3108108108108,15,25.42,MiniMode Jackets White 10,Girls Clothing,22.22
+P0582,59,82.43529411764706,26,44.07,BabyChic Onesies Navy 12-18M,Infants,17.05
+P0336,59,87.78481012658227,20,33.9,MiniMode Tops Red 2T,Girls Clothing,21.93
+P0504,59,83.6625,21,35.59,LittleFashion Jackets Navy 3T,Girls Clothing,42.69
+P0517,59,85.5925925925926,22,37.29,PetitMode Jackets Blue 3T,Girls Clothing,24.2
+P0491,58,75.20731707317073,24,41.38,KidsStyle Jackets Red 12,Girls Clothing,28.37
+P0492,58,76.78823529411764,27,46.55,KidsStyle Jackets Orange 12,Girls Clothing,19.26
+P0722,58,91.11111111111111,23,39.66,BabyChic Blankets Beige 0-3M,Infants,26.16
+P0066,58,76.63095238095238,26,44.83,JuniorWear Pants Yellow 12,Boys Clothing,25.77
+P0269,58,74.30337078651685,31,53.45,MiniMode Dresses Pink 5T,Girls Clothing,48.99
+P0375,58,75.09411764705882,27,46.55,JuniorWear Skirts Purple 12,Girls Clothing,51.26
+P0655,58,86.12987012987013,19,32.76,TinyTrends Rompers Red 0-3M,Infants,17.17
+P0249,58,84.8,22,37.93,TinyTrends Sweaters Blue 4T,Boys Clothing,31.26
+P0353,58,78.09411764705882,27,46.55,TinyTrends Tops Red 6,Girls Clothing,17.53
+P0853,58,90.18666666666667,17,29.31,PetitMode Socks Gray XL,Accessories,20.38
+P0327,58,74.48780487804878,24,41.38,KidsStyle Tops Navy 6,Girls Clothing,38.47
+P0370,58,81.59493670886076,21,36.21,PetitMode Tops Blue 6,Girls Clothing,32.57
+P0082,58,79.1358024691358,23,39.66,TinyTrends Pants Navy 6,Boys Clothing,32.91
+P0725,58,83.21794871794872,20,34.48,JuniorWear Blankets Beige 3-6M,Infants,33.5
+P0819,58,78.51764705882353,27,46.55,KidsStyle Bags Gray XS,Accessories,18.98
+P0770,58,84.53164556962025,21,36.21,SmallStyle Shoes Orange L,Accessories,11.35
+P0479,58,91.5657894736842,18,31.03,TinyTrends Leggings Beige 10,Girls Clothing,35.76
+P0808,58,84.10975609756098,24,41.38,TinyTrends Hats Black L,Accessories,16.66
+P0749,58,76.37349397590361,25,43.1,KidsStyle Blankets Navy 12-18M,Infants,24.73
+P0472,58,74.28048780487805,24,41.38,JuniorWear Leggings Black 5T,Girls Clothing,41.06
+P0284,58,91.72151898734177,21,36.21,SmallStyle Dresses Gray 14,Girls Clothing,30.69
+P0801,58,92.87179487179488,20,34.48,MiniMode Hats Purple XS,Accessories,11.72
+P0704,58,85.14285714285714,19,32.76,JuniorWear Bibs Green 12-18M,Infants,30.79
+P0792,58,74.77777777777777,32,55.17,LittleFashion Hats Blue M,Accessories,25.81
+P0108,58,75.55952380952381,26,44.83,YouthStyle Shorts Black 5T,Boys Clothing,35.5
+P0217,58,93.15384615384616,20,34.48,BabyChic Sweaters Blue 8,Boys Clothing,32.4
+P0720,58,81.6125,22,37.93,KiddoFashion Blankets Red 18-24M,Infants,13.45
+P0726,58,79.79518072289157,25,43.1,SmallStyle Blankets Gray 6-12M,Infants,21.42
+P0123,58,85.02439024390245,24,41.38,SmallStyle Shorts Navy 7,Boys Clothing,12.51
+P0639,58,73.84146341463415,24,41.38,SmallStyle Rompers Blue 12-18M,Infants,14.54
+P0419,58,80.78313253012048,25,43.1,KidsStyle Skirts Blue 5T,Girls Clothing,51.59
+P0603,58,78.69135802469135,23,39.66,JuniorWear Sleepwear Green 6-12M,Infants,21.19
+P0738,58,86.04819277108433,25,43.1,KidsStyle Blankets Gray 12-18M,Infants,16.83
+P0019,58,78.31645569620254,21,36.21,JuniorWear Shirts Pink 10,Boys Clothing,22.05
+P0613,58,77.70238095238095,26,44.83,MiniMode Sleepwear Pink 0-3M,Infants,19.33
+P0602,58,84.45569620253164,21,36.21,PetitMode Sleepwear Navy 0-3M,Infants,8.6
+P0881,58,81.36708860759494,21,36.21,KiddoFashion Belts White M,Accessories,20.9
+P0139,58,73.97674418604652,28,48.28,KidsStyle Shorts Blue 10,Boys Clothing,38.34
+P0756,58,72.69662921348315,31,53.45,KiddoFashion Shoes Red L,Accessories,33.45
+P0145,58,76.12658227848101,21,36.21,SmallStyle Shorts Yellow 14,Boys Clothing,21.46
+P0874,58,85.3974358974359,20,34.48,JuniorWear Belts Green XL,Accessories,5.67
+P0573,58,78.31764705882352,27,46.55,YouthStyle Onesies Pink 6-12M,Infants,15.21
+P0243,58,86.6829268292683,24,41.38,JuniorWear Sweaters Navy 3T,Boys Clothing,31.28
+P0686,57,76.90361445783132,26,45.61,TinyTrends Bibs White 3-6M,Infants,34.23
+P0779,57,79.05128205128206,21,36.84,SmallStyle Shoes Navy XL,Accessories,26.38
+P0309,57,87.45454545454545,20,35.09,SmallStyle Dresses Yellow 5T,Girls Clothing,17.44
+P0785,57,88.61538461538461,21,36.84,SmallStyle Hats Gray XS,Accessories,26.84
+P0242,57,86.72972972972973,17,29.82,TinyTrends Sweaters White 10,Boys Clothing,27.0
+P0136,57,76.54320987654322,24,42.11,SmallStyle Shorts Beige 7,Boys Clothing,38.71
+P0585,57,79.6547619047619,27,47.37,SmallStyle Onesies Pink 6-12M,Infants,8.17
+P0799,57,90.79746835443038,22,38.6,PetitMode Hats Beige M,Accessories,14.6
+P0170,57,85.32051282051282,21,36.84,KiddoFashion Jackets White 10,Boys Clothing,27.65
+P0804,57,74.26829268292683,25,43.86,BabyChic Hats Green XS,Accessories,7.37
+P0236,57,76.34939759036145,26,45.61,KidsStyle Sweaters Pink 14,Boys Clothing,12.4
+P0538,57,82.10126582278481,22,38.6,YouthStyle Jackets Blue 8,Girls Clothing,54.51
+P0796,57,83.09638554216868,26,45.61,SmallStyle Hats Black L,Accessories,29.24
+P0161,57,92.8082191780822,16,28.07,YouthStyle Jackets Blue 14,Boys Clothing,30.12
+P0743,57,96.73913043478261,12,21.05,PetitMode Blankets Gray 18-24M,Infants,16.76
+P0439,57,89.475,23,40.35,PetitMode Leggings Purple 7,Girls Clothing,43.64
+P0381,57,80.9367088607595,22,38.6,TinyTrends Skirts Red 5T,Girls Clothing,21.07
+P0729,57,88.65333333333334,18,31.58,LittleFashion Blankets Orange 18-24M,Infants,26.62
+P0872,57,78.63855421686748,26,45.61,PetitMode Belts Orange M,Accessories,31.93
+P0119,57,82.67469879518072,26,45.61,PetitMode Shorts Red 10,Boys Clothing,21.27
+P0494,57,83.09756097560975,25,43.86,SmallStyle Jackets Orange 5T,Girls Clothing,42.54
+P0354,57,73.0,24,42.11,YouthStyle Tops Orange 10,Girls Clothing,27.89
+P0717,57,79.18823529411765,28,49.12,SmallStyle Blankets Navy 3-6M,Infants,21.2
+P0465,57,70.9247311827957,36,63.16,PetitMode Leggings Purple 4T,Girls Clothing,40.34
+P0355,57,76.4875,23,40.35,MiniMode Tops Navy 6,Girls Clothing,25.19
+P0665,57,79.83333333333333,27,47.37,MiniMode Rompers Red 6-12M,Infants,25.79
+P0598,57,82.24691358024691,24,42.11,BabyChic Sleepwear Beige 3-6M,Infants,9.24
+P0477,57,79.025,23,40.35,BabyChic Leggings Yellow 5T,Girls Clothing,22.01
+P0232,57,73.1046511627907,29,50.88,PetitMode Sweaters Green 5T,Boys Clothing,36.62
+P0858,57,78.20731707317073,25,43.86,MiniMode Socks White XS,Accessories,7.04
+P0513,56,81.89333333333333,19,33.93,BabyChic Jackets White 4T,Girls Clothing,52.77
+P0367,56,79.50617283950618,25,44.64,JuniorWear Tops Pink 12,Girls Clothing,41.61
+P0778,56,79.97402597402598,21,37.5,JuniorWear Shoes Black S,Accessories,12.98
+P0111,56,84.0126582278481,23,41.07,JuniorWear Shorts Black 2T,Boys Clothing,33.7
+P0511,56,77.97333333333333,19,33.93,MiniMode Jackets Beige 14,Girls Clothing,42.9
+P0705,56,72.525,24,42.86,LittleFashion Bibs Beige 18-24M,Infants,23.8
+P0463,56,78.09876543209876,25,44.64,LittleFashion Leggings Gray 5T,Girls Clothing,32.01
+P0159,56,80.03703703703704,25,44.64,KidsStyle Jackets Green 10,Boys Clothing,25.5
+P0376,56,87.34210526315789,20,35.71,TinyTrends Skirts Beige 6,Girls Clothing,19.68
+P0777,56,72.7710843373494,27,48.21,JuniorWear Shoes Purple XS,Accessories,33.67
+P0576,56,79.48809523809524,28,50.0,JuniorWear Onesies Orange 6-12M,Infants,27.13
+P0259,56,80.9090909090909,21,37.5,BabyChic Dresses Red 6,Girls Clothing,30.06
+P0606,56,86.24675324675324,21,37.5,PetitMode Sleepwear Red 18-24M,Infants,19.51
+P0275,56,73.0813953488372,30,53.57,TinyTrends Dresses Black 8,Girls Clothing,35.81
+P0383,56,72.14942528735632,31,55.36,MiniMode Skirts Pink 14,Girls Clothing,16.34
+P0297,56,82.21052631578948,20,35.71,JuniorWear Dresses Beige 8,Girls Clothing,22.28
+P0399,56,80.6025641025641,22,39.29,KiddoFashion Skirts Red 14,Girls Clothing,52.28
+P0045,56,72.72839506172839,25,44.64,MiniMode Shirts Orange 5T,Boys Clothing,41.28
+P0222,56,80.16455696202532,23,41.07,YouthStyle Sweaters Blue 10,Boys Clothing,24.35
+P0549,56,71.02247191011236,33,58.93,YouthStyle Jackets Black 4T,Girls Clothing,23.82
+P0106,56,83.21518987341773,23,41.07,BabyChic Shorts White 5T,Boys Clothing,30.11
+P0052,56,92.94666666666667,19,33.93,PetitMode Pants Red 2T,Boys Clothing,22.37
+P0429,56,83.6891891891892,18,32.14,KidsStyle Skirts Beige 6,Girls Clothing,16.46
+P0061,56,88.02631578947368,20,35.71,TinyTrends Pants Blue 14,Boys Clothing,38.65
+P0842,56,87.75675675675676,18,32.14,PetitMode Socks Beige M,Accessories,27.43
+P0202,56,85.91025641025641,22,39.29,KiddoFashion Sweaters Yellow 10,Boys Clothing,28.67
+P0545,56,85.07792207792208,21,37.5,BabyChic Jackets Blue 10,Girls Clothing,54.65
+P0839,56,81.92207792207792,21,37.5,YouthStyle Bags Black XS,Accessories,7.83
+P0481,56,91.4,19,33.93,KidsStyle Leggings Yellow 5T,Girls Clothing,18.31
+P0525,56,79.07692307692308,22,39.29,BabyChic Jackets Purple 14,Girls Clothing,49.8
+P0674,56,80.55696202531645,23,41.07,BabyChic Bibs Navy 12-18M,Infants,17.34
+P0527,56,85.46052631578948,20,35.71,LittleFashion Jackets Black 10,Girls Clothing,52.56
+P0363,56,76.66233766233766,21,37.5,YouthStyle Tops Navy 12,Girls Clothing,37.98
+P0285,56,85.45945945945945,18,32.14,LittleFashion Dresses Purple 7,Girls Clothing,51.17
+P0307,56,75.34146341463415,26,46.43,LittleFashion Dresses Beige 4T,Girls Clothing,40.12
+P0380,56,81.15384615384616,22,39.29,KiddoFashion Skirts Blue 7,Girls Clothing,50.76
+P0687,56,83.74074074074075,25,44.64,YouthStyle Bibs Purple 0-3M,Infants,31.07
+P0173,56,93.41891891891892,18,32.14,BabyChic Jackets Blue 7,Boys Clothing,25.15
+P0172,56,82.90361445783132,27,48.21,PetitMode Jackets Red 6,Boys Clothing,17.72
+P0258,56,78.45121951219512,26,46.43,JuniorWear Dresses Red 2T,Girls Clothing,16.81
+P0889,55,84.35526315789474,21,38.18,YouthStyle Belts Navy XL,Accessories,29.08
+P0012,55,74.64197530864197,26,47.27,JuniorWear Shirts Purple 3T,Boys Clothing,21.64
+P0544,55,75.48101265822785,24,43.64,KiddoFashion Jackets White 5T,Girls Clothing,39.54
+P0754,55,76.10975609756098,27,49.09,BabyChic Shoes Green XS,Accessories,25.31
+P0752,55,77.82278481012658,24,43.64,JuniorWear Shoes Blue XL,Accessories,5.9
+P0126,55,76.75,25,45.45,TinyTrends Shorts Beige 14,Boys Clothing,21.72
+P0422,55,81.0253164556962,24,43.64,KidsStyle Skirts Blue 7,Girls Clothing,22.12
+P0856,55,79.52054794520548,18,32.73,PetitMode Socks Beige L,Accessories,10.32
+P0124,55,85.03846153846153,23,41.82,TinyTrends Shorts Navy 4T,Boys Clothing,26.13
+P0030,55,79.4342105263158,21,38.18,TinyTrends Shirts White 10,Boys Clothing,13.49
+P0873,55,81.42105263157895,21,38.18,SmallStyle Belts Navy XS,Accessories,19.57
+P0329,55,84.67088607594937,24,43.64,TinyTrends Tops Orange 12,Girls Clothing,26.35
+P0118,55,81.0875,25,45.45,JuniorWear Shorts Black 7,Boys Clothing,18.44
+P0862,55,84.54666666666667,20,36.36,KiddoFashion Socks Beige S,Accessories,15.61
+P0825,55,79.17333333333333,20,36.36,YouthStyle Bags Navy XL,Accessories,32.37
+P0324,55,79.59210526315789,21,38.18,MiniMode Tops Black 3T,Girls Clothing,38.74
+P0811,55,79.8125,25,45.45,BabyChic Bags Red L,Accessories,21.28
+P0800,55,81.65789473684211,21,38.18,PetitMode Hats Orange S,Accessories,8.0
+P0280,55,79.12658227848101,24,43.64,PetitMode Dresses Green 3T,Girls Clothing,45.21
+P0442,55,74.27272727272727,22,40.0,MiniMode Leggings Navy 12,Girls Clothing,15.79
+P0900,55,77.15,25,45.45,SmallStyle Belts Orange M,Accessories,7.49
+P0662,55,82.98648648648648,19,34.55,PetitMode Rompers Red 18-24M,Infants,31.54
+P0151,55,81.27272727272727,22,40.0,TinyTrends Jackets Navy 8,Boys Clothing,13.71
+P0683,55,85.81333333333333,20,36.36,SmallStyle Bibs Blue 18-24M,Infants,27.79
+P0252,55,80.67469879518072,28,50.91,YouthStyle Dresses White 7,Girls Clothing,27.38
+P0192,55,78.79220779220779,22,40.0,YouthStyle Jackets Gray 2T,Boys Clothing,32.76
+P0153,55,84.39473684210526,21,38.18,YouthStyle Jackets Navy 3T,Boys Clothing,35.96
+P0626,55,81.03896103896103,22,40.0,LittleFashion Sleepwear Red 12-18M,Infants,29.51
+P0625,55,91.82432432432432,19,34.55,MiniMode Sleepwear Red 0-3M,Infants,32.86
+P0469,55,81.0375,25,45.45,PetitMode Leggings Black 10,Girls Clothing,15.74
+P0616,55,85.10126582278481,24,43.64,SmallStyle Sleepwear Navy 0-3M,Infants,32.14
+P0140,55,78.15492957746478,16,29.09,JuniorWear Shorts Gray 8,Boys Clothing,35.16
+P0149,54,76.05,26,48.15,KiddoFashion Shorts Purple 14,Boys Clothing,37.41
+P0822,54,86.53623188405797,15,27.78,SmallStyle Bags Purple XL,Accessories,23.23
+P0434,54,81.02631578947368,22,40.74,SmallStyle Leggings Beige 7,Girls Clothing,21.21
+P0832,54,81.075,26,48.15,PetitMode Bags Yellow XL,Accessories,37.18
+P0453,54,80.48717948717949,24,44.44,PetitMode Leggings Black 3T,Girls Clothing,31.86
+P0418,54,80.0,19,35.19,KidsStyle Skirts Gray 5T,Girls Clothing,34.93
+P0786,54,83.06666666666666,21,38.89,TinyTrends Hats Beige XS,Accessories,25.53
+P0699,54,82.16438356164383,19,35.19,KiddoFashion Bibs Green 6-12M,Infants,19.63
+P0166,54,74.08,21,38.89,JuniorWear Jackets Red 7,Boys Clothing,23.75
+P0593,54,88.44927536231884,15,27.78,KidsStyle Sleepwear Beige 12-18M,Infants,10.77
+P0335,54,81.20270270270271,20,37.04,TinyTrends Tops Beige 4T,Girls Clothing,22.46
+P0095,54,78.1125,26,48.15,MiniMode Pants Gray 7,Boys Clothing,29.48
+P0441,54,91.62857142857143,16,29.63,TinyTrends Leggings Navy 12,Girls Clothing,24.24
+P0691,54,86.52702702702703,20,37.04,TinyTrends Bibs Blue 6-12M,Infants,12.42
+P0342,54,83.0,23,42.59,YouthStyle Tops Navy 8,Girls Clothing,21.84
+P0325,54,82.72368421052632,22,40.74,TinyTrends Tops Purple 10,Girls Clothing,46.57
+P0444,54,78.75949367088607,25,46.3,KiddoFashion Leggings Blue 5T,Girls Clothing,41.11
+P0074,54,79.6219512195122,28,51.85,PetitMode Pants Black 3T,Boys Clothing,32.12
+P0068,54,77.68354430379746,25,46.3,YouthStyle Pants Yellow 2T,Boys Clothing,43.12
+P0447,54,88.09722222222223,18,33.33,YouthStyle Leggings Yellow 6,Girls Clothing,48.21
+P0760,54,89.0,16,29.63,LittleFashion Shoes White XL,Accessories,13.52
+P0774,54,79.32051282051282,24,44.44,YouthStyle Shoes Gray M,Accessories,33.21
+P0449,54,79.84615384615384,24,44.44,KidsStyle Leggings Blue 3T,Girls Clothing,26.73
+P0245,54,79.42465753424658,19,35.19,SmallStyle Sweaters Black 10,Boys Clothing,43.36
+P0293,54,82.0632911392405,25,46.3,MiniMode Dresses Beige 4T,Girls Clothing,40.34
+P0248,54,78.56756756756756,20,37.04,BabyChic Sweaters Gray 7,Boys Clothing,27.3
+P0861,54,84.63157894736842,22,40.74,YouthStyle Socks Gray S,Accessories,9.98
+P0659,54,84.45833333333333,18,33.33,SmallStyle Rompers Navy 0-3M,Infants,22.21
+P0231,53,78.62162162162163,21,39.62,BabyChic Sweaters Green 2T,Boys Clothing,15.88
+P0476,53,83.57894736842105,23,43.4,SmallStyle Leggings Beige 10,Girls Clothing,39.02
+P0524,53,67.87951807228916,30,56.6,JuniorWear Jackets Red 3T,Girls Clothing,24.32
+P0633,53,82.84931506849315,20,37.74,MiniMode Rompers Beige 18-24M,Infants,8.31
+P0635,53,89.6891891891892,21,39.62,KidsStyle Rompers White 18-24M,Infants,24.2
+P0039,53,78.88461538461539,25,47.17,PetitMode Shirts Green 7,Boys Clothing,37.45
+P0440,53,78.74025974025975,24,45.28,SmallStyle Leggings Blue 5T,Girls Clothing,16.08
+P0520,53,92.61428571428571,17,32.08,LittleFashion Jackets Yellow 8,Girls Clothing,17.61
+P0394,53,81.98611111111111,19,35.85,PetitMode Skirts Red 12,Girls Clothing,38.34
+P0350,53,78.56944444444444,19,35.85,YouthStyle Tops Navy 7,Girls Clothing,21.17
+P0555,53,84.17808219178082,20,37.74,BabyChic Onesies White 18-24M,Infants,26.79
+P0684,53,85.74647887323944,18,33.96,TinyTrends Bibs Green 3-6M,Infants,27.33
+P0553,53,79.25,23,43.4,TinyTrends Onesies Yellow 3-6M,Infants,34.86
+P0452,53,83.6056338028169,18,33.96,PetitMode Leggings Pink 8,Girls Clothing,22.26
+P0780,53,71.64102564102564,25,47.17,PetitMode Shoes Beige L,Accessories,34.4
+P0697,53,83.48611111111111,19,35.85,SmallStyle Bibs Orange 0-3M,Infants,12.58
+P0103,53,81.78947368421052,23,43.4,KiddoFashion Shorts Pink 8,Boys Clothing,32.01
+P0112,53,77.25675675675676,21,39.62,SmallStyle Shorts Green 12,Boys Clothing,15.09
+P0277,53,77.3896103896104,24,45.28,TinyTrends Dresses Green 3T,Girls Clothing,37.08
+P0507,53,82.48648648648648,21,39.62,BabyChic Jackets Navy 5T,Girls Clothing,52.76
+P0028,52,79.0,22,42.31,SmallStyle Shirts Green 6,Boys Clothing,31.73
+P0882,52,75.7948717948718,26,50.0,LittleFashion Belts Navy M,Accessories,8.43
+P0448,52,91.91428571428571,18,34.62,TinyTrends Leggings Red 5T,Girls Clothing,41.72
+P0396,52,85.03030303030303,14,26.92,LittleFashion Skirts White 14,Girls Clothing,21.13
+P0632,52,84.70422535211267,19,36.54,SmallStyle Rompers Green 18-24M,Infants,16.38
+P0323,52,74.76712328767124,21,40.38,TinyTrends Tops Yellow 12,Girls Clothing,19.79
+P0317,52,87.5,18,34.62,KidsStyle Tops Black 10,Girls Clothing,35.47
+P0220,52,76.1875,28,53.85,KidsStyle Sweaters Navy 5T,Boys Clothing,35.31
+P0147,52,83.72222222222223,20,38.46,JuniorWear Shorts Red 12,Boys Clothing,39.15
+P0866,52,86.85714285714286,18,34.62,YouthStyle Socks Gray M,Accessories,15.72
+P0707,52,83.42857142857143,18,34.62,KidsStyle Bibs Black 3-6M,Infants,15.28
+P0086,52,80.04225352112677,19,36.54,YouthStyle Pants Blue 5T,Boys Clothing,34.36
+P0233,52,89.32835820895522,15,28.85,LittleFashion Sweaters Navy 5T,Boys Clothing,43.75
+P0295,52,85.75,16,30.77,YouthStyle Dresses White 6,Girls Clothing,20.12
+P0612,52,76.77333333333333,23,44.23,LittleFashion Sleepwear Yellow 18-24M,Infants,19.67
+P0338,52,77.52054794520548,21,40.38,KidsStyle Tops Gray 10,Girls Clothing,31.42
+P0890,52,79.1891891891892,22,42.31,PetitMode Belts Orange XL,Accessories,13.91
+P0501,52,92.53030303030303,14,26.92,KidsStyle Jackets Blue 10,Girls Clothing,22.41
+P0366,52,80.33333333333333,23,44.23,PetitMode Tops Red 4T,Girls Clothing,21.57
+P0090,52,83.23684210526316,24,46.15,SmallStyle Pants Yellow 4T,Boys Clothing,42.91
+P0666,51,76.98684210526316,25,49.02,PetitMode Rompers White 0-3M,Infants,22.99
+P0848,51,79.23287671232876,22,43.14,KiddoFashion Socks Navy XL,Accessories,17.86
+P0391,51,83.87323943661971,20,39.22,PetitMode Skirts Yellow 12,Girls Clothing,42.76
+P0322,51,81.80281690140845,20,39.22,MiniMode Tops Pink 2T,Girls Clothing,23.46
+P0368,51,86.52941176470588,17,33.33,PetitMode Tops Yellow 5T,Girls Clothing,29.35
+P0840,51,82.28169014084507,20,39.22,KidsStyle Bags Beige XL,Accessories,11.07
+P0209,51,79.5068493150685,22,43.14,SmallStyle Sweaters White 6,Boys Clothing,21.68
+P0730,51,79.1891891891892,23,45.1,MiniMode Blankets Green 0-3M,Infants,13.82
+P0769,51,70.57692307692308,27,52.94,TinyTrends Shoes Red M,Accessories,11.34
+P0257,51,79.48051948051948,26,50.98,SmallStyle Dresses Gray 12,Girls Clothing,52.31
+P0155,51,82.50704225352112,20,39.22,YouthStyle Jackets Yellow 6,Boys Clothing,38.24
+P0114,51,72.48684210526316,25,49.02,KiddoFashion Shorts Pink 8,Boys Clothing,44.11
+P0468,51,75.19736842105263,25,49.02,MiniMode Leggings Yellow 10,Girls Clothing,21.87
+P0782,51,84.65333333333334,24,47.06,PetitMode Hats Green S,Accessories,32.32
+P0131,51,78.23611111111111,21,41.18,PetitMode Shorts Purple 6,Boys Clothing,32.3
+P0702,51,87.16666666666667,21,41.18,PetitMode Bibs Black 6-12M,Infants,8.99
+P0017,51,82.7605633802817,20,39.22,JuniorWear Shirts Blue 7,Boys Clothing,14.15
+P0694,51,75.85135135135135,23,45.1,SmallStyle Bibs Black 12-18M,Infants,28.88
+P0818,51,83.22972972972973,23,45.1,KiddoFashion Bags Green L,Accessories,37.45
+P0478,51,85.32307692307693,14,27.45,JuniorWear Leggings Yellow 12,Girls Clothing,31.75
+P0278,50,83.67164179104478,17,34.0,TinyTrends Dresses Black 8,Girls Clothing,50.07
+P0224,50,76.11267605633803,21,42.0,YouthStyle Sweaters Purple 12,Boys Clothing,44.54
+P0083,50,90.76923076923077,15,30.0,SmallStyle Pants Orange 7,Boys Clothing,14.98
+P0570,50,76.73972602739725,23,46.0,YouthStyle Onesies Blue 18-24M,Infants,20.98
+P0213,50,80.78571428571429,20,40.0,YouthStyle Sweaters Pink 6,Boys Clothing,13.9
+P0653,50,91.75384615384615,15,30.0,SmallStyle Rompers Yellow 0-3M,Infants,27.14
+P0895,50,87.42647058823529,18,36.0,SmallStyle Belts Gray S,Accessories,7.33
+P0120,50,83.2,15,30.0,KidsStyle Shorts Green 3T,Boys Clothing,33.3
+P0803,50,70.64788732394366,21,42.0,KiddoFashion Hats Purple S,Accessories,7.43
+P0294,50,83.08695652173913,19,38.0,SmallStyle Dresses Pink 12,Girls Clothing,18.03
+P0345,50,81.81818181818181,16,32.0,BabyChic Tops Purple 4T,Girls Clothing,45.78
+P0857,49,75.17391304347827,20,40.82,PetitMode Socks Orange XL,Accessories,32.33
+P0122,49,80.08955223880596,18,36.73,MiniMode Shorts Purple 3T,Boys Clothing,42.19
+P0390,49,79.34285714285714,21,42.86,PetitMode Skirts Yellow 5T,Girls Clothing,43.8
+P0359,49,86.70588235294117,19,38.78,PetitMode Tops Green 4T,Girls Clothing,48.22
+P0174,49,79.79166666666667,23,46.94,PetitMode Jackets Purple 12,Boys Clothing,32.96
+P0129,49,91.98387096774194,13,26.53,KiddoFashion Shorts Blue 2T,Boys Clothing,42.89
+P0652,49,83.58461538461539,16,32.65,YouthStyle Rompers White 3-6M,Infants,9.4
+P0824,49,90.63636363636364,17,34.69,SmallStyle Bags Navy XS,Accessories,9.47
+P0735,49,84.23529411764706,19,38.78,JuniorWear Blankets Beige 6-12M,Infants,31.51
+P0035,48,73.67164179104478,19,39.58,BabyChic Shirts Purple 6,Boys Clothing,14.46
+P0116,48,76.69565217391305,21,43.75,LittleFashion Shorts Purple 3T,Boys Clothing,38.23
+P0384,48,80.44615384615385,17,35.42,JuniorWear Skirts Purple 10,Girls Clothing,45.5
+P0351,48,82.91803278688525,13,27.08,BabyChic Tops White 4T,Girls Clothing,36.3
+P0041,48,78.22222222222223,24,50.0,MiniMode Shirts Purple 14,Boys Clothing,40.48
+P0797,48,82.6875,16,33.33,LittleFashion Hats Purple XL,Accessories,9.49
+P0831,48,83.5909090909091,18,37.5,BabyChic Bags Orange M,Accessories,26.02
+P0849,48,87.8529411764706,20,41.67,PetitMode Socks Green XS,Accessories,5.9
+P0590,47,85.3913043478261,22,46.81,YouthStyle Onesies Gray 3-6M,Infants,28.55
+P0340,47,75.32352941176471,21,44.68,KiddoFashion Tops Black 8,Girls Clothing,53.78
+P0407,47,74.3731343283582,20,42.55,PetitMode Skirts Green 2T,Girls Clothing,19.99
+P0594,47,97.36666666666666,13,27.66,KiddoFashion Sleepwear Blue 12-18M,Infants,26.57
+P0132,47,83.640625,17,36.17,BabyChic Shorts Green 14,Boys Clothing,16.62
+P0143,47,95.33333333333333,13,27.66,MiniMode Shorts White 5T,Boys Clothing,31.08
+P0308,47,83.18461538461538,18,38.3,KidsStyle Dresses Black 4T,Girls Clothing,49.94
+P0223,47,90.34375,17,36.17,KiddoFashion Sweaters Blue 2T,Boys Clothing,38.82
+P0395,47,76.20588235294117,21,44.68,KiddoFashion Skirts Orange 4T,Girls Clothing,33.48
+P0714,46,80.63076923076923,19,41.3,YouthStyle Blankets Orange 0-3M,Infants,8.13
+P0219,46,84.84375,18,39.13,YouthStyle Sweaters Gray 6,Boys Clothing,14.4
+P0498,45,85.53225806451613,17,37.78,KidsStyle Jackets Beige 10,Girls Clothing,29.44
+P0763,45,71.92424242424242,21,46.67,KiddoFashion Shoes Blue XL,Accessories,22.01
+P0423,45,96.88135593220339,14,31.11,KidsStyle Skirts Pink 5T,Girls Clothing,20.95
+P0663,45,83.36923076923077,20,44.44,KiddoFashion Rompers White 12-18M,Infants,34.35
+P0273,45,81.10344827586206,13,28.89,KiddoFashion Dresses Blue 8,Girls Clothing,39.73
+P0753,45,83.90163934426229,16,35.56,LittleFashion Shoes Gray M,Accessories,18.31
+P0290,44,82.15384615384616,21,47.73,KiddoFashion Dresses Navy 12,Girls Clothing,34.68
+P0646,44,75.56923076923077,21,47.73,TinyTrends Rompers Blue 12-18M,Infants,18.72
+P0692,44,81.95238095238095,19,43.18,TinyTrends Bibs Orange 12-18M,Infants,34.17
+P0591,44,79.84126984126983,19,43.18,TinyTrends Sleepwear Red 12-18M,Infants,34.0
+P0408,43,84.87719298245614,14,32.56,YouthStyle Skirts White 10,Girls Clothing,49.8
+P0628,41,71.79310344827586,17,41.46,SmallStyle Sleepwear White 6-12M,Infants,26.51
+P0833,40,80.51724137931035,18,45.0,TinyTrends Bags Red XS,Accessories,39.73
+P0207,36,78.20833333333333,12,33.33,KidsStyle Sweaters Gray 6,Boys Clothing,43.37

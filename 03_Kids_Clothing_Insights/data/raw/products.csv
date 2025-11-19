@@ -1,0 +1,901 @@
+ProductID,ProductName,Category,Subcategory,Size,Season,Color,Brand,Cost,Price,SupplierID,LaunchDate,Margin
+P0001,JuniorWear Shirts Green 3T,Boys Clothing,Shirts,3T,Spring,Green,JuniorWear,14.44,24.36,SUP004,2022-05-23,40.72
+P0002,TinyTrends Shirts Navy 3T,Boys Clothing,Shirts,3T,All Season,Navy,TinyTrends,19.52,36.16,SUP007,2022-02-02,46.02
+P0003,MiniMode Shirts Green 2T,Boys Clothing,Shirts,2T,Spring,Green,MiniMode,8.12,17.15,SUP009,2023-09-09,52.65
+P0004,MiniMode Shirts Beige 2T,Boys Clothing,Shirts,2T,All Season,Beige,MiniMode,8.07,13.92,SUP011,2023-07-13,42.03
+P0005,KiddoFashion Shirts Navy 8,Boys Clothing,Shirts,8,Summer,Navy,KiddoFashion,17.71,31.84,SUP005,2022-01-07,44.38
+P0006,BabyChic Shirts Yellow 4T,Boys Clothing,Shirts,4T,Winter,Yellow,BabyChic,7.55,12.68,SUP003,2022-08-09,40.46
+P0007,TinyTrends Shirts Black 7,Boys Clothing,Shirts,7,Spring,Black,TinyTrends,19.02,39.47,SUP002,2023-01-03,51.81
+P0008,JuniorWear Shirts Red 7,Boys Clothing,Shirts,7,All Season,Red,JuniorWear,8.6,18.0,SUP012,2023-04-16,52.22
+P0009,YouthStyle Shirts Blue 12,Boys Clothing,Shirts,12,Spring,Blue,YouthStyle,11.65,22.04,SUP009,2022-10-28,47.14
+P0010,SmallStyle Shirts Green 14,Boys Clothing,Shirts,14,Fall,Green,SmallStyle,12.96,26.25,SUP012,2022-03-13,50.63
+P0011,JuniorWear Shirts Blue 2T,Boys Clothing,Shirts,2T,Summer,Blue,JuniorWear,15.16,32.19,SUP014,2022-08-27,52.9
+P0012,JuniorWear Shirts Purple 3T,Boys Clothing,Shirts,3T,Winter,Purple,JuniorWear,10.93,21.64,SUP011,2023-01-09,49.49
+P0013,BabyChic Shirts Green 4T,Boys Clothing,Shirts,4T,Fall,Green,BabyChic,15.36,27.05,SUP011,2022-10-01,43.22
+P0014,LittleFashion Shirts Orange 3T,Boys Clothing,Shirts,3T,All Season,Orange,LittleFashion,9.8,18.59,SUP012,2022-09-08,47.28
+P0015,YouthStyle Shirts Yellow 4T,Boys Clothing,Shirts,4T,Winter,Yellow,YouthStyle,14.42,31.55,SUP015,2023-10-18,54.29
+P0016,BabyChic Shirts Red 12,Boys Clothing,Shirts,12,Summer,Red,BabyChic,15.24,32.05,SUP004,2022-02-02,52.45
+P0017,JuniorWear Shirts Blue 7,Boys Clothing,Shirts,7,Winter,Blue,JuniorWear,8.38,14.15,SUP004,2023-08-04,40.78
+P0018,KiddoFashion Shirts Black 7,Boys Clothing,Shirts,7,Summer,Black,KiddoFashion,25.06,43.87,SUP015,2023-10-21,42.88
+P0019,JuniorWear Shirts Pink 10,Boys Clothing,Shirts,10,Summer,Pink,JuniorWear,10.25,22.05,SUP004,2023-07-29,53.51
+P0020,SmallStyle Shirts Black 12,Boys Clothing,Shirts,12,Fall,Black,SmallStyle,17.84,34.58,SUP015,2023-08-21,48.41
+P0021,MiniMode Shirts Pink 8,Boys Clothing,Shirts,8,Fall,Pink,MiniMode,8.4,16.03,SUP009,2023-05-21,47.6
+P0022,TinyTrends Shirts Pink 3T,Boys Clothing,Shirts,3T,Spring,Pink,TinyTrends,7.7,13.13,SUP011,2022-06-13,41.36
+P0023,TinyTrends Shirts Black 8,Boys Clothing,Shirts,8,All Season,Black,TinyTrends,11.28,20.54,SUP007,2023-09-03,45.08
+P0024,JuniorWear Shirts Orange 10,Boys Clothing,Shirts,10,All Season,Orange,JuniorWear,11.77,22.29,SUP014,2022-01-12,47.2
+P0025,JuniorWear Shirts Gray 3T,Boys Clothing,Shirts,3T,All Season,Gray,JuniorWear,14.35,30.04,SUP006,2022-04-25,52.23
+P0026,LittleFashion Shirts Purple 6,Boys Clothing,Shirts,6,Winter,Purple,LittleFashion,24.92,44.0,SUP001,2022-09-27,43.36
+P0027,PetitMode Shirts Blue 12,Boys Clothing,Shirts,12,Summer,Blue,PetitMode,25.12,43.0,SUP014,2023-10-03,41.58
+P0028,SmallStyle Shirts Green 6,Boys Clothing,Shirts,6,All Season,Green,SmallStyle,18.67,31.73,SUP003,2023-01-18,41.16
+P0029,PetitMode Shirts Red 4T,Boys Clothing,Shirts,4T,All Season,Red,PetitMode,7.15,14.92,SUP010,2022-11-28,52.08
+P0030,TinyTrends Shirts White 10,Boys Clothing,Shirts,10,Spring,White,TinyTrends,6.73,13.49,SUP015,2022-11-11,50.11
+P0031,MiniMode Shirts Navy 5T,Boys Clothing,Shirts,5T,Spring,Navy,MiniMode,12.18,24.83,SUP002,2022-03-29,50.95
+P0032,PetitMode Shirts Pink 10,Boys Clothing,Shirts,10,Spring,Pink,PetitMode,19.81,39.35,SUP003,2023-11-07,49.66
+P0033,LittleFashion Shirts Yellow 10,Boys Clothing,Shirts,10,All Season,Yellow,LittleFashion,11.3,21.27,SUP009,2023-09-14,46.87
+P0034,PetitMode Shirts Beige 8,Boys Clothing,Shirts,8,Summer,Beige,PetitMode,9.5,16.65,SUP012,2022-07-25,42.94
+P0035,BabyChic Shirts Purple 6,Boys Clothing,Shirts,6,Winter,Purple,BabyChic,8.65,14.46,SUP015,2023-06-14,40.18
+P0036,MiniMode Shirts Green 10,Boys Clothing,Shirts,10,Spring,Green,MiniMode,17.98,37.48,SUP002,2022-12-13,52.03
+P0037,PetitMode Shirts Green 2T,Boys Clothing,Shirts,2T,All Season,Green,PetitMode,6.97,12.18,SUP010,2022-08-14,42.78
+P0038,KidsStyle Shirts Green 2T,Boys Clothing,Shirts,2T,Spring,Green,KidsStyle,19.76,35.33,SUP002,2022-02-02,44.07
+P0039,PetitMode Shirts Green 7,Boys Clothing,Shirts,7,Spring,Green,PetitMode,17.27,37.45,SUP005,2023-11-17,53.89
+P0040,PetitMode Shirts Pink 10,Boys Clothing,Shirts,10,Summer,Pink,PetitMode,11.14,23.83,SUP012,2023-08-08,53.25
+P0041,MiniMode Shirts Purple 14,Boys Clothing,Shirts,14,Winter,Purple,MiniMode,22.0,40.48,SUP013,2023-02-21,45.65
+P0042,TinyTrends Shirts Gray 5T,Boys Clothing,Shirts,5T,Spring,Gray,TinyTrends,10.53,22.92,SUP007,2022-12-29,54.06
+P0043,KiddoFashion Shirts Beige 8,Boys Clothing,Shirts,8,Winter,Beige,KiddoFashion,11.1,22.26,SUP001,2023-11-21,50.13
+P0044,YouthStyle Shirts Beige 3T,Boys Clothing,Shirts,3T,Spring,Beige,YouthStyle,19.69,36.08,SUP006,2022-04-22,45.43
+P0045,MiniMode Shirts Orange 5T,Boys Clothing,Shirts,5T,Summer,Orange,MiniMode,21.5,41.28,SUP008,2022-05-24,47.92
+P0046,JuniorWear Shirts Purple 8,Boys Clothing,Shirts,8,Summer,Purple,JuniorWear,8.88,15.95,SUP004,2022-03-19,44.33
+P0047,TinyTrends Shirts Red 10,Boys Clothing,Shirts,10,All Season,Red,TinyTrends,19.82,37.11,SUP011,2023-07-08,46.59
+P0048,MiniMode Shirts Pink 2T,Boys Clothing,Shirts,2T,Spring,Pink,MiniMode,19.62,37.44,SUP007,2023-05-13,47.6
+P0049,YouthStyle Shirts Red 10,Boys Clothing,Shirts,10,Summer,Red,YouthStyle,15.04,29.25,SUP003,2023-01-24,48.58
+P0050,JuniorWear Shirts Purple 2T,Boys Clothing,Shirts,2T,Winter,Purple,JuniorWear,5.99,12.84,SUP005,2023-03-10,53.35
+P0051,LittleFashion Pants Green 12,Boys Clothing,Pants,12,Winter,Green,LittleFashion,7.11,13.04,SUP005,2022-08-11,45.48
+P0052,PetitMode Pants Red 2T,Boys Clothing,Pants,2T,All Season,Red,PetitMode,11.77,22.37,SUP012,2022-11-18,47.38
+P0053,SmallStyle Pants Purple 2T,Boys Clothing,Pants,2T,Spring,Purple,SmallStyle,20.45,41.95,SUP009,2023-06-28,51.25
+P0054,PetitMode Pants Blue 4T,Boys Clothing,Pants,4T,Spring,Blue,PetitMode,14.39,25.54,SUP014,2022-07-10,43.66
+P0055,TinyTrends Pants Gray 3T,Boys Clothing,Pants,3T,All Season,Gray,TinyTrends,9.02,19.55,SUP014,2022-08-29,53.86
+P0056,SmallStyle Pants Green 8,Boys Clothing,Pants,8,Spring,Green,SmallStyle,10.22,21.56,SUP010,2023-09-01,52.6
+P0057,TinyTrends Pants Black 2T,Boys Clothing,Pants,2T,All Season,Black,TinyTrends,24.38,42.68,SUP011,2023-08-21,42.88
+P0058,BabyChic Pants Yellow 14,Boys Clothing,Pants,14,All Season,Yellow,BabyChic,19.11,32.9,SUP004,2023-11-17,41.91
+P0059,JuniorWear Pants Black 7,Boys Clothing,Pants,7,Summer,Black,JuniorWear,18.41,38.52,SUP003,2023-11-19,52.21
+P0060,BabyChic Pants Blue 6,Boys Clothing,Pants,6,Winter,Blue,BabyChic,22.01,41.45,SUP001,2023-04-15,46.9
+P0061,TinyTrends Pants Blue 14,Boys Clothing,Pants,14,All Season,Blue,TinyTrends,22.59,38.65,SUP009,2022-08-07,41.55
+P0062,LittleFashion Pants White 12,Boys Clothing,Pants,12,Fall,White,LittleFashion,10.49,22.49,SUP015,2022-03-12,53.36
+P0063,JuniorWear Pants Pink 5T,Boys Clothing,Pants,5T,Fall,Pink,JuniorWear,10.03,19.52,SUP008,2023-07-11,48.62
+P0064,PetitMode Pants Red 6,Boys Clothing,Pants,6,All Season,Red,PetitMode,22.58,38.99,SUP011,2023-07-22,42.09
+P0065,LittleFashion Pants Yellow 6,Boys Clothing,Pants,6,Spring,Yellow,LittleFashion,6.44,12.23,SUP002,2022-04-20,47.34
+P0066,JuniorWear Pants Yellow 12,Boys Clothing,Pants,12,Summer,Yellow,JuniorWear,12.46,25.77,SUP010,2022-08-04,51.65
+P0067,JuniorWear Pants Orange 7,Boys Clothing,Pants,7,Summer,Orange,JuniorWear,7.99,15.96,SUP008,2022-09-15,49.94
+P0068,YouthStyle Pants Yellow 2T,Boys Clothing,Pants,2T,Spring,Yellow,YouthStyle,21.49,43.12,SUP001,2022-01-04,50.16
+P0069,JuniorWear Pants Pink 7,Boys Clothing,Pants,7,Summer,Pink,JuniorWear,16.17,29.12,SUP012,2023-03-29,44.47
+P0070,PetitMode Pants Red 12,Boys Clothing,Pants,12,Winter,Red,PetitMode,14.3,24.0,SUP002,2022-03-19,40.42
+P0071,KidsStyle Pants White 4T,Boys Clothing,Pants,4T,All Season,White,KidsStyle,21.34,43.76,SUP010,2023-07-20,51.23
+P0072,LittleFashion Pants Red 4T,Boys Clothing,Pants,4T,Winter,Red,LittleFashion,14.07,28.41,SUP005,2023-01-09,50.48
+P0073,MiniMode Pants Gray 2T,Boys Clothing,Pants,2T,Fall,Gray,MiniMode,9.75,21.4,SUP004,2023-11-14,54.44
+P0074,PetitMode Pants Black 3T,Boys Clothing,Pants,3T,Fall,Black,PetitMode,16.88,32.12,SUP010,2022-06-08,47.45
+P0075,LittleFashion Pants Black 5T,Boys Clothing,Pants,5T,Summer,Black,LittleFashion,6.74,13.7,SUP001,2022-07-03,50.8
+P0076,MiniMode Pants Yellow 7,Boys Clothing,Pants,7,Winter,Yellow,MiniMode,20.39,41.97,SUP003,2022-04-21,51.42
+P0077,KiddoFashion Pants Green 8,Boys Clothing,Pants,8,Spring,Green,KiddoFashion,8.78,16.78,SUP004,2023-04-17,47.68
+P0078,MiniMode Pants Green 7,Boys Clothing,Pants,7,Fall,Green,MiniMode,21.66,44.53,SUP001,2023-11-07,51.36
+P0079,BabyChic Pants Yellow 5T,Boys Clothing,Pants,5T,Winter,Yellow,BabyChic,19.29,34.18,SUP014,2022-03-13,43.56
+P0080,PetitMode Pants Black 6,Boys Clothing,Pants,6,Fall,Black,PetitMode,11.1,19.84,SUP011,2023-07-04,44.05
+P0081,TinyTrends Pants Yellow 7,Boys Clothing,Pants,7,Spring,Yellow,TinyTrends,13.15,24.14,SUP003,2023-08-18,45.53
+P0082,TinyTrends Pants Navy 6,Boys Clothing,Pants,6,Spring,Navy,TinyTrends,17.45,32.91,SUP007,2022-12-20,46.98
+P0083,SmallStyle Pants Orange 7,Boys Clothing,Pants,7,Winter,Orange,SmallStyle,8.62,14.98,SUP002,2023-01-30,42.46
+P0084,JuniorWear Pants Red 14,Boys Clothing,Pants,14,Summer,Red,JuniorWear,10.8,22.59,SUP012,2023-03-23,52.19
+P0085,PetitMode Pants Gray 2T,Boys Clothing,Pants,2T,All Season,Gray,PetitMode,7.19,13.35,SUP012,2023-11-18,46.14
+P0086,YouthStyle Pants Blue 5T,Boys Clothing,Pants,5T,Fall,Blue,YouthStyle,15.55,34.36,SUP011,2022-12-05,54.74
+P0087,TinyTrends Pants Beige 14,Boys Clothing,Pants,14,Fall,Beige,TinyTrends,13.99,28.9,SUP015,2022-11-04,51.59
+P0088,YouthStyle Pants White 12,Boys Clothing,Pants,12,Fall,White,YouthStyle,15.85,33.29,SUP007,2022-10-30,52.39
+P0089,MiniMode Pants Black 12,Boys Clothing,Pants,12,Summer,Black,MiniMode,17.68,34.8,SUP011,2023-01-24,49.2
+P0090,SmallStyle Pants Yellow 4T,Boys Clothing,Pants,4T,All Season,Yellow,SmallStyle,20.19,42.91,SUP007,2023-07-16,52.95
+P0091,JuniorWear Pants Green 2T,Boys Clothing,Pants,2T,Fall,Green,JuniorWear,10.86,23.26,SUP007,2023-08-17,53.31
+P0092,KiddoFashion Pants Purple 14,Boys Clothing,Pants,14,Fall,Purple,KiddoFashion,24.72,42.51,SUP008,2023-11-23,41.85
+P0093,KiddoFashion Pants Beige 5T,Boys Clothing,Pants,5T,All Season,Beige,KiddoFashion,11.26,20.51,SUP003,2023-11-06,45.1
+P0094,PetitMode Pants Gray 3T,Boys Clothing,Pants,3T,Fall,Gray,PetitMode,20.78,38.97,SUP011,2023-09-27,46.68
+P0095,MiniMode Pants Gray 7,Boys Clothing,Pants,7,Spring,Gray,MiniMode,14.34,29.48,SUP005,2022-08-19,51.36
+P0096,KidsStyle Pants Red 5T,Boys Clothing,Pants,5T,Summer,Red,KidsStyle,8.81,15.07,SUP004,2023-05-02,41.54
+P0097,KiddoFashion Pants Black 14,Boys Clothing,Pants,14,Spring,Black,KiddoFashion,22.73,41.71,SUP015,2023-10-07,45.5
+P0098,YouthStyle Pants Purple 14,Boys Clothing,Pants,14,Summer,Purple,YouthStyle,11.65,23.19,SUP007,2022-09-07,49.76
+P0099,TinyTrends Pants Black 4T,Boys Clothing,Pants,4T,Spring,Black,TinyTrends,21.02,35.96,SUP004,2022-06-30,41.55
+P0100,KidsStyle Pants Orange 12,Boys Clothing,Pants,12,Winter,Orange,KidsStyle,23.4,41.27,SUP004,2022-05-05,43.3
+P0101,KiddoFashion Shorts Gray 10,Boys Clothing,Shorts,10,Summer,Gray,KiddoFashion,15.35,33.19,SUP009,2023-07-27,53.75
+P0102,KiddoFashion Shorts Navy 14,Boys Clothing,Shorts,14,Fall,Navy,KiddoFashion,10.13,17.33,SUP014,2023-06-01,41.55
+P0103,KiddoFashion Shorts Pink 8,Boys Clothing,Shorts,8,All Season,Pink,KiddoFashion,14.45,32.01,SUP012,2023-05-02,54.86
+P0104,MiniMode Shorts Gray 10,Boys Clothing,Shorts,10,Fall,Gray,MiniMode,8.44,15.35,SUP005,2023-06-18,45.02
+P0105,JuniorWear Shorts Purple 10,Boys Clothing,Shorts,10,Summer,Purple,JuniorWear,5.77,12.17,SUP002,2022-10-20,52.59
+P0106,BabyChic Shorts White 5T,Boys Clothing,Shorts,5T,Fall,White,BabyChic,16.67,30.11,SUP015,2023-07-08,44.64
+P0107,LittleFashion Shorts Green 3T,Boys Clothing,Shorts,3T,Summer,Green,LittleFashion,16.21,33.51,SUP007,2022-06-06,51.63
+P0108,YouthStyle Shorts Black 5T,Boys Clothing,Shorts,5T,Spring,Black,YouthStyle,17.24,35.5,SUP006,2023-07-10,51.44
+P0109,KidsStyle Shorts Green 10,Boys Clothing,Shorts,10,Winter,Green,KidsStyle,12.78,22.74,SUP014,2023-03-07,43.8
+P0110,KidsStyle Shorts Navy 8,Boys Clothing,Shorts,8,All Season,Navy,KidsStyle,19.31,33.44,SUP007,2023-05-04,42.25
+P0111,JuniorWear Shorts Black 2T,Boys Clothing,Shorts,2T,Fall,Black,JuniorWear,18.04,33.7,SUP014,2023-03-06,46.47
+P0112,SmallStyle Shorts Green 12,Boys Clothing,Shorts,12,All Season,Green,SmallStyle,7.62,15.09,SUP008,2022-08-13,49.5
+P0113,KiddoFashion Shorts Red 6,Boys Clothing,Shorts,6,Winter,Red,KiddoFashion,10.1,20.75,SUP007,2022-12-11,51.33
+P0114,KiddoFashion Shorts Pink 8,Boys Clothing,Shorts,8,Summer,Pink,KiddoFashion,22.45,44.11,SUP010,2023-07-01,49.1
+P0115,SmallStyle Shorts Navy 2T,Boys Clothing,Shorts,2T,Winter,Navy,SmallStyle,22.57,41.44,SUP011,2022-01-28,45.54
+P0116,LittleFashion Shorts Purple 3T,Boys Clothing,Shorts,3T,Winter,Purple,LittleFashion,20.09,38.23,SUP003,2022-02-21,47.45
+P0117,BabyChic Shorts Green 6,Boys Clothing,Shorts,6,Winter,Green,BabyChic,16.26,31.04,SUP008,2022-12-01,47.62
+P0118,JuniorWear Shorts Black 7,Boys Clothing,Shorts,7,Winter,Black,JuniorWear,10.3,18.44,SUP005,2022-03-25,44.14
+P0119,PetitMode Shorts Red 10,Boys Clothing,Shorts,10,Spring,Red,PetitMode,9.65,21.27,SUP006,2022-08-18,54.63
+P0120,KidsStyle Shorts Green 3T,Boys Clothing,Shorts,3T,Spring,Green,KidsStyle,15.87,33.3,SUP004,2022-01-21,52.34
+P0121,MiniMode Shorts Pink 14,Boys Clothing,Shorts,14,Summer,Pink,MiniMode,25.53,43.04,SUP008,2023-11-17,40.68
+P0122,MiniMode Shorts Purple 3T,Boys Clothing,Shorts,3T,All Season,Purple,MiniMode,21.33,42.19,SUP012,2022-09-20,49.44
+P0123,SmallStyle Shorts Navy 7,Boys Clothing,Shorts,7,Summer,Navy,SmallStyle,7.37,12.51,SUP012,2022-04-28,41.09
+P0124,TinyTrends Shorts Navy 4T,Boys Clothing,Shorts,4T,Fall,Navy,TinyTrends,15.55,26.13,SUP001,2022-11-16,40.49
+P0125,YouthStyle Shorts Beige 14,Boys Clothing,Shorts,14,Winter,Beige,YouthStyle,25.31,43.8,SUP004,2022-03-19,42.21
+P0126,TinyTrends Shorts Beige 14,Boys Clothing,Shorts,14,Summer,Beige,TinyTrends,11.03,21.72,SUP013,2022-11-05,49.22
+P0127,SmallStyle Shorts Red 14,Boys Clothing,Shorts,14,Spring,Red,SmallStyle,19.95,40.09,SUP006,2023-06-30,50.24
+P0128,TinyTrends Shorts Orange 8,Boys Clothing,Shorts,8,Fall,Orange,TinyTrends,9.38,17.59,SUP011,2022-12-16,46.67
+P0129,KiddoFashion Shorts Blue 2T,Boys Clothing,Shorts,2T,Winter,Blue,KiddoFashion,23.78,42.89,SUP007,2023-01-06,44.56
+P0130,YouthStyle Shorts Pink 10,Boys Clothing,Shorts,10,Summer,Pink,YouthStyle,14.31,30.81,SUP012,2023-06-19,53.55
+P0131,PetitMode Shorts Purple 6,Boys Clothing,Shorts,6,All Season,Purple,PetitMode,19.33,32.3,SUP008,2023-03-23,40.15
+P0132,BabyChic Shorts Green 14,Boys Clothing,Shorts,14,Fall,Green,BabyChic,8.77,16.62,SUP014,2022-03-30,47.23
+P0133,MiniMode Shorts Purple 6,Boys Clothing,Shorts,6,Winter,Purple,MiniMode,22.98,40.95,SUP010,2023-09-17,43.88
+P0134,KidsStyle Shorts Purple 8,Boys Clothing,Shorts,8,Fall,Purple,KidsStyle,19.44,35.0,SUP014,2022-11-29,44.46
+P0135,MiniMode Shorts White 4T,Boys Clothing,Shorts,4T,Winter,White,MiniMode,11.79,23.86,SUP013,2022-09-22,50.59
+P0136,SmallStyle Shorts Beige 7,Boys Clothing,Shorts,7,Fall,Beige,SmallStyle,22.12,38.71,SUP015,2022-10-10,42.86
+P0137,PetitMode Shorts Green 12,Boys Clothing,Shorts,12,Spring,Green,PetitMode,23.84,40.61,SUP002,2022-09-05,41.3
+P0138,PetitMode Shorts Green 8,Boys Clothing,Shorts,8,Winter,Green,PetitMode,15.16,28.87,SUP012,2023-05-03,47.49
+P0139,KidsStyle Shorts Blue 10,Boys Clothing,Shorts,10,Winter,Blue,KidsStyle,20.99,38.34,SUP005,2022-08-15,45.25
+P0140,JuniorWear Shorts Gray 8,Boys Clothing,Shorts,8,Summer,Gray,JuniorWear,20.02,35.16,SUP010,2023-01-13,43.06
+P0141,PetitMode Shorts White 10,Boys Clothing,Shorts,10,All Season,White,PetitMode,20.71,41.37,SUP007,2023-07-18,49.94
+P0142,KiddoFashion Shorts Yellow 7,Boys Clothing,Shorts,7,Fall,Yellow,KiddoFashion,11.32,24.39,SUP005,2022-09-15,53.59
+P0143,MiniMode Shorts White 5T,Boys Clothing,Shorts,5T,Spring,White,MiniMode,14.15,31.08,SUP002,2023-07-03,54.47
+P0144,MiniMode Shorts Beige 4T,Boys Clothing,Shorts,4T,Summer,Beige,MiniMode,14.54,27.36,SUP008,2022-10-11,46.86
+P0145,SmallStyle Shorts Yellow 14,Boys Clothing,Shorts,14,All Season,Yellow,SmallStyle,11.56,21.46,SUP002,2022-07-18,46.13
+P0146,BabyChic Shorts Pink 6,Boys Clothing,Shorts,6,Summer,Pink,BabyChic,5.93,13.01,SUP005,2022-01-15,54.42
+P0147,JuniorWear Shorts Red 12,Boys Clothing,Shorts,12,Summer,Red,JuniorWear,19.73,39.15,SUP001,2023-07-21,49.6
+P0148,KiddoFashion Shorts Blue 6,Boys Clothing,Shorts,6,Summer,Blue,KiddoFashion,8.55,16.19,SUP014,2022-01-13,47.19
+P0149,KiddoFashion Shorts Purple 14,Boys Clothing,Shorts,14,Fall,Purple,KiddoFashion,18.05,37.41,SUP008,2022-12-15,51.75
+P0150,JuniorWear Shorts Purple 4T,Boys Clothing,Shorts,4T,Spring,Purple,JuniorWear,15.07,32.56,SUP002,2022-03-08,53.72
+P0151,TinyTrends Jackets Navy 8,Boys Clothing,Jackets,8,Winter,Navy,TinyTrends,7.26,13.71,SUP011,2022-02-24,47.05
+P0152,SmallStyle Jackets Yellow 4T,Boys Clothing,Jackets,4T,Summer,Yellow,SmallStyle,16.28,29.84,SUP002,2022-09-12,45.44
+P0153,YouthStyle Jackets Navy 3T,Boys Clothing,Jackets,3T,All Season,Navy,YouthStyle,21.45,35.96,SUP010,2023-09-26,40.35
+P0154,YouthStyle Jackets Purple 5T,Boys Clothing,Jackets,5T,All Season,Purple,YouthStyle,14.47,29.04,SUP015,2023-03-30,50.17
+P0155,YouthStyle Jackets Yellow 6,Boys Clothing,Jackets,6,All Season,Yellow,YouthStyle,18.76,38.24,SUP010,2023-09-28,50.94
+P0156,TinyTrends Jackets Green 2T,Boys Clothing,Jackets,2T,All Season,Green,TinyTrends,12.23,26.49,SUP011,2022-08-05,53.83
+P0157,LittleFashion Jackets Green 6,Boys Clothing,Jackets,6,Spring,Green,LittleFashion,7.63,12.84,SUP003,2023-07-20,40.58
+P0158,KidsStyle Jackets Black 3T,Boys Clothing,Jackets,3T,Summer,Black,KidsStyle,21.95,39.59,SUP008,2023-09-01,44.56
+P0159,KidsStyle Jackets Green 10,Boys Clothing,Jackets,10,Fall,Green,KidsStyle,12.14,25.5,SUP005,2022-10-17,52.39
+P0160,MiniMode Jackets Yellow 10,Boys Clothing,Jackets,10,Spring,Yellow,MiniMode,8.37,17.16,SUP013,2023-10-03,51.22
+P0161,YouthStyle Jackets Blue 14,Boys Clothing,Jackets,14,Summer,Blue,YouthStyle,16.78,30.12,SUP009,2022-08-19,44.29
+P0162,LittleFashion Jackets Blue 4T,Boys Clothing,Jackets,4T,Fall,Blue,LittleFashion,16.62,33.79,SUP001,2022-06-19,50.81
+P0163,SmallStyle Jackets Yellow 6,Boys Clothing,Jackets,6,All Season,Yellow,SmallStyle,24.4,43.51,SUP008,2022-05-08,43.92
+P0164,YouthStyle Jackets Yellow 10,Boys Clothing,Jackets,10,Fall,Yellow,YouthStyle,16.41,30.29,SUP009,2023-07-07,45.82
+P0165,TinyTrends Jackets Navy 10,Boys Clothing,Jackets,10,Winter,Navy,TinyTrends,12.59,25.85,SUP001,2023-03-19,51.3
+P0166,JuniorWear Jackets Red 7,Boys Clothing,Jackets,7,All Season,Red,JuniorWear,13.39,23.75,SUP002,2022-08-23,43.62
+P0167,KidsStyle Jackets Gray 14,Boys Clothing,Jackets,14,All Season,Gray,KidsStyle,5.83,12.47,SUP014,2022-10-03,53.25
+P0168,LittleFashion Jackets Purple 14,Boys Clothing,Jackets,14,Spring,Purple,LittleFashion,6.17,13.52,SUP009,2023-10-30,54.36
+P0169,LittleFashion Jackets Navy 10,Boys Clothing,Jackets,10,Fall,Navy,LittleFashion,22.35,40.23,SUP007,2023-10-13,44.44
+P0170,KiddoFashion Jackets White 10,Boys Clothing,Jackets,10,Spring,White,KiddoFashion,12.85,27.65,SUP007,2022-12-08,53.53
+P0171,LittleFashion Jackets White 7,Boys Clothing,Jackets,7,Spring,White,LittleFashion,14.7,28.22,SUP007,2023-05-23,47.91
+P0172,PetitMode Jackets Red 6,Boys Clothing,Jackets,6,Winter,Red,PetitMode,9.13,17.72,SUP008,2022-04-01,48.48
+P0173,BabyChic Jackets Blue 7,Boys Clothing,Jackets,7,Fall,Blue,BabyChic,13.64,25.15,SUP013,2023-02-18,45.77
+P0174,PetitMode Jackets Purple 12,Boys Clothing,Jackets,12,Spring,Purple,PetitMode,15.06,32.96,SUP007,2022-02-25,54.31
+P0175,BabyChic Jackets Navy 5T,Boys Clothing,Jackets,5T,All Season,Navy,BabyChic,13.25,24.36,SUP013,2023-05-26,45.61
+P0176,MiniMode Jackets Yellow 10,Boys Clothing,Jackets,10,Spring,Yellow,MiniMode,16.54,28.6,SUP009,2022-05-15,42.17
+P0177,KiddoFashion Jackets Blue 6,Boys Clothing,Jackets,6,Winter,Blue,KiddoFashion,16.01,33.74,SUP001,2023-10-08,52.55
+P0178,LittleFashion Jackets Yellow 14,Boys Clothing,Jackets,14,Summer,Yellow,LittleFashion,7.83,14.33,SUP009,2022-01-15,45.36
+P0179,TinyTrends Jackets Green 12,Boys Clothing,Jackets,12,Winter,Green,TinyTrends,6.92,12.87,SUP014,2022-04-27,46.23
+P0180,LittleFashion Jackets Purple 10,Boys Clothing,Jackets,10,Spring,Purple,LittleFashion,23.08,43.03,SUP015,2022-10-26,46.36
+P0181,YouthStyle Jackets Purple 12,Boys Clothing,Jackets,12,Fall,Purple,YouthStyle,13.56,24.81,SUP008,2022-09-07,45.34
+P0182,LittleFashion Jackets Black 10,Boys Clothing,Jackets,10,All Season,Black,LittleFashion,14.42,27.12,SUP004,2023-09-06,46.83
+P0183,TinyTrends Jackets Yellow 12,Boys Clothing,Jackets,12,Summer,Yellow,TinyTrends,21.88,43.07,SUP013,2023-03-01,49.2
+P0184,JuniorWear Jackets Red 7,Boys Clothing,Jackets,7,All Season,Red,JuniorWear,25.61,43.72,SUP005,2022-11-02,41.42
+P0185,KiddoFashion Jackets Pink 14,Boys Clothing,Jackets,14,All Season,Pink,KiddoFashion,8.5,18.46,SUP008,2023-07-06,53.95
+P0186,BabyChic Jackets Orange 10,Boys Clothing,Jackets,10,Fall,Orange,BabyChic,6.94,15.33,SUP013,2023-07-11,54.73
+P0187,BabyChic Jackets Green 8,Boys Clothing,Jackets,8,Winter,Green,BabyChic,8.35,15.12,SUP012,2022-09-02,44.78
+P0188,MiniMode Jackets Black 14,Boys Clothing,Jackets,14,Winter,Black,MiniMode,7.14,14.35,SUP001,2022-11-22,50.24
+P0189,YouthStyle Jackets Gray 10,Boys Clothing,Jackets,10,Winter,Gray,YouthStyle,18.09,39.88,SUP013,2023-10-30,54.64
+P0190,KidsStyle Jackets Pink 4T,Boys Clothing,Jackets,4T,Winter,Pink,KidsStyle,19.14,38.88,SUP009,2023-08-28,50.77
+P0191,KiddoFashion Jackets Blue 7,Boys Clothing,Jackets,7,Spring,Blue,KiddoFashion,8.82,15.9,SUP009,2023-04-13,44.53
+P0192,YouthStyle Jackets Gray 2T,Boys Clothing,Jackets,2T,Summer,Gray,YouthStyle,19.05,32.76,SUP003,2022-03-18,41.85
+P0193,BabyChic Jackets Navy 10,Boys Clothing,Jackets,10,Fall,Navy,BabyChic,20.69,36.26,SUP012,2023-02-12,42.94
+P0194,PetitMode Jackets Black 3T,Boys Clothing,Jackets,3T,Fall,Black,PetitMode,10.16,21.31,SUP006,2023-10-04,52.32
+P0195,KidsStyle Jackets Navy 10,Boys Clothing,Jackets,10,All Season,Navy,KidsStyle,21.0,36.77,SUP002,2022-08-29,42.89
+P0196,TinyTrends Jackets Black 6,Boys Clothing,Jackets,6,Summer,Black,TinyTrends,22.88,44.69,SUP002,2023-10-11,48.8
+P0197,LittleFashion Jackets Beige 3T,Boys Clothing,Jackets,3T,Winter,Beige,LittleFashion,13.75,24.28,SUP005,2022-01-30,43.37
+P0198,KidsStyle Jackets Yellow 2T,Boys Clothing,Jackets,2T,Fall,Yellow,KidsStyle,13.71,23.25,SUP006,2023-01-19,41.03
+P0199,MiniMode Jackets Orange 8,Boys Clothing,Jackets,8,Summer,Orange,MiniMode,20.74,40.33,SUP007,2023-08-03,48.57
+P0200,LittleFashion Jackets Blue 4T,Boys Clothing,Jackets,4T,Summer,Blue,LittleFashion,20.71,36.78,SUP010,2023-01-27,43.69
+P0201,KiddoFashion Sweaters Navy 14,Boys Clothing,Sweaters,14,Summer,Navy,KiddoFashion,9.01,15.4,SUP003,2022-08-26,41.49
+P0202,KiddoFashion Sweaters Yellow 10,Boys Clothing,Sweaters,10,Fall,Yellow,KiddoFashion,16.46,28.67,SUP011,2022-01-10,42.59
+P0203,PetitMode Sweaters Pink 10,Boys Clothing,Sweaters,10,Fall,Pink,PetitMode,13.18,22.56,SUP002,2023-03-29,41.58
+P0204,JuniorWear Sweaters Gray 7,Boys Clothing,Sweaters,7,All Season,Gray,JuniorWear,11.22,24.84,SUP007,2022-09-14,54.83
+P0205,MiniMode Sweaters Black 10,Boys Clothing,Sweaters,10,Fall,Black,MiniMode,19.42,41.88,SUP014,2023-05-10,53.63
+P0206,YouthStyle Sweaters Navy 3T,Boys Clothing,Sweaters,3T,Summer,Navy,YouthStyle,13.36,22.54,SUP006,2023-08-12,40.73
+P0207,KidsStyle Sweaters Gray 6,Boys Clothing,Sweaters,6,Fall,Gray,KidsStyle,23.25,43.37,SUP007,2022-10-09,46.39
+P0208,KidsStyle Sweaters Navy 2T,Boys Clothing,Sweaters,2T,All Season,Navy,KidsStyle,16.99,32.85,SUP012,2023-05-24,48.28
+P0209,SmallStyle Sweaters White 6,Boys Clothing,Sweaters,6,Summer,White,SmallStyle,10.82,21.68,SUP004,2023-10-14,50.09
+P0210,JuniorWear Sweaters Gray 5T,Boys Clothing,Sweaters,5T,All Season,Gray,JuniorWear,19.24,34.19,SUP013,2023-11-07,43.73
+P0211,KidsStyle Sweaters Yellow 4T,Boys Clothing,Sweaters,4T,Spring,Yellow,KidsStyle,21.67,38.12,SUP013,2023-03-28,43.15
+P0212,BabyChic Sweaters Beige 2T,Boys Clothing,Sweaters,2T,All Season,Beige,BabyChic,7.87,15.01,SUP003,2022-04-03,47.57
+P0213,YouthStyle Sweaters Pink 6,Boys Clothing,Sweaters,6,Fall,Pink,YouthStyle,7.4,13.9,SUP004,2022-05-16,46.76
+P0214,PetitMode Sweaters Orange 12,Boys Clothing,Sweaters,12,Fall,Orange,PetitMode,15.49,26.57,SUP015,2022-10-07,41.7
+P0215,KiddoFashion Sweaters Yellow 4T,Boys Clothing,Sweaters,4T,Fall,Yellow,KiddoFashion,11.03,23.58,SUP012,2022-12-13,53.22
+P0216,TinyTrends Sweaters Pink 3T,Boys Clothing,Sweaters,3T,Winter,Pink,TinyTrends,9.43,16.72,SUP013,2022-08-20,43.6
+P0217,BabyChic Sweaters Blue 8,Boys Clothing,Sweaters,8,All Season,Blue,BabyChic,15.07,32.4,SUP013,2023-02-09,53.49
+P0218,PetitMode Sweaters Blue 2T,Boys Clothing,Sweaters,2T,Fall,Blue,PetitMode,8.21,14.78,SUP008,2023-01-13,44.45
+P0219,YouthStyle Sweaters Gray 6,Boys Clothing,Sweaters,6,All Season,Gray,YouthStyle,8.26,14.4,SUP006,2022-04-21,42.64
+P0220,KidsStyle Sweaters Navy 5T,Boys Clothing,Sweaters,5T,Winter,Navy,KidsStyle,16.32,35.31,SUP015,2023-07-29,53.78
+P0221,MiniMode Sweaters Gray 7,Boys Clothing,Sweaters,7,All Season,Gray,MiniMode,8.85,14.8,SUP002,2023-10-13,40.2
+P0222,YouthStyle Sweaters Blue 10,Boys Clothing,Sweaters,10,Fall,Blue,YouthStyle,12.31,24.35,SUP003,2022-02-16,49.45
+P0223,KiddoFashion Sweaters Blue 2T,Boys Clothing,Sweaters,2T,Fall,Blue,KiddoFashion,22.98,38.82,SUP002,2022-08-29,40.8
+P0224,YouthStyle Sweaters Purple 12,Boys Clothing,Sweaters,12,Summer,Purple,YouthStyle,25.08,44.54,SUP006,2023-11-18,43.69
+P0225,SmallStyle Sweaters Beige 12,Boys Clothing,Sweaters,12,Winter,Beige,SmallStyle,11.29,24.42,SUP012,2022-06-08,53.77
+P0226,KiddoFashion Sweaters Navy 8,Boys Clothing,Sweaters,8,Spring,Navy,KiddoFashion,20.1,37.65,SUP007,2022-10-14,46.61
+P0227,MiniMode Sweaters Purple 2T,Boys Clothing,Sweaters,2T,Fall,Purple,MiniMode,15.23,26.0,SUP008,2022-08-30,41.42
+P0228,BabyChic Sweaters Orange 7,Boys Clothing,Sweaters,7,Spring,Orange,BabyChic,8.21,15.67,SUP015,2023-10-23,47.61
+P0229,YouthStyle Sweaters Yellow 7,Boys Clothing,Sweaters,7,Spring,Yellow,YouthStyle,6.44,12.37,SUP004,2022-05-06,47.94
+P0230,MiniMode Sweaters Gray 10,Boys Clothing,Sweaters,10,Spring,Gray,MiniMode,6.48,13.86,SUP011,2023-09-04,53.25
+P0231,BabyChic Sweaters Green 2T,Boys Clothing,Sweaters,2T,Spring,Green,BabyChic,8.69,15.88,SUP003,2023-08-02,45.28
+P0232,PetitMode Sweaters Green 5T,Boys Clothing,Sweaters,5T,Spring,Green,PetitMode,19.68,36.62,SUP010,2022-08-10,46.26
+P0233,LittleFashion Sweaters Navy 5T,Boys Clothing,Sweaters,5T,Fall,Navy,LittleFashion,22.15,43.75,SUP001,2022-10-11,49.37
+P0234,PetitMode Sweaters Yellow 4T,Boys Clothing,Sweaters,4T,Summer,Yellow,PetitMode,12.44,21.43,SUP013,2022-06-28,41.95
+P0235,LittleFashion Sweaters Red 3T,Boys Clothing,Sweaters,3T,Spring,Red,LittleFashion,11.52,19.38,SUP006,2022-09-01,40.56
+P0236,KidsStyle Sweaters Pink 14,Boys Clothing,Sweaters,14,Fall,Pink,KidsStyle,7.38,12.4,SUP005,2022-02-23,40.48
+P0237,PetitMode Sweaters Blue 4T,Boys Clothing,Sweaters,4T,Winter,Blue,PetitMode,7.83,13.42,SUP012,2022-03-07,41.65
+P0238,BabyChic Sweaters Orange 10,Boys Clothing,Sweaters,10,Winter,Orange,BabyChic,17.61,29.41,SUP010,2022-04-22,40.12
+P0239,MiniMode Sweaters Navy 10,Boys Clothing,Sweaters,10,All Season,Navy,MiniMode,7.7,14.44,SUP001,2023-11-06,46.68
+P0240,KiddoFashion Sweaters Gray 12,Boys Clothing,Sweaters,12,Fall,Gray,KiddoFashion,23.25,43.99,SUP001,2022-03-04,47.15
+P0241,YouthStyle Sweaters Gray 10,Boys Clothing,Sweaters,10,Winter,Gray,YouthStyle,18.17,32.77,SUP002,2023-05-18,44.55
+P0242,TinyTrends Sweaters White 10,Boys Clothing,Sweaters,10,Spring,White,TinyTrends,14.69,27.0,SUP010,2022-06-01,45.59
+P0243,JuniorWear Sweaters Navy 3T,Boys Clothing,Sweaters,3T,Summer,Navy,JuniorWear,18.3,31.28,SUP011,2023-08-23,41.5
+P0244,YouthStyle Sweaters Navy 12,Boys Clothing,Sweaters,12,Fall,Navy,YouthStyle,6.64,13.5,SUP009,2022-10-29,50.81
+P0245,SmallStyle Sweaters Black 10,Boys Clothing,Sweaters,10,All Season,Black,SmallStyle,25.3,43.36,SUP002,2022-04-28,41.65
+P0246,YouthStyle Sweaters Purple 12,Boys Clothing,Sweaters,12,Summer,Purple,YouthStyle,14.68,27.04,SUP015,2022-08-22,45.71
+P0247,KiddoFashion Sweaters Black 8,Boys Clothing,Sweaters,8,Fall,Black,KiddoFashion,10.11,21.15,SUP007,2022-04-08,52.2
+P0248,BabyChic Sweaters Gray 7,Boys Clothing,Sweaters,7,Winter,Gray,BabyChic,13.73,27.3,SUP005,2023-01-19,49.71
+P0249,TinyTrends Sweaters Blue 4T,Boys Clothing,Sweaters,4T,Winter,Blue,TinyTrends,14.43,31.26,SUP014,2022-03-29,53.84
+P0250,TinyTrends Sweaters Beige 3T,Boys Clothing,Sweaters,3T,Winter,Beige,TinyTrends,26.4,44.16,SUP012,2023-01-17,40.22
+P0251,KidsStyle Dresses Navy 4T,Girls Clothing,Dresses,4T,All Season,Navy,KidsStyle,22.77,42.93,SUP009,2023-07-30,46.96
+P0252,YouthStyle Dresses White 7,Girls Clothing,Dresses,7,Spring,White,YouthStyle,15.66,27.38,SUP014,2023-11-13,42.8
+P0253,JuniorWear Dresses Navy 8,Girls Clothing,Dresses,8,Spring,Navy,JuniorWear,20.11,42.39,SUP005,2022-12-27,52.56
+P0254,PetitMode Dresses Green 3T,Girls Clothing,Dresses,3T,All Season,Green,PetitMode,29.49,51.44,SUP003,2023-11-04,42.67
+P0255,TinyTrends Dresses White 10,Girls Clothing,Dresses,10,Summer,White,TinyTrends,29.61,52.99,SUP014,2023-07-24,44.12
+P0256,JuniorWear Dresses Navy 7,Girls Clothing,Dresses,7,Spring,Navy,JuniorWear,20.27,39.54,SUP004,2023-03-16,48.74
+P0257,SmallStyle Dresses Gray 12,Girls Clothing,Dresses,12,All Season,Gray,SmallStyle,30.34,52.31,SUP011,2023-07-25,42.0
+P0258,JuniorWear Dresses Red 2T,Girls Clothing,Dresses,2T,All Season,Red,JuniorWear,7.63,16.81,SUP003,2022-10-07,54.61
+P0259,BabyChic Dresses Red 6,Girls Clothing,Dresses,6,Fall,Red,BabyChic,17.18,30.06,SUP003,2022-05-27,42.85
+P0260,TinyTrends Dresses Pink 14,Girls Clothing,Dresses,14,Winter,Pink,TinyTrends,25.75,54.49,SUP012,2023-10-11,52.74
+P0261,PetitMode Dresses Green 2T,Girls Clothing,Dresses,2T,Spring,Green,PetitMode,19.66,38.77,SUP007,2023-03-06,49.29
+P0262,LittleFashion Dresses White 10,Girls Clothing,Dresses,10,Fall,White,LittleFashion,31.01,53.8,SUP005,2022-11-29,42.36
+P0263,TinyTrends Dresses Red 14,Girls Clothing,Dresses,14,All Season,Red,TinyTrends,25.25,48.53,SUP003,2022-06-11,47.97
+P0264,TinyTrends Dresses Yellow 14,Girls Clothing,Dresses,14,Spring,Yellow,TinyTrends,15.51,31.59,SUP008,2023-11-09,50.9
+P0265,SmallStyle Dresses Purple 8,Girls Clothing,Dresses,8,Winter,Purple,SmallStyle,10.01,17.26,SUP007,2022-10-07,42.0
+P0266,TinyTrends Dresses White 5T,Girls Clothing,Dresses,5T,All Season,White,TinyTrends,28.51,47.52,SUP007,2022-04-24,40.0
+P0267,KiddoFashion Dresses Orange 6,Girls Clothing,Dresses,6,All Season,Orange,KiddoFashion,29.26,54.87,SUP011,2022-11-12,46.67
+P0268,YouthStyle Dresses Navy 2T,Girls Clothing,Dresses,2T,Summer,Navy,YouthStyle,27.08,45.76,SUP001,2022-01-08,40.82
+P0269,MiniMode Dresses Pink 5T,Girls Clothing,Dresses,5T,Fall,Pink,MiniMode,23.86,48.99,SUP013,2022-09-19,51.3
+P0270,TinyTrends Dresses Red 6,Girls Clothing,Dresses,6,Fall,Red,TinyTrends,15.5,33.02,SUP008,2023-03-17,53.06
+P0271,YouthStyle Dresses Orange 4T,Girls Clothing,Dresses,4T,Summer,Orange,YouthStyle,28.76,53.16,SUP012,2022-08-24,45.9
+P0272,BabyChic Dresses Blue 12,Girls Clothing,Dresses,12,All Season,Blue,BabyChic,13.3,24.15,SUP007,2022-02-13,44.93
+P0273,KiddoFashion Dresses Blue 8,Girls Clothing,Dresses,8,Spring,Blue,KiddoFashion,20.01,39.73,SUP014,2022-11-17,49.64
+P0274,SmallStyle Dresses Black 14,Girls Clothing,Dresses,14,Winter,Black,SmallStyle,10.76,19.54,SUP012,2023-10-18,44.93
+P0275,TinyTrends Dresses Black 8,Girls Clothing,Dresses,8,Fall,Black,TinyTrends,20.26,35.81,SUP001,2022-11-29,43.42
+P0276,KiddoFashion Dresses Beige 4T,Girls Clothing,Dresses,4T,All Season,Beige,KiddoFashion,20.69,35.81,SUP015,2023-01-06,42.22
+P0277,TinyTrends Dresses Green 3T,Girls Clothing,Dresses,3T,Winter,Green,TinyTrends,19.81,37.08,SUP007,2023-08-27,46.57
+P0278,TinyTrends Dresses Black 8,Girls Clothing,Dresses,8,All Season,Black,TinyTrends,25.56,50.07,SUP014,2022-11-14,48.95
+P0279,BabyChic Dresses Pink 7,Girls Clothing,Dresses,7,Summer,Pink,BabyChic,9.25,20.36,SUP002,2023-06-07,54.57
+P0280,PetitMode Dresses Green 3T,Girls Clothing,Dresses,3T,All Season,Green,PetitMode,24.55,45.21,SUP015,2022-12-24,45.7
+P0281,MiniMode Dresses Blue 7,Girls Clothing,Dresses,7,Summer,Blue,MiniMode,20.8,43.16,SUP003,2022-09-20,51.81
+P0282,SmallStyle Dresses Pink 5T,Girls Clothing,Dresses,5T,Summer,Pink,SmallStyle,9.25,20.45,SUP013,2023-11-03,54.77
+P0283,KiddoFashion Dresses Purple 3T,Girls Clothing,Dresses,3T,Summer,Purple,KiddoFashion,15.63,29.02,SUP013,2023-08-01,46.14
+P0284,SmallStyle Dresses Gray 14,Girls Clothing,Dresses,14,Winter,Gray,SmallStyle,15.82,30.69,SUP011,2023-10-02,48.45
+P0285,LittleFashion Dresses Purple 7,Girls Clothing,Dresses,7,Fall,Purple,LittleFashion,25.7,51.17,SUP002,2023-04-26,49.78
+P0286,JuniorWear Dresses Navy 10,Girls Clothing,Dresses,10,Fall,Navy,JuniorWear,20.18,35.56,SUP001,2022-12-27,43.25
+P0287,JuniorWear Dresses Purple 12,Girls Clothing,Dresses,12,Spring,Purple,JuniorWear,16.77,30.86,SUP008,2022-02-08,45.66
+P0288,JuniorWear Dresses Blue 2T,Girls Clothing,Dresses,2T,Fall,Blue,JuniorWear,29.32,49.49,SUP011,2022-04-03,40.76
+P0289,PetitMode Dresses Black 14,Girls Clothing,Dresses,14,All Season,Black,PetitMode,12.3,20.88,SUP008,2023-08-18,41.09
+P0290,KiddoFashion Dresses Navy 12,Girls Clothing,Dresses,12,Spring,Navy,KiddoFashion,16.95,34.68,SUP011,2022-07-12,51.12
+P0291,KiddoFashion Dresses Orange 7,Girls Clothing,Dresses,7,All Season,Orange,KiddoFashion,19.92,33.37,SUP003,2022-03-05,40.31
+P0292,BabyChic Dresses Beige 10,Girls Clothing,Dresses,10,Spring,Beige,BabyChic,17.33,34.7,SUP002,2023-06-01,50.06
+P0293,MiniMode Dresses Beige 4T,Girls Clothing,Dresses,4T,Spring,Beige,MiniMode,19.61,40.34,SUP008,2023-03-26,51.39
+P0294,SmallStyle Dresses Pink 12,Girls Clothing,Dresses,12,All Season,Pink,SmallStyle,8.46,18.03,SUP006,2023-01-17,53.08
+P0295,YouthStyle Dresses White 6,Girls Clothing,Dresses,6,Winter,White,YouthStyle,9.51,20.12,SUP011,2023-09-05,52.73
+P0296,TinyTrends Dresses White 2T,Girls Clothing,Dresses,2T,Fall,White,TinyTrends,11.22,20.55,SUP002,2023-07-26,45.4
+P0297,JuniorWear Dresses Beige 8,Girls Clothing,Dresses,8,Fall,Beige,JuniorWear,11.18,22.28,SUP014,2023-11-04,49.82
+P0298,BabyChic Dresses Blue 14,Girls Clothing,Dresses,14,Summer,Blue,BabyChic,26.51,50.87,SUP010,2023-11-11,47.89
+P0299,JuniorWear Dresses Gray 4T,Girls Clothing,Dresses,4T,Fall,Gray,JuniorWear,19.84,41.7,SUP012,2023-11-10,52.42
+P0300,SmallStyle Dresses Beige 8,Girls Clothing,Dresses,8,Summer,Beige,SmallStyle,10.35,22.69,SUP002,2022-11-14,54.39
+P0301,BabyChic Dresses Pink 12,Girls Clothing,Dresses,12,Winter,Pink,BabyChic,10.7,21.76,SUP011,2023-06-24,50.83
+P0302,PetitMode Dresses White 3T,Girls Clothing,Dresses,3T,Winter,White,PetitMode,10.23,22.08,SUP001,2023-01-07,53.67
+P0303,MiniMode Dresses White 6,Girls Clothing,Dresses,6,Summer,White,MiniMode,10.29,19.83,SUP013,2023-05-13,48.11
+P0304,LittleFashion Dresses Pink 5T,Girls Clothing,Dresses,5T,Summer,Pink,LittleFashion,11.73,23.25,SUP002,2022-10-30,49.55
+P0305,PetitMode Dresses Beige 3T,Girls Clothing,Dresses,3T,All Season,Beige,PetitMode,19.45,35.14,SUP015,2023-06-24,44.65
+P0306,SmallStyle Dresses Pink 2T,Girls Clothing,Dresses,2T,Fall,Pink,SmallStyle,9.44,16.57,SUP010,2023-01-21,43.03
+P0307,LittleFashion Dresses Beige 4T,Girls Clothing,Dresses,4T,Summer,Beige,LittleFashion,18.55,40.12,SUP013,2023-10-02,53.76
+P0308,KidsStyle Dresses Black 4T,Girls Clothing,Dresses,4T,Winter,Black,KidsStyle,29.37,49.94,SUP006,2023-11-24,41.19
+P0309,SmallStyle Dresses Yellow 5T,Girls Clothing,Dresses,5T,Winter,Yellow,SmallStyle,8.57,17.44,SUP013,2023-04-05,50.86
+P0310,MiniMode Dresses Yellow 5T,Girls Clothing,Dresses,5T,All Season,Yellow,MiniMode,26.57,47.25,SUP013,2023-04-26,43.77
+P0311,SmallStyle Tops Purple 5T,Girls Clothing,Tops,5T,Fall,Purple,SmallStyle,10.77,22.38,SUP008,2022-10-16,51.88
+P0312,PetitMode Tops Black 8,Girls Clothing,Tops,8,All Season,Black,PetitMode,15.59,29.82,SUP003,2022-07-24,47.72
+P0313,JuniorWear Tops Red 14,Girls Clothing,Tops,14,Summer,Red,JuniorWear,20.08,39.73,SUP011,2023-05-08,49.46
+P0314,TinyTrends Tops Beige 7,Girls Clothing,Tops,7,All Season,Beige,TinyTrends,18.83,33.5,SUP014,2023-06-13,43.79
+P0315,TinyTrends Tops Pink 3T,Girls Clothing,Tops,3T,Fall,Pink,TinyTrends,8.04,16.47,SUP005,2023-04-06,51.18
+P0316,YouthStyle Tops Blue 12,Girls Clothing,Tops,12,Summer,Blue,YouthStyle,25.43,43.53,SUP015,2022-08-16,41.58
+P0317,KidsStyle Tops Black 10,Girls Clothing,Tops,10,Fall,Black,KidsStyle,18.79,35.47,SUP001,2023-02-10,47.03
+P0318,MiniMode Tops Black 12,Girls Clothing,Tops,12,Fall,Black,MiniMode,9.98,19.29,SUP002,2023-01-19,48.26
+P0319,BabyChic Tops Blue 5T,Girls Clothing,Tops,5T,Spring,Blue,BabyChic,17.66,36.3,SUP014,2023-10-28,51.35
+P0320,LittleFashion Tops Red 7,Girls Clothing,Tops,7,Summer,Red,LittleFashion,13.05,25.77,SUP005,2023-04-29,49.36
+P0321,KiddoFashion Tops Navy 4T,Girls Clothing,Tops,4T,Winter,Navy,KiddoFashion,7.87,15.8,SUP001,2022-03-23,50.19
+P0322,MiniMode Tops Pink 2T,Girls Clothing,Tops,2T,Fall,Pink,MiniMode,11.71,23.46,SUP009,2023-09-16,50.09
+P0323,TinyTrends Tops Yellow 12,Girls Clothing,Tops,12,Winter,Yellow,TinyTrends,11.55,19.79,SUP004,2022-11-05,41.64
+P0324,MiniMode Tops Black 3T,Girls Clothing,Tops,3T,Spring,Black,MiniMode,21.38,38.74,SUP011,2023-09-30,44.81
+P0325,TinyTrends Tops Purple 10,Girls Clothing,Tops,10,Spring,Purple,TinyTrends,24.44,46.57,SUP010,2023-07-03,47.52
+P0326,SmallStyle Tops Green 2T,Girls Clothing,Tops,2T,All Season,Green,SmallStyle,9.8,18.48,SUP012,2022-05-28,46.97
+P0327,KidsStyle Tops Navy 6,Girls Clothing,Tops,6,Winter,Navy,KidsStyle,21.61,38.47,SUP006,2022-09-04,43.83
+P0328,LittleFashion Tops Gray 14,Girls Clothing,Tops,14,Winter,Gray,LittleFashion,15.14,32.27,SUP011,2022-03-29,53.08
+P0329,TinyTrends Tops Orange 12,Girls Clothing,Tops,12,Fall,Orange,TinyTrends,13.29,26.35,SUP009,2023-06-04,49.56
+P0330,KidsStyle Tops Black 12,Girls Clothing,Tops,12,All Season,Black,KidsStyle,21.87,40.84,SUP014,2023-04-27,46.45
+P0331,BabyChic Tops Yellow 2T,Girls Clothing,Tops,2T,Winter,Yellow,BabyChic,17.48,29.24,SUP012,2022-01-17,40.22
+P0332,BabyChic Tops Green 7,Girls Clothing,Tops,7,Spring,Green,BabyChic,19.05,39.23,SUP012,2023-11-04,51.44
+P0333,BabyChic Tops Pink 3T,Girls Clothing,Tops,3T,All Season,Pink,BabyChic,9.02,19.07,SUP001,2022-12-27,52.7
+P0334,LittleFashion Tops Gray 12,Girls Clothing,Tops,12,Fall,Gray,LittleFashion,11.78,24.84,SUP008,2023-05-06,52.58
+P0335,TinyTrends Tops Beige 4T,Girls Clothing,Tops,4T,Summer,Beige,TinyTrends,11.07,22.46,SUP013,2023-04-14,50.71
+P0336,MiniMode Tops Red 2T,Girls Clothing,Tops,2T,Fall,Red,MiniMode,12.82,21.93,SUP013,2022-07-24,41.54
+P0337,JuniorWear Tops Orange 2T,Girls Clothing,Tops,2T,Fall,Orange,JuniorWear,9.63,18.21,SUP007,2023-07-11,47.12
+P0338,KidsStyle Tops Gray 10,Girls Clothing,Tops,10,Fall,Gray,KidsStyle,18.77,31.42,SUP004,2022-10-20,40.26
+P0339,BabyChic Tops Yellow 7,Girls Clothing,Tops,7,Spring,Yellow,BabyChic,9.93,19.48,SUP002,2023-01-12,49.02
+P0340,KiddoFashion Tops Black 8,Girls Clothing,Tops,8,Winter,Black,KiddoFashion,31.18,53.78,SUP006,2022-07-11,42.02
+P0341,BabyChic Tops Orange 10,Girls Clothing,Tops,10,Winter,Orange,BabyChic,23.3,47.68,SUP005,2022-03-26,51.13
+P0342,YouthStyle Tops Navy 8,Girls Clothing,Tops,8,Spring,Navy,YouthStyle,12.02,21.84,SUP014,2022-07-04,44.96
+P0343,BabyChic Tops Blue 12,Girls Clothing,Tops,12,Fall,Blue,BabyChic,27.84,52.18,SUP002,2022-12-02,46.65
+P0344,KiddoFashion Tops Navy 6,Girls Clothing,Tops,6,Fall,Navy,KiddoFashion,18.63,37.86,SUP012,2023-03-13,50.79
+P0345,BabyChic Tops Purple 4T,Girls Clothing,Tops,4T,Winter,Purple,BabyChic,21.89,45.78,SUP001,2022-12-28,52.18
+P0346,JuniorWear Tops Gray 14,Girls Clothing,Tops,14,Winter,Gray,JuniorWear,14.36,27.95,SUP013,2022-02-28,48.62
+P0347,BabyChic Tops Orange 3T,Girls Clothing,Tops,3T,Winter,Orange,BabyChic,17.17,35.3,SUP013,2023-11-27,51.36
+P0348,LittleFashion Tops Navy 4T,Girls Clothing,Tops,4T,Spring,Navy,LittleFashion,10.61,19.59,SUP011,2023-03-25,45.84
+P0349,TinyTrends Tops Green 2T,Girls Clothing,Tops,2T,Summer,Green,TinyTrends,14.26,26.55,SUP013,2023-10-23,46.29
+P0350,YouthStyle Tops Navy 7,Girls Clothing,Tops,7,Fall,Navy,YouthStyle,11.05,21.17,SUP001,2023-09-12,47.8
+P0351,BabyChic Tops White 4T,Girls Clothing,Tops,4T,Winter,White,BabyChic,16.62,36.3,SUP008,2022-03-20,54.21
+P0352,PetitMode Tops White 14,Girls Clothing,Tops,14,Summer,White,PetitMode,13.38,28.46,SUP007,2022-11-18,52.99
+P0353,TinyTrends Tops Red 6,Girls Clothing,Tops,6,Summer,Red,TinyTrends,10.49,17.53,SUP012,2022-07-10,40.16
+P0354,YouthStyle Tops Orange 10,Girls Clothing,Tops,10,All Season,Orange,YouthStyle,15.94,27.89,SUP002,2022-09-26,42.85
+P0355,MiniMode Tops Navy 6,Girls Clothing,Tops,6,Winter,Navy,MiniMode,13.91,25.19,SUP005,2023-05-18,44.78
+P0356,LittleFashion Tops Blue 5T,Girls Clothing,Tops,5T,Spring,Blue,LittleFashion,24.49,45.41,SUP008,2022-06-26,46.07
+P0357,BabyChic Tops Gray 10,Girls Clothing,Tops,10,Spring,Gray,BabyChic,17.33,33.86,SUP006,2022-03-08,48.82
+P0358,JuniorWear Tops Yellow 12,Girls Clothing,Tops,12,All Season,Yellow,JuniorWear,17.06,28.95,SUP014,2022-06-11,41.07
+P0359,PetitMode Tops Green 4T,Girls Clothing,Tops,4T,Fall,Green,PetitMode,28.68,48.22,SUP002,2022-07-25,40.52
+P0360,KiddoFashion Tops Red 4T,Girls Clothing,Tops,4T,Summer,Red,KiddoFashion,11.18,19.97,SUP006,2023-07-22,44.02
+P0361,KiddoFashion Tops Orange 14,Girls Clothing,Tops,14,Fall,Orange,KiddoFashion,25.07,52.53,SUP003,2023-09-19,52.27
+P0362,JuniorWear Tops Black 3T,Girls Clothing,Tops,3T,Spring,Black,JuniorWear,9.91,17.66,SUP012,2023-05-06,43.88
+P0363,YouthStyle Tops Navy 12,Girls Clothing,Tops,12,Winter,Navy,YouthStyle,21.89,37.98,SUP002,2022-05-09,42.36
+P0364,KiddoFashion Tops Purple 7,Girls Clothing,Tops,7,Spring,Purple,KiddoFashion,11.72,20.59,SUP011,2023-06-14,43.08
+P0365,PetitMode Tops Gray 7,Girls Clothing,Tops,7,Summer,Gray,PetitMode,10.95,23.07,SUP010,2022-07-06,52.54
+P0366,PetitMode Tops Red 4T,Girls Clothing,Tops,4T,Winter,Red,PetitMode,12.34,21.57,SUP014,2022-05-08,42.79
+P0367,JuniorWear Tops Pink 12,Girls Clothing,Tops,12,Summer,Pink,JuniorWear,21.99,41.61,SUP003,2022-11-27,47.15
+P0368,PetitMode Tops Yellow 5T,Girls Clothing,Tops,5T,Fall,Yellow,PetitMode,17.07,29.35,SUP014,2022-03-22,41.84
+P0369,PetitMode Tops Yellow 6,Girls Clothing,Tops,6,Summer,Yellow,PetitMode,17.58,30.7,SUP003,2023-10-03,42.74
+P0370,PetitMode Tops Blue 6,Girls Clothing,Tops,6,All Season,Blue,PetitMode,16.5,32.57,SUP009,2023-10-19,49.34
+P0371,SmallStyle Skirts Pink 4T,Girls Clothing,Skirts,4T,All Season,Pink,SmallStyle,16.59,33.51,SUP003,2023-11-06,50.49
+P0372,BabyChic Skirts Navy 14,Girls Clothing,Skirts,14,All Season,Navy,BabyChic,23.59,44.9,SUP001,2022-01-30,47.46
+P0373,SmallStyle Skirts Yellow 3T,Girls Clothing,Skirts,3T,Spring,Yellow,SmallStyle,14.21,24.29,SUP011,2022-08-04,41.5
+P0374,SmallStyle Skirts Gray 14,Girls Clothing,Skirts,14,Winter,Gray,SmallStyle,16.14,30.36,SUP001,2023-05-25,46.84
+P0375,JuniorWear Skirts Purple 12,Girls Clothing,Skirts,12,Fall,Purple,JuniorWear,27.87,51.26,SUP004,2023-02-20,45.63
+P0376,TinyTrends Skirts Beige 6,Girls Clothing,Skirts,6,Winter,Beige,TinyTrends,11.63,19.68,SUP001,2022-06-11,40.9
+P0377,KiddoFashion Skirts Purple 10,Girls Clothing,Skirts,10,Winter,Purple,KiddoFashion,20.06,40.11,SUP004,2022-12-15,49.99
+P0378,BabyChic Skirts Beige 14,Girls Clothing,Skirts,14,Summer,Beige,BabyChic,11.71,20.57,SUP006,2022-12-20,43.07
+P0379,BabyChic Skirts Orange 8,Girls Clothing,Skirts,8,Summer,Orange,BabyChic,21.09,39.8,SUP009,2022-04-19,47.01
+P0380,KiddoFashion Skirts Blue 7,Girls Clothing,Skirts,7,Summer,Blue,KiddoFashion,28.85,50.76,SUP005,2023-04-06,43.16
+P0381,TinyTrends Skirts Red 5T,Girls Clothing,Skirts,5T,Summer,Red,TinyTrends,10.47,21.07,SUP005,2023-01-29,50.31
+P0382,MiniMode Skirts Pink 14,Girls Clothing,Skirts,14,Winter,Pink,MiniMode,14.01,24.94,SUP014,2022-12-02,43.83
+P0383,MiniMode Skirts Pink 14,Girls Clothing,Skirts,14,Fall,Pink,MiniMode,8.75,16.34,SUP008,2023-06-12,46.45
+P0384,JuniorWear Skirts Purple 10,Girls Clothing,Skirts,10,Winter,Purple,JuniorWear,26.46,45.5,SUP001,2022-04-03,41.85
+P0385,KiddoFashion Skirts Green 8,Girls Clothing,Skirts,8,All Season,Green,KiddoFashion,16.44,28.68,SUP004,2023-08-21,42.68
+P0386,KidsStyle Skirts Yellow 7,Girls Clothing,Skirts,7,Spring,Yellow,KidsStyle,11.21,19.43,SUP008,2023-09-04,42.31
+P0387,PetitMode Skirts Red 10,Girls Clothing,Skirts,10,Fall,Red,PetitMode,10.24,20.1,SUP014,2022-04-21,49.05
+P0388,JuniorWear Skirts Beige 8,Girls Clothing,Skirts,8,Summer,Beige,JuniorWear,22.15,46.89,SUP006,2023-02-17,52.76
+P0389,YouthStyle Skirts Red 7,Girls Clothing,Skirts,7,Spring,Red,YouthStyle,13.5,24.17,SUP010,2023-07-30,44.15
+P0390,PetitMode Skirts Yellow 5T,Girls Clothing,Skirts,5T,Fall,Yellow,PetitMode,23.92,43.8,SUP002,2023-01-31,45.39
+P0391,PetitMode Skirts Yellow 12,Girls Clothing,Skirts,12,Winter,Yellow,PetitMode,22.72,42.76,SUP014,2023-10-01,46.87
+P0392,LittleFashion Skirts Blue 14,Girls Clothing,Skirts,14,Spring,Blue,LittleFashion,12.58,25.07,SUP007,2023-01-18,49.82
+P0393,BabyChic Skirts Pink 7,Girls Clothing,Skirts,7,All Season,Pink,BabyChic,13.05,22.26,SUP004,2023-09-09,41.37
+P0394,PetitMode Skirts Red 12,Girls Clothing,Skirts,12,Winter,Red,PetitMode,19.56,38.34,SUP001,2022-02-09,48.98
+P0395,KiddoFashion Skirts Orange 4T,Girls Clothing,Skirts,4T,Fall,Orange,KiddoFashion,19.82,33.48,SUP008,2022-06-02,40.8
+P0396,LittleFashion Skirts White 14,Girls Clothing,Skirts,14,All Season,White,LittleFashion,11.37,21.13,SUP015,2023-09-20,46.19
+P0397,YouthStyle Skirts Navy 7,Girls Clothing,Skirts,7,Summer,Navy,YouthStyle,19.09,35.24,SUP012,2022-11-03,45.83
+P0398,PetitMode Skirts Orange 14,Girls Clothing,Skirts,14,Fall,Orange,PetitMode,9.13,15.72,SUP009,2023-05-17,41.92
+P0399,KiddoFashion Skirts Red 14,Girls Clothing,Skirts,14,Fall,Red,KiddoFashion,27.96,52.28,SUP006,2022-12-06,46.52
+P0400,SmallStyle Skirts Yellow 3T,Girls Clothing,Skirts,3T,Winter,Yellow,SmallStyle,25.22,42.87,SUP013,2023-10-07,41.17
+P0401,KiddoFashion Skirts Yellow 2T,Girls Clothing,Skirts,2T,All Season,Yellow,KiddoFashion,20.47,43.29,SUP011,2023-08-16,52.71
+P0402,KidsStyle Skirts Navy 14,Girls Clothing,Skirts,14,Summer,Navy,KidsStyle,20.59,38.05,SUP008,2022-06-24,45.89
+P0403,YouthStyle Skirts Pink 12,Girls Clothing,Skirts,12,All Season,Pink,YouthStyle,17.92,31.97,SUP014,2023-11-29,43.95
+P0404,SmallStyle Skirts Beige 5T,Girls Clothing,Skirts,5T,Spring,Beige,SmallStyle,30.84,52.37,SUP002,2022-07-15,41.11
+P0405,BabyChic Skirts Black 2T,Girls Clothing,Skirts,2T,Winter,Black,BabyChic,15.42,33.03,SUP003,2023-02-27,53.32
+P0406,PetitMode Skirts Navy 5T,Girls Clothing,Skirts,5T,Winter,Navy,PetitMode,31.32,54.39,SUP015,2023-04-28,42.42
+P0407,PetitMode Skirts Green 2T,Girls Clothing,Skirts,2T,Summer,Green,PetitMode,11.76,19.99,SUP009,2022-11-29,41.17
+P0408,YouthStyle Skirts White 10,Girls Clothing,Skirts,10,All Season,White,YouthStyle,26.29,49.8,SUP003,2023-04-16,47.21
+P0409,PetitMode Skirts White 12,Girls Clothing,Skirts,12,Fall,White,PetitMode,19.71,38.65,SUP011,2023-11-29,49.0
+P0410,KiddoFashion Skirts Green 6,Girls Clothing,Skirts,6,All Season,Green,KiddoFashion,8.6,17.19,SUP004,2022-10-13,49.97
+P0411,MiniMode Skirts Yellow 12,Girls Clothing,Skirts,12,Fall,Yellow,MiniMode,21.23,47.11,SUP013,2022-10-23,54.94
+P0412,BabyChic Skirts Purple 5T,Girls Clothing,Skirts,5T,Winter,Purple,BabyChic,14.45,28.34,SUP006,2023-07-28,49.01
+P0413,TinyTrends Skirts Navy 6,Girls Clothing,Skirts,6,Fall,Navy,TinyTrends,21.46,36.5,SUP011,2023-07-11,41.21
+P0414,BabyChic Skirts Pink 8,Girls Clothing,Skirts,8,Winter,Pink,BabyChic,14.48,28.85,SUP005,2022-02-13,49.81
+P0415,BabyChic Skirts Purple 6,Girls Clothing,Skirts,6,Spring,Purple,BabyChic,23.04,44.5,SUP011,2022-09-20,48.22
+P0416,MiniMode Skirts Orange 10,Girls Clothing,Skirts,10,Summer,Orange,MiniMode,12.42,23.98,SUP005,2023-07-30,48.21
+P0417,TinyTrends Skirts Navy 6,Girls Clothing,Skirts,6,Summer,Navy,TinyTrends,9.83,20.63,SUP012,2023-08-24,52.35
+P0418,KidsStyle Skirts Gray 5T,Girls Clothing,Skirts,5T,Summer,Gray,KidsStyle,17.91,34.93,SUP015,2023-06-28,48.73
+P0419,KidsStyle Skirts Blue 5T,Girls Clothing,Skirts,5T,Summer,Blue,KidsStyle,26.02,51.59,SUP007,2022-12-05,49.56
+P0420,LittleFashion Skirts Red 10,Girls Clothing,Skirts,10,Spring,Red,LittleFashion,20.82,38.22,SUP009,2022-06-11,45.53
+P0421,KiddoFashion Skirts Gray 8,Girls Clothing,Skirts,8,Winter,Gray,KiddoFashion,8.53,15.52,SUP004,2022-10-22,45.04
+P0422,KidsStyle Skirts Blue 7,Girls Clothing,Skirts,7,Fall,Blue,KidsStyle,13.14,22.12,SUP011,2023-08-11,40.6
+P0423,KidsStyle Skirts Pink 5T,Girls Clothing,Skirts,5T,All Season,Pink,KidsStyle,10.73,20.95,SUP007,2022-06-30,48.78
+P0424,KiddoFashion Skirts Pink 2T,Girls Clothing,Skirts,2T,Winter,Pink,KiddoFashion,11.04,18.41,SUP015,2022-10-24,40.03
+P0425,JuniorWear Skirts Navy 2T,Girls Clothing,Skirts,2T,Spring,Navy,JuniorWear,18.92,35.09,SUP010,2022-04-20,46.08
+P0426,KiddoFashion Skirts Gray 7,Girls Clothing,Skirts,7,Fall,Gray,KiddoFashion,9.94,17.68,SUP009,2023-06-21,43.78
+P0427,PetitMode Skirts Purple 10,Girls Clothing,Skirts,10,Summer,Purple,PetitMode,13.68,23.4,SUP005,2022-07-17,41.54
+P0428,LittleFashion Skirts Beige 3T,Girls Clothing,Skirts,3T,Fall,Beige,LittleFashion,11.11,23.21,SUP008,2023-10-26,52.13
+P0429,KidsStyle Skirts Beige 6,Girls Clothing,Skirts,6,Summer,Beige,KidsStyle,8.57,16.46,SUP006,2022-10-30,47.93
+P0430,LittleFashion Skirts Navy 14,Girls Clothing,Skirts,14,Summer,Navy,LittleFashion,17.29,37.59,SUP014,2023-10-17,54.0
+P0431,PetitMode Leggings White 8,Girls Clothing,Leggings,8,Winter,White,PetitMode,23.84,46.02,SUP002,2023-02-15,48.2
+P0432,LittleFashion Leggings Purple 3T,Girls Clothing,Leggings,3T,Summer,Purple,LittleFashion,18.57,35.98,SUP006,2022-09-12,48.39
+P0433,YouthStyle Leggings Green 2T,Girls Clothing,Leggings,2T,Fall,Green,YouthStyle,16.57,31.03,SUP008,2022-10-01,46.6
+P0434,SmallStyle Leggings Beige 7,Girls Clothing,Leggings,7,Fall,Beige,SmallStyle,10.12,21.21,SUP010,2022-01-12,52.29
+P0435,MiniMode Leggings Red 6,Girls Clothing,Leggings,6,Fall,Red,MiniMode,29.28,49.47,SUP011,2022-05-02,40.81
+P0436,LittleFashion Leggings Black 10,Girls Clothing,Leggings,10,Fall,Black,LittleFashion,14.68,29.93,SUP011,2023-05-30,50.95
+P0437,JuniorWear Leggings White 6,Girls Clothing,Leggings,6,Spring,White,JuniorWear,20.84,40.76,SUP010,2022-08-15,48.87
+P0438,KiddoFashion Leggings Pink 5T,Girls Clothing,Leggings,5T,Summer,Pink,KiddoFashion,7.58,16.02,SUP008,2023-09-13,52.68
+P0439,PetitMode Leggings Purple 7,Girls Clothing,Leggings,7,Winter,Purple,PetitMode,23.95,43.64,SUP013,2023-07-05,45.12
+P0440,SmallStyle Leggings Blue 5T,Girls Clothing,Leggings,5T,Summer,Blue,SmallStyle,7.77,16.08,SUP009,2023-04-03,51.68
+P0441,TinyTrends Leggings Navy 12,Girls Clothing,Leggings,12,Fall,Navy,TinyTrends,13.35,24.24,SUP002,2022-03-05,44.93
+P0442,MiniMode Leggings Navy 12,Girls Clothing,Leggings,12,All Season,Navy,MiniMode,7.35,15.79,SUP009,2022-06-03,53.45
+P0443,PetitMode Leggings Purple 4T,Girls Clothing,Leggings,4T,Fall,Purple,PetitMode,22.41,47.0,SUP002,2023-11-28,52.32
+P0444,KiddoFashion Leggings Blue 5T,Girls Clothing,Leggings,5T,All Season,Blue,KiddoFashion,19.97,41.11,SUP015,2023-06-07,51.42
+P0445,KiddoFashion Leggings Pink 10,Girls Clothing,Leggings,10,Spring,Pink,KiddoFashion,9.23,18.98,SUP009,2023-03-02,51.37
+P0446,KidsStyle Leggings Orange 10,Girls Clothing,Leggings,10,All Season,Orange,KidsStyle,25.38,43.89,SUP008,2023-11-20,42.17
+P0447,YouthStyle Leggings Yellow 6,Girls Clothing,Leggings,6,Spring,Yellow,YouthStyle,24.57,48.21,SUP014,2022-01-04,49.04
+P0448,TinyTrends Leggings Red 5T,Girls Clothing,Leggings,5T,All Season,Red,TinyTrends,20.06,41.72,SUP007,2022-12-19,51.92
+P0449,KidsStyle Leggings Blue 3T,Girls Clothing,Leggings,3T,All Season,Blue,KidsStyle,15.62,26.73,SUP015,2023-04-29,41.56
+P0450,YouthStyle Leggings Pink 2T,Girls Clothing,Leggings,2T,Fall,Pink,YouthStyle,7.18,15.52,SUP013,2022-05-19,53.74
+P0451,YouthStyle Leggings Purple 8,Girls Clothing,Leggings,8,Fall,Purple,YouthStyle,10.59,23.32,SUP014,2023-01-22,54.59
+P0452,PetitMode Leggings Pink 8,Girls Clothing,Leggings,8,Spring,Pink,PetitMode,11.96,22.26,SUP011,2022-12-23,46.27
+P0453,PetitMode Leggings Black 3T,Girls Clothing,Leggings,3T,Summer,Black,PetitMode,18.6,31.86,SUP009,2022-05-11,41.62
+P0454,KidsStyle Leggings Yellow 5T,Girls Clothing,Leggings,5T,Spring,Yellow,KidsStyle,23.91,47.7,SUP008,2023-11-21,49.87
+P0455,PetitMode Leggings Black 12,Girls Clothing,Leggings,12,Winter,Black,PetitMode,12.87,25.38,SUP014,2022-08-24,49.29
+P0456,BabyChic Leggings Pink 5T,Girls Clothing,Leggings,5T,Winter,Pink,BabyChic,18.93,38.61,SUP005,2022-07-13,50.97
+P0457,YouthStyle Leggings Navy 3T,Girls Clothing,Leggings,3T,Spring,Navy,YouthStyle,20.44,39.97,SUP013,2022-01-17,48.86
+P0458,TinyTrends Leggings Blue 5T,Girls Clothing,Leggings,5T,Summer,Blue,TinyTrends,19.11,37.08,SUP010,2022-02-04,48.46
+P0459,KidsStyle Leggings Green 10,Girls Clothing,Leggings,10,All Season,Green,KidsStyle,15.86,26.78,SUP012,2022-02-15,40.78
+P0460,MiniMode Leggings Orange 8,Girls Clothing,Leggings,8,Winter,Orange,MiniMode,21.45,45.54,SUP004,2022-02-27,52.9
+P0461,JuniorWear Leggings Green 4T,Girls Clothing,Leggings,4T,All Season,Green,JuniorWear,26.02,49.74,SUP014,2023-08-13,47.69
+P0462,SmallStyle Leggings Gray 7,Girls Clothing,Leggings,7,All Season,Gray,SmallStyle,28.94,50.78,SUP014,2022-11-25,43.01
+P0463,LittleFashion Leggings Gray 5T,Girls Clothing,Leggings,5T,Fall,Gray,LittleFashion,14.51,32.01,SUP009,2022-08-15,54.67
+P0464,JuniorWear Leggings Red 8,Girls Clothing,Leggings,8,Fall,Red,JuniorWear,13.68,25.75,SUP009,2023-08-29,46.87
+P0465,PetitMode Leggings Purple 4T,Girls Clothing,Leggings,4T,Winter,Purple,PetitMode,19.71,40.34,SUP001,2022-12-19,51.14
+P0466,BabyChic Leggings Beige 8,Girls Clothing,Leggings,8,All Season,Beige,BabyChic,11.83,20.57,SUP007,2023-02-23,42.49
+P0467,YouthStyle Leggings Pink 4T,Girls Clothing,Leggings,4T,Fall,Pink,YouthStyle,28.76,54.38,SUP013,2023-07-05,47.11
+P0468,MiniMode Leggings Yellow 10,Girls Clothing,Leggings,10,Summer,Yellow,MiniMode,10.73,21.87,SUP014,2022-05-28,50.94
+P0469,PetitMode Leggings Black 10,Girls Clothing,Leggings,10,Spring,Black,PetitMode,9.24,15.74,SUP007,2023-07-25,41.3
+P0470,YouthStyle Leggings Green 12,Girls Clothing,Leggings,12,Summer,Green,YouthStyle,10.57,19.71,SUP005,2022-07-28,46.37
+P0471,KiddoFashion Leggings White 7,Girls Clothing,Leggings,7,Spring,White,KiddoFashion,13.84,25.96,SUP002,2023-07-03,46.69
+P0472,JuniorWear Leggings Black 5T,Girls Clothing,Leggings,5T,Spring,Black,JuniorWear,23.59,41.06,SUP011,2023-09-12,42.55
+P0473,TinyTrends Leggings Green 14,Girls Clothing,Leggings,14,Spring,Green,TinyTrends,10.51,23.26,SUP013,2023-08-25,54.82
+P0474,KiddoFashion Leggings Green 12,Girls Clothing,Leggings,12,Summer,Green,KiddoFashion,11.98,20.48,SUP014,2022-12-07,41.5
+P0475,MiniMode Leggings Green 6,Girls Clothing,Leggings,6,Spring,Green,MiniMode,26.96,49.96,SUP012,2022-05-01,46.04
+P0476,SmallStyle Leggings Beige 10,Girls Clothing,Leggings,10,Summer,Beige,SmallStyle,21.45,39.02,SUP004,2023-02-11,45.03
+P0477,BabyChic Leggings Yellow 5T,Girls Clothing,Leggings,5T,All Season,Yellow,BabyChic,12.92,22.01,SUP007,2023-04-23,41.3
+P0478,JuniorWear Leggings Yellow 12,Girls Clothing,Leggings,12,Fall,Yellow,JuniorWear,16.11,31.75,SUP006,2023-06-10,49.26
+P0479,TinyTrends Leggings Beige 10,Girls Clothing,Leggings,10,Winter,Beige,TinyTrends,16.34,35.76,SUP008,2022-11-24,54.31
+P0480,BabyChic Leggings Black 5T,Girls Clothing,Leggings,5T,Fall,Black,BabyChic,12.14,21.65,SUP001,2023-07-31,43.93
+P0481,KidsStyle Leggings Yellow 5T,Girls Clothing,Leggings,5T,Summer,Yellow,KidsStyle,9.9,18.31,SUP009,2023-08-22,45.93
+P0482,JuniorWear Leggings Pink 14,Girls Clothing,Leggings,14,Winter,Pink,JuniorWear,12.61,24.81,SUP004,2022-12-04,49.17
+P0483,SmallStyle Leggings Green 5T,Girls Clothing,Leggings,5T,Winter,Green,SmallStyle,13.36,26.55,SUP008,2023-07-18,49.68
+P0484,KiddoFashion Leggings Beige 7,Girls Clothing,Leggings,7,Fall,Beige,KiddoFashion,21.64,43.76,SUP011,2023-05-18,50.55
+P0485,BabyChic Leggings Pink 10,Girls Clothing,Leggings,10,Summer,Pink,BabyChic,19.64,37.66,SUP003,2023-07-14,47.85
+P0486,PetitMode Leggings Gray 10,Girls Clothing,Leggings,10,Summer,Gray,PetitMode,24.54,41.55,SUP001,2023-06-21,40.94
+P0487,KidsStyle Leggings Red 2T,Girls Clothing,Leggings,2T,Spring,Red,KidsStyle,21.36,44.3,SUP007,2022-05-21,51.78
+P0488,LittleFashion Leggings Red 5T,Girls Clothing,Leggings,5T,Spring,Red,LittleFashion,7.95,16.25,SUP004,2023-06-02,51.08
+P0489,KidsStyle Leggings Navy 10,Girls Clothing,Leggings,10,Fall,Navy,KidsStyle,17.76,38.8,SUP011,2023-11-14,54.23
+P0490,KiddoFashion Leggings Red 14,Girls Clothing,Leggings,14,Winter,Red,KiddoFashion,18.8,34.85,SUP001,2023-06-29,46.05
+P0491,KidsStyle Jackets Red 12,Girls Clothing,Jackets,12,Winter,Red,KidsStyle,16.05,28.37,SUP009,2022-10-09,43.43
+P0492,KidsStyle Jackets Orange 12,Girls Clothing,Jackets,12,Fall,Orange,KidsStyle,8.88,19.26,SUP014,2023-11-22,53.89
+P0493,TinyTrends Jackets Blue 8,Girls Clothing,Jackets,8,Summer,Blue,TinyTrends,23.14,44.13,SUP009,2022-06-02,47.56
+P0494,SmallStyle Jackets Orange 5T,Girls Clothing,Jackets,5T,Summer,Orange,SmallStyle,21.92,42.54,SUP005,2022-12-29,48.47
+P0495,TinyTrends Jackets White 6,Girls Clothing,Jackets,6,Winter,White,TinyTrends,14.24,24.86,SUP007,2023-04-16,42.72
+P0496,MiniMode Jackets Yellow 14,Girls Clothing,Jackets,14,Summer,Yellow,MiniMode,26.04,46.98,SUP011,2022-03-24,44.57
+P0497,YouthStyle Jackets Black 2T,Girls Clothing,Jackets,2T,Spring,Black,YouthStyle,13.94,25.89,SUP007,2023-07-20,46.16
+P0498,KidsStyle Jackets Beige 10,Girls Clothing,Jackets,10,Spring,Beige,KidsStyle,13.65,29.44,SUP003,2022-03-26,53.63
+P0499,BabyChic Jackets Navy 10,Girls Clothing,Jackets,10,Winter,Navy,BabyChic,24.32,51.69,SUP014,2022-04-08,52.95
+P0500,MiniMode Jackets Green 12,Girls Clothing,Jackets,12,Spring,Green,MiniMode,27.4,53.01,SUP015,2023-08-04,48.31
+P0501,KidsStyle Jackets Blue 10,Girls Clothing,Jackets,10,Fall,Blue,KidsStyle,11.91,22.41,SUP011,2022-10-15,46.85
+P0502,KidsStyle Jackets Pink 12,Girls Clothing,Jackets,12,All Season,Pink,KidsStyle,27.95,49.92,SUP015,2022-11-19,44.01
+P0503,SmallStyle Jackets Pink 2T,Girls Clothing,Jackets,2T,Summer,Pink,SmallStyle,25.94,47.26,SUP013,2023-02-12,45.11
+P0504,LittleFashion Jackets Navy 3T,Girls Clothing,Jackets,3T,Fall,Navy,LittleFashion,24.65,42.69,SUP004,2023-08-04,42.26
+P0505,BabyChic Jackets Black 8,Girls Clothing,Jackets,8,All Season,Black,BabyChic,13.08,24.99,SUP013,2022-05-24,47.66
+P0506,BabyChic Jackets Red 3T,Girls Clothing,Jackets,3T,All Season,Red,BabyChic,14.27,23.85,SUP002,2023-03-24,40.17
+P0507,BabyChic Jackets Navy 5T,Girls Clothing,Jackets,5T,Spring,Navy,BabyChic,24.05,52.76,SUP013,2023-09-21,54.42
+P0508,BabyChic Jackets Red 14,Girls Clothing,Jackets,14,Winter,Red,BabyChic,25.45,43.22,SUP011,2022-10-07,41.12
+P0509,MiniMode Jackets White 10,Girls Clothing,Jackets,10,Winter,White,MiniMode,11.89,22.22,SUP009,2023-01-20,46.49
+P0510,SmallStyle Jackets Gray 8,Girls Clothing,Jackets,8,Summer,Gray,SmallStyle,23.49,51.62,SUP007,2022-03-29,54.49
+P0511,MiniMode Jackets Beige 14,Girls Clothing,Jackets,14,Fall,Beige,MiniMode,21.22,42.9,SUP002,2022-03-26,50.54
+P0512,YouthStyle Jackets Beige 6,Girls Clothing,Jackets,6,Summer,Beige,YouthStyle,30.96,51.98,SUP013,2023-10-12,40.44
+P0513,BabyChic Jackets White 4T,Girls Clothing,Jackets,4T,Winter,White,BabyChic,27.5,52.77,SUP002,2022-04-04,47.89
+P0514,KiddoFashion Jackets White 2T,Girls Clothing,Jackets,2T,Fall,White,KiddoFashion,28.53,49.48,SUP013,2022-10-04,42.34
+P0515,TinyTrends Jackets Pink 3T,Girls Clothing,Jackets,3T,Summer,Pink,TinyTrends,15.94,27.76,SUP007,2023-04-05,42.58
+P0516,PetitMode Jackets Black 12,Girls Clothing,Jackets,12,All Season,Black,PetitMode,8.89,16.48,SUP002,2022-01-27,46.06
+P0517,PetitMode Jackets Blue 3T,Girls Clothing,Jackets,3T,Fall,Blue,PetitMode,11.33,24.2,SUP010,2023-09-05,53.18
+P0518,KidsStyle Jackets Yellow 7,Girls Clothing,Jackets,7,Winter,Yellow,KidsStyle,10.02,18.08,SUP007,2023-02-02,44.58
+P0519,MiniMode Jackets Navy 3T,Girls Clothing,Jackets,3T,All Season,Navy,MiniMode,15.97,28.59,SUP009,2022-06-23,44.14
+P0520,LittleFashion Jackets Yellow 8,Girls Clothing,Jackets,8,Summer,Yellow,LittleFashion,8.76,17.61,SUP005,2022-10-02,50.26
+P0521,TinyTrends Jackets Pink 10,Girls Clothing,Jackets,10,Summer,Pink,TinyTrends,20.8,36.58,SUP007,2022-10-10,43.14
+P0522,KiddoFashion Jackets Blue 8,Girls Clothing,Jackets,8,Fall,Blue,KiddoFashion,15.09,27.75,SUP006,2022-09-15,45.62
+P0523,SmallStyle Jackets Navy 5T,Girls Clothing,Jackets,5T,Winter,Navy,SmallStyle,27.36,50.44,SUP004,2023-04-14,45.76
+P0524,JuniorWear Jackets Red 3T,Girls Clothing,Jackets,3T,Summer,Red,JuniorWear,11.03,24.32,SUP007,2022-12-07,54.65
+P0525,BabyChic Jackets Purple 14,Girls Clothing,Jackets,14,Winter,Purple,BabyChic,22.57,49.8,SUP006,2023-03-17,54.68
+P0526,JuniorWear Jackets White 14,Girls Clothing,Jackets,14,Summer,White,JuniorWear,26.46,49.99,SUP010,2022-07-25,47.07
+P0527,LittleFashion Jackets Black 10,Girls Clothing,Jackets,10,Fall,Black,LittleFashion,29.95,52.56,SUP006,2022-10-26,43.02
+P0528,MiniMode Jackets White 10,Girls Clothing,Jackets,10,All Season,White,MiniMode,27.6,54.92,SUP007,2022-10-15,49.75
+P0529,TinyTrends Jackets Navy 8,Girls Clothing,Jackets,8,Fall,Navy,TinyTrends,23.32,45.69,SUP004,2023-08-30,48.96
+P0530,PetitMode Jackets Red 12,Girls Clothing,Jackets,12,Summer,Red,PetitMode,18.61,34.2,SUP012,2023-04-18,45.58
+P0531,JuniorWear Jackets Beige 5T,Girls Clothing,Jackets,5T,Winter,Beige,JuniorWear,29.85,49.95,SUP002,2023-02-23,40.24
+P0532,JuniorWear Jackets Green 10,Girls Clothing,Jackets,10,Summer,Green,JuniorWear,23.44,45.73,SUP005,2023-11-06,48.74
+P0533,YouthStyle Jackets Blue 4T,Girls Clothing,Jackets,4T,Winter,Blue,YouthStyle,17.86,31.85,SUP008,2023-09-05,43.92
+P0534,YouthStyle Jackets Orange 10,Girls Clothing,Jackets,10,All Season,Orange,YouthStyle,11.45,24.55,SUP009,2023-03-05,53.36
+P0535,BabyChic Jackets Beige 12,Girls Clothing,Jackets,12,Spring,Beige,BabyChic,14.39,29.18,SUP015,2023-07-04,50.69
+P0536,TinyTrends Jackets Green 14,Girls Clothing,Jackets,14,Spring,Green,TinyTrends,13.02,26.85,SUP011,2023-11-12,51.51
+P0537,SmallStyle Jackets Red 7,Girls Clothing,Jackets,7,Summer,Red,SmallStyle,7.55,16.68,SUP010,2023-10-23,54.74
+P0538,YouthStyle Jackets Blue 8,Girls Clothing,Jackets,8,Fall,Blue,YouthStyle,28.03,54.51,SUP001,2022-04-11,48.58
+P0539,PetitMode Jackets Beige 6,Girls Clothing,Jackets,6,Summer,Beige,PetitMode,16.76,30.37,SUP009,2023-07-26,44.81
+P0540,MiniMode Jackets Purple 14,Girls Clothing,Jackets,14,All Season,Purple,MiniMode,14.06,23.73,SUP006,2023-02-05,40.75
+P0541,PetitMode Jackets Pink 10,Girls Clothing,Jackets,10,All Season,Pink,PetitMode,21.53,46.45,SUP006,2022-01-26,53.65
+P0542,JuniorWear Jackets Black 10,Girls Clothing,Jackets,10,Spring,Black,JuniorWear,18.45,31.7,SUP015,2022-03-29,41.8
+P0543,BabyChic Jackets Yellow 3T,Girls Clothing,Jackets,3T,Summer,Yellow,BabyChic,27.46,52.79,SUP006,2023-04-12,47.98
+P0544,KiddoFashion Jackets White 5T,Girls Clothing,Jackets,5T,All Season,White,KiddoFashion,18.78,39.54,SUP008,2022-04-10,52.5
+P0545,BabyChic Jackets Blue 10,Girls Clothing,Jackets,10,Winter,Blue,BabyChic,26.49,54.65,SUP005,2022-02-15,51.53
+P0546,BabyChic Jackets Gray 3T,Girls Clothing,Jackets,3T,Spring,Gray,BabyChic,28.86,52.71,SUP002,2023-11-25,45.25
+P0547,PetitMode Jackets Pink 4T,Girls Clothing,Jackets,4T,Summer,Pink,PetitMode,20.71,39.31,SUP009,2022-06-13,47.32
+P0548,YouthStyle Jackets Purple 7,Girls Clothing,Jackets,7,All Season,Purple,YouthStyle,11.55,24.23,SUP004,2023-02-19,52.33
+P0549,YouthStyle Jackets Black 4T,Girls Clothing,Jackets,4T,Summer,Black,YouthStyle,11.39,23.82,SUP001,2023-09-21,52.18
+P0550,SmallStyle Jackets Black 5T,Girls Clothing,Jackets,5T,Winter,Black,SmallStyle,23.21,46.18,SUP007,2022-01-05,49.74
+P0551,JuniorWear Onesies Beige 3-6M,Infants,Onesies,3-6M,Summer,Beige,JuniorWear,5.69,9.56,SUP013,2022-03-06,40.48
+P0552,PetitMode Onesies Pink 18-24M,Infants,Onesies,18-24M,Spring,Pink,PetitMode,18.77,31.86,SUP006,2022-11-30,41.09
+P0553,TinyTrends Onesies Yellow 3-6M,Infants,Onesies,3-6M,Winter,Yellow,TinyTrends,16.6,34.86,SUP011,2023-05-17,52.38
+P0554,SmallStyle Onesies Black 18-24M,Infants,Onesies,18-24M,Fall,Black,SmallStyle,10.54,18.7,SUP010,2023-02-06,43.64
+P0555,BabyChic Onesies White 18-24M,Infants,Onesies,18-24M,Spring,White,BabyChic,12.67,26.79,SUP014,2023-04-14,52.71
+P0556,JuniorWear Onesies Navy 18-24M,Infants,Onesies,18-24M,Summer,Navy,JuniorWear,14.52,30.03,SUP010,2022-03-28,51.65
+P0557,TinyTrends Onesies Green 3-6M,Infants,Onesies,3-6M,Fall,Green,TinyTrends,7.45,14.04,SUP005,2022-04-30,46.94
+P0558,LittleFashion Onesies Orange 3-6M,Infants,Onesies,3-6M,Fall,Orange,LittleFashion,12.89,24.01,SUP007,2023-03-05,46.31
+P0559,SmallStyle Onesies Black 18-24M,Infants,Onesies,18-24M,Summer,Black,SmallStyle,6.09,10.47,SUP007,2022-07-10,41.83
+P0560,LittleFashion Onesies Orange 12-18M,Infants,Onesies,12-18M,All Season,Orange,LittleFashion,7.12,15.17,SUP003,2023-05-17,53.07
+P0561,LittleFashion Onesies White 6-12M,Infants,Onesies,6-12M,Summer,White,LittleFashion,18.99,32.0,SUP014,2023-04-07,40.66
+P0562,BabyChic Onesies Red 18-24M,Infants,Onesies,18-24M,Spring,Red,BabyChic,17.87,31.28,SUP008,2022-05-20,42.87
+P0563,PetitMode Onesies Orange 3-6M,Infants,Onesies,3-6M,Winter,Orange,PetitMode,13.68,25.69,SUP011,2023-05-22,46.75
+P0564,YouthStyle Onesies Beige 12-18M,Infants,Onesies,12-18M,Winter,Beige,YouthStyle,5.29,10.35,SUP014,2023-03-31,48.89
+P0565,TinyTrends Onesies Navy 12-18M,Infants,Onesies,12-18M,Summer,Navy,TinyTrends,8.83,18.06,SUP001,2022-08-14,51.11
+P0566,JuniorWear Onesies Green 6-12M,Infants,Onesies,6-12M,Spring,Green,JuniorWear,14.44,27.53,SUP009,2022-10-23,47.55
+P0567,SmallStyle Onesies Beige 3-6M,Infants,Onesies,3-6M,Winter,Beige,SmallStyle,4.92,10.19,SUP013,2023-05-23,51.72
+P0568,TinyTrends Onesies Navy 18-24M,Infants,Onesies,18-24M,All Season,Navy,TinyTrends,12.2,26.45,SUP002,2022-10-02,53.88
+P0569,PetitMode Onesies Red 18-24M,Infants,Onesies,18-24M,Fall,Red,PetitMode,16.24,30.98,SUP013,2023-03-28,47.58
+P0570,YouthStyle Onesies Blue 18-24M,Infants,Onesies,18-24M,Summer,Blue,YouthStyle,11.31,20.98,SUP012,2023-11-01,46.09
+P0571,KidsStyle Onesies Purple 3-6M,Infants,Onesies,3-6M,Fall,Purple,KidsStyle,15.2,30.27,SUP005,2022-12-23,49.79
+P0572,TinyTrends Onesies Green 0-3M,Infants,Onesies,0-3M,Winter,Green,TinyTrends,14.07,26.31,SUP004,2023-08-26,46.52
+P0573,YouthStyle Onesies Pink 6-12M,Infants,Onesies,6-12M,All Season,Pink,YouthStyle,8.85,15.21,SUP010,2022-05-23,41.81
+P0574,KidsStyle Onesies Navy 3-6M,Infants,Onesies,3-6M,Summer,Navy,KidsStyle,16.21,29.53,SUP006,2023-06-30,45.11
+P0575,PetitMode Onesies Pink 6-12M,Infants,Onesies,6-12M,All Season,Pink,PetitMode,17.97,30.97,SUP006,2022-10-27,41.98
+P0576,JuniorWear Onesies Orange 6-12M,Infants,Onesies,6-12M,All Season,Orange,JuniorWear,15.61,27.13,SUP015,2023-11-27,42.46
+P0577,YouthStyle Onesies Red 0-3M,Infants,Onesies,0-3M,Summer,Red,YouthStyle,14.81,26.83,SUP005,2023-11-03,44.8
+P0578,MiniMode Onesies Pink 3-6M,Infants,Onesies,3-6M,Summer,Pink,MiniMode,13.9,24.7,SUP012,2022-11-26,43.72
+P0579,KiddoFashion Onesies Pink 3-6M,Infants,Onesies,3-6M,Winter,Pink,KiddoFashion,7.15,12.28,SUP010,2023-10-10,41.78
+P0580,YouthStyle Onesies Purple 6-12M,Infants,Onesies,6-12M,Winter,Purple,YouthStyle,14.33,31.54,SUP002,2023-10-11,54.57
+P0581,PetitMode Onesies Beige 0-3M,Infants,Onesies,0-3M,Winter,Beige,PetitMode,14.22,30.3,SUP005,2023-01-13,53.07
+P0582,BabyChic Onesies Navy 12-18M,Infants,Onesies,12-18M,Winter,Navy,BabyChic,9.57,17.05,SUP001,2022-04-06,43.87
+P0583,TinyTrends Onesies Orange 12-18M,Infants,Onesies,12-18M,Fall,Orange,TinyTrends,7.07,12.34,SUP007,2022-08-12,42.71
+P0584,KiddoFashion Onesies Yellow 12-18M,Infants,Onesies,12-18M,Summer,Yellow,KiddoFashion,16.03,30.47,SUP006,2022-10-18,47.39
+P0585,SmallStyle Onesies Pink 6-12M,Infants,Onesies,6-12M,All Season,Pink,SmallStyle,4.03,8.17,SUP010,2023-05-12,50.67
+P0586,KidsStyle Onesies Blue 6-12M,Infants,Onesies,6-12M,Spring,Blue,KidsStyle,14.73,24.66,SUP011,2023-04-16,40.27
+P0587,LittleFashion Onesies Purple 0-3M,Infants,Onesies,0-3M,Spring,Purple,LittleFashion,12.25,25.06,SUP008,2022-01-01,51.12
+P0588,LittleFashion Onesies Gray 12-18M,Infants,Onesies,12-18M,Summer,Gray,LittleFashion,13.34,25.12,SUP005,2022-06-12,46.89
+P0589,BabyChic Onesies Yellow 6-12M,Infants,Onesies,6-12M,Spring,Yellow,BabyChic,13.54,29.06,SUP002,2023-01-16,53.41
+P0590,YouthStyle Onesies Gray 3-6M,Infants,Onesies,3-6M,Spring,Gray,YouthStyle,15.17,28.55,SUP005,2022-08-28,46.87
+P0591,TinyTrends Sleepwear Red 12-18M,Infants,Sleepwear,12-18M,Spring,Red,TinyTrends,17.04,34.0,SUP004,2023-05-04,49.88
+P0592,SmallStyle Sleepwear Green 0-3M,Infants,Sleepwear,0-3M,Summer,Green,SmallStyle,14.79,25.08,SUP009,2023-11-28,41.03
+P0593,KidsStyle Sleepwear Beige 12-18M,Infants,Sleepwear,12-18M,Spring,Beige,KidsStyle,6.36,10.77,SUP006,2022-05-04,40.95
+P0594,KiddoFashion Sleepwear Blue 12-18M,Infants,Sleepwear,12-18M,Summer,Blue,KiddoFashion,12.23,26.57,SUP004,2023-01-28,53.97
+P0595,TinyTrends Sleepwear White 0-3M,Infants,Sleepwear,0-3M,Spring,White,TinyTrends,8.97,16.13,SUP006,2022-11-03,44.39
+P0596,LittleFashion Sleepwear Gray 3-6M,Infants,Sleepwear,3-6M,Winter,Gray,LittleFashion,5.28,9.82,SUP011,2022-05-27,46.23
+P0597,SmallStyle Sleepwear Red 0-3M,Infants,Sleepwear,0-3M,All Season,Red,SmallStyle,9.42,17.34,SUP010,2023-10-28,45.67
+P0598,BabyChic Sleepwear Beige 3-6M,Infants,Sleepwear,3-6M,Winter,Beige,BabyChic,5.37,9.24,SUP004,2023-10-06,41.88
+P0599,SmallStyle Sleepwear Gray 3-6M,Infants,Sleepwear,3-6M,Winter,Gray,SmallStyle,20.41,34.28,SUP008,2022-08-11,40.46
+P0600,LittleFashion Sleepwear Blue 0-3M,Infants,Sleepwear,0-3M,Spring,Blue,LittleFashion,13.26,28.24,SUP010,2023-01-29,53.05
+P0601,BabyChic Sleepwear Pink 6-12M,Infants,Sleepwear,6-12M,Winter,Pink,BabyChic,12.92,28.47,SUP004,2022-10-11,54.62
+P0602,PetitMode Sleepwear Navy 0-3M,Infants,Sleepwear,0-3M,Summer,Navy,PetitMode,4.29,8.6,SUP010,2023-09-15,50.12
+P0603,JuniorWear Sleepwear Green 6-12M,Infants,Sleepwear,6-12M,Spring,Green,JuniorWear,11.98,21.19,SUP009,2023-09-14,43.46
+P0604,YouthStyle Sleepwear Yellow 18-24M,Infants,Sleepwear,18-24M,Summer,Yellow,YouthStyle,13.67,26.45,SUP011,2022-02-25,48.32
+P0605,YouthStyle Sleepwear Blue 3-6M,Infants,Sleepwear,3-6M,Winter,Blue,YouthStyle,9.23,15.39,SUP004,2023-05-27,40.03
+P0606,PetitMode Sleepwear Red 18-24M,Infants,Sleepwear,18-24M,Spring,Red,PetitMode,10.1,19.51,SUP006,2022-11-21,48.23
+P0607,SmallStyle Sleepwear Black 3-6M,Infants,Sleepwear,3-6M,Winter,Black,SmallStyle,7.07,12.42,SUP006,2023-07-14,43.08
+P0608,TinyTrends Sleepwear Red 3-6M,Infants,Sleepwear,3-6M,Winter,Red,TinyTrends,12.91,26.73,SUP010,2022-03-11,51.7
+P0609,MiniMode Sleepwear Red 0-3M,Infants,Sleepwear,0-3M,Fall,Red,MiniMode,5.64,10.22,SUP015,2022-03-03,44.81
+P0610,JuniorWear Sleepwear Gray 12-18M,Infants,Sleepwear,12-18M,All Season,Gray,JuniorWear,12.6,25.67,SUP012,2023-05-29,50.92
+P0611,YouthStyle Sleepwear Blue 12-18M,Infants,Sleepwear,12-18M,Winter,Blue,YouthStyle,15.91,33.67,SUP011,2023-07-04,52.75
+P0612,LittleFashion Sleepwear Yellow 18-24M,Infants,Sleepwear,18-24M,All Season,Yellow,LittleFashion,11.64,19.67,SUP002,2022-11-14,40.82
+P0613,MiniMode Sleepwear Pink 0-3M,Infants,Sleepwear,0-3M,All Season,Pink,MiniMode,10.55,19.33,SUP009,2022-12-01,45.42
+P0614,TinyTrends Sleepwear Yellow 12-18M,Infants,Sleepwear,12-18M,All Season,Yellow,TinyTrends,9.2,18.74,SUP012,2023-03-24,50.91
+P0615,MiniMode Sleepwear Blue 3-6M,Infants,Sleepwear,3-6M,Spring,Blue,MiniMode,17.68,34.57,SUP015,2023-03-21,48.86
+P0616,SmallStyle Sleepwear Navy 0-3M,Infants,Sleepwear,0-3M,Winter,Navy,SmallStyle,15.57,32.14,SUP001,2022-11-13,51.56
+P0617,KidsStyle Sleepwear Beige 3-6M,Infants,Sleepwear,3-6M,Spring,Beige,KidsStyle,6.25,13.75,SUP003,2022-01-12,54.55
+P0618,BabyChic Sleepwear Orange 3-6M,Infants,Sleepwear,3-6M,Winter,Orange,BabyChic,12.94,25.6,SUP009,2022-09-23,49.45
+P0619,LittleFashion Sleepwear Beige 3-6M,Infants,Sleepwear,3-6M,Fall,Beige,LittleFashion,16.33,31.34,SUP013,2022-10-03,47.89
+P0620,BabyChic Sleepwear Black 0-3M,Infants,Sleepwear,0-3M,Spring,Black,BabyChic,16.31,34.14,SUP005,2023-06-21,52.23
+P0621,SmallStyle Sleepwear Gray 0-3M,Infants,Sleepwear,0-3M,Fall,Gray,SmallStyle,17.82,31.45,SUP002,2023-05-24,43.34
+P0622,BabyChic Sleepwear Red 12-18M,Infants,Sleepwear,12-18M,All Season,Red,BabyChic,16.62,28.81,SUP008,2023-08-04,42.31
+P0623,LittleFashion Sleepwear Yellow 3-6M,Infants,Sleepwear,3-6M,Fall,Yellow,LittleFashion,15.53,28.55,SUP013,2022-04-16,45.6
+P0624,MiniMode Sleepwear Beige 18-24M,Infants,Sleepwear,18-24M,Spring,Beige,MiniMode,5.25,11.54,SUP009,2022-01-03,54.51
+P0625,MiniMode Sleepwear Red 0-3M,Infants,Sleepwear,0-3M,Spring,Red,MiniMode,17.83,32.86,SUP008,2023-01-08,45.74
+P0626,LittleFashion Sleepwear Red 12-18M,Infants,Sleepwear,12-18M,Summer,Red,LittleFashion,15.41,29.51,SUP009,2023-11-03,47.78
+P0627,BabyChic Sleepwear Green 12-18M,Infants,Sleepwear,12-18M,Summer,Green,BabyChic,5.24,11.17,SUP007,2022-11-24,53.09
+P0628,SmallStyle Sleepwear White 6-12M,Infants,Sleepwear,6-12M,Spring,White,SmallStyle,13.64,26.51,SUP002,2023-05-30,48.55
+P0629,MiniMode Sleepwear Orange 0-3M,Infants,Sleepwear,0-3M,Summer,Orange,MiniMode,7.02,13.41,SUP001,2023-02-15,47.65
+P0630,JuniorWear Sleepwear Yellow 0-3M,Infants,Sleepwear,0-3M,Winter,Yellow,JuniorWear,5.23,9.73,SUP006,2022-03-30,46.25
+P0631,KidsStyle Rompers White 18-24M,Infants,Rompers,18-24M,Winter,White,KidsStyle,8.69,15.26,SUP004,2022-10-26,43.05
+P0632,SmallStyle Rompers Green 18-24M,Infants,Rompers,18-24M,Fall,Green,SmallStyle,8.49,16.38,SUP008,2023-01-13,48.17
+P0633,MiniMode Rompers Beige 18-24M,Infants,Rompers,18-24M,Winter,Beige,MiniMode,3.83,8.31,SUP015,2023-07-14,53.91
+P0634,KidsStyle Rompers Black 3-6M,Infants,Rompers,3-6M,Summer,Black,KidsStyle,9.71,18.6,SUP001,2022-08-27,47.8
+P0635,KidsStyle Rompers White 18-24M,Infants,Rompers,18-24M,Fall,White,KidsStyle,11.95,24.2,SUP001,2023-11-05,50.62
+P0636,TinyTrends Rompers Green 12-18M,Infants,Rompers,12-18M,Fall,Green,TinyTrends,15.49,26.76,SUP009,2022-09-01,42.12
+P0637,KidsStyle Rompers Pink 12-18M,Infants,Rompers,12-18M,Winter,Pink,KidsStyle,13.25,29.06,SUP012,2022-10-14,54.4
+P0638,MiniMode Rompers Orange 0-3M,Infants,Rompers,0-3M,Spring,Orange,MiniMode,9.77,20.97,SUP007,2023-01-17,53.41
+P0639,SmallStyle Rompers Blue 12-18M,Infants,Rompers,12-18M,Spring,Blue,SmallStyle,8.69,14.54,SUP009,2022-05-17,40.23
+P0640,SmallStyle Rompers Navy 12-18M,Infants,Rompers,12-18M,Spring,Navy,SmallStyle,6.22,11.85,SUP001,2023-03-22,47.51
+P0641,JuniorWear Rompers Yellow 3-6M,Infants,Rompers,3-6M,Summer,Yellow,JuniorWear,13.71,24.69,SUP014,2022-11-19,44.47
+P0642,BabyChic Rompers Purple 12-18M,Infants,Rompers,12-18M,Fall,Purple,BabyChic,10.43,23.11,SUP005,2022-08-28,54.87
+P0643,LittleFashion Rompers Navy 0-3M,Infants,Rompers,0-3M,Summer,Navy,LittleFashion,8.87,16.81,SUP002,2022-06-09,47.23
+P0644,KiddoFashion Rompers Purple 0-3M,Infants,Rompers,0-3M,Summer,Purple,KiddoFashion,5.21,10.37,SUP006,2023-02-21,49.76
+P0645,BabyChic Rompers Green 0-3M,Infants,Rompers,0-3M,All Season,Green,BabyChic,4.11,8.9,SUP008,2022-11-12,53.82
+P0646,TinyTrends Rompers Blue 12-18M,Infants,Rompers,12-18M,Fall,Blue,TinyTrends,8.8,18.72,SUP003,2022-11-08,52.99
+P0647,MiniMode Rompers White 18-24M,Infants,Rompers,18-24M,Spring,White,MiniMode,12.91,23.32,SUP003,2022-04-04,44.64
+P0648,YouthStyle Rompers Orange 3-6M,Infants,Rompers,3-6M,Fall,Orange,YouthStyle,14.22,29.62,SUP001,2023-11-25,51.99
+P0649,LittleFashion Rompers Red 6-12M,Infants,Rompers,6-12M,Fall,Red,LittleFashion,5.83,12.52,SUP007,2023-04-09,53.43
+P0650,MiniMode Rompers Blue 18-24M,Infants,Rompers,18-24M,All Season,Blue,MiniMode,14.0,25.18,SUP008,2022-04-15,44.4
+P0651,KidsStyle Rompers Red 3-6M,Infants,Rompers,3-6M,Spring,Red,KidsStyle,5.23,8.85,SUP014,2022-08-16,40.9
+P0652,YouthStyle Rompers White 3-6M,Infants,Rompers,3-6M,Summer,White,YouthStyle,4.99,9.4,SUP011,2023-10-08,46.91
+P0653,SmallStyle Rompers Yellow 0-3M,Infants,Rompers,0-3M,All Season,Yellow,SmallStyle,15.76,27.14,SUP015,2022-03-18,41.93
+P0654,MiniMode Rompers Gray 0-3M,Infants,Rompers,0-3M,Spring,Gray,MiniMode,15.56,27.28,SUP008,2022-05-12,42.96
+P0655,TinyTrends Rompers Red 0-3M,Infants,Rompers,0-3M,Fall,Red,TinyTrends,9.83,17.17,SUP008,2022-02-21,42.75
+P0656,YouthStyle Rompers Beige 3-6M,Infants,Rompers,3-6M,All Season,Beige,YouthStyle,5.94,10.16,SUP007,2023-05-24,41.54
+P0657,YouthStyle Rompers Pink 0-3M,Infants,Rompers,0-3M,Winter,Pink,YouthStyle,13.04,22.78,SUP006,2022-08-08,42.76
+P0658,JuniorWear Rompers Purple 3-6M,Infants,Rompers,3-6M,Fall,Purple,JuniorWear,11.05,20.21,SUP015,2022-06-02,45.32
+P0659,SmallStyle Rompers Navy 0-3M,Infants,Rompers,0-3M,All Season,Navy,SmallStyle,12.43,22.21,SUP004,2023-10-25,44.03
+P0660,YouthStyle Rompers Orange 6-12M,Infants,Rompers,6-12M,Winter,Orange,YouthStyle,4.68,10.2,SUP008,2022-03-04,54.12
+P0661,YouthStyle Rompers Pink 0-3M,Infants,Rompers,0-3M,Fall,Pink,YouthStyle,6.95,14.67,SUP007,2022-07-24,52.62
+P0662,PetitMode Rompers Red 18-24M,Infants,Rompers,18-24M,Summer,Red,PetitMode,15.23,31.54,SUP007,2023-01-03,51.71
+P0663,KiddoFashion Rompers White 12-18M,Infants,Rompers,12-18M,All Season,White,KiddoFashion,17.19,34.35,SUP015,2023-08-03,49.96
+P0664,YouthStyle Rompers Yellow 18-24M,Infants,Rompers,18-24M,Fall,Yellow,YouthStyle,7.34,12.92,SUP003,2022-01-27,43.19
+P0665,MiniMode Rompers Red 6-12M,Infants,Rompers,6-12M,All Season,Red,MiniMode,13.53,25.79,SUP015,2022-10-15,47.54
+P0666,PetitMode Rompers White 0-3M,Infants,Rompers,0-3M,Winter,White,PetitMode,12.83,22.99,SUP013,2023-08-22,44.19
+P0667,TinyTrends Rompers Green 3-6M,Infants,Rompers,3-6M,Summer,Green,TinyTrends,8.49,14.17,SUP011,2022-09-04,40.08
+P0668,KidsStyle Rompers Green 6-12M,Infants,Rompers,6-12M,All Season,Green,KidsStyle,18.79,34.32,SUP010,2023-02-02,45.25
+P0669,LittleFashion Rompers Green 6-12M,Infants,Rompers,6-12M,Summer,Green,LittleFashion,7.39,13.39,SUP010,2022-11-22,44.81
+P0670,KidsStyle Rompers Beige 6-12M,Infants,Rompers,6-12M,All Season,Beige,KidsStyle,4.52,9.95,SUP012,2022-12-27,54.57
+P0671,LittleFashion Bibs Navy 18-24M,Infants,Bibs,18-24M,All Season,Navy,LittleFashion,7.77,14.96,SUP004,2023-05-20,48.06
+P0672,LittleFashion Bibs Purple 18-24M,Infants,Bibs,18-24M,Fall,Purple,LittleFashion,17.58,31.44,SUP001,2022-04-03,44.08
+P0673,SmallStyle Bibs Green 0-3M,Infants,Bibs,0-3M,Summer,Green,SmallStyle,14.41,28.05,SUP001,2023-06-24,48.63
+P0674,BabyChic Bibs Navy 12-18M,Infants,Bibs,12-18M,Spring,Navy,BabyChic,8.77,17.34,SUP004,2022-05-14,49.42
+P0675,BabyChic Bibs Red 6-12M,Infants,Bibs,6-12M,Summer,Red,BabyChic,15.81,34.67,SUP001,2022-06-01,54.4
+P0676,TinyTrends Bibs Orange 18-24M,Infants,Bibs,18-24M,Summer,Orange,TinyTrends,16.86,31.41,SUP014,2023-01-09,46.32
+P0677,YouthStyle Bibs Navy 0-3M,Infants,Bibs,0-3M,Fall,Navy,YouthStyle,11.09,19.84,SUP002,2022-12-11,44.1
+P0678,LittleFashion Bibs Pink 6-12M,Infants,Bibs,6-12M,Fall,Pink,LittleFashion,12.28,21.14,SUP012,2023-03-24,41.91
+P0679,LittleFashion Bibs Beige 12-18M,Infants,Bibs,12-18M,Fall,Beige,LittleFashion,16.59,32.32,SUP009,2023-09-21,48.67
+P0680,SmallStyle Bibs Pink 6-12M,Infants,Bibs,6-12M,Summer,Pink,SmallStyle,8.34,15.47,SUP007,2022-11-11,46.09
+P0681,LittleFashion Bibs Beige 6-12M,Infants,Bibs,6-12M,Summer,Beige,LittleFashion,15.71,32.63,SUP001,2023-08-10,51.85
+P0682,KidsStyle Bibs Pink 12-18M,Infants,Bibs,12-18M,All Season,Pink,KidsStyle,13.52,24.82,SUP010,2022-11-22,45.53
+P0683,SmallStyle Bibs Blue 18-24M,Infants,Bibs,18-24M,Summer,Blue,SmallStyle,13.05,27.79,SUP015,2023-05-24,53.04
+P0684,TinyTrends Bibs Green 3-6M,Infants,Bibs,3-6M,Fall,Green,TinyTrends,16.03,27.33,SUP006,2022-11-24,41.35
+P0685,BabyChic Bibs Purple 3-6M,Infants,Bibs,3-6M,Spring,Purple,BabyChic,6.24,12.85,SUP001,2022-09-29,51.44
+P0686,TinyTrends Bibs White 3-6M,Infants,Bibs,3-6M,Summer,White,TinyTrends,16.33,34.23,SUP005,2022-04-21,52.29
+P0687,YouthStyle Bibs Purple 0-3M,Infants,Bibs,0-3M,Spring,Purple,YouthStyle,16.28,31.07,SUP012,2023-03-06,47.6
+P0688,KiddoFashion Bibs Black 3-6M,Infants,Bibs,3-6M,Winter,Black,KiddoFashion,8.52,14.68,SUP006,2023-07-14,41.96
+P0689,KiddoFashion Bibs Navy 12-18M,Infants,Bibs,12-18M,Spring,Navy,KiddoFashion,10.55,20.02,SUP011,2022-08-19,47.3
+P0690,TinyTrends Bibs Red 3-6M,Infants,Bibs,3-6M,Winter,Red,TinyTrends,9.54,17.7,SUP005,2022-01-21,46.1
+P0691,TinyTrends Bibs Blue 6-12M,Infants,Bibs,6-12M,Fall,Blue,TinyTrends,6.32,12.42,SUP006,2022-06-24,49.11
+P0692,TinyTrends Bibs Orange 12-18M,Infants,Bibs,12-18M,Summer,Orange,TinyTrends,16.7,34.17,SUP015,2022-04-06,51.13
+P0693,SmallStyle Bibs Purple 6-12M,Infants,Bibs,6-12M,All Season,Purple,SmallStyle,12.83,25.73,SUP012,2022-02-01,50.14
+P0694,SmallStyle Bibs Black 12-18M,Infants,Bibs,12-18M,Summer,Black,SmallStyle,13.56,28.88,SUP003,2022-02-24,53.05
+P0695,MiniMode Bibs Green 0-3M,Infants,Bibs,0-3M,Fall,Green,MiniMode,17.71,34.19,SUP007,2023-07-22,48.2
+P0696,JuniorWear Bibs Yellow 18-24M,Infants,Bibs,18-24M,Fall,Yellow,JuniorWear,6.62,14.37,SUP004,2022-04-09,53.93
+P0697,SmallStyle Bibs Orange 0-3M,Infants,Bibs,0-3M,Winter,Orange,SmallStyle,6.64,12.58,SUP014,2023-05-18,47.22
+P0698,BabyChic Bibs Red 3-6M,Infants,Bibs,3-6M,Spring,Red,BabyChic,9.82,17.1,SUP007,2022-03-31,42.57
+P0699,KiddoFashion Bibs Green 6-12M,Infants,Bibs,6-12M,All Season,Green,KiddoFashion,9.57,19.63,SUP002,2022-01-27,51.25
+P0700,JuniorWear Bibs Blue 3-6M,Infants,Bibs,3-6M,Summer,Blue,JuniorWear,13.71,24.66,SUP008,2022-04-29,44.4
+P0701,KiddoFashion Bibs Purple 6-12M,Infants,Bibs,6-12M,Winter,Purple,KiddoFashion,5.94,12.51,SUP015,2023-11-08,52.52
+P0702,PetitMode Bibs Black 6-12M,Infants,Bibs,6-12M,Spring,Black,PetitMode,5.04,8.99,SUP003,2023-01-15,43.94
+P0703,LittleFashion Bibs Purple 12-18M,Infants,Bibs,12-18M,Fall,Purple,LittleFashion,13.51,25.92,SUP001,2022-09-27,47.88
+P0704,JuniorWear Bibs Green 12-18M,Infants,Bibs,12-18M,Winter,Green,JuniorWear,17.58,30.79,SUP014,2022-10-03,42.9
+P0705,LittleFashion Bibs Beige 18-24M,Infants,Bibs,18-24M,Spring,Beige,LittleFashion,13.81,23.8,SUP011,2022-04-10,41.97
+P0706,PetitMode Bibs Black 0-3M,Infants,Bibs,0-3M,Fall,Black,PetitMode,6.33,13.56,SUP013,2023-08-27,53.32
+P0707,KidsStyle Bibs Black 3-6M,Infants,Bibs,3-6M,All Season,Black,KidsStyle,7.01,15.28,SUP014,2023-06-20,54.12
+P0708,KiddoFashion Bibs Navy 12-18M,Infants,Bibs,12-18M,All Season,Navy,KiddoFashion,13.19,22.34,SUP015,2022-08-30,40.96
+P0709,TinyTrends Bibs Black 12-18M,Infants,Bibs,12-18M,Fall,Black,TinyTrends,4.24,9.06,SUP015,2022-02-05,53.2
+P0710,PetitMode Bibs Navy 18-24M,Infants,Bibs,18-24M,All Season,Navy,PetitMode,11.93,20.21,SUP011,2023-09-28,40.97
+P0711,KiddoFashion Blankets Pink 3-6M,Infants,Blankets,3-6M,Spring,Pink,KiddoFashion,8.7,16.54,SUP003,2022-08-05,47.4
+P0712,KidsStyle Blankets Black 3-6M,Infants,Blankets,3-6M,Summer,Black,KidsStyle,4.31,9.12,SUP002,2023-12-01,52.74
+P0713,LittleFashion Blankets Navy 12-18M,Infants,Blankets,12-18M,Summer,Navy,LittleFashion,20.6,34.64,SUP005,2022-11-24,40.53
+P0714,YouthStyle Blankets Orange 0-3M,Infants,Blankets,0-3M,Spring,Orange,YouthStyle,4.82,8.13,SUP007,2023-07-20,40.71
+P0715,PetitMode Blankets Purple 6-12M,Infants,Blankets,6-12M,Fall,Purple,PetitMode,14.66,25.26,SUP015,2022-01-13,41.96
+P0716,PetitMode Blankets Black 18-24M,Infants,Blankets,18-24M,All Season,Black,PetitMode,10.69,20.28,SUP002,2023-03-01,47.29
+P0717,SmallStyle Blankets Navy 3-6M,Infants,Blankets,3-6M,Summer,Navy,SmallStyle,11.66,21.2,SUP010,2022-04-13,45.0
+P0718,TinyTrends Blankets Yellow 0-3M,Infants,Blankets,0-3M,All Season,Yellow,TinyTrends,5.35,11.77,SUP014,2023-07-03,54.55
+P0719,JuniorWear Blankets Black 6-12M,Infants,Blankets,6-12M,Winter,Black,JuniorWear,9.06,16.31,SUP011,2023-05-13,44.45
+P0720,KiddoFashion Blankets Red 18-24M,Infants,Blankets,18-24M,All Season,Red,KiddoFashion,7.41,13.45,SUP003,2022-10-10,44.91
+P0721,SmallStyle Blankets Navy 12-18M,Infants,Blankets,12-18M,Summer,Navy,SmallStyle,15.87,34.19,SUP011,2023-02-16,53.58
+P0722,BabyChic Blankets Beige 0-3M,Infants,Blankets,0-3M,Winter,Beige,BabyChic,13.51,26.16,SUP004,2022-02-20,48.36
+P0723,BabyChic Blankets Red 12-18M,Infants,Blankets,12-18M,Fall,Red,BabyChic,14.98,31.44,SUP006,2022-11-07,52.35
+P0724,KiddoFashion Blankets Beige 6-12M,Infants,Blankets,6-12M,Fall,Beige,KiddoFashion,15.37,26.7,SUP011,2022-04-11,42.43
+P0725,JuniorWear Blankets Beige 3-6M,Infants,Blankets,3-6M,Summer,Beige,JuniorWear,18.51,33.5,SUP008,2022-11-25,44.75
+P0726,SmallStyle Blankets Gray 6-12M,Infants,Blankets,6-12M,Winter,Gray,SmallStyle,11.62,21.42,SUP002,2022-07-12,45.75
+P0727,YouthStyle Blankets Beige 12-18M,Infants,Blankets,12-18M,Summer,Beige,YouthStyle,16.85,31.46,SUP008,2023-06-13,46.44
+P0728,PetitMode Blankets Pink 6-12M,Infants,Blankets,6-12M,Spring,Pink,PetitMode,5.2,8.82,SUP002,2022-11-15,41.04
+P0729,LittleFashion Blankets Orange 18-24M,Infants,Blankets,18-24M,Winter,Orange,LittleFashion,14.68,26.62,SUP015,2023-08-06,44.85
+P0730,MiniMode Blankets Green 0-3M,Infants,Blankets,0-3M,Summer,Green,MiniMode,7.58,13.82,SUP014,2022-03-01,45.15
+P0731,KiddoFashion Blankets Red 3-6M,Infants,Blankets,3-6M,Spring,Red,KiddoFashion,10.2,18.63,SUP015,2023-01-05,45.25
+P0732,BabyChic Blankets Purple 3-6M,Infants,Blankets,3-6M,Fall,Purple,BabyChic,5.97,10.88,SUP009,2023-02-11,45.13
+P0733,MiniMode Blankets White 0-3M,Infants,Blankets,0-3M,Spring,White,MiniMode,15.99,34.98,SUP008,2023-09-01,54.29
+P0734,KiddoFashion Blankets Navy 12-18M,Infants,Blankets,12-18M,Summer,Navy,KiddoFashion,17.57,34.38,SUP009,2022-12-25,48.89
+P0735,JuniorWear Blankets Beige 6-12M,Infants,Blankets,6-12M,Summer,Beige,JuniorWear,17.88,31.51,SUP014,2022-04-03,43.26
+P0736,YouthStyle Blankets Red 6-12M,Infants,Blankets,6-12M,Spring,Red,YouthStyle,13.07,23.31,SUP003,2023-08-09,43.93
+P0737,MiniMode Blankets Gray 3-6M,Infants,Blankets,3-6M,Summer,Gray,MiniMode,16.2,31.72,SUP004,2022-10-03,48.93
+P0738,KidsStyle Blankets Gray 12-18M,Infants,Blankets,12-18M,All Season,Gray,KidsStyle,9.26,16.83,SUP001,2023-05-01,44.98
+P0739,SmallStyle Blankets Red 3-6M,Infants,Blankets,3-6M,Summer,Red,SmallStyle,16.82,29.81,SUP004,2022-09-16,43.58
+P0740,JuniorWear Blankets Black 18-24M,Infants,Blankets,18-24M,Fall,Black,JuniorWear,15.22,29.54,SUP015,2023-01-21,48.48
+P0741,JuniorWear Blankets Green 6-12M,Infants,Blankets,6-12M,Winter,Green,JuniorWear,14.08,30.08,SUP008,2022-11-06,53.19
+P0742,YouthStyle Blankets Navy 18-24M,Infants,Blankets,18-24M,All Season,Navy,YouthStyle,10.23,22.7,SUP002,2022-01-08,54.93
+P0743,PetitMode Blankets Gray 18-24M,Infants,Blankets,18-24M,Fall,Gray,PetitMode,8.46,16.76,SUP010,2023-09-16,49.52
+P0744,TinyTrends Blankets Purple 6-12M,Infants,Blankets,6-12M,Fall,Purple,TinyTrends,10.37,18.7,SUP002,2022-12-11,44.55
+P0745,JuniorWear Blankets Yellow 6-12M,Infants,Blankets,6-12M,Fall,Yellow,JuniorWear,9.56,18.49,SUP011,2023-10-30,48.3
+P0746,LittleFashion Blankets Orange 6-12M,Infants,Blankets,6-12M,Summer,Orange,LittleFashion,7.29,14.41,SUP013,2022-09-04,49.41
+P0747,YouthStyle Blankets Gray 0-3M,Infants,Blankets,0-3M,All Season,Gray,YouthStyle,6.52,14.14,SUP006,2023-11-29,53.89
+P0748,KiddoFashion Blankets Yellow 3-6M,Infants,Blankets,3-6M,Spring,Yellow,KiddoFashion,13.37,24.29,SUP005,2023-03-05,44.96
+P0749,KidsStyle Blankets Navy 12-18M,Infants,Blankets,12-18M,Winter,Navy,KidsStyle,12.85,24.73,SUP012,2023-08-09,48.04
+P0750,MiniMode Blankets Gray 3-6M,Infants,Blankets,3-6M,Fall,Gray,MiniMode,10.58,18.25,SUP009,2023-10-16,42.03
+P0751,PetitMode Shoes Yellow L,Accessories,Shoes,L,Fall,Yellow,PetitMode,12.09,23.17,SUP014,2022-06-24,47.82
+P0752,JuniorWear Shoes Blue XL,Accessories,Shoes,XL,Summer,Blue,JuniorWear,2.96,5.9,SUP008,2022-05-12,49.83
+P0753,LittleFashion Shoes Gray M,Accessories,Shoes,M,All Season,Gray,LittleFashion,9.33,18.31,SUP015,2022-12-10,49.04
+P0754,BabyChic Shoes Green XS,Accessories,Shoes,XS,Summer,Green,BabyChic,13.42,25.31,SUP012,2022-11-11,46.98
+P0755,BabyChic Shoes Yellow L,Accessories,Shoes,L,Fall,Yellow,BabyChic,14.84,26.28,SUP010,2022-10-29,43.53
+P0756,KiddoFashion Shoes Red L,Accessories,Shoes,L,Spring,Red,KiddoFashion,18.66,33.45,SUP014,2023-10-12,44.22
+P0757,SmallStyle Shoes Blue XL,Accessories,Shoes,XL,All Season,Blue,SmallStyle,17.4,38.44,SUP008,2022-07-19,54.73
+P0758,YouthStyle Shoes Orange XL,Accessories,Shoes,XL,Spring,Orange,YouthStyle,5.35,11.85,SUP005,2023-02-28,54.85
+P0759,LittleFashion Shoes Green XS,Accessories,Shoes,XS,Summer,Green,LittleFashion,16.17,27.66,SUP006,2023-02-24,41.54
+P0760,LittleFashion Shoes White XL,Accessories,Shoes,XL,Winter,White,LittleFashion,7.96,13.52,SUP014,2022-07-04,41.12
+P0761,BabyChic Shoes Gray XS,Accessories,Shoes,XS,Winter,Gray,BabyChic,4.2,7.11,SUP003,2022-11-17,40.93
+P0762,KiddoFashion Shoes Yellow XS,Accessories,Shoes,XS,Spring,Yellow,KiddoFashion,8.05,17.31,SUP004,2022-06-22,53.5
+P0763,KiddoFashion Shoes Blue XL,Accessories,Shoes,XL,Summer,Blue,KiddoFashion,10.75,22.01,SUP003,2023-09-22,51.16
+P0764,YouthStyle Shoes Black L,Accessories,Shoes,L,Winter,Black,YouthStyle,7.43,14.97,SUP008,2023-01-28,50.37
+P0765,PetitMode Shoes Green XS,Accessories,Shoes,XS,Spring,Green,PetitMode,17.58,33.11,SUP012,2023-01-18,46.9
+P0766,PetitMode Shoes Green XS,Accessories,Shoes,XS,Fall,Green,PetitMode,8.61,15.9,SUP001,2023-11-24,45.85
+P0767,MiniMode Shoes Beige XS,Accessories,Shoes,XS,Summer,Beige,MiniMode,14.76,30.07,SUP015,2022-12-19,50.91
+P0768,TinyTrends Shoes Black M,Accessories,Shoes,M,Summer,Black,TinyTrends,9.12,19.47,SUP009,2023-08-26,53.16
+P0769,TinyTrends Shoes Red M,Accessories,Shoes,M,Summer,Red,TinyTrends,6.26,11.34,SUP005,2022-10-25,44.8
+P0770,SmallStyle Shoes Orange L,Accessories,Shoes,L,All Season,Orange,SmallStyle,6.0,11.35,SUP006,2023-03-21,47.14
+P0771,KiddoFashion Shoes White S,Accessories,Shoes,S,Fall,White,KiddoFashion,13.9,29.82,SUP013,2022-07-12,53.39
+P0772,KidsStyle Shoes Green S,Accessories,Shoes,S,Winter,Green,KidsStyle,12.14,24.86,SUP004,2022-05-15,51.17
+P0773,SmallStyle Shoes Orange S,Accessories,Shoes,S,Spring,Orange,SmallStyle,20.22,38.7,SUP003,2022-05-07,47.75
+P0774,YouthStyle Shoes Gray M,Accessories,Shoes,M,Spring,Gray,YouthStyle,17.69,33.21,SUP005,2023-07-02,46.73
+P0775,SmallStyle Shoes Red XL,Accessories,Shoes,XL,Spring,Red,SmallStyle,3.55,6.52,SUP011,2022-04-21,45.55
+P0776,TinyTrends Shoes Black XS,Accessories,Shoes,XS,Spring,Black,TinyTrends,20.69,38.3,SUP008,2023-01-25,45.98
+P0777,JuniorWear Shoes Purple XS,Accessories,Shoes,XS,All Season,Purple,JuniorWear,19.62,33.67,SUP012,2022-06-06,41.73
+P0778,JuniorWear Shoes Black S,Accessories,Shoes,S,Spring,Black,JuniorWear,6.25,12.98,SUP011,2022-04-14,51.85
+P0779,SmallStyle Shoes Navy XL,Accessories,Shoes,XL,Fall,Navy,SmallStyle,13.5,26.38,SUP012,2022-05-21,48.82
+P0780,PetitMode Shoes Beige L,Accessories,Shoes,L,Spring,Beige,PetitMode,20.12,34.4,SUP010,2022-05-01,41.51
+P0781,TinyTrends Hats Purple M,Accessories,Hats,M,Spring,Purple,TinyTrends,8.43,17.37,SUP004,2023-09-16,51.47
+P0782,PetitMode Hats Green S,Accessories,Hats,S,Fall,Green,PetitMode,15.88,32.32,SUP006,2023-02-24,50.87
+P0783,KidsStyle Hats Orange M,Accessories,Hats,M,Summer,Orange,KidsStyle,17.35,33.79,SUP008,2022-08-01,48.65
+P0784,MiniMode Hats Red L,Accessories,Hats,L,Fall,Red,MiniMode,13.17,28.36,SUP001,2023-11-19,53.56
+P0785,SmallStyle Hats Gray XS,Accessories,Hats,XS,Spring,Gray,SmallStyle,13.9,26.84,SUP008,2022-06-02,48.21
+P0786,TinyTrends Hats Beige XS,Accessories,Hats,XS,All Season,Beige,TinyTrends,12.13,25.53,SUP012,2022-04-14,52.49
+P0787,KiddoFashion Hats Yellow M,Accessories,Hats,M,Summer,Yellow,KiddoFashion,17.84,30.79,SUP005,2023-04-21,42.06
+P0788,LittleFashion Hats Red XS,Accessories,Hats,XS,Spring,Red,LittleFashion,5.85,12.59,SUP014,2022-10-25,53.53
+P0789,YouthStyle Hats Beige M,Accessories,Hats,M,Fall,Beige,YouthStyle,3.18,5.83,SUP002,2022-04-08,45.45
+P0790,LittleFashion Hats Gray XS,Accessories,Hats,XS,Spring,Gray,LittleFashion,13.97,26.25,SUP011,2022-06-24,46.78
+P0791,KiddoFashion Hats Navy M,Accessories,Hats,M,Fall,Navy,KiddoFashion,6.67,13.12,SUP005,2022-04-06,49.16
+P0792,LittleFashion Hats Blue M,Accessories,Hats,M,Fall,Blue,LittleFashion,13.54,25.81,SUP007,2023-02-14,47.54
+P0793,YouthStyle Hats Beige L,Accessories,Hats,L,Fall,Beige,YouthStyle,18.62,39.57,SUP014,2023-05-05,52.94
+P0794,TinyTrends Hats Pink L,Accessories,Hats,L,Summer,Pink,TinyTrends,14.98,29.33,SUP012,2022-03-02,48.93
+P0795,YouthStyle Hats Navy S,Accessories,Hats,S,Spring,Navy,YouthStyle,11.15,19.99,SUP008,2023-08-06,44.22
+P0796,SmallStyle Hats Black L,Accessories,Hats,L,Summer,Black,SmallStyle,17.51,29.24,SUP013,2023-01-03,40.12
+P0797,LittleFashion Hats Purple XL,Accessories,Hats,XL,Spring,Purple,LittleFashion,4.42,9.49,SUP015,2023-05-15,53.42
+P0798,KiddoFashion Hats Red XS,Accessories,Hats,XS,Winter,Red,KiddoFashion,16.29,30.35,SUP002,2022-09-25,46.33
+P0799,PetitMode Hats Beige M,Accessories,Hats,M,Spring,Beige,PetitMode,6.74,14.6,SUP010,2023-08-02,53.84
+P0800,PetitMode Hats Orange S,Accessories,Hats,S,Fall,Orange,PetitMode,4.67,8.0,SUP012,2023-09-26,41.62
+P0801,MiniMode Hats Purple XS,Accessories,Hats,XS,Winter,Purple,MiniMode,5.84,11.72,SUP006,2023-11-11,50.17
+P0802,PetitMode Hats Navy L,Accessories,Hats,L,Summer,Navy,PetitMode,6.51,12.93,SUP001,2022-01-12,49.65
+P0803,KiddoFashion Hats Purple S,Accessories,Hats,S,All Season,Purple,KiddoFashion,3.92,7.43,SUP014,2022-06-19,47.24
+P0804,BabyChic Hats Green XS,Accessories,Hats,XS,Winter,Green,BabyChic,4.2,7.37,SUP006,2022-10-12,43.01
+P0805,MiniMode Hats Orange XS,Accessories,Hats,XS,All Season,Orange,MiniMode,7.0,13.18,SUP011,2023-01-23,46.89
+P0806,TinyTrends Hats Purple L,Accessories,Hats,L,Summer,Purple,TinyTrends,19.61,35.8,SUP008,2023-08-10,45.22
+P0807,KiddoFashion Hats Purple L,Accessories,Hats,L,Spring,Purple,KiddoFashion,11.79,23.65,SUP006,2022-05-02,50.15
+P0808,TinyTrends Hats Black L,Accessories,Hats,L,Spring,Black,TinyTrends,9.17,16.66,SUP007,2022-02-06,44.96
+P0809,KidsStyle Hats Blue XL,Accessories,Hats,XL,All Season,Blue,KidsStyle,21.86,39.79,SUP013,2023-09-11,45.06
+P0810,PetitMode Hats Orange XL,Accessories,Hats,XL,Fall,Orange,PetitMode,13.72,24.52,SUP004,2023-11-02,44.05
+P0811,BabyChic Bags Red L,Accessories,Bags,L,Fall,Red,BabyChic,9.77,21.28,SUP014,2022-08-17,54.09
+P0812,PetitMode Bags Navy L,Accessories,Bags,L,Fall,Navy,PetitMode,14.65,24.68,SUP010,2023-04-30,40.64
+P0813,TinyTrends Bags Blue M,Accessories,Bags,M,Winter,Blue,TinyTrends,6.17,11.14,SUP013,2023-11-06,44.61
+P0814,BabyChic Bags White S,Accessories,Bags,S,Spring,White,BabyChic,6.38,12.03,SUP014,2023-10-11,46.97
+P0815,PetitMode Bags White M,Accessories,Bags,M,All Season,White,PetitMode,4.34,8.38,SUP012,2022-04-19,48.21
+P0816,KiddoFashion Bags Pink XS,Accessories,Bags,XS,Summer,Pink,KiddoFashion,15.8,31.47,SUP014,2023-02-24,49.79
+P0817,SmallStyle Bags Green XS,Accessories,Bags,XS,Fall,Green,SmallStyle,16.09,28.27,SUP004,2022-05-04,43.08
+P0818,KiddoFashion Bags Green L,Accessories,Bags,L,Summer,Green,KiddoFashion,18.17,37.45,SUP012,2022-12-13,51.48
+P0819,KidsStyle Bags Gray XS,Accessories,Bags,XS,Winter,Gray,KidsStyle,8.97,18.98,SUP014,2023-11-20,52.74
+P0820,KiddoFashion Bags Purple XL,Accessories,Bags,XL,Spring,Purple,KiddoFashion,23.41,39.74,SUP011,2023-08-27,41.09
+P0821,KiddoFashion Bags Red XL,Accessories,Bags,XL,Summer,Red,KiddoFashion,13.77,23.9,SUP009,2022-02-19,42.38
+P0822,SmallStyle Bags Purple XL,Accessories,Bags,XL,Winter,Purple,SmallStyle,12.63,23.23,SUP015,2023-06-05,45.63
+P0823,LittleFashion Bags Beige S,Accessories,Bags,S,All Season,Beige,LittleFashion,4.57,8.12,SUP014,2022-05-12,43.72
+P0824,SmallStyle Bags Navy XS,Accessories,Bags,XS,Winter,Navy,SmallStyle,5.43,9.47,SUP015,2022-11-26,42.66
+P0825,YouthStyle Bags Navy XL,Accessories,Bags,XL,Winter,Navy,YouthStyle,18.01,32.37,SUP015,2022-09-12,44.36
+P0826,BabyChic Bags Yellow M,Accessories,Bags,M,Winter,Yellow,BabyChic,3.11,6.27,SUP008,2022-05-17,50.4
+P0827,SmallStyle Bags Beige S,Accessories,Bags,S,Winter,Beige,SmallStyle,7.16,14.21,SUP015,2023-06-09,49.61
+P0828,BabyChic Bags Beige M,Accessories,Bags,M,All Season,Beige,BabyChic,4.77,8.07,SUP012,2023-07-21,40.89
+P0829,MiniMode Bags Navy S,Accessories,Bags,S,Summer,Navy,MiniMode,12.09,24.38,SUP012,2022-10-25,50.41
+P0830,LittleFashion Bags Orange M,Accessories,Bags,M,Summer,Orange,LittleFashion,9.77,18.89,SUP009,2023-10-15,48.28
+P0831,BabyChic Bags Orange M,Accessories,Bags,M,Spring,Orange,BabyChic,13.72,26.02,SUP008,2023-08-20,47.27
+P0832,PetitMode Bags Yellow XL,Accessories,Bags,XL,Winter,Yellow,PetitMode,19.5,37.18,SUP015,2023-03-09,47.55
+P0833,TinyTrends Bags Red XS,Accessories,Bags,XS,All Season,Red,TinyTrends,22.95,39.73,SUP007,2022-05-29,42.24
+P0834,MiniMode Bags Yellow XS,Accessories,Bags,XS,Spring,Yellow,MiniMode,7.25,12.3,SUP013,2022-06-14,41.06
+P0835,LittleFashion Bags Red M,Accessories,Bags,M,Fall,Red,LittleFashion,5.19,9.07,SUP012,2022-10-30,42.78
+P0836,KidsStyle Bags White S,Accessories,Bags,S,All Season,White,KidsStyle,10.66,18.32,SUP014,2023-04-09,41.81
+P0837,PetitMode Bags Green XS,Accessories,Bags,XS,All Season,Green,PetitMode,20.2,35.38,SUP012,2023-10-25,42.91
+P0838,MiniMode Bags Orange XL,Accessories,Bags,XL,Winter,Orange,MiniMode,16.18,32.65,SUP013,2022-10-22,50.44
+P0839,YouthStyle Bags Black XS,Accessories,Bags,XS,Winter,Black,YouthStyle,4.0,7.83,SUP013,2022-11-17,48.91
+P0840,KidsStyle Bags Beige XL,Accessories,Bags,XL,Spring,Beige,KidsStyle,6.14,11.07,SUP005,2022-07-27,44.53
+P0841,MiniMode Socks Gray XL,Accessories,Socks,XL,Winter,Gray,MiniMode,10.2,17.11,SUP012,2023-10-26,40.39
+P0842,PetitMode Socks Beige M,Accessories,Socks,M,All Season,Beige,PetitMode,15.73,27.43,SUP010,2022-07-21,42.65
+P0843,KiddoFashion Socks Pink S,Accessories,Socks,S,Fall,Pink,KiddoFashion,5.58,9.64,SUP011,2022-03-18,42.12
+P0844,PetitMode Socks Blue S,Accessories,Socks,S,Summer,Blue,PetitMode,19.51,37.3,SUP007,2022-02-11,47.69
+P0845,PetitMode Socks Yellow L,Accessories,Socks,L,Fall,Yellow,PetitMode,14.81,26.22,SUP003,2022-06-14,43.52
+P0846,KidsStyle Socks White XL,Accessories,Socks,XL,Fall,White,KidsStyle,5.84,11.12,SUP008,2022-06-08,47.48
+P0847,BabyChic Socks Navy XS,Accessories,Socks,XS,Summer,Navy,BabyChic,8.94,18.95,SUP001,2023-10-03,52.82
+P0848,KiddoFashion Socks Navy XL,Accessories,Socks,XL,Fall,Navy,KiddoFashion,8.22,17.86,SUP009,2023-01-02,53.98
+P0849,PetitMode Socks Green XS,Accessories,Socks,XS,Fall,Green,PetitMode,2.77,5.9,SUP003,2023-06-18,53.05
+P0850,LittleFashion Socks Black XS,Accessories,Socks,XS,All Season,Black,LittleFashion,20.61,38.71,SUP009,2023-07-04,46.76
+P0851,BabyChic Socks Green L,Accessories,Socks,L,Spring,Green,BabyChic,19.98,38.8,SUP015,2022-08-07,48.51
+P0852,BabyChic Socks Yellow M,Accessories,Socks,M,Fall,Yellow,BabyChic,8.37,15.91,SUP004,2023-09-26,47.39
+P0853,PetitMode Socks Gray XL,Accessories,Socks,XL,Winter,Gray,PetitMode,9.49,20.38,SUP001,2022-04-28,53.43
+P0854,MiniMode Socks Gray M,Accessories,Socks,M,Winter,Gray,MiniMode,13.23,27.43,SUP010,2023-09-29,51.77
+P0855,BabyChic Socks Black S,Accessories,Socks,S,Spring,Black,BabyChic,14.61,26.69,SUP015,2022-04-27,45.26
+P0856,PetitMode Socks Beige L,Accessories,Socks,L,Fall,Beige,PetitMode,4.74,10.32,SUP005,2022-01-26,54.07
+P0857,PetitMode Socks Orange XL,Accessories,Socks,XL,Fall,Orange,PetitMode,16.78,32.33,SUP008,2023-05-14,48.1
+P0858,MiniMode Socks White XS,Accessories,Socks,XS,Fall,White,MiniMode,4.22,7.04,SUP009,2022-03-26,40.06
+P0859,PetitMode Socks Orange XS,Accessories,Socks,XS,Summer,Orange,PetitMode,3.89,7.02,SUP001,2023-10-04,44.59
+P0860,MiniMode Socks Gray XS,Accessories,Socks,XS,Summer,Gray,MiniMode,19.16,39.43,SUP007,2022-04-17,51.41
+P0861,YouthStyle Socks Gray S,Accessories,Socks,S,All Season,Gray,YouthStyle,4.67,9.98,SUP014,2022-03-15,53.21
+P0862,KiddoFashion Socks Beige S,Accessories,Socks,S,Spring,Beige,KiddoFashion,7.26,15.61,SUP006,2022-02-08,53.49
+P0863,KidsStyle Socks Pink XS,Accessories,Socks,XS,Spring,Pink,KidsStyle,13.43,29.23,SUP013,2022-09-15,54.05
+P0864,SmallStyle Socks Green XL,Accessories,Socks,XL,Spring,Green,SmallStyle,13.69,22.83,SUP015,2022-09-22,40.04
+P0865,KiddoFashion Socks Gray L,Accessories,Socks,L,Winter,Gray,KiddoFashion,18.16,33.49,SUP007,2023-03-20,45.77
+P0866,YouthStyle Socks Gray M,Accessories,Socks,M,Spring,Gray,YouthStyle,8.55,15.72,SUP002,2023-07-02,45.61
+P0867,TinyTrends Socks Beige XS,Accessories,Socks,XS,All Season,Beige,TinyTrends,12.05,23.45,SUP010,2022-02-16,48.61
+P0868,PetitMode Socks Blue XS,Accessories,Socks,XS,Fall,Blue,PetitMode,5.58,9.57,SUP005,2022-11-05,41.69
+P0869,JuniorWear Socks Purple XL,Accessories,Socks,XL,Spring,Purple,JuniorWear,9.94,20.74,SUP007,2023-02-09,52.07
+P0870,LittleFashion Socks Orange XS,Accessories,Socks,XS,Winter,Orange,LittleFashion,9.15,17.87,SUP004,2022-05-20,48.8
+P0871,JuniorWear Belts Gray L,Accessories,Belts,L,All Season,Gray,JuniorWear,19.02,33.96,SUP003,2022-11-02,43.99
+P0872,PetitMode Belts Orange M,Accessories,Belts,M,Spring,Orange,PetitMode,14.42,31.93,SUP003,2022-05-07,54.84
+P0873,SmallStyle Belts Navy XS,Accessories,Belts,XS,Spring,Navy,SmallStyle,10.22,19.57,SUP007,2023-07-05,47.78
+P0874,JuniorWear Belts Green XL,Accessories,Belts,XL,Spring,Green,JuniorWear,2.77,5.67,SUP012,2022-12-19,51.15
+P0875,PetitMode Belts Pink S,Accessories,Belts,S,Winter,Pink,PetitMode,14.87,31.61,SUP003,2022-07-08,52.96
+P0876,JuniorWear Belts Green S,Accessories,Belts,S,All Season,Green,JuniorWear,11.45,23.74,SUP002,2022-07-05,51.77
+P0877,PetitMode Belts Purple XL,Accessories,Belts,XL,Spring,Purple,PetitMode,2.64,5.42,SUP011,2023-07-17,51.29
+P0878,TinyTrends Belts Yellow XS,Accessories,Belts,XS,Fall,Yellow,TinyTrends,22.33,39.16,SUP002,2022-07-22,42.98
+P0879,BabyChic Belts White XL,Accessories,Belts,XL,Winter,White,BabyChic,20.19,38.59,SUP003,2023-11-19,47.68
+P0880,JuniorWear Belts Navy S,Accessories,Belts,S,Spring,Navy,JuniorWear,4.7,8.84,SUP002,2022-07-18,46.83
+P0881,KiddoFashion Belts White M,Accessories,Belts,M,Winter,White,KiddoFashion,12.05,20.9,SUP010,2023-11-07,42.34
+P0882,LittleFashion Belts Navy M,Accessories,Belts,M,All Season,Navy,LittleFashion,4.41,8.43,SUP010,2023-01-09,47.69
+P0883,LittleFashion Belts Red M,Accessories,Belts,M,Winter,Red,LittleFashion,5.11,10.25,SUP006,2022-09-10,50.15
+P0884,JuniorWear Belts White S,Accessories,Belts,S,Winter,White,JuniorWear,16.06,30.81,SUP003,2023-11-27,47.87
+P0885,KiddoFashion Belts Purple M,Accessories,Belts,M,Winter,Purple,KiddoFashion,9.25,18.16,SUP006,2022-11-09,49.06
+P0886,TinyTrends Belts Pink L,Accessories,Belts,L,All Season,Pink,TinyTrends,11.97,21.08,SUP011,2023-09-14,43.22
+P0887,LittleFashion Belts Orange XS,Accessories,Belts,XS,Fall,Orange,LittleFashion,21.49,36.22,SUP004,2022-09-27,40.67
+P0888,KidsStyle Belts Orange XS,Accessories,Belts,XS,Spring,Orange,KidsStyle,16.18,32.54,SUP011,2022-02-01,50.28
+P0889,YouthStyle Belts Navy XL,Accessories,Belts,XL,All Season,Navy,YouthStyle,14.99,29.08,SUP004,2022-02-07,48.45
+P0890,PetitMode Belts Orange XL,Accessories,Belts,XL,Fall,Orange,PetitMode,8.01,13.91,SUP008,2023-11-01,42.42
+P0891,YouthStyle Belts Green S,Accessories,Belts,S,Fall,Green,YouthStyle,3.71,6.34,SUP015,2023-08-27,41.48
+P0892,KiddoFashion Belts Orange M,Accessories,Belts,M,Summer,Orange,KiddoFashion,11.54,21.15,SUP009,2022-04-03,45.44
+P0893,PetitMode Belts Red L,Accessories,Belts,L,Fall,Red,PetitMode,16.41,28.08,SUP011,2022-09-02,41.56
+P0894,PetitMode Belts Pink XL,Accessories,Belts,XL,Summer,Pink,PetitMode,14.79,27.28,SUP008,2022-06-13,45.78
+P0895,SmallStyle Belts Gray S,Accessories,Belts,S,All Season,Gray,SmallStyle,3.87,7.33,SUP014,2022-05-30,47.2
+P0896,KidsStyle Belts Green L,Accessories,Belts,L,Fall,Green,KidsStyle,5.75,10.26,SUP013,2023-05-15,43.96
+P0897,JuniorWear Belts White S,Accessories,Belts,S,Spring,White,JuniorWear,12.66,22.93,SUP004,2022-02-13,44.79
+P0898,BabyChic Belts Black S,Accessories,Belts,S,All Season,Black,BabyChic,2.99,6.46,SUP008,2023-04-11,53.72
+P0899,BabyChic Belts Blue XS,Accessories,Belts,XS,Spring,Blue,BabyChic,13.86,30.07,SUP012,2023-06-18,53.91
+P0900,SmallStyle Belts Orange M,Accessories,Belts,M,Fall,Orange,SmallStyle,3.38,7.49,SUP010,2022-06-28,54.87

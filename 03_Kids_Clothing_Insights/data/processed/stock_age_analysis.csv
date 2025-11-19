@@ -1,0 +1,4 @@
+StockAge,ProductCount,StockValue,TotalUnits,ValueShare
+Ageing (90+ days),334,57135.03,3954,37.49
+Normal (61-90 days),290,50216.24,3405,32.95
+Recent (31-60 days),276,45034.24,3122,29.55

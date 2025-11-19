@@ -1,0 +1,64 @@
+ProductID,ProductName,Category,StockLevel,ReorderPoint,ReorderQuantity,EstimatedCost,SupplierName,LeadTime,ExpectedDelivery,WarehouseID,SupplierID,LastRestocked,StockValue,StockStatus,Subcategory,Size,Season,Color,Brand,Cost,Price,SupplierID_product,LaunchDate,Margin,Country,OnTimeDeliveryRate,DefectRate,AverageLeadTime
+P0257,SmallStyle Dresses Gray 12,Girls Clothing,1,5,9.0,273.06,Infant Wear Solutions,24,2025-01-25,,,,,,,,,,,,,,,,,,,
+P0250,TinyTrends Sweaters Beige 3T,Boys Clothing,0,5,10.0,264.0,Fashion Kids Suppliers,14,2025-01-15,,,,,,,,,,,,,,,,,,,
+P0125,YouthStyle Shorts Beige 14,Boys Clothing,0,5,10.0,253.1,Little Style Manufacturers,30,2025-01-31,,,,,,,,,,,,,,,,,,,
+P0550,SmallStyle Jackets Black 5T,Girls Clothing,0,5,10.0,232.1,Youth Fashion Group,26,2025-01-27,,,,,,,,,,,,,,,,,,,
+P0486,PetitMode Leggings Gray 10,Girls Clothing,2,5,8.0,196.32,ABC Textiles Ltd,15,2025-01-16,,,,,,,,,,,,,,,,,,,
+P0510,SmallStyle Jackets Gray 8,Girls Clothing,2,5,8.0,187.92,Youth Fashion Group,26,2025-01-27,,,,,,,,,,,,,,,,,,,
+P0544,KiddoFashion Jackets White 5T,Girls Clothing,0,5,10.0,187.8,Junior Apparel Co,18,2025-01-19,,,,,,,,,,,,,,,,,,,
+P0240,KiddoFashion Sweaters Gray 12,Boys Clothing,2,5,8.0,186.0,ABC Textiles Ltd,15,2025-01-16,,,,,,,,,,,,,,,,,,,
+P0286,JuniorWear Dresses Navy 10,Girls Clothing,1,5,9.0,181.62,ABC Textiles Ltd,15,2025-01-16,,,,,,,,,,,,,,,,,,,
+P0261,PetitMode Dresses Green 2T,Girls Clothing,1,5,9.0,176.94,Youth Fashion Group,26,2025-01-27,,,,,,,,,,,,,,,,,,,
+P0368,PetitMode Tops Yellow 5T,Girls Clothing,0,5,10.0,170.7,Children Style Ltd,21,2025-01-22,,,,,,,,,,,,,,,,,,,
+P0553,TinyTrends Onesies Yellow 3-6M,Infants,0,5,10.0,166.0,Infant Wear Solutions,24,2025-01-25,,,,,,,,,,,,,,,,,,,
+P0401,KiddoFashion Skirts Yellow 2T,Girls Clothing,2,5,8.0,163.76,Infant Wear Solutions,24,2025-01-25,,,,,,,,,,,,,,,,,,,
+P0478,JuniorWear Leggings Yellow 12,Girls Clothing,0,5,10.0,161.1,Baby Boutique Supplies,12,2025-01-13,,,,,,,,,,,,,,,,,,,
+P0044,YouthStyle Shirts Beige 3T,Boys Clothing,2,5,8.0,157.52,Baby Boutique Supplies,12,2025-01-13,,,,,,,,,,,,,,,,,,,
+P0101,KiddoFashion Shorts Gray 10,Boys Clothing,0,5,10.0,153.5,Mini Mode Textiles,20,2025-01-21,,,,,,,,,,,,,,,,,,,
+P0332,BabyChic Tops Green 7,Girls Clothing,2,5,8.0,152.4,Fashion Kids Suppliers,14,2025-01-15,,,,,,,,,,,,,,,,,,,
+P0519,MiniMode Jackets Navy 3T,Girls Clothing,1,5,9.0,143.73,Mini Mode Textiles,20,2025-01-21,,,,,,,,,,,,,,,,,,,
+P0681,LittleFashion Bibs Beige 6-12M,Infants,1,5,9.0,141.39,ABC Textiles Ltd,15,2025-01-16,,,,,,,,,,,,,,,,,,,
+P0016,BabyChic Shirts Red 12,Boys Clothing,1,5,9.0,137.16,Little Style Manufacturers,30,2025-01-31,,,,,,,,,,,,,,,,,,,
+P0198,KidsStyle Jackets Yellow 2T,Boys Clothing,0,5,10.0,137.1,Baby Boutique Supplies,12,2025-01-13,,,,,,,,,,,,,,,,,,,
+P0436,LittleFashion Leggings Black 10,Girls Clothing,1,5,9.0,132.12,Infant Wear Solutions,24,2025-01-25,,,,,,,,,,,,,,,,,,,
+P0708,KiddoFashion Bibs Navy 12-18M,Infants,0,5,10.0,131.9,Tiny Trends Inc,19,2025-01-20,,,,,,,,,,,,,,,,,,,
+P0385,KiddoFashion Skirts Green 8,Girls Clothing,2,5,8.0,131.52,Little Style Manufacturers,30,2025-01-31,,,,,,,,,,,,,,,,,,,
+P0536,TinyTrends Jackets Green 14,Girls Clothing,1,5,9.0,117.18,Infant Wear Solutions,24,2025-01-25,,,,,,,,,,,,,,,,,,,
+P0612,LittleFashion Sleepwear Yellow 18-24M,Infants,0,5,10.0,116.4,KidsFashion Co,28,2025-01-29,,,,,,,,,,,,,,,,,,,
+P0023,TinyTrends Shirts Black 8,Boys Clothing,0,5,10.0,112.8,Youth Fashion Group,26,2025-01-27,,,,,,,,,,,,,,,,,,,
+P0722,BabyChic Blankets Beige 0-3M,Infants,2,5,8.0,108.08,Little Style Manufacturers,30,2025-01-31,,,,,,,,,,,,,,,,,,,
+P0203,PetitMode Sweaters Pink 10,Boys Clothing,2,5,8.0,105.44,KidsFashion Co,28,2025-01-29,,,,,,,,,,,,,,,,,,,
+P0726,SmallStyle Blankets Gray 6-12M,Infants,1,5,9.0,104.58,KidsFashion Co,28,2025-01-29,,,,,,,,,,,,,,,,,,,
+P0102,KiddoFashion Shorts Navy 14,Boys Clothing,0,5,10.0,101.3,Children Style Ltd,21,2025-01-22,,,,,,,,,,,,,,,,,,,
+P0836,KidsStyle Bags White S,Accessories,1,5,9.0,95.94,Children Style Ltd,21,2025-01-22,,,,,,,,,,,,,,,,,,,
+P0750,MiniMode Blankets Gray 3-6M,Infants,2,5,8.0,84.64,Mini Mode Textiles,20,2025-01-21,,,,,,,,,,,,,,,,,,,
+P0869,JuniorWear Socks Purple XL,Accessories,2,5,8.0,79.52,Youth Fashion Group,26,2025-01-27,,,,,,,,,,,,,,,,,,,
+P0014,LittleFashion Shirts Orange 3T,Boys Clothing,2,5,8.0,78.4,Fashion Kids Suppliers,14,2025-01-15,,,,,,,,,,,,,,,,,,,
+P0667,TinyTrends Rompers Green 3-6M,Infants,1,5,9.0,76.41,Infant Wear Solutions,24,2025-01-25,,,,,,,,,,,,,,,,,,,
+P0187,BabyChic Jackets Green 8,Boys Clothing,1,5,9.0,75.15,Fashion Kids Suppliers,14,2025-01-15,,,,,,,,,,,,,,,,,,,
+P0282,SmallStyle Dresses Pink 5T,Girls Clothing,2,5,8.0,74.0,Little Ones Manufacturing,27,2025-01-28,,,,,,,,,,,,,,,,,,,
+P0213,YouthStyle Sweaters Pink 6,Boys Clothing,0,5,10.0,74.0,Little Style Manufacturers,30,2025-01-31,,,,,,,,,,,,,,,,,,,
+P0229,YouthStyle Sweaters Yellow 7,Boys Clothing,0,5,10.0,64.4,Little Style Manufacturers,30,2025-01-31,,,,,,,,,,,,,,,,,,,
+P0258,JuniorWear Dresses Red 2T,Girls Clothing,2,5,8.0,61.04,TinyThreads Inc,22,2025-01-23,,,,,,,,,,,,,,,,,,,
+P0105,JuniorWear Shorts Purple 10,Boys Clothing,0,5,10.0,57.7,KidsFashion Co,28,2025-01-29,,,,,,,,,,,,,,,,,,,
+P0624,MiniMode Sleepwear Beige 18-24M,Infants,2,5,8.0,42.0,Mini Mode Textiles,20,2025-01-21,,,,,,,,,,,,,,,,,,,
+P0789,YouthStyle Hats Beige M,Accessories,1,5,9.0,28.62,KidsFashion Co,28,2025-01-29,,,,,,,,,,,,,,,,,,,
+P0008,JuniorWear Shirts Red 7,Boys Clothing,3,5,4.5,38.7,Fashion Kids Suppliers,14,,WH001,SUP012,2024-11-18,25.8,Low,Shirts,7,All Season,Red,JuniorWear,8.6,18.0,SUP012,2023-04-16,52.22,USA,0.95,0.02,14.0
+P0009,YouthStyle Shirts Blue 12,Boys Clothing,3,5,4.5,52.42,Mini Mode Textiles,20,,WH001,SUP009,2024-10-26,34.95,Low,Shirts,12,Spring,Blue,YouthStyle,11.65,22.04,SUP009,2022-10-28,47.14,Vietnam,0.9,0.03,20.0
+P0083,SmallStyle Pants Orange 7,Boys Clothing,4,5,3.5,30.17,KidsFashion Co,28,,WH001,SUP002,2024-09-12,34.48,Low,Pants,7,Winter,Orange,SmallStyle,8.62,14.98,SUP002,2023-01-30,42.46,China,0.88,0.05,28.0
+P0085,PetitMode Pants Gray 2T,Boys Clothing,3,5,4.5,32.36,Fashion Kids Suppliers,14,,WH003,SUP012,2024-10-26,21.57,Low,Pants,2T,All Season,Gray,PetitMode,7.19,13.35,SUP012,2023-11-18,46.14,USA,0.95,0.02,14.0
+P0107,LittleFashion Shorts Green 3T,Boys Clothing,3,5,4.5,72.95,Youth Fashion Group,26,,WH001,SUP007,2024-11-16,48.63,Low,Shorts,3T,Summer,Green,LittleFashion,16.21,33.51,SUP007,2022-06-06,51.63,China,0.87,0.05,26.0
+P0170,KiddoFashion Jackets White 10,Boys Clothing,4,5,3.5,44.98,Youth Fashion Group,26,,WH003,SUP007,2024-09-07,51.4,Low,Jackets,10,Spring,White,KiddoFashion,12.85,27.65,SUP007,2022-12-08,53.53,China,0.87,0.05,26.0
+P0201,KiddoFashion Sweaters Navy 14,Boys Clothing,3,5,4.5,40.54,TinyThreads Inc,22,,WH003,SUP003,2024-09-10,27.03,Low,Sweaters,14,Summer,Navy,KiddoFashion,9.01,15.4,SUP003,2022-08-26,41.49,Vietnam,0.92,0.03,22.0
+P0284,SmallStyle Dresses Gray 14,Girls Clothing,3,5,4.5,71.19,Infant Wear Solutions,24,,WH003,SUP011,2024-09-04,47.46,Low,Dresses,14,Winter,Gray,SmallStyle,15.82,30.69,SUP011,2023-10-02,48.45,India,0.88,0.04,24.0
+P0299,JuniorWear Dresses Gray 4T,Girls Clothing,4,5,3.5,69.44,Fashion Kids Suppliers,14,,WH002,SUP012,2024-09-26,79.36,Low,Dresses,4T,Fall,Gray,JuniorWear,19.84,41.7,SUP012,2023-11-10,52.42,USA,0.95,0.02,14.0
+P0417,TinyTrends Skirts Navy 6,Girls Clothing,3,5,4.5,44.24,Fashion Kids Suppliers,14,,WH001,SUP012,2024-10-02,29.49,Low,Skirts,6,Summer,Navy,TinyTrends,9.83,20.63,SUP012,2023-08-24,52.35,USA,0.95,0.02,14.0
+P0425,JuniorWear Skirts Navy 2T,Girls Clothing,3,5,4.5,85.14,Kids Clothing Factory,32,,WH003,SUP010,2024-09-06,56.76,Low,Skirts,2T,Spring,Navy,JuniorWear,18.92,35.09,SUP010,2022-04-20,46.08,Bangladesh,0.84,0.07,32.0
+P0443,PetitMode Leggings Purple 4T,Girls Clothing,3,5,4.5,100.84,KidsFashion Co,28,,WH001,SUP002,2024-11-09,67.23,Low,Leggings,4T,Fall,Purple,PetitMode,22.41,47.0,SUP002,2023-11-28,52.32,China,0.88,0.05,28.0
+P0546,BabyChic Jackets Gray 3T,Girls Clothing,4,5,3.5,101.01,KidsFashion Co,28,,WH002,SUP002,2024-09-05,115.44,Low,Jackets,3T,Spring,Gray,BabyChic,28.86,52.71,SUP002,2023-11-25,45.25,China,0.88,0.05,28.0
+P0570,YouthStyle Onesies Blue 18-24M,Infants,3,5,4.5,50.9,Fashion Kids Suppliers,14,,WH002,SUP012,2024-11-20,33.93,Low,Onesies,18-24M,Summer,Blue,YouthStyle,11.31,20.98,SUP012,2023-11-01,46.09,USA,0.95,0.02,14.0
+P0628,SmallStyle Sleepwear White 6-12M,Infants,3,5,4.5,61.38,KidsFashion Co,28,,WH001,SUP002,2024-09-04,40.92,Low,Sleepwear,6-12M,Spring,White,SmallStyle,13.64,26.51,SUP002,2023-05-30,48.55,China,0.88,0.05,28.0
+P0756,KiddoFashion Shoes Red L,Accessories,3,5,4.5,83.97,Children Style Ltd,21,,WH001,SUP014,2024-10-02,55.98,Low,Shoes,L,Spring,Red,KiddoFashion,18.66,33.45,SUP014,2023-10-12,44.22,Vietnam,0.93,0.03,21.0
+P0798,KiddoFashion Hats Red XS,Accessories,4,5,3.5,57.02,KidsFashion Co,28,,WH001,SUP002,2024-10-21,65.16,Low,Hats,XS,Winter,Red,KiddoFashion,16.29,30.35,SUP002,2022-09-25,46.33,China,0.88,0.05,28.0
+P0803,KiddoFashion Hats Purple S,Accessories,4,5,3.5,13.72,Children Style Ltd,21,,WH003,SUP014,2024-09-14,15.68,Low,Hats,S,All Season,Purple,KiddoFashion,3.92,7.43,SUP014,2022-06-19,47.24,Vietnam,0.93,0.03,21.0
+P0890,PetitMode Belts Orange XL,Accessories,3,5,4.5,36.04,Junior Apparel Co,18,,WH001,SUP008,2024-11-08,24.03,Low,Belts,XL,Fall,Orange,PetitMode,8.01,13.91,SUP008,2023-11-01,42.42,Mexico,0.91,0.03,18.0

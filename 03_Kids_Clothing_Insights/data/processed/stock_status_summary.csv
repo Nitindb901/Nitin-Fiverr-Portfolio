@@ -1,0 +1,13 @@
+Category,StockStatus,ProductCount,StockValue
+Accessories,Critical,3,33.72
+Accessories,Low,4,160.85
+Accessories,Normal,143,19566.52
+Boys Clothing,Critical,15,155.43
+Boys Clothing,Low,7,243.86
+Boys Clothing,Normal,228,42642.24
+Girls Clothing,Critical,17,355.59
+Girls Clothing,Low,6,395.74
+Girls Clothing,Normal,277,62338.69
+Infants,Critical,9,94.5
+Infants,Low,2,74.85
+Infants,Normal,189,26323.52

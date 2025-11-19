@@ -1,0 +1,11 @@
+StoreID,StoreName,City,State,Region,Revenue,Transactions,UnitsSold,AvgTransactionValue
+ST002,LA Fashion Kids,Los Angeles,CA,West,122803.43,3065,4515,40.07
+ST009,Boston Kids Plaza,Boston,MA,Northeast,115699.84,2955,4328,39.15
+ST008,San Diego Mini Fashion,San Diego,CA,West,114569.79,2938,4226,39.0
+ST010,Seattle Children Hub,Seattle,WA,West,113385.18,2915,4215,38.9
+ST005,Miami Kids Corner,Miami,FL,South,112918.1,2929,4208,38.55
+ST004,Houston Tiny Trends,Houston,TX,South,111400.5,2869,4183,38.83
+ST006,Phoenix Children Store,Phoenix,AZ,West,111304.09,2868,4191,38.81
+ST003,Chicago Little Ones,Chicago,IL,Midwest,111136.85,2854,4143,38.94
+ST007,Dallas Kids Boutique,Dallas,TX,South,110620.03,2877,4125,38.45
+ST001,Manhattan Kids Hub,New York,NY,Northeast,110092.43,2856,4139,38.55

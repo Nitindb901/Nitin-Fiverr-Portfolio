@@ -1,0 +1,16 @@
+SupplierID,SupplierName,Country,OnTimeDeliveryRate,DefectRate,AverageLeadTime
+SUP001,ABC Textiles Ltd,USA,0.96,0.02,15
+SUP002,KidsFashion Co,China,0.88,0.05,28
+SUP003,TinyThreads Inc,Vietnam,0.92,0.03,22
+SUP004,Little Style Manufacturers,Bangladesh,0.85,0.06,30
+SUP005,Children Wear Factory,India,0.89,0.04,25
+SUP006,Baby Boutique Supplies,USA,0.94,0.02,12
+SUP007,Youth Fashion Group,China,0.87,0.05,26
+SUP008,Junior Apparel Co,Mexico,0.91,0.03,18
+SUP009,Mini Mode Textiles,Vietnam,0.9,0.03,20
+SUP010,Kids Clothing Factory,Bangladesh,0.84,0.07,32
+SUP011,Infant Wear Solutions,India,0.88,0.04,24
+SUP012,Fashion Kids Suppliers,USA,0.95,0.02,14
+SUP013,Little Ones Manufacturing,China,0.86,0.06,27
+SUP014,Children Style Ltd,Vietnam,0.93,0.03,21
+SUP015,Tiny Trends Inc,Mexico,0.89,0.04,19
