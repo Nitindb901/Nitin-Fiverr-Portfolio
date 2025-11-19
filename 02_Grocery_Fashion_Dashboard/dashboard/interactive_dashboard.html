@@ -1,0 +1,727 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Grocery + Fashion Dashboard - Interactive Analytics</title>
+    
+    <!-- Chart.js Library -->
+    <script src="https://cdn.jsdelivr.net/npm/chart.js@4.4.0/dist/chart.umd.min.js"></script>
+    
+    <style>
+        * {
+            margin: 0;
+            padding: 0;
+            box-sizing: border-box;
+        }
+        
+        body {
+            font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+            background: linear-gradient(135deg, #667eea 0%, #764ba2 100%);
+            min-height: 100vh;
+            padding: 20px;
+        }
+        
+        .dashboard-container {
+            max-width: 1400px;
+            margin: 0 auto;
+            background: white;
+            border-radius: 20px;
+            box-shadow: 0 20px 60px rgba(0,0,0,0.3);
+            padding: 30px;
+        }
+        
+        .dashboard-header {
+            text-align: center;
+            margin-bottom: 40px;
+            padding-bottom: 20px;
+            border-bottom: 3px solid #667eea;
+        }
+        
+        .dashboard-header h1 {
+            color: #667eea;
+            font-size: 2.5em;
+            margin-bottom: 10px;
+            text-shadow: 2px 2px 4px rgba(0,0,0,0.1);
+        }
+        
+        .dashboard-header p {
+            color: #666;
+            font-size: 1.1em;
+        }
+        
+        /* KPI Cards */
+        .kpi-grid {
+            display: grid;
+            grid-template-columns: repeat(auto-fit, minmax(250px, 1fr));
+            gap: 20px;
+            margin-bottom: 40px;
+        }
+        
+        .kpi-card {
+            background: linear-gradient(135deg, #667eea 0%, #764ba2 100%);
+            padding: 25px;
+            border-radius: 15px;
+            color: white;
+            box-shadow: 0 10px 30px rgba(102, 126, 234, 0.3);
+            transition: transform 0.3s ease, box-shadow 0.3s ease;
+            cursor: pointer;
+            position: relative;
+            overflow: hidden;
+        }
+        
+        .kpi-card::before {
+            content: '';
+            position: absolute;
+            top: -50%;
+            right: -50%;
+            width: 200%;
+            height: 200%;
+            background: radial-gradient(circle, rgba(255,255,255,0.1) 0%, transparent 70%);
+            transition: transform 0.5s ease;
+        }
+        
+        .kpi-card:hover::before {
+            transform: scale(1.2);
+        }
+        
+        .kpi-card:hover {
+            transform: translateY(-10px);
+            box-shadow: 0 15px 40px rgba(102, 126, 234, 0.5);
+        }
+        
+        .kpi-card h3 {
+            font-size: 0.9em;
+            opacity: 0.9;
+            margin-bottom: 10px;
+            text-transform: uppercase;
+            letter-spacing: 1px;
+        }
+        
+        .kpi-card .value {
+            font-size: 2em;
+            font-weight: bold;
+            text-shadow: 2px 2px 4px rgba(0,0,0,0.2);
+        }
+        
+        /* Chart Section */
+        .chart-grid {
+            display: grid;
+            grid-template-columns: repeat(auto-fit, minmax(500px, 1fr));
+            gap: 30px;
+            margin-bottom: 40px;
+        }
+        
+        .chart-container {
+            background: #f8f9fa;
+            padding: 25px;
+            border-radius: 15px;
+            box-shadow: 0 5px 20px rgba(0,0,0,0.1);
+            transition: transform 0.3s ease, box-shadow 0.3s ease;
+        }
+        
+        .chart-container:hover {
+            transform: translateY(-5px);
+            box-shadow: 0 10px 30px rgba(0,0,0,0.15);
+        }
+        
+        .chart-container h2 {
+            color: #667eea;
+            margin-bottom: 20px;
+            font-size: 1.3em;
+            text-align: center;
+            border-bottom: 2px solid #667eea;
+            padding-bottom: 10px;
+        }
+        
+        .chart-wrapper {
+            position: relative;
+            height: 350px;
+        }
+        
+        /* Data Table */
+        .data-table-container {
+            margin-top: 40px;
+            background: #f8f9fa;
+            padding: 25px;
+            border-radius: 15px;
+            box-shadow: 0 5px 20px rgba(0,0,0,0.1);
+        }
+        
+        .data-table-container h2 {
+            color: #667eea;
+            margin-bottom: 20px;
+            text-align: center;
+        }
+        
+        table {
+            width: 100%;
+            border-collapse: collapse;
+            background: white;
+            border-radius: 10px;
+            overflow: hidden;
+            box-shadow: 0 3px 10px rgba(0,0,0,0.1);
+        }
+        
+        th {
+            background: linear-gradient(135deg, #667eea 0%, #764ba2 100%);
+            color: white;
+            padding: 15px;
+            text-align: left;
+            font-weight: 600;
+            text-transform: uppercase;
+            letter-spacing: 1px;
+        }
+        
+        td {
+            padding: 12px 15px;
+            border-bottom: 1px solid #e0e0e0;
+            transition: background 0.3s ease;
+        }
+        
+        tr:hover td {
+            background: #f0f0ff;
+            cursor: pointer;
+        }
+        
+        tr:last-child td {
+            border-bottom: none;
+        }
+        
+        /* Filter Buttons */
+        .filter-buttons {
+            display: flex;
+            justify-content: center;
+            gap: 15px;
+            margin-bottom: 30px;
+            flex-wrap: wrap;
+        }
+        
+        .filter-btn {
+            padding: 12px 30px;
+            background: linear-gradient(135deg, #667eea 0%, #764ba2 100%);
+            color: white;
+            border: none;
+            border-radius: 25px;
+            cursor: pointer;
+            font-size: 1em;
+            font-weight: 600;
+            transition: transform 0.3s ease, box-shadow 0.3s ease;
+            box-shadow: 0 5px 15px rgba(102, 126, 234, 0.3);
+        }
+        
+        .filter-btn:hover {
+            transform: translateY(-3px);
+            box-shadow: 0 8px 20px rgba(102, 126, 234, 0.5);
+        }
+        
+        .filter-btn.active {
+            background: linear-gradient(135deg, #764ba2 0%, #667eea 100%);
+            box-shadow: 0 8px 25px rgba(118, 75, 162, 0.6);
+        }
+        
+        /* Animation */
+        @keyframes fadeIn {
+            from {
+                opacity: 0;
+                transform: translateY(20px);
+            }
+            to {
+                opacity: 1;
+                transform: translateY(0);
+            }
+        }
+        
+        .animate-in {
+            animation: fadeIn 0.6s ease forwards;
+        }
+        
+        /* Responsive */
+        @media (max-width: 768px) {
+            .chart-grid {
+                grid-template-columns: 1fr;
+            }
+            
+            .kpi-grid {
+                grid-template-columns: repeat(auto-fit, minmax(150px, 1fr));
+            }
+            
+            .dashboard-header h1 {
+                font-size: 1.8em;
+            }
+        }
+        
+        /* Loading Spinner */
+        .spinner {
+            border: 4px solid #f3f3f3;
+            border-top: 4px solid #667eea;
+            border-radius: 50%;
+            width: 50px;
+            height: 50px;
+            animation: spin 1s linear infinite;
+            margin: 20px auto;
+        }
+        
+        @keyframes spin {
+            0% { transform: rotate(0deg); }
+            100% { transform: rotate(360deg); }
+        }
+    </style>
+</head>
+<body>
+    <div class="dashboard-container">
+        <!-- Header -->
+        <div class="dashboard-header animate-in">
+            <h1>🛒 Grocery + Fashion Dashboard</h1>
+            <p>Interactive Real-Time Analytics | 111K+ Transactions | ₹759.3M Revenue</p>
+        </div>
+        
+        <!-- KPI Cards -->
+        <div class="kpi-grid" id="kpiGrid"></div>
+        
+        <!-- Filter Buttons -->
+        <div class="filter-buttons">
+            <button class="filter-btn active" onclick="filterCategory('All')">All Categories</button>
+            <button class="filter-btn" onclick="filterCategory('Grocery')">🥬 Grocery</button>
+            <button class="filter-btn" onclick="filterCategory('Fashion')">👕 Fashion</button>
+            <button class="filter-btn" onclick="showPOSComparison()">🏪 POS Comparison</button>
+        </div>
+        
+        <!-- Charts Grid -->
+        <div class="chart-grid">
+            <div class="chart-container animate-in">
+                <h2>📊 Category Revenue</h2>
+                <div class="chart-wrapper">
+                    <canvas id="categoryChart"></canvas>
+                </div>
+            </div>
+            
+            <div class="chart-container animate-in">
+                <h2>📈 Monthly Trends</h2>
+                <div class="chart-wrapper">
+                    <canvas id="monthlyChart"></canvas>
+                </div>
+            </div>
+            
+            <div class="chart-container animate-in">
+                <h2>⏰ Stock Ageing Distribution</h2>
+                <div class="chart-wrapper">
+                    <canvas id="stockAgeChart"></canvas>
+                </div>
+            </div>
+            
+            <div class="chart-container animate-in">
+                <h2>💰 Margin Comparison</h2>
+                <div class="chart-wrapper">
+                    <canvas id="marginChart"></canvas>
+                </div>
+            </div>
+            
+            <div class="chart-container animate-in">
+                <h2>🏪 POS Performance</h2>
+                <div class="chart-wrapper">
+                    <canvas id="posChart"></canvas>
+                </div>
+            </div>
+            
+            <div class="chart-container animate-in">
+                <h2>🏆 Top Brands</h2>
+                <div class="chart-wrapper">
+                    <canvas id="brandChart"></canvas>
+                </div>
+            </div>
+        </div>
+        
+        <!-- Data Table -->
+        <div class="data-table-container animate-in">
+            <h2>📋 SubCategory Performance Details</h2>
+            <table id="dataTable">
+                <thead>
+                    <tr>
+                        <th>Category</th>
+                        <th>SubCategory</th>
+                        <th>Transactions</th>
+                        <th>Revenue (₹)</th>
+                        <th>Margin %</th>
+                        <th>Quantity</th>
+                    </tr>
+                </thead>
+                <tbody id="tableBody"></tbody>
+            </table>
+        </div>
+    </div>
+
+    <script src="dashboard_data.js"></script>
+    <script>
+        // Initialize dashboard
+        let charts = {};
+        let currentFilter = 'All';
+        
+        // Initialize on page load
+        window.addEventListener('load', () => {
+            initializeKPIs();
+            initializeCharts();
+            populateTable();
+        });
+        
+        // Initialize KPI Cards
+        function initializeKPIs() {
+            const kpiGrid = document.getElementById('kpiGrid');
+            const mainKPIs = [
+                { label: 'Total Revenue', value: '₹' + dashboardData.kpis['Total Revenue (INR)'] },
+                { label: 'Total Profit', value: '₹' + dashboardData.kpis['Total Profit (INR)'] },
+                { label: 'Transactions', value: dashboardData.kpis['Total Transactions'] },
+                { label: 'Avg Margin', value: dashboardData.kpis['Average Margin (%)'] + '%' },
+                { label: 'Unique SKUs', value: dashboardData.kpis['Unique SKUs'] },
+                { label: 'Fresh Stock', value: dashboardData.kpis['Fresh Stock (%)'] + '%' }
+            ];
+            
+            mainKPIs.forEach((kpi, index) => {
+                const card = document.createElement('div');
+                card.className = 'kpi-card animate-in';
+                card.style.animationDelay = `${index * 0.1}s`;
+                card.innerHTML = `
+                    <h3>${kpi.label}</h3>
+                    <div class="value">${kpi.value}</div>
+                `;
+                card.onclick = () => showKPIDetails(kpi.label);
+                kpiGrid.appendChild(card);
+            });
+        }
+        
+        // Initialize All Charts
+        function initializeCharts() {
+            createCategoryChart();
+            createMonthlyTrendsChart();
+            createStockAgeChart();
+            createMarginChart();
+            createPOSChart();
+            createBrandChart();
+        }
+        
+        // Category Revenue Chart
+        function createCategoryChart() {
+            const ctx = document.getElementById('categoryChart').getContext('2d');
+            const categories = dashboardData.categories;
+            
+            charts.category = new Chart(ctx, {
+                type: 'bar',
+                data: {
+                    labels: categories.map(c => c.name),
+                    datasets: [{
+                        label: 'Revenue (₹ Millions)',
+                        data: categories.map(c => (c.revenue / 1000000).toFixed(2)),
+                        backgroundColor: ['#667eea', '#764ba2'],
+                        borderColor: ['#667eea', '#764ba2'],
+                        borderWidth: 2
+                    }]
+                },
+                options: {
+                    responsive: true,
+                    maintainAspectRatio: false,
+                    plugins: {
+                        legend: { display: true },
+                        tooltip: {
+                            callbacks: {
+                                label: function(context) {
+                                    return 'Revenue: ₹' + context.parsed.y + 'M';
+                                }
+                            }
+                        }
+                    },
+                    onClick: (e, activeEls) => {
+                        if (activeEls.length > 0) {
+                            const index = activeEls[0].index;
+                            const category = categories[index];
+                            showCategoryDetails(category);
+                        }
+                    },
+                    scales: {
+                        y: {
+                            beginAtZero: true,
+                            title: { display: true, text: 'Revenue (₹ Millions)' }
+                        }
+                    }
+                }
+            });
+        }
+        
+        // Monthly Trends Chart
+        function createMonthlyTrendsChart() {
+            const ctx = document.getElementById('monthlyChart').getContext('2d');
+            const trends = dashboardData.monthlyTrends;
+            
+            // Group by month and category
+            const months = [...new Set(trends.map(t => t.month))];
+            const grocery = months.map(m => {
+                const item = trends.find(t => t.month === m && t.category === 'Grocery');
+                return item ? (item.revenue / 1000000).toFixed(2) : 0;
+            });
+            const fashion = months.map(m => {
+                const item = trends.find(t => t.month === m && t.category === 'Fashion');
+                return item ? (item.revenue / 1000000).toFixed(2) : 0;
+            });
+            
+            charts.monthly = new Chart(ctx, {
+                type: 'line',
+                data: {
+                    labels: months,
+                    datasets: [
+                        {
+                            label: 'Grocery',
+                            data: grocery,
+                            borderColor: '#667eea',
+                            backgroundColor: 'rgba(102, 126, 234, 0.1)',
+                            tension: 0.4,
+                            fill: true
+                        },
+                        {
+                            label: 'Fashion',
+                            data: fashion,
+                            borderColor: '#764ba2',
+                            backgroundColor: 'rgba(118, 75, 162, 0.1)',
+                            tension: 0.4,
+                            fill: true
+                        }
+                    ]
+                },
+                options: {
+                    responsive: true,
+                    maintainAspectRatio: false,
+                    plugins: {
+                        legend: { display: true },
+                        tooltip: {
+                            mode: 'index',
+                            intersect: false
+                        }
+                    },
+                    scales: {
+                        y: {
+                            beginAtZero: true,
+                            title: { display: true, text: 'Revenue (₹ Millions)' }
+                        }
+                    }
+                }
+            });
+        }
+        
+        // Stock Ageing Chart
+        function createStockAgeChart() {
+            const ctx = document.getElementById('stockAgeChart').getContext('2d');
+            const stockData = dashboardData.stockAgeing;
+            
+            charts.stockAge = new Chart(ctx, {
+                type: 'doughnut',
+                data: {
+                    labels: stockData.map(s => s.category),
+                    datasets: [{
+                        data: stockData.map(s => s.transactions),
+                        backgroundColor: ['#2ECC71', '#3498DB', '#F39C12'],
+                        borderWidth: 2,
+                        borderColor: '#fff'
+                    }]
+                },
+                options: {
+                    responsive: true,
+                    maintainAspectRatio: false,
+                    plugins: {
+                        legend: { position: 'bottom' },
+                        tooltip: {
+                            callbacks: {
+                                label: function(context) {
+                                    const total = context.dataset.data.reduce((a, b) => a + b, 0);
+                                    const percentage = ((context.parsed / total) * 100).toFixed(1);
+                                    return context.label + ': ' + context.parsed.toLocaleString() + ' (' + percentage + '%)';
+                                }
+                            }
+                        }
+                    },
+                    onClick: (e, activeEls) => {
+                        if (activeEls.length > 0) {
+                            const index = activeEls[0].index;
+                            alert('Stock Age: ' + stockData[index].category + '\nTransactions: ' + stockData[index].transactions.toLocaleString());
+                        }
+                    }
+                }
+            });
+        }
+        
+        // Margin Comparison Chart
+        function createMarginChart() {
+            const ctx = document.getElementById('marginChart').getContext('2d');
+            const categories = dashboardData.categories;
+            
+            charts.margin = new Chart(ctx, {
+                type: 'bar',
+                data: {
+                    labels: categories.map(c => c.name),
+                    datasets: [{
+                        label: 'Average Margin %',
+                        data: categories.map(c => c.margin),
+                        backgroundColor: ['#F39C12', '#E74C3C'],
+                        borderWidth: 2
+                    }]
+                },
+                options: {
+                    responsive: true,
+                    maintainAspectRatio: false,
+                    plugins: {
+                        legend: { display: false }
+                    },
+                    scales: {
+                        y: {
+                            beginAtZero: true,
+                            title: { display: true, text: 'Margin %' }
+                        }
+                    }
+                }
+            });
+        }
+        
+        // POS Performance Chart
+        function createPOSChart() {
+            const ctx = document.getElementById('posChart').getContext('2d');
+            const posData = dashboardData.posData;
+            
+            charts.pos = new Chart(ctx, {
+                type: 'bar',
+                data: {
+                    labels: posData.map(p => p.store),
+                    datasets: [{
+                        label: 'Revenue (₹ Millions)',
+                        data: posData.map(p => (p.revenue / 1000000).toFixed(2)),
+                        backgroundColor: posData.map(p => p.pos === 'POS1' ? '#FF6B6B' : '#4ECDC4'),
+                        borderWidth: 2
+                    }]
+                },
+                options: {
+                    responsive: true,
+                    maintainAspectRatio: false,
+                    indexAxis: 'y',
+                    plugins: {
+                        legend: { display: false }
+                    },
+                    scales: {
+                        x: {
+                            beginAtZero: true,
+                            title: { display: true, text: 'Revenue (₹ Millions)' }
+                        }
+                    }
+                }
+            });
+        }
+        
+        // Top Brands Chart
+        function createBrandChart() {
+            const ctx = document.getElementById('brandChart').getContext('2d');
+            const brands = dashboardData.topBrands;
+            
+            charts.brand = new Chart(ctx, {
+                type: 'bar',
+                data: {
+                    labels: brands.map(b => b.brand),
+                    datasets: [{
+                        label: 'Revenue (₹ Millions)',
+                        data: brands.map(b => (b.revenue / 1000000).toFixed(2)),
+                        backgroundColor: '#3498DB',
+                        borderWidth: 2
+                    }]
+                },
+                options: {
+                    responsive: true,
+                    maintainAspectRatio: false,
+                    indexAxis: 'y',
+                    plugins: {
+                        legend: { display: false }
+                    },
+                    scales: {
+                        x: {
+                            beginAtZero: true,
+                            title: { display: true, text: 'Revenue (₹ Millions)' }
+                        }
+                    }
+                }
+            });
+        }
+        
+        // Populate Data Table
+        function populateTable(filter = 'All') {
+            const tbody = document.getElementById('tableBody');
+            tbody.innerHTML = '';
+            
+            let data = dashboardData.subCategories;
+            if (filter !== 'All') {
+                data = data.filter(item => item.category === filter);
+            }
+            
+            data.forEach(item => {
+                const row = document.createElement('tr');
+                row.innerHTML = `
+                    <td>${item.category}</td>
+                    <td><strong>${item.subCategory}</strong></td>
+                    <td>${item.transactions.toLocaleString()}</td>
+                    <td>₹${(item.revenue / 1000000).toFixed(2)}M</td>
+                    <td>${item.margin.toFixed(2)}%</td>
+                    <td>${item.quantity.toLocaleString()}</td>
+                `;
+                row.onclick = () => showSubCategoryDetails(item);
+                tbody.appendChild(row);
+            });
+        }
+        
+        // Filter by Category
+        function filterCategory(category) {
+            currentFilter = category;
+            populateTable(category);
+            
+            // Update button states
+            document.querySelectorAll('.filter-btn').forEach(btn => {
+                btn.classList.remove('active');
+            });
+            event.target.classList.add('active');
+        }
+        
+        // Show Category Details (Click interaction)
+        function showCategoryDetails(category) {
+            alert(`📊 ${category.name} Details:\n\n` +
+                  `Transactions: ${category.transactions.toLocaleString()}\n` +
+                  `Revenue: ₹${(category.revenue / 1000000).toFixed(2)}M\n` +
+                  `Profit: ₹${(category.profit / 1000000).toFixed(2)}M\n` +
+                  `Margin: ${category.margin.toFixed(2)}%\n` +
+                  `Quantity: ${category.quantity.toLocaleString()}\n` +
+                  `Unique SKUs: ${category.skus.toLocaleString()}`);
+        }
+        
+        // Show SubCategory Details
+        function showSubCategoryDetails(item) {
+            alert(`📦 ${item.subCategory} (${item.category}):\n\n` +
+                  `Transactions: ${item.transactions.toLocaleString()}\n` +
+                  `Revenue: ₹${(item.revenue / 1000000).toFixed(2)}M\n` +
+                  `Avg Revenue: ₹${item.avgRevenue.toFixed(2)}\n` +
+                  `Profit: ₹${(item.profit / 1000000).toFixed(2)}M\n` +
+                  `Margin: ${item.margin.toFixed(2)}%\n` +
+                  `Quantity: ${item.quantity.toLocaleString()}`);
+        }
+        
+        // Show KPI Details
+        function showKPIDetails(label) {
+            alert(`📈 ${label} Details\n\nClick on charts for more interactive insights!`);
+        }
+        
+        // Show POS Comparison
+        function showPOSComparison() {
+            const pos1 = dashboardData.posData.filter(p => p.pos === 'POS1');
+            const pos2 = dashboardData.posData.filter(p => p.pos === 'POS2');
+            
+            const pos1Rev = pos1.reduce((sum, p) => sum + p.revenue, 0);
+            const pos2Rev = pos2.reduce((sum, p) => sum + p.revenue, 0);
+            
+            alert(`🏪 POS System Comparison:\n\n` +
+                  `POS1 (${pos1.length} stores):\n` +
+                  `Revenue: ₹${(pos1Rev / 1000000).toFixed(2)}M\n\n` +
+                  `POS2 (${pos2.length} stores):\n` +
+                  `Revenue: ₹${(pos2Rev / 1000000).toFixed(2)}M`);
+        }
+    </script>
+</body>
+</html>
