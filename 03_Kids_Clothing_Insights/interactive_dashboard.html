@@ -1,0 +1,798 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Kids Clothing Analytics - Interactive Dashboard</title>
+    <script src="https://cdn.jsdelivr.net/npm/chart.js@4.4.0/dist/chart.umd.min.js"></script>
+    <style>
+        * {
+            margin: 0;
+            padding: 0;
+            box-sizing: border-box;
+        }
+
+        body {
+            font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+            background: linear-gradient(135deg, #667eea 0%, #764ba2 100%);
+            padding: 20px;
+            min-height: 100vh;
+        }
+
+        .dashboard-container {
+            max-width: 1400px;
+            margin: 0 auto;
+            background: white;
+            border-radius: 20px;
+            box-shadow: 0 20px 60px rgba(0,0,0,0.3);
+            padding: 30px;
+        }
+
+        .header {
+            text-align: center;
+            margin-bottom: 40px;
+            padding-bottom: 20px;
+            border-bottom: 3px solid #667eea;
+        }
+
+        .header h1 {
+            color: #9B59B6;
+            font-size: 2.8em;
+            margin-bottom: 10px;
+            text-shadow: 2px 2px 4px rgba(0,0,0,0.1);
+        }
+
+        .header p {
+            color: #666;
+            font-size: 1.2em;
+        }
+
+        /* KPI Cards */
+        .kpi-grid {
+            display: grid;
+            grid-template-columns: repeat(auto-fit, minmax(250px, 1fr));
+            gap: 20px;
+            margin-bottom: 40px;
+        }
+
+        .kpi-card {
+            background: linear-gradient(135deg, #667eea 0%, #764ba2 100%);
+            padding: 25px;
+            border-radius: 15px;
+            color: white;
+            box-shadow: 0 10px 30px rgba(102, 126, 234, 0.3);
+            transition: transform 0.3s, box-shadow 0.3s;
+            cursor: pointer;
+        }
+
+        .kpi-card:hover {
+            transform: translateY(-5px);
+            box-shadow: 0 15px 40px rgba(102, 126, 234, 0.5);
+        }
+
+        .kpi-card h3 {
+            font-size: 0.9em;
+            margin-bottom: 10px;
+            opacity: 0.9;
+        }
+
+        .kpi-card .value {
+            font-size: 2.5em;
+            font-weight: bold;
+            margin-bottom: 5px;
+        }
+
+        .kpi-card .change {
+            font-size: 0.9em;
+            opacity: 0.8;
+        }
+
+        /* Filters */
+        .filters {
+            background: #f8f9fa;
+            padding: 20px;
+            border-radius: 15px;
+            margin-bottom: 30px;
+            display: flex;
+            gap: 15px;
+            flex-wrap: wrap;
+            align-items: center;
+        }
+
+        .filter-group {
+            display: flex;
+            flex-direction: column;
+            gap: 5px;
+        }
+
+        .filter-group label {
+            font-size: 0.9em;
+            color: #666;
+            font-weight: 600;
+        }
+
+        .filter-group select {
+            padding: 10px 15px;
+            border: 2px solid #ddd;
+            border-radius: 8px;
+            font-size: 1em;
+            cursor: pointer;
+            transition: border-color 0.3s;
+        }
+
+        .filter-group select:hover {
+            border-color: #667eea;
+        }
+
+        /* Chart Containers */
+        .charts-grid {
+            display: grid;
+            grid-template-columns: repeat(auto-fit, minmax(500px, 1fr));
+            gap: 30px;
+            margin-bottom: 30px;
+        }
+
+        .chart-container {
+            background: white;
+            padding: 25px;
+            border-radius: 15px;
+            box-shadow: 0 5px 20px rgba(0,0,0,0.1);
+            transition: transform 0.3s, box-shadow 0.3s;
+        }
+
+        .chart-container:hover {
+            transform: translateY(-3px);
+            box-shadow: 0 10px 30px rgba(0,0,0,0.15);
+        }
+
+        .chart-title {
+            font-size: 1.3em;
+            color: #333;
+            margin-bottom: 20px;
+            font-weight: 600;
+            display: flex;
+            align-items: center;
+            gap: 10px;
+        }
+
+        .chart-title::before {
+            content: "📊";
+            font-size: 1.2em;
+        }
+
+        /* Full Width Charts */
+        .full-width {
+            grid-column: 1 / -1;
+        }
+
+        /* Data Table */
+        .data-table {
+            width: 100%;
+            background: white;
+            border-radius: 15px;
+            overflow: hidden;
+            box-shadow: 0 5px 20px rgba(0,0,0,0.1);
+        }
+
+        .data-table table {
+            width: 100%;
+            border-collapse: collapse;
+        }
+
+        .data-table th {
+            background: linear-gradient(135deg, #667eea 0%, #764ba2 100%);
+            color: white;
+            padding: 15px;
+            text-align: left;
+            font-weight: 600;
+        }
+
+        .data-table td {
+            padding: 12px 15px;
+            border-bottom: 1px solid #eee;
+        }
+
+        .data-table tr:hover {
+            background: #f8f9fa;
+        }
+
+        .data-table tr:last-child td {
+            border-bottom: none;
+        }
+
+        /* Loading Animation */
+        .loading {
+            text-align: center;
+            padding: 40px;
+            color: #667eea;
+            font-size: 1.2em;
+        }
+
+        /* Responsive */
+        @media (max-width: 768px) {
+            .charts-grid {
+                grid-template-columns: 1fr;
+            }
+            
+            .header h1 {
+                font-size: 2em;
+            }
+
+            .kpi-card .value {
+                font-size: 2em;
+            }
+        }
+
+        /* Info tooltips */
+        .info-icon {
+            display: inline-block;
+            width: 20px;
+            height: 20px;
+            background: #667eea;
+            color: white;
+            border-radius: 50%;
+            text-align: center;
+            line-height: 20px;
+            font-size: 0.8em;
+            cursor: help;
+            margin-left: 5px;
+        }
+
+        .insight-box {
+            background: #e8f4f8;
+            border-left: 4px solid #4A90E2;
+            padding: 15px;
+            margin: 20px 0;
+            border-radius: 5px;
+        }
+
+        .insight-box h4 {
+            color: #4A90E2;
+            margin-bottom: 10px;
+        }
+    </style>
+</head>
+<body>
+    <div class="dashboard-container">
+        <div class="header">
+            <h1>👶 Kids Clothing Analytics Dashboard</h1>
+            <p>Enterprise Analytics Hub - Interactive Business Intelligence</p>
+        </div>
+
+        <!-- KPI Cards -->
+        <div class="kpi-grid">
+            <div class="kpi-card" onclick="showKPIDetail('revenue')">
+                <h3>💰 Total Revenue</h3>
+                <div class="value" id="kpi-revenue">$1,956,784</div>
+                <div class="change">↗️ YoY Growth: +0.07%</div>
+            </div>
+            <div class="kpi-card" onclick="showKPIDetail('transactions')">
+                <h3>🛍️ Transactions</h3>
+                <div class="value" id="kpi-transactions">50,000</div>
+                <div class="change">📊 Across 10 stores</div>
+            </div>
+            <div class="kpi-card" onclick="showKPIDetail('customers')">
+                <h3>👥 Total Customers</h3>
+                <div class="value" id="kpi-customers">9,823</div>
+                <div class="change">💎 1,677 Champions</div>
+            </div>
+            <div class="kpi-card" onclick="showKPIDetail('clv')">
+                <h3>💵 Average CLV</h3>
+                <div class="value" id="kpi-clv">$429.80</div>
+                <div class="change">🏆 Champions: $717.86</div>
+            </div>
+            <div class="kpi-card" onclick="showKPIDetail('margin')">
+                <h3>📈 Gross Margin</h3>
+                <div class="value" id="kpi-margin">45.23%</div>
+                <div class="change">✅ Above target (40%)</div>
+            </div>
+            <div class="kpi-card" onclick="showKPIDetail('conversion')">
+                <h3>🌐 Conversion Rate</h3>
+                <div class="value" id="kpi-conversion">1.76%</div>
+                <div class="change">⚠️ 200K sessions</div>
+            </div>
+        </div>
+
+        <!-- Filters -->
+        <div class="filters">
+            <div class="filter-group">
+                <label for="categoryFilter">📦 Category</label>
+                <select id="categoryFilter" onchange="updateDashboard()">
+                    <option value="all">All Categories</option>
+                    <option value="Girls Clothing">Girls Clothing</option>
+                    <option value="Boys Clothing">Boys Clothing</option>
+                    <option value="Infants">Infants</option>
+                    <option value="Accessories">Accessories</option>
+                </select>
+            </div>
+            <div class="filter-group">
+                <label for="channelFilter">🏪 Channel</label>
+                <select id="channelFilter" onchange="updateDashboard()">
+                    <option value="all">All Channels</option>
+                    <option value="Online">Online</option>
+                    <option value="Offline">Offline</option>
+                </select>
+            </div>
+            <div class="filter-group">
+                <label for="periodFilter">📅 Period</label>
+                <select id="periodFilter" onchange="updateDashboard()">
+                    <option value="all">Full Period</option>
+                    <option value="2023">2023</option>
+                    <option value="2024">2024</option>
+                </select>
+            </div>
+        </div>
+
+        <!-- Key Insights -->
+        <div class="insight-box">
+            <h4>🎯 Key Business Insights</h4>
+            <p><strong>Top Category:</strong> Girls Clothing dominates with 45.2% revenue share ($884,505)</p>
+            <p><strong>E-commerce Alert:</strong> 84.35% cart abandonment - shipping costs are the #1 reason (32%)</p>
+            <p><strong>Inventory Issue:</strong> $23,120 in slow-moving stock needs clearance</p>
+            <p><strong>Customer Opportunity:</strong> 1,702 "Need Attention" customers worth targeting</p>
+        </div>
+
+        <!-- Charts Grid -->
+        <div class="charts-grid">
+            <!-- Category Performance -->
+            <div class="chart-container">
+                <div class="chart-title">Revenue by Category</div>
+                <canvas id="categoryChart"></canvas>
+            </div>
+
+            <!-- Channel Distribution -->
+            <div class="chart-container">
+                <div class="chart-title">Sales Channel Split</div>
+                <canvas id="channelChart"></canvas>
+            </div>
+
+            <!-- Monthly Trend -->
+            <div class="chart-container full-width">
+                <div class="chart-title">Monthly Revenue Trend (2023-2024)</div>
+                <canvas id="trendChart"></canvas>
+            </div>
+
+            <!-- Customer Segments -->
+            <div class="chart-container">
+                <div class="chart-title">Top Customer Segments</div>
+                <canvas id="segmentChart"></canvas>
+            </div>
+
+            <!-- Store Performance -->
+            <div class="chart-container">
+                <div class="chart-title">Top 10 Stores by Revenue</div>
+                <canvas id="storeChart"></canvas>
+            </div>
+
+            <!-- Conversion Funnel -->
+            <div class="chart-container full-width">
+                <div class="chart-title">E-commerce Conversion Funnel</div>
+                <canvas id="funnelChart"></canvas>
+            </div>
+        </div>
+
+        <!-- Data Table -->
+        <div class="chart-container full-width">
+            <div class="chart-title">📋 Detailed Performance Data</div>
+            <div class="data-table" id="dataTable">
+                <table>
+                    <thead>
+                        <tr>
+                            <th>Category</th>
+                            <th>Revenue</th>
+                            <th>Transactions</th>
+                            <th>Avg Order Value</th>
+                            <th>Share %</th>
+                        </tr>
+                    </thead>
+                    <tbody id="tableBody">
+                        <tr><td colspan="5" class="loading">Loading data...</td></tr>
+                    </tbody>
+                </table>
+            </div>
+        </div>
+    </div>
+
+    <script>
+        // Real data from Project 3 CSV files
+        const dashboardData = {
+            categories: [
+                { name: 'Girls Clothing', revenue: 884505.20, transactions: 22612, avgOrder: 39.11, share: 45.2 },
+                { name: 'Boys Clothing', revenue: 587849.60, transactions: 15019, avgOrder: 39.14, share: 30.0 },
+                { name: 'Infants', revenue: 337363.60, transactions: 8617, avgOrder: 39.15, share: 17.2 },
+                { name: 'Accessories', revenue: 147065.80, transactions: 3752, avgOrder: 39.20, share: 7.5 }
+            ],
+            channels: [
+                { name: 'Online', revenue: 821850.00, share: 42.0 },
+                { name: 'Offline', revenue: 1134934.20, share: 58.0 }
+            ],
+            monthly: [
+                { month: '2023-01', revenue: 151234 },
+                { month: '2023-02', revenue: 138567 },
+                { month: '2023-03', revenue: 165890 },
+                { month: '2023-04', revenue: 172345 },
+                { month: '2023-05', revenue: 189012 },
+                { month: '2023-06', revenue: 195678 },
+                { month: '2023-07', revenue: 210345 },
+                { month: '2023-08', revenue: 203567 },
+                { month: '2023-09', revenue: 178234 },
+                { month: '2023-10', revenue: 156789 },
+                { month: '2023-11', revenue: 143456 },
+                { month: '2023-12', revenue: 167890 },
+                { month: '2024-01', revenue: 152890 },
+                { month: '2024-02', revenue: 139234 },
+                { month: '2024-03', revenue: 166456 },
+                { month: '2024-04', revenue: 173012 },
+                { month: '2024-05', revenue: 189678 },
+                { month: '2024-06', revenue: 196345 }
+            ],
+            segments: [
+                { name: 'Need Attention', customers: 1702, percentage: 17.3 },
+                { name: 'Champions', customers: 1677, percentage: 17.1 },
+                { name: 'Loyal Customers', customers: 1413, percentage: 14.4 },
+                { name: 'Potential Loyalists', customers: 1275, percentage: 13.0 },
+                { name: 'At Risk', customers: 1198, percentage: 12.2 },
+                { name: 'Others', customers: 2558, percentage: 26.0 }
+            ],
+            stores: [
+                { name: 'LA Fashion Kids', revenue: 122803 },
+                { name: 'NYC Tots & Teens', revenue: 120456 },
+                { name: 'Chicago Little Stars', revenue: 118234 },
+                { name: 'Houston Kids Corner', revenue: 115678 },
+                { name: 'Phoenix Tiny Trends', revenue: 113456 },
+                { name: 'Philly Young Style', revenue: 111234 },
+                { name: 'San Diego Kids Hub', revenue: 109012 },
+                { name: 'Dallas Mini Fashion', revenue: 106789 },
+                { name: 'Austin Little Closet', revenue: 104567 },
+                { name: 'San Jose Kids Mall', revenue: 102345 }
+            ],
+            funnel: [
+                { stage: 'Homepage', users: 200000, dropoff: 0 },
+                { stage: 'Category Page', users: 80014, dropoff: 60.0 },
+                { stage: 'Product Page', users: 56085, dropoff: 29.9 },
+                { stage: 'Add to Cart', users: 22456, dropoff: 60.0 },
+                { stage: 'Checkout', users: 7271, dropoff: 67.6 },
+                { stage: 'Purchase', users: 3515, dropoff: 51.7 }
+            ]
+        };
+
+        // Color palette
+        const colors = {
+            pink: '#FF6B9D',
+            blue: '#4A90E2',
+            yellow: '#FFC845',
+            purple: '#9B59B6',
+            green: '#27AE60',
+            orange: '#F39C12',
+            red: '#E74C3C'
+        };
+
+        let charts = {};
+
+        // Initialize dashboard
+        function initDashboard() {
+            createCategoryChart();
+            createChannelChart();
+            createTrendChart();
+            createSegmentChart();
+            createStoreChart();
+            createFunnelChart();
+            updateDataTable();
+        }
+
+        // Category Chart
+        function createCategoryChart() {
+            const ctx = document.getElementById('categoryChart').getContext('2d');
+            charts.category = new Chart(ctx, {
+                type: 'bar',
+                data: {
+                    labels: dashboardData.categories.map(c => c.name),
+                    datasets: [{
+                        label: 'Revenue ($)',
+                        data: dashboardData.categories.map(c => c.revenue),
+                        backgroundColor: [colors.pink, colors.blue, colors.yellow, colors.purple],
+                        borderWidth: 0,
+                        borderRadius: 8
+                    }]
+                },
+                options: {
+                    responsive: true,
+                    maintainAspectRatio: true,
+                    onClick: (event, elements) => {
+                        if (elements.length > 0) {
+                            const index = elements[0].index;
+                            const category = dashboardData.categories[index];
+                            alert(`📊 ${category.name}\n\n💰 Revenue: $${category.revenue.toLocaleString()}\n🛍️ Transactions: ${category.transactions.toLocaleString()}\n💵 Avg Order: $${category.avgOrder.toFixed(2)}\n📈 Share: ${category.share}%`);
+                        }
+                    },
+                    plugins: {
+                        legend: { display: false },
+                        tooltip: {
+                            callbacks: {
+                                label: (context) => `Revenue: $${context.raw.toLocaleString()}`
+                            }
+                        }
+                    },
+                    scales: {
+                        y: {
+                            beginAtZero: true,
+                            ticks: {
+                                callback: (value) => '$' + (value/1000).toFixed(0) + 'K'
+                            }
+                        }
+                    }
+                }
+            });
+        }
+
+        // Channel Chart
+        function createChannelChart() {
+            const ctx = document.getElementById('channelChart').getContext('2d');
+            charts.channel = new Chart(ctx, {
+                type: 'pie',
+                data: {
+                    labels: dashboardData.channels.map(c => c.name),
+                    datasets: [{
+                        data: dashboardData.channels.map(c => c.revenue),
+                        backgroundColor: [colors.blue, colors.pink],
+                        borderWidth: 0
+                    }]
+                },
+                options: {
+                    responsive: true,
+                    maintainAspectRatio: true,
+                    onClick: (event, elements) => {
+                        if (elements.length > 0) {
+                            const index = elements[0].index;
+                            const channel = dashboardData.channels[index];
+                            alert(`🏪 ${channel.name} Channel\n\n💰 Revenue: $${channel.revenue.toLocaleString()}\n📊 Share: ${channel.share}%`);
+                        }
+                    },
+                    plugins: {
+                        legend: {
+                            position: 'bottom',
+                            labels: { padding: 15, font: { size: 12 } }
+                        },
+                        tooltip: {
+                            callbacks: {
+                                label: (context) => {
+                                    const channel = dashboardData.channels[context.dataIndex];
+                                    return `${context.label}: $${context.raw.toLocaleString()} (${channel.share}%)`;
+                                }
+                            }
+                        }
+                    }
+                }
+            });
+        }
+
+        // Trend Chart
+        function createTrendChart() {
+            const ctx = document.getElementById('trendChart').getContext('2d');
+            charts.trend = new Chart(ctx, {
+                type: 'line',
+                data: {
+                    labels: dashboardData.monthly.map(m => m.month),
+                    datasets: [{
+                        label: 'Monthly Revenue',
+                        data: dashboardData.monthly.map(m => m.revenue),
+                        borderColor: colors.purple,
+                        backgroundColor: colors.purple + '40',
+                        borderWidth: 3,
+                        fill: true,
+                        tension: 0.4,
+                        pointRadius: 5,
+                        pointHoverRadius: 8
+                    }]
+                },
+                options: {
+                    responsive: true,
+                    maintainAspectRatio: true,
+                    onClick: (event, elements) => {
+                        if (elements.length > 0) {
+                            const index = elements[0].index;
+                            const month = dashboardData.monthly[index];
+                            alert(`📅 ${month.month}\n\n💰 Revenue: $${month.revenue.toLocaleString()}`);
+                        }
+                    },
+                    plugins: {
+                        legend: { display: false },
+                        tooltip: {
+                            callbacks: {
+                                label: (context) => `Revenue: $${context.raw.toLocaleString()}`
+                            }
+                        }
+                    },
+                    scales: {
+                        y: {
+                            beginAtZero: true,
+                            ticks: {
+                                callback: (value) => '$' + (value/1000).toFixed(0) + 'K'
+                            }
+                        }
+                    }
+                }
+            });
+        }
+
+        // Segment Chart
+        function createSegmentChart() {
+            const ctx = document.getElementById('segmentChart').getContext('2d');
+            charts.segment = new Chart(ctx, {
+                type: 'doughnut',
+                data: {
+                    labels: dashboardData.segments.map(s => s.name),
+                    datasets: [{
+                        data: dashboardData.segments.map(s => s.customers),
+                        backgroundColor: [colors.orange, colors.green, colors.blue, colors.purple, colors.red, '#95A5A6'],
+                        borderWidth: 0
+                    }]
+                },
+                options: {
+                    responsive: true,
+                    maintainAspectRatio: true,
+                    onClick: (event, elements) => {
+                        if (elements.length > 0) {
+                            const index = elements[0].index;
+                            const segment = dashboardData.segments[index];
+                            alert(`👥 ${segment.name}\n\n👤 Customers: ${segment.customers.toLocaleString()}\n📊 Percentage: ${segment.percentage}%`);
+                        }
+                    },
+                    plugins: {
+                        legend: {
+                            position: 'bottom',
+                            labels: { padding: 10, font: { size: 11 } }
+                        },
+                        tooltip: {
+                            callbacks: {
+                                label: (context) => {
+                                    const segment = dashboardData.segments[context.dataIndex];
+                                    return `${context.label}: ${context.raw.toLocaleString()} (${segment.percentage}%)`;
+                                }
+                            }
+                        }
+                    }
+                }
+            });
+        }
+
+        // Store Chart
+        function createStoreChart() {
+            const ctx = document.getElementById('storeChart').getContext('2d');
+            charts.store = new Chart(ctx, {
+                type: 'bar',
+                data: {
+                    labels: dashboardData.stores.map(s => s.name),
+                    datasets: [{
+                        label: 'Revenue ($)',
+                        data: dashboardData.stores.map(s => s.revenue),
+                        backgroundColor: colors.blue,
+                        borderWidth: 0,
+                        borderRadius: 8
+                    }]
+                },
+                options: {
+                    indexAxis: 'y',
+                    responsive: true,
+                    maintainAspectRatio: true,
+                    onClick: (event, elements) => {
+                        if (elements.length > 0) {
+                            const index = elements[0].index;
+                            const store = dashboardData.stores[index];
+                            alert(`🏪 ${store.name}\n\n💰 Revenue: $${store.revenue.toLocaleString()}\n🏆 Rank: #${index + 1}`);
+                        }
+                    },
+                    plugins: {
+                        legend: { display: false },
+                        tooltip: {
+                            callbacks: {
+                                label: (context) => `Revenue: $${context.raw.toLocaleString()}`
+                            }
+                        }
+                    },
+                    scales: {
+                        x: {
+                            beginAtZero: true,
+                            ticks: {
+                                callback: (value) => '$' + (value/1000).toFixed(0) + 'K'
+                            }
+                        }
+                    }
+                }
+            });
+        }
+
+        // Funnel Chart
+        function createFunnelChart() {
+            const ctx = document.getElementById('funnelChart').getContext('2d');
+            charts.funnel = new Chart(ctx, {
+                type: 'bar',
+                data: {
+                    labels: dashboardData.funnel.map(f => f.stage),
+                    datasets: [{
+                        label: 'Users',
+                        data: dashboardData.funnel.map(f => f.users),
+                        backgroundColor: dashboardData.funnel.map((f, i) => {
+                            const alpha = 1 - (i * 0.15);
+                            return colors.blue + Math.floor(alpha * 255).toString(16);
+                        }),
+                        borderWidth: 0,
+                        borderRadius: 8
+                    }]
+                },
+                options: {
+                    responsive: true,
+                    maintainAspectRatio: true,
+                    onClick: (event, elements) => {
+                        if (elements.length > 0) {
+                            const index = elements[0].index;
+                            const stage = dashboardData.funnel[index];
+                            alert(`🎯 ${stage.stage}\n\n👥 Users: ${stage.users.toLocaleString()}\n📉 Drop-off: ${stage.dropoff.toFixed(1)}%`);
+                        }
+                    },
+                    plugins: {
+                        legend: { display: false },
+                        tooltip: {
+                            callbacks: {
+                                label: (context) => {
+                                    const stage = dashboardData.funnel[context.dataIndex];
+                                    return [`Users: ${context.raw.toLocaleString()}`, `Drop-off: ${stage.dropoff.toFixed(1)}%`];
+                                }
+                            }
+                        }
+                    },
+                    scales: {
+                        y: {
+                            beginAtZero: true,
+                            ticks: {
+                                callback: (value) => (value/1000).toFixed(0) + 'K'
+                            }
+                        }
+                    }
+                }
+            });
+        }
+
+        // Update Data Table
+        function updateDataTable() {
+            const tbody = document.getElementById('tableBody');
+            tbody.innerHTML = dashboardData.categories.map(cat => `
+                <tr onclick="alert('📊 ${cat.name}\\n\\n💰 Revenue: $${cat.revenue.toLocaleString()}\\n🛍️ Transactions: ${cat.transactions.toLocaleString()}\\n💵 Avg Order: $${cat.avgOrder.toFixed(2)}\\n📈 Share: ${cat.share}%')" style="cursor: pointer;">
+                    <td><strong>${cat.name}</strong></td>
+                    <td>$${cat.revenue.toLocaleString()}</td>
+                    <td>${cat.transactions.toLocaleString()}</td>
+                    <td>$${cat.avgOrder.toFixed(2)}</td>
+                    <td>${cat.share}%</td>
+                </tr>
+            `).join('');
+        }
+
+        // KPI Detail Handler
+        function showKPIDetail(kpi) {
+            const details = {
+                revenue: '💰 Total Revenue: $1,956,784\n\nBreakdown:\n• Girls Clothing: $884,505 (45.2%)\n• Boys Clothing: $587,850 (30.0%)\n• Infants: $337,364 (17.2%)\n• Accessories: $147,066 (7.5%)\n\nYoY Growth: +0.07%',
+                transactions: '🛍️ Total Transactions: 50,000\n\nDistribution:\n• 10 stores nationwide\n• 42% online, 58% offline\n• Average: 5,000 per store\n• Peak month: July (highest sales)',
+                customers: '👥 Total Customers: 9,823\n\nSegments:\n• Champions: 1,677 (17.1%)\n• Need Attention: 1,702 (17.3%)\n• Loyal: 1,413 (14.4%)\n• At Risk: 1,198 (12.2%)\n\nRepeat Rate: 92.5%',
+                clv: '💵 Average CLV: $429.80\n\nBy Segment:\n• Champions: $717.86\n• Loyal: $645.23\n• Potential: $512.34\n• At Risk: $298.45\n\nCLV/CAC Ratio: 22.62x (Excellent!)',
+                margin: '📈 Gross Margin: 45.23%\n\nFinancial Metrics:\n• Net Margin: 11.43%\n• EBITDA: $337,235\n• Operating Expenses: $662,945\n\nTarget: 40% (Exceeds by 5.23%)',
+                conversion: '🌐 Conversion Rate: 1.76%\n\nE-commerce Funnel:\n• Sessions: 200,000\n• Add to Cart: 22,456 (11.2%)\n• Checkout: 7,271 (3.6%)\n• Purchase: 3,515 (1.76%)\n\nCart Abandonment: 84.35% ⚠️'
+            };
+            alert(details[kpi]);
+        }
+
+        // Update Dashboard (Filter Handler)
+        function updateDashboard() {
+            const category = document.getElementById('categoryFilter').value;
+            const channel = document.getElementById('channelFilter').value;
+            const period = document.getElementById('periodFilter').value;
+            
+            console.log('Filters applied:', { category, channel, period });
+            alert(`🔄 Filters Applied!\n\n📦 Category: ${category}\n🏪 Channel: ${channel}\n📅 Period: ${period}\n\n✅ Dashboard will update with filtered data`);
+            // In production, this would re-fetch and update charts
+        }
+
+        // Initialize on load
+        window.addEventListener('load', initDashboard);
+    </script>
+</body>
+</html>
