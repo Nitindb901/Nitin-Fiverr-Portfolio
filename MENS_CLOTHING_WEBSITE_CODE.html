@@ -1,0 +1,381 @@
+<!-- 
+=============================================================================
+PROJECT 4: MEN'S CLOTHING ANALYTICS DASHBOARD - WEBSITE INTEGRATION CODE
+=============================================================================
+Copy this entire section and paste it in your main portfolio website's index.html
+Add it in the projects section after Project 3 (Kids Clothing Dashboard)
+=============================================================================
+-->
+
+<!-- Project 4: Men's Clothing Analytics Dashboard -->
+<div class="project-card" data-category="analytics ml-powered">
+    <div class="project-image">
+        <img src="https://raw.githubusercontent.com/Nitindb901/Nitin-Fiverr-Portfolio/main/04_Mens_Clothing_Dashboard/visualizations/02_monthly_trend.png" 
+             alt="Men's Clothing Analytics Dashboard" 
+             loading="lazy">
+        <div class="project-overlay">
+            <div class="project-tags">
+                <span class="tag">Machine Learning</span>
+                <span class="tag">Python</span>
+                <span class="tag">Dashboard</span>
+                <span class="tag">RFM Analysis</span>
+            </div>
+        </div>
+    </div>
+    <div class="project-content">
+        <h3>Men's Clothing Analytics Dashboard with ML</h3>
+        <p class="project-description">
+            Advanced retail analytics platform featuring machine learning-powered sales forecasting (93.18% accuracy) 
+            and customer segmentation. Analyzed 100K transactions (₹20.4 Cr) with RFM analysis, CLV calculations, 
+            and K-means clustering identifying VIP customers driving 43.4% of revenue.
+        </p>
+        
+        <div class="project-highlights">
+            <div class="highlight-item">
+                <i class="fas fa-database"></i>
+                <span>100K Transactions</span>
+            </div>
+            <div class="highlight-item">
+                <i class="fas fa-brain"></i>
+                <span>93.18% ML Accuracy</span>
+            </div>
+            <div class="highlight-item">
+                <i class="fas fa-users"></i>
+                <span>5 Customer Segments</span>
+            </div>
+            <div class="highlight-item">
+                <i class="fas fa-chart-line"></i>
+                <span>6-Month Forecast</span>
+            </div>
+        </div>
+        
+        <div class="project-tech-stack">
+            <span class="tech-badge">Python 3.14</span>
+            <span class="tech-badge">scikit-learn</span>
+            <span class="tech-badge">pandas</span>
+            <span class="tech-badge">Chart.js</span>
+            <span class="tech-badge">RFM Analysis</span>
+            <span class="tech-badge">K-means</span>
+        </div>
+        
+        <div class="project-stats">
+            <div class="stat">
+                <strong>₹20.4 Cr</strong>
+                <span>Revenue Analyzed</span>
+            </div>
+            <div class="stat">
+                <strong>10</strong>
+                <span>Visualizations</span>
+            </div>
+            <div class="stat">
+                <strong>2</strong>
+                <span>ML Models</span>
+            </div>
+        </div>
+        
+        <div class="project-links">
+            <a href="https://nitindb901.github.io/Nitin-Fiverr-Portfolio/04_Mens_Clothing_Dashboard/mens_clothing_dashboard.html" 
+               class="btn btn-primary" 
+               target="_blank" 
+               rel="noopener noreferrer">
+                <i class="fas fa-external-link-alt"></i> Live Dashboard
+            </a>
+            <a href="https://github.com/Nitindb901/Nitin-Fiverr-Portfolio/tree/main/04_Mens_Clothing_Dashboard" 
+               class="btn btn-secondary" 
+               target="_blank" 
+               rel="noopener noreferrer">
+                <i class="fab fa-github"></i> View Code
+            </a>
+            <a href="https://github.com/Nitindb901/Nitin-Fiverr-Portfolio/blob/main/04_Mens_Clothing_Dashboard/README.md" 
+               class="btn btn-info" 
+               target="_blank" 
+               rel="noopener noreferrer">
+                <i class="fas fa-book"></i> Documentation
+            </a>
+        </div>
+        
+        <div class="project-details-toggle">
+            <button class="toggle-btn" onclick="toggleDetails(this)">
+                <i class="fas fa-chevron-down"></i> View Details
+            </button>
+        </div>
+        
+        <div class="project-details-content" style="display: none;">
+            <h4>🎯 Project Highlights</h4>
+            <ul>
+                <li><strong>Data Pipeline:</strong> Generated 100K synthetic transactions with realistic patterns across 4 categories (Formal, Casual, Sports, Accessories)</li>
+                <li><strong>ML Forecasting:</strong> Linear Regression model achieving 93.18% accuracy with 6-month revenue predictions (₹5.2 Cr projected)</li>
+                <li><strong>Customer Segmentation:</strong> K-means clustering identified 5 distinct segments with VIP customers (28.1% of base) driving 43.4% revenue</li>
+                <li><strong>RFM Analysis:</strong> Comprehensive Recency, Frequency, Monetary analysis segmenting 12K customers into Champions, Loyal, At Risk, etc.</li>
+                <li><strong>CLV Calculation:</strong> Average customer lifetime value of ₹17,031 with 556 days average tenure</li>
+                <li><strong>Interactive Dashboard:</strong> 7 Chart.js visualizations with category filtering, modal popups, and ML insights section</li>
+                <li><strong>Professional Visualizations:</strong> 10 publication-ready charts at 300 DPI using matplotlib and seaborn</li>
+            </ul>
+            
+            <h4>📊 Key Insights</h4>
+            <ul>
+                <li>Casual Wear leads with ₹6.33 Cr (31% of revenue)</li>
+                <li>+22.3% revenue growth over 24-month period</li>
+                <li>Balanced channel distribution: In-Store (33.5%), Online (33.3%), Mobile (33.2%)</li>
+                <li>Potential Loyalists largest segment (30.6% of customer base)</li>
+                <li>Champions have 1.7x higher CLV (₹29,239 vs ₹17,031 avg)</li>
+                <li>Delhi Connaught Place top store (₹2.09 Cr revenue)</li>
+                <li>Weekend sales contribute 28.5% of total revenue</li>
+                <li>Calvin Klein top brand (₹2.88 Cr revenue)</li>
+                <li>Average profit margin 26.63% across all categories</li>
+            </ul>
+            
+            <h4>🛠️ Technical Implementation</h4>
+            <ul>
+                <li><strong>Data Generation:</strong> Python with pandas, numpy, faker for realistic synthetic data</li>
+                <li><strong>Data Processing:</strong> ETL pipeline with feature engineering, RFM calculations, time series aggregations</li>
+                <li><strong>ML Models:</strong> scikit-learn for Linear Regression (forecasting) and K-means (clustering)</li>
+                <li><strong>Visualizations:</strong> matplotlib and seaborn for professional business charts</li>
+                <li><strong>Dashboard:</strong> HTML5, CSS3, JavaScript ES6+ with Chart.js 4.4.0</li>
+                <li><strong>UI/UX:</strong> Blue gradient theme, modal system, smooth animations, responsive design</li>
+            </ul>
+            
+            <h4>🚀 Project Structure</h4>
+            <pre>
+04_Mens_Clothing_Dashboard/
+├── scripts/
+│   ├── 01_generate_data.py          # Synthetic data generation
+│   ├── 02_process_data.py           # ETL and feature engineering
+│   ├── 03_ml_models.py              # ML training and predictions
+│   └── 04_generate_visualizations.py # Chart generation
+├── data/
+│   ├── raw/                         # Original datasets (100K rows)
+│   ├── processed/                   # Cleaned datasets (11 files)
+│   └── ml_results/                  # Model outputs and forecasts
+├── visualizations/                   # 10 professional charts (300 DPI)
+├── mens_clothing_dashboard.html     # Interactive dashboard
+├── README.md                        # Project documentation
+└── DOCUMENTATION.md                 # Technical reference
+            </pre>
+            
+            <h4>💡 Business Impact</h4>
+            <ul>
+                <li><strong>Revenue Optimization:</strong> ML forecasts enable proactive inventory planning and staffing decisions</li>
+                <li><strong>Customer Retention:</strong> RFM segmentation identifies at-risk customers for targeted campaigns</li>
+                <li><strong>VIP Focus:</strong> Discovered 3,367 VIP customers contributing 43.4% of revenue for premium services</li>
+                <li><strong>Category Strategy:</strong> Casual Wear dominance (31%) suggests focus area for expansion</li>
+            </ul>
+        </div>
+    </div>
+</div>
+
+<!-- 
+=============================================================================
+ADDITIONAL CSS (Add to your stylesheet if not already present)
+=============================================================================
+-->
+<style>
+/* Project Details Toggle */
+.project-details-toggle {
+    margin-top: 1rem;
+    text-align: center;
+}
+
+.toggle-btn {
+    background: linear-gradient(135deg, #667eea 0%, #764ba2 100%);
+    color: white;
+    border: none;
+    padding: 0.6rem 1.5rem;
+    border-radius: 25px;
+    cursor: pointer;
+    font-size: 0.9rem;
+    transition: all 0.3s ease;
+    box-shadow: 0 4px 15px rgba(102, 126, 234, 0.3);
+}
+
+.toggle-btn:hover {
+    transform: translateY(-2px);
+    box-shadow: 0 6px 20px rgba(102, 126, 234, 0.4);
+}
+
+.toggle-btn i {
+    transition: transform 0.3s ease;
+}
+
+.toggle-btn.active i {
+    transform: rotate(180deg);
+}
+
+.project-details-content {
+    margin-top: 1.5rem;
+    padding: 1.5rem;
+    background: linear-gradient(135deg, #f5f7fa 0%, #c3cfe2 100%);
+    border-radius: 10px;
+    animation: slideDown 0.3s ease;
+}
+
+@keyframes slideDown {
+    from {
+        opacity: 0;
+        transform: translateY(-10px);
+    }
+    to {
+        opacity: 1;
+        transform: translateY(0);
+    }
+}
+
+.project-details-content h4 {
+    color: #667eea;
+    margin-top: 1.5rem;
+    margin-bottom: 0.8rem;
+    font-size: 1.1rem;
+}
+
+.project-details-content h4:first-child {
+    margin-top: 0;
+}
+
+.project-details-content ul {
+    list-style: none;
+    padding-left: 0;
+}
+
+.project-details-content ul li {
+    padding: 0.5rem 0;
+    padding-left: 1.5rem;
+    position: relative;
+}
+
+.project-details-content ul li:before {
+    content: "▸";
+    position: absolute;
+    left: 0;
+    color: #667eea;
+    font-weight: bold;
+}
+
+.project-details-content pre {
+    background: white;
+    padding: 1rem;
+    border-radius: 5px;
+    overflow-x: auto;
+    font-size: 0.85rem;
+    border-left: 4px solid #667eea;
+}
+
+/* Project Highlights Grid */
+.project-highlights {
+    display: grid;
+    grid-template-columns: repeat(auto-fit, minmax(120px, 1fr));
+    gap: 1rem;
+    margin: 1rem 0;
+}
+
+.highlight-item {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    padding: 0.8rem;
+    background: linear-gradient(135deg, #667eea15 0%, #764ba215 100%);
+    border-radius: 8px;
+    text-align: center;
+}
+
+.highlight-item i {
+    font-size: 1.5rem;
+    color: #667eea;
+    margin-bottom: 0.5rem;
+}
+
+.highlight-item span {
+    font-size: 0.85rem;
+    font-weight: 600;
+    color: #333;
+}
+
+/* Project Stats */
+.project-stats {
+    display: flex;
+    justify-content: space-around;
+    margin: 1.5rem 0;
+    padding: 1rem;
+    background: linear-gradient(135deg, #667eea10 0%, #764ba210 100%);
+    border-radius: 10px;
+}
+
+.project-stats .stat {
+    text-align: center;
+}
+
+.project-stats .stat strong {
+    display: block;
+    font-size: 1.3rem;
+    color: #667eea;
+    margin-bottom: 0.3rem;
+}
+
+.project-stats .stat span {
+    font-size: 0.8rem;
+    color: #666;
+}
+</style>
+
+<!-- 
+=============================================================================
+JAVASCRIPT FOR TOGGLE FUNCTIONALITY (Add to your script section)
+=============================================================================
+-->
+<script>
+function toggleDetails(button) {
+    const projectCard = button.closest('.project-card');
+    const detailsContent = projectCard.querySelector('.project-details-content');
+    const icon = button.querySelector('i');
+    
+    if (detailsContent.style.display === 'none') {
+        detailsContent.style.display = 'block';
+        button.classList.add('active');
+        button.innerHTML = '<i class="fas fa-chevron-up"></i> Hide Details';
+    } else {
+        detailsContent.style.display = 'none';
+        button.classList.remove('active');
+        button.innerHTML = '<i class="fas fa-chevron-down"></i> View Details';
+    }
+}
+</script>
+
+<!-- 
+=============================================================================
+INTEGRATION INSTRUCTIONS
+=============================================================================
+
+1. Open your main portfolio website's index.html file
+
+2. Find the projects section (where Project 3: Kids Clothing Dashboard is displayed)
+
+3. Copy the entire "Project 4" div block (from line 11 to line 202)
+
+4. Paste it after Project 3's closing </div> tag
+
+5. Copy the CSS code (lines 209-337) and add it to your main stylesheet
+   OR paste it in your <style> tag in the <head> section
+
+6. Copy the JavaScript function (lines 344-358) and add it to your main script file
+   OR paste it in your <script> tag before the closing </body> tag
+
+7. Save the file and test the dashboard link
+
+8. If images don't load immediately, wait 5-10 minutes for GitHub to process them
+
+9. Test the "View Details" toggle button to ensure it expands/collapses properly
+
+=============================================================================
+URLS TO VERIFY
+=============================================================================
+
+Dashboard Live URL:
+https://nitindb901.github.io/Nitin-Fiverr-Portfolio/04_Mens_Clothing_Dashboard/mens_clothing_dashboard.html
+
+GitHub Repo:
+https://github.com/Nitindb901/Nitin-Fiverr-Portfolio/tree/main/04_Mens_Clothing_Dashboard
+
+Image URL (Test):
+https://raw.githubusercontent.com/Nitindb901/Nitin-Fiverr-Portfolio/main/04_Mens_Clothing_Dashboard/visualizations/02_monthly_trend.png
+
+=============================================================================
+-->
