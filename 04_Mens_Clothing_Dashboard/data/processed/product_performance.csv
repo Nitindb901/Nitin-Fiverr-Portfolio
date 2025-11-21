@@ -1,0 +1,501 @@
+ProductID,Revenue,UnitsSold,Transactions,ProductName,Category,Brand,Price
+P00419,1194101.35,433,311,Ralph Lauren Hoodies,Sports & Activewear,Ralph Lauren,3253.05
+P00406,1156218.8,389,286,Ralph Lauren Track Pants,Sports & Activewear,Ralph Lauren,3456.04
+P00361,1125299.94,404,305,Calvin Klein Jackets,Sports & Activewear,Calvin Klein,3321.19
+P00399,1092939.81,388,303,Ralph Lauren Track Pants,Sports & Activewear,Ralph Lauren,3303.14
+P00380,1089978.38,401,295,Hugo Boss Jackets,Sports & Activewear,Hugo Boss,3192.29
+P00411,1081632.17,433,314,Hugo Boss Gym Wear,Sports & Activewear,Hugo Boss,2928.28
+P00359,1062585.44,408,299,Calvin Klein Track Pants,Sports & Activewear,Calvin Klein,3008.8
+P00408,1059717.68,393,291,Ralph Lauren Track Pants,Sports & Activewear,Ralph Lauren,3122.7
+P00388,1058575.89,417,304,Calvin Klein Sports Shoes,Sports & Activewear,Calvin Klein,2912.16
+P00340,1039605.02,359,268,Ralph Lauren Track Pants,Sports & Activewear,Ralph Lauren,3411.46
+P00341,1038766.83,406,298,Calvin Klein Gym Wear,Sports & Activewear,Calvin Klein,2969.51
+P00390,1035126.66,447,320,Calvin Klein Track Pants,Sports & Activewear,Calvin Klein,2688.11
+P00375,1012441.55,368,280,Calvin Klein Gym Wear,Sports & Activewear,Calvin Klein,3228.77
+P00404,1005997.95,359,269,Ralph Lauren Sports Shoes,Sports & Activewear,Ralph Lauren,3309.66
+P00461,995839.25,333,243,Armani Bags,Accessories,Armani,3513.33
+P00018,993453.46,236,154,Ralph Lauren Waistcoats,Formal Wear,Ralph Lauren,4855.65
+P00475,990038.2,328,233,Hugo Boss Belts,Accessories,Hugo Boss,3533.39
+P00343,988872.96,348,252,Hugo Boss Gym Wear,Sports & Activewear,Hugo Boss,3295.19
+P00401,984968.29,430,324,Ralph Lauren Gym Wear,Sports & Activewear,Ralph Lauren,2650.99
+P00384,955712.4,395,310,Ralph Lauren Jackets,Sports & Activewear,Ralph Lauren,2811.13
+P00345,950520.23,386,284,Calvin Klein Sports Shoes,Sports & Activewear,Calvin Klein,2831.53
+P00372,939795.32,395,289,Armani Gym Wear,Sports & Activewear,Armani,2768.07
+P00446,933036.48,367,264,Hugo Boss Belts,Accessories,Hugo Boss,2972.39
+P00443,932181.8,333,251,Ralph Lauren Belts,Accessories,Ralph Lauren,3259.69
+P00400,923987.76,407,302,Armani Track Pants,Sports & Activewear,Armani,2620.29
+P00125,920666.76,220,161,Hugo Boss Blazers,Formal Wear,Hugo Boss,4847.2
+P00499,913977.32,287,213,Ralph Lauren Watches,Accessories,Ralph Lauren,3694.06
+P00467,913027.15,272,200,Ralph Lauren Bags,Accessories,Ralph Lauren,3942.29
+P00462,909698.11,297,213,Calvin Klein Watches,Accessories,Calvin Klein,3609.84
+P00500,908680.38,280,206,Calvin Klein Bags,Accessories,Calvin Klein,3815.88
+P00078,890346.31,209,159,Armani Suits,Formal Wear,Armani,4939.73
+P00045,890092.23,228,162,Calvin Klein Waistcoats,Formal Wear,Calvin Klein,4526.29
+P00391,887767.08,395,300,Armani Jackets,Sports & Activewear,Armani,2612.45
+P00026,881094.85,213,156,Armani Blazers,Formal Wear,Armani,4872.26
+P00447,880528.25,304,210,Hugo Boss Sunglasses,Accessories,Hugo Boss,3371.81
+P00356,878878.02,362,266,Calvin Klein Hoodies,Sports & Activewear,Calvin Klein,2804.66
+P00415,871541.58,371,273,Armani Hoodies,Sports & Activewear,Armani,2738.75
+P00435,870958.73,293,220,Armani Ties,Accessories,Armani,3488.61
+P00099,869026.1799999999,262,172,Armani Blazers,Formal Wear,Armani,3849.01
+P00064,865565.36,244,174,Hugo Boss Waistcoats,Formal Wear,Hugo Boss,4235.66
+P00076,845402.34,212,162,Calvin Klein Dress Shirts,Formal Wear,Calvin Klein,4614.72
+P00071,845376.45,207,148,Armani Suits,Formal Wear,Armani,4842.28
+P00068,842922.97,206,160,Armani Dress Shirts,Formal Wear,Armani,4760.22
+P00114,836916.11,199,145,Hugo Boss Waistcoats,Formal Wear,Hugo Boss,4886.64
+P00057,833746.48,208,159,Ralph Lauren Suits,Formal Wear,Ralph Lauren,4704.73
+P00454,831206.22,288,223,Armani Wallets,Accessories,Armani,3324.54
+P00121,828462.33,201,139,Hugo Boss Suits,Formal Wear,Hugo Boss,4749.93
+P00330,824264.52,387,285,Armani Jackets,Sports & Activewear,Armani,2473.16
+P00367,822620.47,382,286,Armani Track Pants,Sports & Activewear,Armani,2529.07
+P00493,821919.49,318,236,Armani Belts,Accessories,Armani,2994.3
+P00027,816290.72,202,148,Hugo Boss Dress Shirts,Formal Wear,Hugo Boss,4745.9
+P00053,796628.91,201,153,Hugo Boss Dress Shirts,Formal Wear,Hugo Boss,4611.78
+P00122,785583.76,198,156,Armani Suits,Formal Wear,Armani,4642.43
+P00060,782522.62,199,142,Armani Trousers,Formal Wear,Armani,4548.75
+P00487,781106.52,308,224,Armani Bags,Accessories,Armani,3010.52
+P00097,779825.69,201,142,Hugo Boss Blazers,Formal Wear,Hugo Boss,4581.76
+P00494,774828.84,316,232,Armani Watches,Accessories,Armani,2847.09
+P00484,756534.42,300,223,Calvin Klein Wallets,Accessories,Calvin Klein,2960.47
+P00032,755547.25,207,155,Armani Blazers,Formal Wear,Armani,4280.7
+P00460,750746.41,280,204,Armani Sunglasses,Accessories,Armani,3125.34
+P00092,747847.79,189,142,Armani Trousers,Formal Wear,Armani,4683.71
+P00041,743265.28,198,151,Armani Suits,Formal Wear,Armani,4425.03
+P00007,727192.8,197,143,Armani Waistcoats,Formal Wear,Armani,4296.26
+P00090,723380.48,181,143,Hugo Boss Dress Shirts,Formal Wear,Hugo Boss,4734.27
+P00100,721581.21,188,137,Calvin Klein Waistcoats,Formal Wear,Calvin Klein,4525.76
+P00047,711983.26,202,149,Ralph Lauren Suits,Formal Wear,Ralph Lauren,3995.3
+P00002,705570.48,211,160,Hugo Boss Blazers,Formal Wear,Hugo Boss,3874.37
+P00020,699003.14,221,174,Armani Dress Shirts,Formal Wear,Armani,3673.78
+P00496,698919.36,252,191,Armani Wallets,Accessories,Armani,3257.84
+P00141,690967.84,350,265,Hugo Boss Jeans,Casual Wear,Hugo Boss,2269.01
+P00115,681952.77,176,131,Hugo Boss Blazers,Formal Wear,Hugo Boss,4546.6
+P00183,681363.47,337,244,Hugo Boss Chinos,Casual Wear,Hugo Boss,2377.08
+P00116,680850.42,191,134,Hugo Boss Suits,Formal Wear,Hugo Boss,4138.21
+P00086,679954.12,218,156,Calvin Klein Blazers,Formal Wear,Calvin Klein,3645.77
+P00108,679664.59,207,153,Ralph Lauren Waistcoats,Formal Wear,Ralph Lauren,3791.15
+P00061,678438.07,191,148,Hugo Boss Waistcoats,Formal Wear,Hugo Boss,4191.25
+P00196,677672.3,318,245,Ralph Lauren Jeans,Casual Wear,Ralph Lauren,2480.06
+P00044,674797.58,201,147,Calvin Klein Suits,Formal Wear,Calvin Klein,3864.35
+P00038,671118.5,206,150,Calvin Klein Waistcoats,Formal Wear,Calvin Klein,3768.8
+P00059,665868.69,189,150,Armani Dress Shirts,Formal Wear,Armani,4175.42
+P00431,664788.42,248,190,Ralph Lauren Watches,Accessories,Ralph Lauren,3169.45
+P00094,657193.31,182,130,Calvin Klein Blazers,Formal Wear,Calvin Klein,4232.33
+P00245,654399.86,317,234,Calvin Klein Chinos,Casual Wear,Calvin Klein,2395.86
+P00250,653121.22,311,226,Calvin Klein Shorts,Casual Wear,Calvin Klein,2446.23
+P00439,652471.48,258,204,Hugo Boss Ties,Accessories,Hugo Boss,2949.1
+P00207,636166.63,307,222,Calvin Klein Chinos,Casual Wear,Calvin Klein,2396.28
+P00240,635413.48,301,218,Armani Casual Shirts,Casual Wear,Armani,2435.54
+P00111,634132.48,207,159,Calvin Klein Blazers,Formal Wear,Calvin Klein,3561.97
+P00255,633539.53,305,220,Calvin Klein T-Shirts,Casual Wear,Calvin Klein,2394.58
+P00089,630469.6,196,144,Armani Waistcoats,Formal Wear,Armani,3701.94
+P00298,629574.07,324,249,Ralph Lauren Jeans,Casual Wear,Ralph Lauren,2283.26
+P00232,628805.17,369,265,Calvin Klein Jeans,Casual Wear,Calvin Klein,1966.69
+P00224,627873.14,300,231,Ralph Lauren Chinos,Casual Wear,Ralph Lauren,2470.6
+P00048,625454.79,176,138,Armani Blazers,Formal Wear,Armani,4038.06
+P00269,624252.23,328,247,Ralph Lauren Shorts,Casual Wear,Ralph Lauren,2184.26
+P00036,621592.99,178,129,Hugo Boss Dress Shirts,Formal Wear,Hugo Boss,4043.43
+P00262,617217.32,298,215,Hugo Boss Shorts,Casual Wear,Hugo Boss,2436.82
+P00205,616853.92,318,239,Calvin Klein Shorts,Casual Wear,Calvin Klein,2301.3
+P00079,616596.33,197,143,Ralph Lauren Trousers,Formal Wear,Ralph Lauren,3622.97
+P00257,616324.18,303,223,Ralph Lauren Jeans,Casual Wear,Ralph Lauren,2358.73
+P00158,614388.66,333,246,Calvin Klein Casual Shirts,Casual Wear,Calvin Klein,2155.56
+P00137,609431.13,316,223,Armani Casual Shirts,Casual Wear,Armani,2220.85
+P00180,606503.66,292,214,Hugo Boss Jeans,Casual Wear,Hugo Boss,2374.48
+P00088,605841.28,202,153,Armani Waistcoats,Formal Wear,Armani,3509.73
+P00039,605336.22,173,133,Ralph Lauren Trousers,Formal Wear,Ralph Lauren,4039.34
+P00163,605064.84,292,219,Armani Chinos,Casual Wear,Armani,2405.22
+P00127,604031.68,326,240,Armani Casual Shirts,Casual Wear,Armani,2187.39
+P00285,601883.27,308,232,Hugo Boss Casual Shirts,Casual Wear,Hugo Boss,2298.73
+P00263,601329.47,324,230,Calvin Klein Chinos,Casual Wear,Calvin Klein,2160.49
+P00184,600081.75,295,222,Calvin Klein Chinos,Casual Wear,Calvin Klein,2418.5
+P00308,596345.55,310,228,Ralph Lauren Jeans,Casual Wear,Ralph Lauren,2234.52
+P00110,591429.84,192,148,Calvin Klein Blazers,Formal Wear,Calvin Klein,3528.46
+P00267,589641.32,277,207,Ralph Lauren Shorts,Casual Wear,Ralph Lauren,2492.94
+P00260,587115.58,278,214,Hugo Boss T-Shirts,Casual Wear,Hugo Boss,2473.28
+P00129,586491.35,289,217,Ralph Lauren T-Shirts,Casual Wear,Ralph Lauren,2365.93
+P00133,578999.89,299,216,Hugo Boss T-Shirts,Casual Wear,Hugo Boss,2242.48
+P00288,576686.64,304,221,Armani T-Shirts,Casual Wear,Armani,2210.96
+P00107,574323.49,192,142,Calvin Klein Suits,Formal Wear,Calvin Klein,3538.24
+P00271,572351.87,279,207,Hugo Boss Casual Shirts,Casual Wear,Hugo Boss,2403.51
+P00310,569531.56,318,232,Ralph Lauren Jeans,Casual Wear,Ralph Lauren,2093.02
+P00278,564687.76,289,207,Hugo Boss Casual Shirts,Casual Wear,Hugo Boss,2240.97
+P00226,562855.99,323,232,Armani Shorts,Casual Wear,Armani,2032.01
+P00120,562375.89,186,139,Ralph Lauren Waistcoats,Formal Wear,Ralph Lauren,3510.98
+P00199,562182.72,303,228,Ralph Lauren T-Shirts,Casual Wear,Ralph Lauren,2202.67
+P00344,559429.18,288,208,Puma Sports Shoes,Sports & Activewear,Puma,2257.68
+P00139,551574.4,307,230,Ralph Lauren T-Shirts,Casual Wear,Ralph Lauren,2076.42
+P00136,549876.7,307,216,Armani Jeans,Casual Wear,Armani,2099.66
+P00254,546253.87,276,212,Calvin Klein Chinos,Casual Wear,Calvin Klein,2312.95
+P00392,546139.02,481,353,Uniqlo Jackets,Sports & Activewear,Uniqlo,1330.22
+P00233,544963.46,260,194,Ralph Lauren Casual Shirts,Casual Wear,Ralph Lauren,2420.56
+P00189,544334.04,292,223,Hugo Boss Shorts,Casual Wear,Hugo Boss,2174.24
+P00280,543453.64,315,223,Armani T-Shirts,Casual Wear,Armani,1985.79
+P00281,538342.78,335,241,Hugo Boss Casual Shirts,Casual Wear,Hugo Boss,1878.57
+P00327,537336.89,272,199,Adidas Sports Shoes,Sports & Activewear,Adidas,2301.84
+P00355,536850.0,466,353,Uniqlo Sports Shoes,Sports & Activewear,Uniqlo,1338.46
+P00155,536531.67,296,219,Ralph Lauren T-Shirts,Casual Wear,Ralph Lauren,2069.89
+P00379,536172.97,260,194,Tommy Hilfiger Track Pants,Sports & Activewear,Tommy Hilfiger,2398.21
+P00195,535653.27,310,233,Calvin Klein Chinos,Casual Wear,Calvin Klein,1976.29
+P00332,528906.4,263,192,Puma Jackets,Sports & Activewear,Puma,2356.75
+P00169,526414.25,274,206,Hugo Boss Chinos,Casual Wear,Hugo Boss,2196.47
+P00377,526281.7,254,186,Levi's Sports Shoes,Sports & Activewear,Levi's,2420.35
+P00268,522481.63,306,226,Ralph Lauren Shorts,Casual Wear,Ralph Lauren,2014.87
+P00373,521788.97,476,345,Zara Sports Shoes,Sports & Activewear,Zara,1273.42
+P00409,521247.72,262,191,Nike Jackets,Sports & Activewear,Nike,2314.7
+P00365,519334.58,513,386,GAP Gym Wear,Sports & Activewear,GAP,1184.72
+P00420,514208.12,262,201,Levi's Track Pants,Sports & Activewear,Levi's,2283.71
+P00266,511991.33,286,216,Ralph Lauren Jeans,Casual Wear,Ralph Lauren,2107.09
+P00397,510423.49,288,210,Puma Track Pants,Sports & Activewear,Puma,2067.08
+P00347,503688.81,282,209,Tommy Hilfiger Hoodies,Sports & Activewear,Tommy Hilfiger,2072.07
+P00316,503582.18,308,221,Calvin Klein T-Shirts,Casual Wear,Calvin Klein,1898.03
+P00334,500724.37,447,328,Zara Gym Wear,Sports & Activewear,Zara,1313.28
+P00394,499132.63,252,192,Nike Jackets,Sports & Activewear,Nike,2291.84
+P00325,497669.01,280,218,Calvin Klein Casual Shirts,Casual Wear,Calvin Klein,2057.26
+P00425,497569.15,278,204,Puma Track Pants,Sports & Activewear,Puma,2056.37
+P00382,494808.65,433,323,Zara Jackets,Sports & Activewear,Zara,1320.62
+P00140,492487.61,306,222,Calvin Klein Shorts,Casual Wear,Calvin Klein,1874.13
+P00147,488993.72,267,197,Calvin Klein T-Shirts,Casual Wear,Calvin Klein,2127.46
+P00190,487683.38,274,212,Calvin Klein T-Shirts,Casual Wear,Calvin Klein,2110.38
+P00253,484902.91,310,230,Hugo Boss Chinos,Casual Wear,Hugo Boss,1837.94
+P00211,483279.58,272,211,Calvin Klein Chinos,Casual Wear,Calvin Klein,2062.32
+P00336,482619.96,510,364,H&M Jackets,Sports & Activewear,H&M,1102.78
+P00200,482505.86,285,213,Ralph Lauren Casual Shirts,Casual Wear,Ralph Lauren,1976.83
+P00251,481694.07,304,226,Ralph Lauren Chinos,Casual Wear,Ralph Lauren,1866.14
+P00162,480564.82,316,233,Hugo Boss Shorts,Casual Wear,Hugo Boss,1786.41
+P00363,479525.6,245,181,Puma Track Pants,Sports & Activewear,Puma,2265.97
+P00416,478311.67,449,342,Uniqlo Sports Shoes,Sports & Activewear,Uniqlo,1251.35
+P00073,474548.99,277,206,Uniqlo Suits,Formal Wear,Uniqlo,1996.33
+P00220,473395.19,293,209,Hugo Boss Chinos,Casual Wear,Hugo Boss,1883.11
+P00223,472484.35,259,198,Calvin Klein Casual Shirts,Casual Wear,Calvin Klein,2106.88
+P00351,469796.22000000003,260,188,Nike Hoodies,Sports & Activewear,Nike,2144.51
+P00153,468141.57,286,203,Calvin Klein Shorts,Casual Wear,Calvin Klein,1924.79
+P00193,465489.84,280,212,Calvin Klein Shorts,Casual Wear,Calvin Klein,1943.65
+P00459,464386.31,388,293,GAP Wallets,Accessories,GAP,1389.52
+P00413,462778.51,252,189,Nike Hoodies,Sports & Activewear,Nike,2158.45
+P00335,459536.37,466,339,GAP Sports Shoes,Sports & Activewear,GAP,1141.04
+P00055,457493.23,298,221,H&M Waistcoats,Formal Wear,H&M,1760.95
+P00389,449861.64,417,312,GAP Sports Shoes,Sports & Activewear,GAP,1264.83
+P00342,449276.49,480,349,H&M Track Pants,Sports & Activewear,H&M,1095.57
+P00378,445750.26,517,381,Uniqlo Sports Shoes,Sports & Activewear,Uniqlo,1003.89
+P00405,444702.96,269,201,Tommy Hilfiger Jackets,Sports & Activewear,Tommy Hilfiger,1907.43
+P00033,442393.02,264,190,Uniqlo Waistcoats,Formal Wear,Uniqlo,1979.92
+P00371,440463.06,260,201,Adidas Sports Shoes,Sports & Activewear,Adidas,1941.77
+P00393,440149.02999999997,465,345,Uniqlo Sports Shoes,Sports & Activewear,Uniqlo,1126.63
+P00177,439098.53,294,207,Ralph Lauren T-Shirts,Casual Wear,Ralph Lauren,1783.26
+P00396,437455.65,489,363,Uniqlo Jackets,Sports & Activewear,Uniqlo,1044.72
+P00448,436595.77,181,136,Nike Wallets,Accessories,Nike,2771.92
+P00402,435972.71,222,157,Levi's Jackets,Sports & Activewear,Levi's,2271.24
+P00299,433302.81,279,202,Hugo Boss T-Shirts,Casual Wear,Hugo Boss,1801.87
+P00497,431768.62,388,303,Uniqlo Sunglasses,Accessories,Uniqlo,1306.94
+P00357,429407.34,254,195,Tommy Hilfiger Sports Shoes,Sports & Activewear,Tommy Hilfiger,1967.57
+P00471,428996.42,375,281,H&M Bags,Accessories,H&M,1314.0
+P00472,426639.63,183,132,Adidas Watches,Accessories,Adidas,2710.26
+P00381,423943.92,479,349,H&M Track Pants,Sports & Activewear,H&M,1039.86
+P00210,422621.37,274,200,Ralph Lauren T-Shirts,Casual Wear,Ralph Lauren,1812.29
+P00395,421764.0,254,180,Levi's Hoodies,Sports & Activewear,Levi's,1939.82
+P00483,420538.39,358,265,GAP Watches,Accessories,GAP,1368.17
+P00423,420257.99,479,352,H&M Gym Wear,Sports & Activewear,H&M,1031.12
+P00370,418018.86,261,194,Puma Sports Shoes,Sports & Activewear,Puma,1873.49
+P00495,417535.84,400,304,Uniqlo Bags,Accessories,Uniqlo,1211.69
+P00449,417421.42,352,272,H&M Wallets,Accessories,H&M,1384.65
+P00119,416610.94,249,185,H&M Waistcoats,Formal Wear,H&M,1979.24
+P00403,416193.17,268,203,Tommy Hilfiger Sports Shoes,Sports & Activewear,Tommy Hilfiger,1829.98
+P00422,413357.28,425,308,H&M Jackets,Sports & Activewear,H&M,1116.3
+P00149,412655.48,241,178,Hugo Boss Casual Shirts,Casual Wear,Hugo Boss,2016.99
+P00093,412051.89,257,197,H&M Trousers,Formal Wear,H&M,1883.35
+P00491,411332.35,310,236,GAP Bags,Accessories,GAP,1536.7
+P00486,411283.8,174,130,Adidas Watches,Accessories,Adidas,2755.58
+P00134,409368.84,259,197,Ralph Lauren T-Shirts,Casual Wear,Ralph Lauren,1863.73
+P00369,409045.57,274,197,Levi's Jackets,Sports & Activewear,Levi's,1738.09
+P00366,407100.04,440,325,GAP Track Pants,Sports & Activewear,GAP,1076.37
+P00455,406523.9,372,263,Zara Ties,Accessories,Zara,1259.87
+P00113,403881.04,244,172,H&M Waistcoats,Formal Wear,H&M,1913.85
+P00339,402984.4,504,383,Zara Gym Wear,Sports & Activewear,Zara,924.91
+P00444,399864.94,175,128,Tommy Hilfiger Wallets,Accessories,Tommy Hilfiger,2715.16
+P00080,398844.76,258,187,GAP Trousers,Formal Wear,GAP,1798.08
+P00350,397810.59,446,332,Uniqlo Jackets,Sports & Activewear,Uniqlo,1047.65
+P00457,392057.96,172,129,Tommy Hilfiger Belts,Accessories,Tommy Hilfiger,2609.35
+P00023,390968.03,245,182,GAP Blazers,Formal Wear,GAP,1886.88
+P00063,390101.76,268,194,GAP Blazers,Formal Wear,GAP,1757.33
+P00368,389074.1,274,200,Nike Sports Shoes,Sports & Activewear,Nike,1640.61
+P00364,386486.4,447,332,H&M Sports Shoes,Sports & Activewear,H&M,1005.34
+P00407,384522.05,460,349,Uniqlo Hoodies,Sports & Activewear,Uniqlo,961.52
+P00465,384239.99,171,127,Puma Watches,Accessories,Puma,2643.87
+P00352,379671.11,278,199,Nike Gym Wear,Sports & Activewear,Nike,1576.15
+P00014,379339.41,267,190,H&M Trousers,Formal Wear,H&M,1638.63
+P00374,378103.25,263,201,Adidas Gym Wear,Sports & Activewear,Adidas,1713.28
+P00358,377698.6,272,198,Puma Track Pants,Sports & Activewear,Puma,1611.72
+P00418,376012.37,218,163,Adidas Track Pants,Sports & Activewear,Adidas,2045.27
+P00376,375357.6,463,329,H&M Sports Shoes,Sports & Activewear,H&M,939.0
+P00338,375170.84,246,193,Adidas Jackets,Sports & Activewear,Adidas,1790.15
+P00386,374454.83,477,337,Zara Sports Shoes,Sports & Activewear,Zara,920.83
+P00346,373563.49,282,207,Tommy Hilfiger Jackets,Sports & Activewear,Tommy Hilfiger,1538.67
+P00464,373448.18,333,247,H&M Sunglasses,Accessories,H&M,1294.11
+P00331,371931.13,261,189,Nike Sports Shoes,Sports & Activewear,Nike,1632.68
+P00417,371271.04,428,321,Uniqlo Jackets,Sports & Activewear,Uniqlo,1008.49
+P00328,369638.07,237,176,Nike Jackets,Sports & Activewear,Nike,1851.81
+P00360,369370.59,449,341,GAP Sports Shoes,Sports & Activewear,GAP,960.46
+P00427,367620.55,393,277,GAP Ties,Accessories,GAP,1076.65
+P00476,366931.63,169,121,Puma Ties,Accessories,Puma,2521.91
+P00485,366704.75,179,128,Adidas Ties,Accessories,Adidas,2395.7
+P00489,364992.41,168,125,Nike Ties,Accessories,Nike,2501.79
+P00414,364478.15,271,197,Levi's Jackets,Sports & Activewear,Levi's,1604.4
+P00337,363255.51,508,371,Zara Sports Shoes,Sports & Activewear,Zara,832.68
+P00482,362287.01,352,262,Zara Bags,Accessories,Zara,1207.79
+P00003,358935.02,287,216,H&M Dress Shirts,Formal Wear,H&M,1455.28
+P00118,357926.54,263,198,Uniqlo Waistcoats,Formal Wear,Uniqlo,1620.02
+P00385,356884.84,260,200,Levi's Sports Shoes,Sports & Activewear,Levi's,1592.04
+P00441,355090.94,361,270,Zara Belts,Accessories,Zara,1154.98
+P00473,351946.39,386,290,H&M Belts,Accessories,H&M,1063.76
+P00348,351592.16,439,340,Zara Track Pants,Sports & Activewear,Zara,933.03
+P00034,348191.56,284,207,GAP Trousers,Formal Wear,GAP,1391.88
+P00412,344944.62,252,196,Adidas Track Pants,Sports & Activewear,Adidas,1567.15
+P00326,344609.84,478,349,H&M Sports Shoes,Sports & Activewear,H&M,852.07
+P00046,342951.07,307,219,H&M Blazers,Formal Wear,H&M,1302.3
+P00452,342182.47,409,311,H&M Wallets,Accessories,H&M,971.31
+P00333,341233.42,455,333,GAP Gym Wear,Sports & Activewear,GAP,895.17
+P00008,340005.62,254,185,GAP Dress Shirts,Formal Wear,GAP,1563.66
+P00387,339014.16,406,300,Uniqlo Jackets,Sports & Activewear,Uniqlo,969.72
+P00428,336011.38,371,281,Zara Sunglasses,Accessories,Zara,1059.02
+P00077,333579.43,272,197,GAP Trousers,Formal Wear,GAP,1408.56
+P00432,331355.49,169,130,Nike Belts,Accessories,Nike,2240.24
+P00434,329063.94,437,308,Zara Watches,Accessories,Zara,874.39
+P00102,326875.82,258,187,H&M Waistcoats,Formal Wear,H&M,1478.84
+P00247,324985.07,387,295,Zara Chinos,Casual Wear,Zara,982.5
+P00234,324947.17,381,291,H&M Shorts,Casual Wear,H&M,1000.0
+P00424,322471.5,443,333,H&M Jackets,Sports & Activewear,H&M,847.51
+P00354,322137.86,244,183,Puma Jackets,Sports & Activewear,Puma,1534.83
+P00456,319015.28,149,107,Nike Sunglasses,Accessories,Nike,2484.09
+P00329,317996.84,266,198,Puma Jackets,Sports & Activewear,Puma,1422.95
+P00451,317929.75,346,258,Uniqlo Wallets,Accessories,Uniqlo,1069.18
+P00353,316736.25,473,343,GAP Sports Shoes,Sports & Activewear,GAP,783.79
+P00458,315741.47,157,121,Levi's Ties,Accessories,Levi's,2342.57
+P00430,314064.23,153,119,Puma Watches,Accessories,Puma,2389.91
+P00349,312264.78,253,189,Nike Gym Wear,Sports & Activewear,Nike,1437.03
+P00104,310263.45,298,213,Zara Suits,Formal Wear,Zara,1226.18
+P00490,307535.23,169,120,Tommy Hilfiger Ties,Accessories,Tommy Hilfiger,2136.56
+P00067,305644.82,272,201,H&M Trousers,Formal Wear,H&M,1303.43
+P00478,298086.06,187,136,Puma Watches,Accessories,Puma,1849.45
+P00320,296603.6,361,267,H&M Casual Shirts,Casual Wear,H&M,965.41
+P00477,294586.85,364,272,Uniqlo Bags,Accessories,Uniqlo,948.87
+P00453,292905.53,183,130,Levi's Bags,Accessories,Levi's,1859.27
+P00194,287406.03,340,259,GAP Shorts,Casual Wear,GAP,992.27
+P00410,286723.03,442,326,H&M Sports Shoes,Sports & Activewear,H&M,758.81
+P00362,284280.59,422,318,GAP Track Pants,Sports & Activewear,GAP,792.84
+P00480,281053.96,354,263,GAP Watches,Accessories,GAP,915.25
+P00297,280343.95,416,302,Zara T-Shirts,Casual Wear,Zara,781.95
+P00096,279799.46,270,196,Zara Trousers,Formal Wear,Zara,1191.03
+P00307,278685.37,191,147,Puma T-Shirts,Casual Wear,Puma,1718.59
+P00463,277178.94,174,127,Puma Ties,Accessories,Puma,1873.29
+P00437,276003.99,119,100,Nike Sunglasses,Accessories,Nike,2682.8
+P00029,273410.12,272,199,Zara Waistcoats,Formal Wear,Zara,1171.67
+P00021,272503.34,245,186,Uniqlo Dress Shirts,Formal Wear,Uniqlo,1312.56
+P00479,267100.03,139,102,Nike Sunglasses,Accessories,Nike,2220.0
+P00468,264694.68,333,248,H&M Watches,Accessories,H&M,935.21
+P00498,263401.6,191,132,Levi's Bags,Accessories,Levi's,1635.6
+P00383,262996.31,445,336,Zara Hoodies,Sports & Activewear,Zara,697.24
+P00272,262181.12,347,265,Uniqlo Jeans,Casual Wear,Uniqlo,880.15
+P00466,260911.66,377,291,H&M Wallets,Accessories,H&M,815.62
+P00293,260580.78,177,132,Adidas Shorts,Casual Wear,Adidas,1730.14
+P00235,260481.3,352,263,Uniqlo Jeans,Casual Wear,Uniqlo,869.55
+P00300,258670.68,378,279,H&M Jeans,Casual Wear,H&M,803.81
+P00083,257649.93,258,196,Zara Suits,Formal Wear,Zara,1179.22
+P00243,256428.88,183,134,Levi's Casual Shirts,Casual Wear,Levi's,1627.06
+P00192,255932.87,176,128,Puma Chinos,Casual Wear,Puma,1720.78
+P00474,255748.92,367,264,Zara Ties,Accessories,Zara,806.48
+P00304,254905.99,351,260,GAP Casual Shirts,Casual Wear,GAP,833.3
+P00117,254111.17,89,64,Tommy Hilfiger Blazers,Formal Wear,Tommy Hilfiger,3223.0
+P00241,254096.41,170,125,Levi's Shorts,Casual Wear,Levi's,1721.74
+P00161,253908.44,194,150,Adidas T-Shirts,Casual Wear,Adidas,1553.38
+P00174,251883.41,175,120,Adidas Casual Shirts,Casual Wear,Adidas,1733.7
+P00150,250838.22,167,121,Tommy Hilfiger T-Shirts,Casual Wear,Tommy Hilfiger,1708.07
+P00208,250290.55,170,117,Levi's Shorts,Casual Wear,Levi's,1726.86
+P00322,250177.23,346,258,Uniqlo Chinos,Casual Wear,Uniqlo,844.04
+P00030,249858.78,293,212,H&M Blazers,Formal Wear,H&M,989.95
+P00433,248847.79,163,122,Adidas Wallets,Accessories,Adidas,1782.82
+P00112,247389.82,245,181,H&M Suits,Formal Wear,H&M,1193.43
+P00035,246321.77,260,196,Zara Trousers,Formal Wear,Zara,1113.11
+P00131,245884.28,171,130,Puma Chinos,Casual Wear,Puma,1691.52
+P00242,245654.48,211,151,Adidas Shorts,Casual Wear,Adidas,1354.54
+P00172,245156.01,374,268,Zara Casual Shirts,Casual Wear,Zara,763.72
+P00398,243116.95,432,310,Zara Sports Shoes,Sports & Activewear,Zara,652.52
+P00421,243086.18,441,338,Uniqlo Jackets,Sports & Activewear,Uniqlo,637.97
+P00311,242613.25,358,265,Uniqlo Shorts,Casual Wear,Uniqlo,787.49
+P00313,242581.45,165,113,Adidas Casual Shirts,Casual Wear,Adidas,1698.34
+P00160,241944.06,385,285,Zara Shorts,Casual Wear,Zara,728.52
+P00286,241591.66,188,137,Adidas Casual Shirts,Casual Wear,Adidas,1479.38
+P00132,241401.16,403,291,H&M Chinos,Casual Wear,H&M,694.18
+P00436,240719.81,166,121,Nike Bags,Accessories,Nike,1681.24
+P00004,239700.14,275,204,H&M Waistcoats,Formal Wear,H&M,1043.95
+P00277,238537.22,178,124,Nike Jeans,Casual Wear,Nike,1559.0
+P00144,236334.51,198,141,Adidas Casual Shirts,Casual Wear,Adidas,1377.76
+P00075,234409.96,267,202,Zara Trousers,Formal Wear,Zara,1016.21
+P00279,233851.02,394,286,Zara T-Shirts,Casual Wear,Zara,681.43
+P00238,233146.64,183,134,Levi's Jeans,Casual Wear,Levi's,1508.17
+P00176,231637.04,187,139,Tommy Hilfiger Chinos,Casual Wear,Tommy Hilfiger,1456.59
+P00185,230500.5,332,256,Zara Jeans,Casual Wear,Zara,811.16
+P00058,230462.08000000002,78,53,Tommy Hilfiger Blazers,Formal Wear,Tommy Hilfiger,3460.3
+P00273,229394.43,158,115,Tommy Hilfiger Shorts,Casual Wear,Tommy Hilfiger,1698.07
+P00319,229079.25,176,122,Puma Shorts,Casual Wear,Puma,1518.5
+P00152,228755.12,173,134,Nike T-Shirts,Casual Wear,Nike,1535.33
+P00182,228125.12,195,134,Levi's Shorts,Casual Wear,Levi's,1362.33
+P00275,226502.02,180,144,Puma Shorts,Casual Wear,Puma,1492.65
+P00128,226296.21,352,261,Uniqlo Chinos,Casual Wear,Uniqlo,755.93
+P00143,224907.23,163,125,Tommy Hilfiger T-Shirts,Casual Wear,Tommy Hilfiger,1614.39
+P00301,224119.87,349,244,GAP T-Shirts,Casual Wear,GAP,754.76
+P00324,223993.49,158,120,Levi's Chinos,Casual Wear,Levi's,1646.54
+P00261,223878.37,159,116,Adidas Jeans,Casual Wear,Adidas,1647.67
+P00148,222877.97,387,285,GAP Jeans,Casual Wear,GAP,666.83
+P00470,221979.31,350,268,GAP Watches,Accessories,GAP,735.68
+P00295,219698.6,385,284,GAP Shorts,Casual Wear,GAP,668.9
+P00292,219461.84,176,123,Tommy Hilfiger Shorts,Casual Wear,Tommy Hilfiger,1434.5
+P00202,219236.62,176,128,Tommy Hilfiger Jeans,Casual Wear,Tommy Hilfiger,1461.03
+P00214,219178.64,187,136,Levi's Chinos,Casual Wear,Levi's,1327.21
+P00217,219058.61,150,110,Puma Shorts,Casual Wear,Puma,1698.26
+P00022,218905.0,271,190,H&M Dress Shirts,Formal Wear,H&M,944.43
+P00276,217529.96,170,129,Levi's Casual Shirts,Casual Wear,Levi's,1492.34
+P00011,217441.98,72,51,Nike Trousers,Formal Wear,Nike,3369.78
+P00130,216729.54,157,116,Nike Jeans,Casual Wear,Nike,1597.13
+P00138,216448.7,171,124,Tommy Hilfiger Jeans,Casual Wear,Tommy Hilfiger,1473.82
+P00282,216383.18,362,261,H&M Chinos,Casual Wear,H&M,686.38
+P00256,216197.96,150,111,Tommy Hilfiger Casual Shirts,Casual Wear,Tommy Hilfiger,1688.17
+P00231,215888.88,391,284,H&M Chinos,Casual Wear,H&M,646.81
+P00302,215326.64,324,249,GAP Shorts,Casual Wear,GAP,771.72
+P00085,212416.62,254,194,GAP Dress Shirts,Formal Wear,GAP,971.26
+P00025,211998.98,81,59,Tommy Hilfiger Blazers,Formal Wear,Tommy Hilfiger,3096.18
+P00170,211500.73,174,123,Nike Shorts,Casual Wear,Nike,1395.77
+P00246,210657.59,185,135,Nike Chinos,Casual Wear,Nike,1356.88
+P00227,208124.6,191,143,Levi's Jeans,Casual Wear,Levi's,1290.87
+P00318,206904.47,384,295,H&M T-Shirts,Casual Wear,H&M,625.06
+P00303,206857.0,367,265,Zara T-Shirts,Casual Wear,Zara,653.34
+P00103,205705.08000000002,74,52,Levi's Dress Shirts,Formal Wear,Levi's,3347.0
+P00105,205575.56,292,217,Zara Suits,Formal Wear,Zara,821.26
+P00017,205221.56,224,170,GAP Suits,Formal Wear,GAP,1073.22
+P00314,205182.99,176,137,Puma Shorts,Casual Wear,Puma,1371.32
+P00181,205164.74,193,143,Tommy Hilfiger T-Shirts,Casual Wear,Tommy Hilfiger,1215.16
+P00228,203216.75,369,260,H&M T-Shirts,Casual Wear,H&M,633.51
+P00445,202751.04,354,262,Zara Sunglasses,Accessories,Zara,667.93
+P00123,202504.94,270,199,Zara Waistcoats,Formal Wear,Zara,864.92
+P00289,202253.93,332,257,Uniqlo Jeans,Casual Wear,Uniqlo,708.85
+P00051,202008.71,252,183,H&M Dress Shirts,Formal Wear,H&M,932.0
+P00296,201876.0,336,245,H&M Shorts,Casual Wear,H&M,691.54
+P00305,199879.54,162,120,Nike Jeans,Casual Wear,Nike,1457.18
+P00492,199802.33,335,255,H&M Belts,Accessories,H&M,694.41
+P00164,198583.92,149,112,Puma Casual Shirts,Casual Wear,Puma,1564.14
+P00154,198441.8,162,117,Nike Shorts,Casual Wear,Nike,1484.23
+P00201,197871.19,378,283,H&M Shorts,Casual Wear,H&M,616.56
+P00323,197446.5,352,266,GAP Shorts,Casual Wear,GAP,651.5
+P00249,197336.01,142,111,Puma Casual Shirts,Casual Wear,Puma,1625.68
+P00191,196894.71,357,263,Uniqlo Chinos,Casual Wear,Uniqlo,648.15
+P00082,196616.86,66,51,Nike Trousers,Formal Wear,Nike,3460.82
+P00216,195460.9,321,243,GAP Jeans,Casual Wear,GAP,700.28
+P00317,194681.43,152,110,Puma Casual Shirts,Casual Wear,Puma,1474.52
+P00274,194469.22,355,256,GAP Jeans,Casual Wear,GAP,638.47
+P00050,194118.25,249,194,Uniqlo Suits,Formal Wear,Uniqlo,906.76
+P00005,193925.21,67,53,Levi's Trousers,Formal Wear,Levi's,3324.68
+P00197,192706.68,193,143,Adidas Shorts,Casual Wear,Adidas,1181.24
+P00426,192650.45,408,289,GAP Watches,Accessories,GAP,548.18
+P00186,192025.28,365,282,H&M T-Shirts,Casual Wear,H&M,611.63
+P00198,191494.22,204,159,Nike Jeans,Casual Wear,Nike,1115.69
+P00016,189835.33,66,48,Adidas Suits,Formal Wear,Adidas,3351.69
+P00481,188549.48,359,260,H&M Belts,Accessories,H&M,606.36
+P00101,187416.12,63,46,Tommy Hilfiger Waistcoats,Formal Wear,Tommy Hilfiger,3496.53
+P00006,187238.43,248,194,Zara Suits,Formal Wear,Zara,886.45
+P00015,185254.41,64,48,Puma Blazers,Formal Wear,Puma,3288.14
+P00221,184272.58,381,282,GAP Casual Shirts,Casual Wear,GAP,578.16
+P00074,183727.7,64,48,Tommy Hilfiger Waistcoats,Formal Wear,Tommy Hilfiger,3360.17
+P00291,183551.3,158,126,Puma Chinos,Casual Wear,Puma,1364.19
+P00248,183302.15,156,105,Puma Jeans,Casual Wear,Puma,1373.77
+P00239,182536.1,382,282,H&M Jeans,Casual Wear,H&M,554.97
+P00309,182338.35,406,291,H&M Jeans,Casual Wear,H&M,528.26
+P00165,181902.04,166,128,Nike T-Shirts,Casual Wear,Nike,1281.16
+P00010,181118.7,80,63,Tommy Hilfiger Suits,Formal Wear,Tommy Hilfiger,2614.17
+P00142,180352.97,176,130,Tommy Hilfiger Jeans,Casual Wear,Tommy Hilfiger,1188.72
+P00287,178938.61,171,123,Adidas T-Shirts,Casual Wear,Adidas,1232.74
+P00187,178308.34,347,244,Zara Chinos,Casual Wear,Zara,598.33
+P00095,178125.13,67,50,Puma Trousers,Formal Wear,Puma,3024.53
+P00037,177218.71,252,189,Uniqlo Waistcoats,Formal Wear,Uniqlo,823.19
+P00270,176657.93,152,116,Nike Chinos,Casual Wear,Nike,1346.14
+P00219,175919.97,368,278,Zara Chinos,Casual Wear,Zara,552.8
+P00166,174315.76,179,131,Adidas Casual Shirts,Casual Wear,Adidas,1147.54
+P00283,174304.4,176,128,Puma T-Shirts,Casual Wear,Puma,1136.23
+P00069,172721.09,67,48,Puma Suits,Formal Wear,Puma,2978.92
+P00258,172191.3,405,287,Uniqlo Casual Shirts,Casual Wear,Uniqlo,494.96
+P00237,170950.73,404,294,GAP Shorts,Casual Wear,GAP,490.64
+P00212,170892.8,338,259,Zara Shorts,Casual Wear,Zara,591.53
+P00230,170038.51,384,285,Zara Jeans,Casual Wear,Zara,518.24
+P00072,169649.71,68,54,Tommy Hilfiger Suits,Formal Wear,Tommy Hilfiger,2888.44
+P00294,169529.36,353,263,Uniqlo Chinos,Casual Wear,Uniqlo,559.31
+P00218,169420.94,340,254,H&M Chinos,Casual Wear,H&M,576.62
+P00087,167442.84,68,51,Adidas Suits,Formal Wear,Adidas,2950.79
+P00312,167371.62,167,129,Adidas T-Shirts,Casual Wear,Adidas,1177.99
+P00264,166576.87,154,115,Levi's T-Shirts,Casual Wear,Levi's,1271.12
+P00070,165658.13999999998,82,60,Puma Dress Shirts,Formal Wear,Puma,2327.24
+P00065,165554.59,231,169,GAP Blazers,Formal Wear,GAP,829.2
+P00290,165433.7,133,101,Levi's Jeans,Casual Wear,Levi's,1433.44
+P00259,165155.59,159,113,Nike Shorts,Casual Wear,Nike,1190.57
+P00106,163326.46,63,47,Levi's Waistcoats,Formal Wear,Levi's,3104.68
+P00156,160438.4,142,106,Nike Shorts,Casual Wear,Nike,1321.84
+P00159,160265.17,149,109,Levi's Shorts,Casual Wear,Levi's,1258.8
+P00126,159980.89,179,130,Puma Casual Shirts,Casual Wear,Puma,1018.34
+P00252,159902.32,179,136,Levi's Jeans,Casual Wear,Levi's,1050.01
+P00222,159369.49,154,117,Adidas Jeans,Casual Wear,Adidas,1185.97
+P00215,158756.09,162,122,Adidas Casual Shirts,Casual Wear,Adidas,1136.92
+P00173,158741.7,150,109,Puma Shorts,Casual Wear,Puma,1236.86
+P00135,157448.5,158,116,Tommy Hilfiger Shorts,Casual Wear,Tommy Hilfiger,1154.93
+P00171,157081.68,128,92,Levi's Shorts,Casual Wear,Levi's,1432.39
+P00213,156793.83,351,260,Uniqlo Jeans,Casual Wear,Uniqlo,520.87
+P00306,156731.1,388,287,Zara Shorts,Casual Wear,Zara,482.56
+P00244,155972.28,369,275,H&M Casual Shirts,Casual Wear,H&M,495.44
+P00028,155692.67,55,41,Adidas Trousers,Formal Wear,Adidas,3311.18
+P00146,155187.42,389,293,GAP T-Shirts,Casual Wear,GAP,464.05
+P00225,154867.46,155,116,Adidas T-Shirts,Casual Wear,Adidas,1190.15
+P00151,154664.87,362,260,Uniqlo Casual Shirts,Casual Wear,Uniqlo,508.53
+P00043,154391.83,86,60,Adidas Dress Shirts,Formal Wear,Adidas,2106.13
+P00204,154014.21,146,113,Adidas Chinos,Casual Wear,Adidas,1217.32
+P00179,153863.52,398,289,Uniqlo Jeans,Casual Wear,Uniqlo,455.67
+P00284,153261.83,144,114,Adidas Chinos,Casual Wear,Adidas,1223.71
+P00321,153219.46,399,287,GAP Jeans,Casual Wear,GAP,442.15
+P00188,153117.33,330,251,GAP Shorts,Casual Wear,GAP,549.5
+P00175,151834.39,148,112,Tommy Hilfiger Chinos,Casual Wear,Tommy Hilfiger,1186.69
+P00167,151786.4,411,293,Uniqlo Chinos,Casual Wear,Uniqlo,430.23
+P00145,147783.34,169,124,Nike Jeans,Casual Wear,Nike,1001.74
+P00168,147280.21,348,266,Zara Jeans,Casual Wear,Zara,496.61
+P00178,146702.64,314,234,Uniqlo Shorts,Casual Wear,Uniqlo,548.19
+P00157,145915.89,381,285,GAP T-Shirts,Casual Wear,GAP,453.24
+P00315,145872.55,355,264,H&M Chinos,Casual Wear,H&M,477.03
+P00009,145150.27,84,55,Puma Trousers,Formal Wear,Puma,2077.82
+P00203,145030.64,158,116,Tommy Hilfiger Jeans,Casual Wear,Tommy Hilfiger,1072.1
+P00084,144666.26,80,57,Puma Dress Shirts,Formal Wear,Puma,2147.28
+P00066,141283.66999999998,65,49,Adidas Blazers,Formal Wear,Adidas,2553.13
+P00124,140419.45,64,45,Puma Blazers,Formal Wear,Puma,2598.37
+P00013,139613.02,59,44,Levi's Blazers,Formal Wear,Levi's,2715.49
+P00206,139361.42,156,119,Tommy Hilfiger T-Shirts,Casual Wear,Tommy Hilfiger,1070.56
+P00265,138400.19,312,239,GAP Jeans,Casual Wear,GAP,518.39
+P00209,137292.77,157,120,Adidas Shorts,Casual Wear,Adidas,1015.74
+P00098,133394.8,72,52,Puma Waistcoats,Formal Wear,Puma,2223.93
+P00024,132844.28,72,53,Tommy Hilfiger Blazers,Formal Wear,Tommy Hilfiger,2109.19
+P00052,131886.06,71,55,Puma Blazers,Formal Wear,Puma,2120.3
+P00469,131149.3,412,295,GAP Belts,Accessories,GAP,368.05
+P00040,130448.72,65,52,Puma Dress Shirts,Formal Wear,Puma,2305.56
+P00488,129609.31,366,264,GAP Ties,Accessories,GAP,415.38
+P00236,126210.81,343,253,H&M Shorts,Casual Wear,H&M,425.52
+P00229,125717.49,343,258,H&M Jeans,Casual Wear,H&M,423.84
+P00440,123650.96,356,262,GAP Belts,Accessories,GAP,400.26
+P00442,122196.05,380,278,H&M Bags,Accessories,H&M,372.93
+P00429,120287.28,323,237,H&M Watches,Accessories,H&M,435.23
+P00091,119359.3,62,48,Adidas Trousers,Formal Wear,Adidas,2232.48
+P00042,116471.59,62,47,Tommy Hilfiger Suits,Formal Wear,Tommy Hilfiger,2189.77
+P00109,115812.67,64,47,Nike Dress Shirts,Formal Wear,Nike,2166.68
+P00438,115739.6,345,258,GAP Belts,Accessories,GAP,393.93
+P00056,115617.3,65,46,Adidas Blazers,Formal Wear,Adidas,2016.96
+P00450,114896.13,387,290,Zara Ties,Accessories,Zara,348.11
+P00019,111997.85,65,47,Nike Waistcoats,Formal Wear,Nike,2079.38
+P00001,106953.71,52,40,Levi's Suits,Formal Wear,Levi's,2373.07
+P00049,106882.64,43,32,Tommy Hilfiger Trousers,Formal Wear,Tommy Hilfiger,2995.48
+P00054,105956.38,52,42,Puma Dress Shirts,Formal Wear,Puma,2523.61
+P00062,103805.92,58,48,Puma Trousers,Formal Wear,Puma,2135.61
+P00081,100152.04,50,42,Levi's Suits,Formal Wear,Levi's,2344.69
+P00031,95638.56999999999,46,41,Nike Suits,Formal Wear,Nike,2432.44
+P00012,92329.99,52,36,Tommy Hilfiger Dress Shirts,Formal Wear,Tommy Hilfiger,2027.01

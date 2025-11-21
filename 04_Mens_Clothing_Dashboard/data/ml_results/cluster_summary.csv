@@ -1,0 +1,6 @@
+ML_Cluster,Avg_Recency,Avg_Frequency,Avg_Monetary,Customer_Count,Revenue_Share,Cluster_Name
+0,9.78,10.42,22090.83,1620,17.51,Loyal Actives
+1,141.14,7.4,14141.68,3286,22.74,Regular Shoppers
+2,168.1,4.32,6317.18,1535,4.75,Regular Shoppers
+3,74.47,10.82,26343.54,3367,43.41,VIP Customers
+4,28.58,7.2,10814.96,2190,11.59,Regular Shoppers
