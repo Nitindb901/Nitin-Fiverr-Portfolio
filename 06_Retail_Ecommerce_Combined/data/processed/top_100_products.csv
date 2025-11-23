@@ -1,0 +1,101 @@
+product_id,revenue,profit,quantity,transaction_id,product_name,category,brand,rating
+P00287,60060683.39,5011594.52,423,282,Xiaomi Accessories Triple-buffered zero,Electronics,Xiaomi,4.9
+P00276,57899986.54,5779485.97,417,277,Dell Gaming Consoles Upgradable impactful,Electronics,Dell,4.2
+P00211,57559079.089999996,7151771.51,434,293,Canon Smartphones Inverse real-time to,Electronics,Canon,3.9
+P00309,57395633.53,7217141.53,420,287,Xiaomi Gaming Consoles Diverse zero-defect ,Electronics,Xiaomi,4.7
+P00190,56691816.98,7054625.46,401,269,Xiaomi Cameras Inverse homogeneous ,Electronics,Xiaomi,3.8
+P00054,56072525.57,7314848.91,431,285,Realme Accessories Public-key clear-thi,Electronics,Realme,3.6
+P00140,55595515.05,7115524.25,410,276,Nikon Headphones Right-sized disinter,Electronics,Nikon,4.3
+P00256,54741491.12,6389703.22,410,274,Sony Cameras Multi-tiered clear-t,Electronics,Sony,4.3
+P00155,54290931.82,6674740.12,385,257,HP Gaming Consoles Fully-configurable 3,Electronics,HP,4.5
+P00083,54020043.07,5029067.85,418,284,PS5 Gaming Consoles User-centric high-le,Electronics,PS5,3.7
+P00368,53944583.03,4988719.55,381,252,OnePlus Laptops Monitored web-enable,Electronics,OnePlus,3.7
+P00258,53872683.54,4437302.65,397,265,Samsung Gaming Consoles Profound radical fra,Electronics,Samsung,4.2
+P00434,53754444.95,6101655.35,390,250,Boat Smartphones Public-key intangibl,Electronics,Boat,4.7
+P00358,53607800.15,3956844.5100000002,407,270,Samsung Cameras Reverse-engineered 5,Electronics,Samsung,4.7
+P00355,53429761.78,5154804.98,392,257,Xiaomi Smart Watches Customizable fresh-t,Electronics,Xiaomi,4.2
+P00367,53377419.61,6607687.51,390,255,Nikon Laptops Adaptive uniform sys,Electronics,Nikon,3.7
+P00296,53051022.45,4775613.03,387,254,Boat Tablets Streamlined bandwidt,Electronics,Boat,4.9
+P00111,52825578.98,3465914.93,391,259,Sony Smartphones De-engineered object,Electronics,Sony,4.6
+P00400,52709353.32,4047849.24,392,256,Boat Gaming Consoles Open-source maximize,Electronics,Boat,4.9
+P00125,52663008.06,4498079.31,405,266,Lenovo Gaming Consoles Enterprise-wide high,Electronics,Lenovo,4.4
+P00082,52657739.91,5831859.31,412,269,Boat Cameras Open-architected sca,Electronics,Boat,4.6
+P00231,52041466.23,5725035.51,392,267,Nikon Accessories Face-to-face leading,Electronics,Nikon,4.5
+P00145,51922304.42,5648829.04,374,241,Apple Laptops Advanced bifurcated ,Electronics,Apple,3.9
+P00043,51849710.82,3362065.36,379,253,Apple Tablets Implemented logistic,Electronics,Apple,3.8
+P00396,51759581.83,3924231.83,430,287,OnePlus Gaming Consoles Customer-focused hom,Electronics,OnePlus,4.6
+P00340,51754071.97,3803739.19,371,249,Sony Smartphones Fully-configurable d,Electronics,Sony,4.5
+P00200,51333979.78,5412213.07,361,251,HP Cameras Diverse incremental ,Electronics,HP,4.2
+P00332,51104254.36,4247926.16,374,242,Xiaomi Accessories Cross-group bottom-l,Electronics,Xiaomi,3.9
+P00427,51023719.78,4440230.02,368,253,HP Tablets Realigned interactiv,Electronics,HP,4.5
+P00153,50956603.06,6447303.65,383,252,Lenovo Gaming Consoles Universal tangible p,Electronics,Lenovo,5.0
+P00263,50933488.38,5334090.12,381,256,Sony Tablets Upgradable multimedi,Electronics,Sony,4.1
+P00039,50591770.91,6747447.64,407,282,Xiaomi Accessories Progressive systemic,Electronics,Xiaomi,3.7
+P00330,50506320.72,5145890.0,368,251,Dell Gaming Consoles Right-sized grid-ena,Electronics,Dell,4.3
+P00335,50350315.18,4183452.38,436,281,Boat Cameras Expanded impactful a,Electronics,Boat,3.9
+P00108,50043056.78,4076707.34,396,260,Realme Laptops Upgradable system-wo,Electronics,Realme,4.2
+P00232,50006492.99,4178306.59,362,237,PS5 Cameras Secured intermediate,Electronics,PS5,4.2
+P00038,49937281.77,6227841.45,378,246,Samsung Smartphones Optional multi-state,Electronics,Samsung,3.7
+P00192,49854548.29,3634765.69,405,266,Realme Smartphones Enterprise-wide resp,Electronics,Realme,3.7
+P00429,49773787.39,3630435.85,351,230,Canon Smart Watches Adaptive global para,Electronics,Canon,4.7
+P00324,49435023.24,5805291.24,360,244,Realme Accessories Managed disintermedi,Electronics,Realme,4.7
+P00235,49381105.86,6141593.86,400,275,Nikon Laptops Fundamental bandwidt,Electronics,Nikon,4.4
+P00320,49315675.64,4207507.08,371,251,Dell Tablets Front-line solution-,Electronics,Dell,4.1
+P00436,49039357.0,5538420.5,350,240,Canon Smartphones Self-enabling heuris,Electronics,Canon,4.1
+P00439,48990245.78,5048834.77,343,237,Dell Tablets Ameliorated secondar,Electronics,Dell,3.9
+P00184,48774055.19,3498719.51,384,253,Xiaomi Laptops Networked methodical,Electronics,Xiaomi,4.2
+P00182,48648065.06,6405912.5,411,267,Nikon Laptops Automated radical fl,Electronics,Nikon,4.0
+P00344,48556997.13,6646092.37,362,238,OnePlus Accessories Future-proofed 6thge,Electronics,OnePlus,4.9
+P00394,48465283.06,5113971.19,369,243,OnePlus Accessories Business-focused 5th,Electronics,OnePlus,4.5
+P00171,48390665.6,4074556.62,374,251,PS5 Accessories Profit-focused tangi,Electronics,PS5,4.7
+P00081,48354629.06,4647120.78,398,265,Xbox Smart Watches Virtual value-added ,Electronics,Xbox,4.7
+P00440,48171254.78,3663629.24,357,238,PS5 Laptops Exclusive value-adde,Electronics,PS5,4.0
+P00268,48117609.62,3161020.82,384,258,HP Smartphones Public-key value-add,Electronics,HP,4.1
+P00371,47936319.660000004,5747684.01,357,233,Xiaomi Headphones Fully-configurable c,Electronics,Xiaomi,3.7
+P00343,47936252.57,3533442.57,380,248,HP Tablets Open-source grid-ena,Electronics,HP,4.9
+P00298,47892493.43,6051127.49,374,250,Sony Cameras Organic user-facing ,Electronics,Sony,3.9
+P00316,47827703.7,5227627.39,341,241,PS5 Headphones Cross-platform scala,Electronics,PS5,3.7
+P00323,47261567.94,6010902.34,368,251,Boat Headphones Organized mission-cr,Electronics,Boat,4.4
+P00069,47244572.61,4907303.58,357,242,Sony Smartphones Compatible 6thgenera,Electronics,Sony,4.6
+P00118,47198475.79,4217205.49,393,251,Samsung Headphones Enhanced bandwidth-m,Electronics,Samsung,4.0
+P00071,47146848.02,4667585.25,367,248,JBL Laptops De-engineered attitu,Electronics,JBL,4.5
+P00040,46981387.0,5823573.46,354,246,Realme Gaming Consoles Total asynchronous p,Electronics,Realme,3.9
+P00099,46934451.77,4567327.15,347,231,Canon Laptops Cloned needs-based p,Electronics,Canon,3.9
+P00154,46871329.92,4389617.98,382,242,Xiaomi Gaming Consoles Exclusive responsive,Electronics,Xiaomi,4.0
+P00068,46816869.79,3537222.4699999997,364,246,HP Laptops Profit-focused respo,Electronics,HP,3.6
+P00148,46695274.6,6340059.7,390,252,HP Headphones Synchronized well-mo,Electronics,HP,3.9
+P00077,46547266.78,3558698.78,400,263,Xiaomi Headphones Visionary national i,Electronics,Xiaomi,3.6
+P00142,46279881.93,4474205.73,372,245,Nikon Smartphones Extended bi-directio,Electronics,Nikon,3.6
+P00120,46029001.81,4915780.15,343,230,JBL Headphones Adaptive national in,Electronics,JBL,4.6
+P00089,45627010.65,4722094.29,363,242,PS5 Smartphones Multi-tiered encompa,Electronics,PS5,4.2
+P00301,45544928.089999996,3057190.01,368,253,PS5 Smartphones Streamlined web-enab,Electronics,PS5,4.9
+P00051,45508117.03,3737374.83,389,265,Nikon Smartphones Assimilated foregrou,Electronics,Nikon,4.5
+P00237,45482191.67,5093928.78,391,256,Xbox Accessories Function-based inter,Electronics,Xbox,4.0
+P00403,45471665.19,3119053.97,382,259,Nikon Headphones Open-source optimizi,Electronics,Nikon,5.0
+P00209,45178443.23,3888928.48,373,241,Xiaomi Accessories Ergonomic client-ser,Electronics,Xiaomi,4.3
+P00317,45159475.96,3784223.3,397,266,Dell Gaming Consoles Digitized systemic e,Electronics,Dell,4.9
+P00253,45152901.37,3950254.99,378,255,Xbox Accessories Down-sized 24hour sy,Electronics,Xbox,4.9
+P00425,45108550.04,4338845.74,365,246,Boat Gaming Consoles Switchable needs-bas,Electronics,Boat,4.1
+P00408,45062722.02,3577995.48,342,228,OnePlus Smartphones Reverse-engineered h,Electronics,OnePlus,4.9
+P00206,44937778.25,4738788.23,329,224,Canon Smartphones Innovative optimizin,Electronics,Canon,4.5
+P00185,44852607.14,3290706.62,419,276,Canon Gaming Consoles Down-sized well-modu,Electronics,Canon,4.1
+P00293,44764769.43,3141311.51,352,233,Canon Tablets Front-line intermedi,Electronics,Canon,4.1
+P00021,44698731.410000004,3706029.17,356,232,JBL Smartphones Pre-emptive mission-,Electronics,JBL,4.3
+P00052,44511699.5,5349683.58,349,232,Samsung Headphones Universal scalable c,Electronics,Samsung,3.7
+P00423,44458856.89,3873949.45,396,266,Lenovo Headphones Total incremental mo,Electronics,Lenovo,4.9
+P00409,44398703.68,5509728.62,377,257,Boat Tablets Inverse uniform core,Electronics,Boat,4.9
+P00150,44266288.19,5721030.18,397,265,Realme Laptops Future-proofed inter,Electronics,Realme,4.0
+P00331,44132409.35,5188622.89,397,261,Nikon Cameras Customer-focused max,Electronics,Nikon,4.5
+P00035,43947921.77,5519457.74,417,271,HP Smartphones Operative leadingedg,Electronics,HP,3.7
+P00181,43893026.88,4703786.68,346,228,Canon Smartphones Enterprise-wide grid,Electronics,Canon,4.9
+P00328,43618137.45,5755034.67,391,264,Sony Gaming Consoles Synergized fault-tol,Electronics,Sony,4.8
+P00228,43575354.9,3987649.58,389,253,Xbox Smart Watches Seamless composite p,Electronics,Xbox,4.9
+P00044,43357328.76,4156877.26,350,233,Nikon Laptops Compatible responsiv,Electronics,Nikon,4.9
+P00415,43310425.23,3730083.68,389,261,Samsung Gaming Consoles Team-oriented cohere,Electronics,Samsung,3.9
+P00220,43165079.25,5071185.65,392,268,Xiaomi Headphones Balanced user-facing,Electronics,Xiaomi,3.9
+P00168,43042034.76,3201939.48,356,238,Lenovo Headphones Decentralized full-r,Electronics,Lenovo,4.1
+P00019,42840998.2,2547532.84,348,230,Sony Headphones Enhanced asynchronou,Electronics,Sony,4.6
+P00395,42823749.27,5581858.95,354,234,PS5 Smartphones Realigned mobile mod,Electronics,PS5,4.5
+P00357,42723831.45,5472666.21,393,264,Nikon Smart Watches Advanced 5thgenerati,Electronics,Nikon,3.6
+P00281,42698894.53,4860352.25,371,251,Sony Cameras Object-based optimiz,Electronics,Sony,4.9
+P00178,42650646.87,3728803.97,370,246,PS5 Gaming Consoles Devolved dedicated a,Electronics,PS5,4.7
