@@ -1,0 +1,2 @@
+model,r2_score,mae,mape,accuracy,forecast_period,projected_revenue_12m,growth_rate_pct
+Sales Forecasting,-0.2546530224894936,33308731.2571972,18.65038452271571,81.34961547728429,12 months,3014801544.907487,80.47833674541323

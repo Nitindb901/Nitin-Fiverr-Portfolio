@@ -1,0 +1,2 @@
+model,algorithm,accuracy,n_classes,n_features,high_precision,medium_precision,low_precision
+Category Classification,Random Forest,98.21428571428571,3,11,0.95,1.0,1.0

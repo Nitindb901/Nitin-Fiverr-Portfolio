@@ -1,0 +1,1001 @@
+product_id,product_name,category,subcategory,brand,price,cost,margin_pct
+1000,Apple Cameras Purpose,Electronics,Cameras,Apple,59308.32,41954.28,29.26
+1001,OnePlus Mobile Phones Brother,Electronics,Mobile Phones,OnePlus,111139.12,84488.1,23.98
+1002,LG Laptops Ago,Electronics,Laptops,LG,27622.7,22832.95,17.34
+1003,Apple Laptops Site,Electronics,Laptops,Apple,13422.12,9664.91,27.99
+1004,Apple Cameras Face,Electronics,Cameras,Apple,92161.68,68548.85,25.62
+1005,Canon Audio Election,Electronics,Audio,Canon,7984.75,5625.36,29.55
+1006,Samsung Mobile Phones Dog,Electronics,Mobile Phones,Samsung,125704.18,102844.77,18.19
+1007,LG Mobile Phones Chair,Electronics,Mobile Phones,LG,31364.62,25797.07,17.75
+1008,Samsung Laptops Since,Electronics,Laptops,Samsung,49115.13,37881.84,22.87
+1009,LG Audio Blue,Electronics,Audio,LG,67632.03,54532.76,19.37
+1010,Canon Cameras Require,Electronics,Cameras,Canon,93718.67,77699.89,17.09
+1011,Bose Laptops Sit,Electronics,Laptops,Bose,47360.97,37654.14,20.5
+1012,OnePlus Audio Wait,Electronics,Audio,OnePlus,71130.15,52083.17,26.78
+1013,Sony Mobile Phones Offer,Electronics,Mobile Phones,Sony,33952.7,26240.85,22.71
+1014,Canon Cameras Begin,Electronics,Cameras,Canon,90900.11,76631.74,15.7
+1015,OnePlus Tablets Performance,Electronics,Tablets,OnePlus,93094.0,76748.68,17.56
+1016,LG Laptops Knowledge,Electronics,Laptops,LG,14432.48,10213.39,29.23
+1017,Apple Tablets Almost,Electronics,Tablets,Apple,145016.64,105679.48,27.13
+1018,Canon Mobile Phones All,Electronics,Mobile Phones,Canon,49169.0,41073.28,16.47
+1019,Xiaomi Mobile Phones Better,Electronics,Mobile Phones,Xiaomi,104213.79,81701.23,21.6
+1020,OnePlus Tablets Discover,Electronics,Tablets,OnePlus,22695.54,17605.46,22.43
+1021,Bose Mobile Phones Early,Electronics,Mobile Phones,Bose,9986.34,7126.27,28.64
+1022,Apple Audio Mouth,Electronics,Audio,Apple,42523.1,31918.76,24.94
+1023,Apple Accessories Play,Electronics,Accessories,Apple,50198.11,38752.43,22.8
+1024,OnePlus Audio Agreement,Electronics,Audio,OnePlus,84272.99,69295.31,17.77
+1025,Xiaomi Cameras Option,Electronics,Cameras,Xiaomi,145589.77,106823.59,26.63
+1026,LG Audio Decide,Electronics,Audio,LG,141227.35,101087.13,28.42
+1027,Apple Cameras Sense,Electronics,Cameras,Apple,91695.5,65261.42,28.83
+1028,LG Mobile Phones Rate,Electronics,Mobile Phones,LG,17831.41,14632.5,17.94
+1029,Apple Tablets Science,Electronics,Tablets,Apple,11557.96,9260.24,19.88
+1030,Apple Laptops Offer,Electronics,Laptops,Apple,61358.21,49657.05,19.07
+1031,OnePlus Accessories Kind,Electronics,Accessories,OnePlus,125166.94,99693.84,20.35
+1032,Xiaomi Accessories Discussion,Electronics,Accessories,Xiaomi,45735.5,35152.1,23.14
+1033,Xiaomi Laptops List,Electronics,Laptops,Xiaomi,25434.01,18558.45,27.03
+1034,LG Tablets Perform,Electronics,Tablets,LG,15809.84,11097.99,29.8
+1035,OnePlus Cameras Fall,Electronics,Cameras,OnePlus,116975.49,95942.44,17.98
+1036,Apple Cameras Table,Electronics,Cameras,Apple,5800.71,4221.07,27.23
+1037,Sony Audio True,Electronics,Audio,Sony,107494.31,79615.55,25.94
+1038,LG Audio According,Electronics,Audio,LG,116834.2,98011.43,16.11
+1039,Bose Laptops Song,Electronics,Laptops,Bose,56977.53,47440.61,16.74
+1040,OnePlus Accessories Sure,Electronics,Accessories,OnePlus,130150.0,98459.16,24.35
+1041,LG Cameras Collection,Electronics,Cameras,LG,52980.21,44528.08,15.95
+1042,Xiaomi Cameras Save,Electronics,Cameras,Xiaomi,50092.44,40135.19,19.88
+1043,LG Mobile Phones Knowledge,Electronics,Mobile Phones,LG,110792.9,83578.44,24.56
+1044,Xiaomi Mobile Phones Grow,Electronics,Mobile Phones,Xiaomi,133645.85,104132.54,22.08
+1045,OnePlus Accessories Fall,Electronics,Accessories,OnePlus,22341.17,16599.79,25.7
+1046,LG Mobile Phones Clearly,Electronics,Mobile Phones,LG,115313.83,88308.3,23.42
+1047,Xiaomi Audio Dinner,Electronics,Audio,Xiaomi,116790.24,90621.13,22.41
+1048,Bose Laptops Source,Electronics,Laptops,Bose,80796.26,63495.26,21.41
+1049,Bose Accessories Great,Electronics,Accessories,Bose,8685.77,7242.34,16.62
+1050,OnePlus Laptops Blue,Electronics,Laptops,OnePlus,9557.23,7211.3,24.55
+1051,LG Laptops Best,Electronics,Laptops,LG,50581.62,39135.73,22.63
+1052,OnePlus Cameras Husband,Electronics,Cameras,OnePlus,136597.14,110999.68,18.74
+1053,Canon Cameras Bill,Electronics,Cameras,Canon,64505.52,47519.11,26.33
+1054,Canon Audio Her,Electronics,Audio,Canon,38175.73,32008.56,16.15
+1055,LG Tablets Throw,Electronics,Tablets,LG,47013.96,38824.92,17.42
+1056,Bose Laptops Guy,Electronics,Laptops,Bose,139806.16,101888.2,27.12
+1057,Samsung Mobile Phones Pm,Electronics,Mobile Phones,Samsung,96843.54,69657.71,28.07
+1058,Sony Mobile Phones Everything,Electronics,Mobile Phones,Sony,121532.45,99901.44,17.8
+1059,Sony Cameras Surface,Electronics,Cameras,Sony,134421.05,103383.05,23.09
+1060,Canon Cameras Animal,Electronics,Cameras,Canon,122078.82,87357.93,28.44
+1061,Apple Audio Show,Electronics,Audio,Apple,51110.5,42600.2,16.65
+1062,Canon Accessories Machine,Electronics,Accessories,Canon,38050.6,29905.25,21.41
+1063,Bose Audio Not,Electronics,Audio,Bose,123612.14,89110.81,27.91
+1064,OnePlus Audio Capital,Electronics,Audio,OnePlus,6008.06,4646.56,22.66
+1065,Samsung Audio Win,Electronics,Audio,Samsung,65524.6,53512.88,18.33
+1066,Apple Cameras Human,Electronics,Cameras,Apple,22380.48,17890.01,20.06
+1067,OnePlus Cameras Bar,Electronics,Cameras,OnePlus,141721.91,113592.88,19.85
+1068,Xiaomi Cameras Old,Electronics,Cameras,Xiaomi,80224.64,59731.03,25.55
+1069,OnePlus Mobile Phones Finally,Electronics,Mobile Phones,OnePlus,57726.29,40652.74,29.58
+1070,Sony Accessories Themselves,Electronics,Accessories,Sony,144554.86,117412.18,18.78
+1071,Samsung Accessories Production,Electronics,Accessories,Samsung,77101.03,62056.17,19.51
+1072,OnePlus Cameras Present,Electronics,Cameras,OnePlus,46301.87,39100.4,15.55
+1073,Sony Audio Value,Electronics,Audio,Sony,93386.83,72337.27,22.54
+1074,Apple Audio Training,Electronics,Audio,Apple,12464.42,10073.78,19.18
+1075,OnePlus Cameras High,Electronics,Cameras,OnePlus,136698.55,111281.6,18.59
+1076,LG Cameras Participant,Electronics,Cameras,LG,26009.76,20198.71,22.34
+1077,Xiaomi Laptops Dark,Electronics,Laptops,Xiaomi,147919.32,120360.72,18.63
+1078,Samsung Laptops Sea,Electronics,Laptops,Samsung,102459.65,75385.41,26.42
+1079,Xiaomi Audio Available,Electronics,Audio,Xiaomi,39457.44,29228.79,25.92
+1080,Samsung Accessories Answer,Electronics,Accessories,Samsung,58328.55,44047.05,24.48
+1081,Xiaomi Mobile Phones Recently,Electronics,Mobile Phones,Xiaomi,96861.81,74548.12,23.04
+1082,LG Tablets Drive,Electronics,Tablets,LG,18092.02,13111.37,27.53
+1083,LG Mobile Phones Spring,Electronics,Mobile Phones,LG,51513.11,42344.92,17.8
+1084,Apple Audio Figure,Electronics,Audio,Apple,10912.4,8308.33,23.86
+1085,Bose Mobile Phones Base,Electronics,Mobile Phones,Bose,103246.83,87502.91,15.25
+1086,Sony Mobile Phones Top,Electronics,Mobile Phones,Sony,79253.49,64672.88,18.4
+1087,Bose Laptops Early,Electronics,Laptops,Bose,98550.05,81189.97,17.62
+1088,Sony Audio Trial,Electronics,Audio,Sony,105185.97,83306.2,20.8
+1089,Canon Tablets Blood,Electronics,Tablets,Canon,140825.85,116797.0,17.06
+1090,LG Laptops Husband,Electronics,Laptops,LG,54454.62,45359.55,16.7
+1091,OnePlus Cameras Fall,Electronics,Cameras,OnePlus,139080.57,99915.36,28.16
+1092,Xiaomi Accessories Long,Electronics,Accessories,Xiaomi,42401.54,31843.66,24.9
+1093,Bose Accessories Prove,Electronics,Accessories,Bose,123497.22,94687.77,23.33
+1094,LG Mobile Phones They,Electronics,Mobile Phones,LG,81799.33,66561.93,18.63
+1095,Apple Laptops His,Electronics,Laptops,Apple,18499.9,13235.15,28.46
+1096,Samsung Tablets Commercial,Electronics,Tablets,Samsung,135560.62,102352.98,24.5
+1097,LG Audio Hospital,Electronics,Audio,LG,54159.32,43198.48,20.24
+1098,LG Audio Hear,Electronics,Audio,LG,110263.57,78886.25,28.46
+1099,Apple Mobile Phones Determine,Electronics,Mobile Phones,Apple,133627.53,97951.47,26.7
+1100,Samsung Cameras Religious,Electronics,Cameras,Samsung,98094.59,82142.35,16.26
+1101,Apple Laptops Example,Electronics,Laptops,Apple,28436.16,20338.02,28.48
+1102,Xiaomi Mobile Phones Science,Electronics,Mobile Phones,Xiaomi,92932.21,78864.17,15.14
+1103,LG Mobile Phones Write,Electronics,Mobile Phones,LG,19713.37,14794.39,24.95
+1104,Bose Tablets Result,Electronics,Tablets,Bose,5733.93,4735.53,17.41
+1105,Sony Laptops Raise,Electronics,Laptops,Sony,84566.4,63104.78,25.38
+1106,Bose Cameras Away,Electronics,Cameras,Bose,99534.38,81255.85,18.36
+1107,Bose Laptops Politics,Electronics,Laptops,Bose,108265.99,88173.19,18.56
+1108,LG Accessories Prove,Electronics,Accessories,LG,52182.96,38512.4,26.2
+1109,Apple Mobile Phones Congress,Electronics,Mobile Phones,Apple,99196.77,71681.22,27.74
+1110,Canon Cameras None,Electronics,Cameras,Canon,100353.87,76745.99,23.52
+1111,Canon Tablets Shoulder,Electronics,Tablets,Canon,18582.84,14770.43,20.52
+1112,Bose Accessories Election,Electronics,Accessories,Bose,43454.34,35345.83,18.66
+1113,Samsung Cameras Common,Electronics,Cameras,Samsung,146086.53,115559.61,20.9
+1114,Apple Cameras Maintain,Electronics,Cameras,Apple,134346.75,101476.02,24.47
+1115,Canon Mobile Phones Hundred,Electronics,Mobile Phones,Canon,120247.64,93144.36,22.54
+1116,Xiaomi Cameras Expect,Electronics,Cameras,Xiaomi,88651.06,68804.07,22.39
+1117,LG Mobile Phones Wish,Electronics,Mobile Phones,LG,33310.23,24703.94,25.84
+1118,LG Laptops Push,Electronics,Laptops,LG,45711.99,38688.46,15.36
+1119,Bose Audio Rise,Electronics,Audio,Bose,98593.48,81185.16,17.66
+1120,Canon Laptops Onto,Electronics,Laptops,Canon,141366.49,99933.49,29.31
+1121,OnePlus Laptops Discuss,Electronics,Laptops,OnePlus,137655.34,109363.89,20.55
+1122,LG Accessories Reveal,Electronics,Accessories,LG,7241.21,5146.71,28.92
+1123,Bose Mobile Phones Garden,Electronics,Mobile Phones,Bose,67086.7,47296.24,29.5
+1124,Apple Audio Threat,Electronics,Audio,Apple,144724.9,104498.41,27.8
+1125,Samsung Mobile Phones Special,Electronics,Mobile Phones,Samsung,47695.09,37785.74,20.78
+1126,LG Mobile Phones Stand,Electronics,Mobile Phones,LG,128414.82,103047.97,19.75
+1127,Canon Laptops Arrive,Electronics,Laptops,Canon,29576.45,22669.75,23.35
+1128,Bose Accessories Drop,Electronics,Accessories,Bose,140742.44,104936.93,25.44
+1129,Canon Laptops Term,Electronics,Laptops,Canon,87658.87,73232.28,16.46
+1130,Sony Mobile Phones Almost,Electronics,Mobile Phones,Sony,94176.05,66063.74,29.85
+1131,Samsung Accessories Support,Electronics,Accessories,Samsung,25312.18,19547.34,22.77
+1132,OnePlus Accessories Four,Electronics,Accessories,OnePlus,132219.1,97694.67,26.11
+1133,OnePlus Accessories Institution,Electronics,Accessories,OnePlus,106067.28,78980.6,25.54
+1134,Bose Accessories Executive,Electronics,Accessories,Bose,57126.22,46041.52,19.4
+1135,LG Laptops Attorney,Electronics,Laptops,LG,122357.37,89135.26,27.15
+1136,LG Tablets Development,Electronics,Tablets,LG,130725.49,93209.09,28.7
+1137,Samsung Mobile Phones White,Electronics,Mobile Phones,Samsung,79144.65,61319.1,22.52
+1138,Xiaomi Cameras Yes,Electronics,Cameras,Xiaomi,120752.8,90867.14,24.75
+1139,Samsung Mobile Phones Our,Electronics,Mobile Phones,Samsung,106785.2,78020.59,26.94
+1140,Bose Audio Under,Electronics,Audio,Bose,134050.77,107146.88,20.07
+1141,Sony Audio Serious,Electronics,Audio,Sony,59459.53,49702.38,16.41
+1142,Apple Mobile Phones Forward,Electronics,Mobile Phones,Apple,88850.62,75044.0,15.54
+1143,Apple Laptops Difference,Electronics,Laptops,Apple,72511.71,55732.74,23.14
+1144,Apple Audio Reality,Electronics,Audio,Apple,46548.48,35440.85,23.86
+1145,LG Cameras Money,Electronics,Cameras,LG,9422.54,7956.37,15.56
+1146,Apple Accessories Individual,Electronics,Accessories,Apple,124277.08,98921.0,20.4
+1147,LG Audio Usually,Electronics,Audio,LG,23423.77,18075.27,22.83
+1148,Samsung Audio Who,Electronics,Audio,Samsung,116649.07,95375.41,18.24
+1149,Apple Audio Question,Electronics,Audio,Apple,95319.12,79800.97,16.28
+1150,Xiaomi Accessories Low,Electronics,Accessories,Xiaomi,12493.85,9623.97,22.97
+1151,LG Tablets Character,Electronics,Tablets,LG,83392.09,62909.78,24.56
+1152,Xiaomi Cameras Evidence,Electronics,Cameras,Xiaomi,110283.24,77597.73,29.64
+1153,OnePlus Laptops Chair,Electronics,Laptops,OnePlus,79863.55,64015.15,19.84
+1154,Sony Accessories Employee,Electronics,Accessories,Sony,120302.0,97369.45,19.06
+1155,OnePlus Cameras Size,Electronics,Cameras,OnePlus,68650.86,57545.32,16.18
+1156,Xiaomi Accessories Option,Electronics,Accessories,Xiaomi,8675.86,6121.71,29.44
+1157,Samsung Mobile Phones Nothing,Electronics,Mobile Phones,Samsung,126217.12,94107.97,25.44
+1158,Apple Accessories Everyone,Electronics,Accessories,Apple,64298.18,52982.08,17.6
+1159,LG Mobile Phones Skin,Electronics,Mobile Phones,LG,27683.37,22491.73,18.75
+1160,OnePlus Audio Pattern,Electronics,Audio,OnePlus,84637.87,62869.91,25.72
+1161,Xiaomi Laptops Later,Electronics,Laptops,Xiaomi,100728.62,81389.72,19.2
+1162,LG Mobile Phones Water,Electronics,Mobile Phones,LG,143455.47,106058.85,26.07
+1163,OnePlus Tablets Past,Electronics,Tablets,OnePlus,85381.34,64739.71,24.18
+1164,Bose Laptops Inside,Electronics,Laptops,Bose,65842.01,53519.04,18.72
+1165,OnePlus Audio High,Electronics,Audio,OnePlus,56616.04,41687.7,26.37
+1166,Samsung Audio Discuss,Electronics,Audio,Samsung,7087.06,5900.61,16.74
+1167,OnePlus Cameras Certainly,Electronics,Cameras,OnePlus,11670.38,9848.52,15.61
+1168,Apple Cameras Mr,Electronics,Cameras,Apple,129041.78,96065.32,25.55
+1169,OnePlus Laptops Minute,Electronics,Laptops,OnePlus,73755.21,61609.56,16.47
+1170,Apple Mobile Phones Benefit,Electronics,Mobile Phones,Apple,76284.3,59423.89,22.1
+1171,Sony Cameras Someone,Electronics,Cameras,Sony,30114.27,23637.36,21.51
+1172,OnePlus Tablets Anyone,Electronics,Tablets,OnePlus,62783.19,47565.96,24.24
+1173,LG Audio Traditional,Electronics,Audio,LG,97088.58,81865.52,15.68
+1174,Xiaomi Cameras Break,Electronics,Cameras,Xiaomi,59318.83,44852.21,24.39
+1175,OnePlus Laptops Claim,Electronics,Laptops,OnePlus,77954.76,56246.43,27.85
+1176,Bose Audio Product,Electronics,Audio,Bose,100510.58,82977.5,17.44
+1177,Samsung Tablets Collection,Electronics,Tablets,Samsung,15232.47,11479.75,24.64
+1178,Canon Mobile Phones Structure,Electronics,Mobile Phones,Canon,8844.14,6740.42,23.79
+1179,Samsung Tablets Response,Electronics,Tablets,Samsung,141333.39,107933.32,23.63
+1180,Xiaomi Mobile Phones Knowledge,Electronics,Mobile Phones,Xiaomi,61284.64,46178.39,24.65
+1181,OnePlus Laptops Pick,Electronics,Laptops,OnePlus,71446.67,54882.29,23.18
+1182,Bose Laptops Attack,Electronics,Laptops,Bose,141512.4,112089.79,20.79
+1183,Canon Audio Image,Electronics,Audio,Canon,144372.63,103110.56,28.58
+1184,Samsung Audio I,Electronics,Audio,Samsung,33389.71,28033.86,16.04
+1185,Apple Mobile Phones Pick,Electronics,Mobile Phones,Apple,19612.81,16617.28,15.27
+1186,Sony Cameras Management,Electronics,Cameras,Sony,18694.23,13974.85,25.25
+1187,Samsung Audio Newspaper,Electronics,Audio,Samsung,15322.35,12290.88,19.78
+1188,Sony Tablets Enter,Electronics,Tablets,Sony,127506.92,107935.78,15.35
+1189,Sony Accessories On,Electronics,Accessories,Sony,123097.93,99428.88,19.23
+1190,OnePlus Mobile Phones Traditional,Electronics,Mobile Phones,OnePlus,22133.9,16500.59,25.45
+1191,Samsung Tablets Yes,Electronics,Tablets,Samsung,96196.71,69105.72,28.16
+1192,LG Tablets Activity,Electronics,Tablets,LG,111585.3,81399.01,27.05
+1193,LG Cameras Response,Electronics,Cameras,LG,45895.01,37789.22,17.66
+1194,Apple Cameras Set,Electronics,Cameras,Apple,113839.14,82985.86,27.1
+1195,Canon Tablets Building,Electronics,Tablets,Canon,148623.25,117131.08,21.19
+1196,Sony Audio Rest,Electronics,Audio,Sony,58942.62,43236.65,26.65
+1197,Sony Laptops Value,Electronics,Laptops,Sony,54416.51,38656.75,28.96
+1198,Canon Laptops Not,Electronics,Laptops,Canon,129469.85,101718.1,21.43
+1199,Sony Mobile Phones Social,Electronics,Mobile Phones,Sony,113876.3,83906.17,26.32
+1200,Puma Ethnic Wear Example,Fashion,Ethnic Wear,Puma,1995.3,1026.82,48.54
+1201,Nike Footwear Specific,Fashion,Footwear,Nike,7826.16,4116.81,47.4
+1202,Levis Kids Wear Put,Fashion,Kids Wear,Levis,5140.72,2650.92,48.43
+1203,H&M Ethnic Wear Grow,Fashion,Ethnic Wear,H&M,6143.42,3983.24,35.16
+1204,Zara Footwear Brother,Fashion,Footwear,Zara,13628.04,8671.62,36.37
+1205,Nike Footwear Finally,Fashion,Footwear,Nike,5130.05,2603.45,49.25
+1206,Van Heusen Womens Wear Learn,Fashion,Womens Wear,Van Heusen,14283.8,8055.84,43.6
+1207,Adidas Kids Wear Coach,Fashion,Kids Wear,Adidas,9661.64,5630.16,41.73
+1208,Nike Womens Wear Long,Fashion,Womens Wear,Nike,4751.56,2854.26,39.93
+1209,Nike Mens Wear About,Fashion,Mens Wear,Nike,10251.52,5506.54,46.29
+1210,Puma Footwear Seven,Fashion,Footwear,Puma,11977.9,6366.94,46.84
+1211,H&M Kids Wear Type,Fashion,Kids Wear,H&M,1822.49,1049.46,42.42
+1212,Puma Kids Wear Serve,Fashion,Kids Wear,Puma,1334.6,757.48,43.24
+1213,Allen Solly Ethnic Wear Everyone,Fashion,Ethnic Wear,Allen Solly,6902.19,3567.36,48.32
+1214,Puma Ethnic Wear Month,Fashion,Ethnic Wear,Puma,5588.27,3534.25,36.76
+1215,H&M Mens Wear Sound,Fashion,Mens Wear,H&M,2573.38,1378.75,46.42
+1216,Levis Kids Wear Could,Fashion,Kids Wear,Levis,9464.16,6008.15,36.52
+1217,Adidas Accessories Movement,Fashion,Accessories,Adidas,1719.55,936.9,45.51
+1218,H&M Mens Wear While,Fashion,Mens Wear,H&M,1555.06,819.08,47.33
+1219,Allen Solly Accessories Born,Fashion,Accessories,Allen Solly,10740.51,6850.27,36.22
+1220,Puma Kids Wear Truth,Fashion,Kids Wear,Puma,1730.15,868.54,49.8
+1221,H&M Footwear Process,Fashion,Footwear,H&M,5926.93,3522.99,40.56
+1222,Nike Footwear Fire,Fashion,Footwear,Nike,12285.59,6240.01,49.21
+1223,Zara Kids Wear Thought,Fashion,Kids Wear,Zara,14797.02,7945.9,46.3
+1224,Allen Solly Ethnic Wear Purpose,Fashion,Ethnic Wear,Allen Solly,5955.76,3796.65,36.25
+1225,Nike Mens Wear Movement,Fashion,Mens Wear,Nike,11768.63,6663.86,43.38
+1226,Allen Solly Kids Wear Politics,Fashion,Kids Wear,Allen Solly,6651.22,3419.04,48.6
+1227,Puma Mens Wear Decide,Fashion,Mens Wear,Puma,2112.36,1216.94,42.39
+1228,Puma Accessories Claim,Fashion,Accessories,Puma,664.63,385.29,42.03
+1229,H&M Ethnic Wear Hour,Fashion,Ethnic Wear,H&M,1316.4,832.2,36.78
+1230,Adidas Ethnic Wear Sound,Fashion,Ethnic Wear,Adidas,2204.13,1218.04,44.74
+1231,Adidas Accessories Color,Fashion,Accessories,Adidas,11317.65,6366.12,43.75
+1232,Allen Solly Ethnic Wear Notice,Fashion,Ethnic Wear,Allen Solly,14451.5,8580.86,40.62
+1233,Allen Solly Kids Wear Start,Fashion,Kids Wear,Allen Solly,4642.83,2412.93,48.03
+1234,Adidas Ethnic Wear Win,Fashion,Ethnic Wear,Adidas,3742.14,1891.71,49.45
+1235,Levis Accessories Nice,Fashion,Accessories,Levis,676.24,341.18,49.55
+1236,Allen Solly Womens Wear Why,Fashion,Womens Wear,Allen Solly,1125.82,581.29,48.37
+1237,Allen Solly Ethnic Wear A,Fashion,Ethnic Wear,Allen Solly,8151.67,4084.44,49.89
+1238,Levis Ethnic Wear Place,Fashion,Ethnic Wear,Levis,1570.05,890.1,43.31
+1239,Adidas Accessories Game,Fashion,Accessories,Adidas,14554.89,8318.63,42.85
+1240,Zara Footwear Middle,Fashion,Footwear,Zara,9626.28,5252.46,45.44
+1241,Adidas Kids Wear After,Fashion,Kids Wear,Adidas,7090.85,3941.56,44.41
+1242,Allen Solly Womens Wear Brother,Fashion,Womens Wear,Allen Solly,8972.56,4619.31,48.52
+1243,Puma Accessories Woman,Fashion,Accessories,Puma,1158.97,704.49,39.21
+1244,Van Heusen Footwear Him,Fashion,Footwear,Van Heusen,14280.97,7375.56,48.35
+1245,Nike Footwear Unit,Fashion,Footwear,Nike,7107.02,3958.47,44.3
+1246,Van Heusen Accessories Theory,Fashion,Accessories,Van Heusen,4522.03,2811.72,37.82
+1247,Levis Ethnic Wear Surface,Fashion,Ethnic Wear,Levis,7223.63,4312.49,40.3
+1248,H&M Ethnic Wear Food,Fashion,Ethnic Wear,H&M,8963.01,5721.45,36.17
+1249,Puma Kids Wear Education,Fashion,Kids Wear,Puma,14628.72,7344.62,49.79
+1250,Nike Mens Wear Article,Fashion,Mens Wear,Nike,10623.34,6050.9,43.04
+1251,Adidas Ethnic Wear Effect,Fashion,Ethnic Wear,Adidas,4988.15,2633.4,47.21
+1252,Nike Womens Wear Unit,Fashion,Womens Wear,Nike,10428.6,6524.21,37.44
+1253,Zara Womens Wear Our,Fashion,Womens Wear,Zara,13708.44,7219.13,47.34
+1254,Nike Mens Wear Your,Fashion,Mens Wear,Nike,14272.1,7723.23,45.89
+1255,H&M Footwear Bar,Fashion,Footwear,H&M,9394.52,5517.06,41.27
+1256,Allen Solly Footwear Bed,Fashion,Footwear,Allen Solly,14024.56,7294.04,47.99
+1257,Nike Ethnic Wear Sign,Fashion,Ethnic Wear,Nike,1155.67,746.61,35.4
+1258,Allen Solly Ethnic Wear Mention,Fashion,Ethnic Wear,Allen Solly,5958.72,3148.69,47.16
+1259,Allen Solly Footwear Team,Fashion,Footwear,Allen Solly,14815.5,9295.8,37.26
+1260,Levis Womens Wear Authority,Fashion,Womens Wear,Levis,9114.9,5403.92,40.71
+1261,Zara Ethnic Wear Soon,Fashion,Ethnic Wear,Zara,14563.76,7626.78,47.63
+1262,Allen Solly Mens Wear No,Fashion,Mens Wear,Allen Solly,12655.77,7336.5,42.03
+1263,Levis Womens Wear Space,Fashion,Womens Wear,Levis,6514.88,3967.49,39.1
+1264,Van Heusen Ethnic Wear Car,Fashion,Ethnic Wear,Van Heusen,1317.44,685.45,47.97
+1265,Nike Mens Wear Career,Fashion,Mens Wear,Nike,12287.06,6144.05,50.0
+1266,Van Heusen Mens Wear Receive,Fashion,Mens Wear,Van Heusen,14951.23,8472.64,43.33
+1267,Van Heusen Womens Wear May,Fashion,Womens Wear,Van Heusen,11650.32,5921.68,49.17
+1268,Puma Ethnic Wear Your,Fashion,Ethnic Wear,Puma,12819.89,7857.28,38.71
+1269,Allen Solly Footwear Often,Fashion,Footwear,Allen Solly,7032.89,4435.12,36.94
+1270,Van Heusen Accessories Company,Fashion,Accessories,Van Heusen,14333.74,8013.62,44.09
+1271,Van Heusen Womens Wear Evidence,Fashion,Womens Wear,Van Heusen,3815.32,2095.55,45.08
+1272,Adidas Footwear News,Fashion,Footwear,Adidas,9462.86,5642.47,40.37
+1273,Adidas Womens Wear Turn,Fashion,Womens Wear,Adidas,2146.59,1179.04,45.07
+1274,Van Heusen Accessories Policy,Fashion,Accessories,Van Heusen,8044.46,4296.97,46.58
+1275,Nike Ethnic Wear Land,Fashion,Ethnic Wear,Nike,8042.37,4199.51,47.78
+1276,Van Heusen Kids Wear Development,Fashion,Kids Wear,Van Heusen,8502.65,4811.3,43.41
+1277,Adidas Mens Wear Woman,Fashion,Mens Wear,Adidas,13211.48,7787.87,41.05
+1278,Adidas Womens Wear Notice,Fashion,Womens Wear,Adidas,2443.22,1577.54,35.43
+1279,Puma Kids Wear Someone,Fashion,Kids Wear,Puma,11449.49,6376.83,44.3
+1280,H&M Accessories Show,Fashion,Accessories,H&M,10709.16,6618.85,38.19
+1281,Levis Womens Wear Road,Fashion,Womens Wear,Levis,2477.39,1604.9,35.22
+1282,Allen Solly Womens Wear Deep,Fashion,Womens Wear,Allen Solly,5583.52,3135.22,43.85
+1283,Levis Ethnic Wear Sell,Fashion,Ethnic Wear,Levis,6187.54,3615.87,41.56
+1284,Nike Ethnic Wear Forget,Fashion,Ethnic Wear,Nike,13610.3,8135.72,40.22
+1285,Allen Solly Mens Wear Inside,Fashion,Mens Wear,Allen Solly,7952.85,4234.51,46.75
+1286,Puma Footwear Remain,Fashion,Footwear,Puma,6249.87,3479.22,44.33
+1287,Van Heusen Accessories Rate,Fashion,Accessories,Van Heusen,13004.27,6600.6,49.24
+1288,Zara Footwear Hour,Fashion,Footwear,Zara,2632.57,1345.27,48.9
+1289,Allen Solly Womens Wear Left,Fashion,Womens Wear,Allen Solly,7635.69,4667.42,38.87
+1290,Zara Footwear We,Fashion,Footwear,Zara,7157.47,3600.17,49.7
+1291,Allen Solly Accessories Nation,Fashion,Accessories,Allen Solly,7642.96,4591.03,39.93
+1292,Zara Footwear Live,Fashion,Footwear,Zara,9684.31,5945.95,38.6
+1293,Adidas Kids Wear Camera,Fashion,Kids Wear,Adidas,1600.02,1009.08,36.93
+1294,Allen Solly Footwear End,Fashion,Footwear,Allen Solly,2356.66,1478.13,37.28
+1295,Nike Accessories Down,Fashion,Accessories,Nike,2512.99,1391.87,44.61
+1296,Nike Footwear Attack,Fashion,Footwear,Nike,3137.26,1876.55,40.19
+1297,Allen Solly Kids Wear Ground,Fashion,Kids Wear,Allen Solly,13503.43,7817.21,42.11
+1298,Zara Footwear Against,Fashion,Footwear,Zara,10179.59,6353.61,37.58
+1299,Puma Footwear Per,Fashion,Footwear,Puma,3288.19,2117.17,35.61
+1300,Allen Solly Ethnic Wear Once,Fashion,Ethnic Wear,Allen Solly,2949.56,1793.96,39.18
+1301,Levis Ethnic Wear Drug,Fashion,Ethnic Wear,Levis,3066.65,1952.52,36.33
+1302,Levis Footwear Per,Fashion,Footwear,Levis,2249.22,1306.53,41.91
+1303,Zara Accessories Discussion,Fashion,Accessories,Zara,3491.84,2078.9,40.46
+1304,Zara Footwear Account,Fashion,Footwear,Zara,7799.55,4261.99,45.36
+1305,Allen Solly Mens Wear Avoid,Fashion,Mens Wear,Allen Solly,1070.03,567.21,46.99
+1306,Van Heusen Womens Wear Second,Fashion,Womens Wear,Van Heusen,9604.56,6125.18,36.23
+1307,Zara Womens Wear Program,Fashion,Womens Wear,Zara,13166.89,6739.72,48.81
+1308,Allen Solly Kids Wear Artist,Fashion,Kids Wear,Allen Solly,1385.63,843.11,39.15
+1309,Nike Kids Wear Drop,Fashion,Kids Wear,Nike,12189.92,6555.26,46.22
+1310,Puma Footwear Author,Fashion,Footwear,Puma,3175.55,1964.39,38.14
+1311,Allen Solly Kids Wear Western,Fashion,Kids Wear,Allen Solly,5871.85,3389.95,42.27
+1312,Allen Solly Kids Wear Almost,Fashion,Kids Wear,Allen Solly,9464.69,5628.3,40.53
+1313,H&M Kids Wear Trade,Fashion,Kids Wear,H&M,7206.75,3876.36,46.21
+1314,Zara Footwear Give,Fashion,Footwear,Zara,1031.91,631.67,38.79
+1315,Zara Ethnic Wear Avoid,Fashion,Ethnic Wear,Zara,10843.57,5592.23,48.43
+1316,Nike Kids Wear My,Fashion,Kids Wear,Nike,7919.32,4515.46,42.98
+1317,H&M Ethnic Wear Economy,Fashion,Ethnic Wear,H&M,2053.99,1197.25,41.71
+1318,Zara Ethnic Wear Family,Fashion,Ethnic Wear,Zara,8222.95,5045.84,38.64
+1319,Nike Mens Wear Relationship,Fashion,Mens Wear,Nike,4404.03,2613.38,40.66
+1320,Zara Womens Wear Mention,Fashion,Womens Wear,Zara,791.03,475.95,39.83
+1321,Levis Accessories Difficult,Fashion,Accessories,Levis,3566.0,2142.72,39.91
+1322,Levis Womens Wear Notice,Fashion,Womens Wear,Levis,2236.55,1155.0,48.36
+1323,H&M Footwear Cause,Fashion,Footwear,H&M,9107.09,4991.91,45.19
+1324,Nike Accessories Several,Fashion,Accessories,Nike,11942.98,6870.0,42.48
+1325,Adidas Footwear Worry,Fashion,Footwear,Adidas,1760.34,1002.4,43.06
+1326,Levis Kids Wear Us,Fashion,Kids Wear,Levis,9009.2,4848.61,46.18
+1327,H&M Accessories Own,Fashion,Accessories,H&M,6759.06,4264.04,36.91
+1328,Adidas Womens Wear Part,Fashion,Womens Wear,Adidas,4614.75,2748.26,40.45
+1329,Zara Mens Wear Material,Fashion,Mens Wear,Zara,9865.8,5568.09,43.56
+1330,Allen Solly Kids Wear Eight,Fashion,Kids Wear,Allen Solly,5663.4,2843.16,49.8
+1331,Nike Footwear Still,Fashion,Footwear,Nike,9283.73,5704.07,38.56
+1332,Nike Mens Wear Material,Fashion,Mens Wear,Nike,1975.85,1239.0,37.29
+1333,Adidas Mens Wear Surface,Fashion,Mens Wear,Adidas,4066.39,2545.14,37.41
+1334,H&M Ethnic Wear Investment,Fashion,Ethnic Wear,H&M,3205.22,1946.32,39.28
+1335,Zara Accessories Customer,Fashion,Accessories,Zara,3013.92,1553.63,48.45
+1336,Allen Solly Kids Wear Between,Fashion,Kids Wear,Allen Solly,1663.39,950.33,42.87
+1337,Puma Ethnic Wear Bill,Fashion,Ethnic Wear,Puma,6450.75,3242.43,49.74
+1338,Puma Mens Wear Reason,Fashion,Mens Wear,Puma,2124.56,1254.17,40.97
+1339,Allen Solly Mens Wear Lawyer,Fashion,Mens Wear,Allen Solly,14557.32,7572.34,47.98
+1340,H&M Footwear Health,Fashion,Footwear,H&M,12347.55,7548.24,38.87
+1341,Puma Footwear Land,Fashion,Footwear,Puma,2977.87,1636.95,45.03
+1342,Van Heusen Ethnic Wear Item,Fashion,Ethnic Wear,Van Heusen,13975.95,7917.17,43.35
+1343,Levis Ethnic Wear Manage,Fashion,Ethnic Wear,Levis,8788.38,5343.36,39.2
+1344,Levis Footwear Treat,Fashion,Footwear,Levis,11657.65,7250.4,37.81
+1345,Adidas Ethnic Wear Shoulder,Fashion,Ethnic Wear,Adidas,5193.35,3044.26,41.38
+1346,Van Heusen Accessories Arm,Fashion,Accessories,Van Heusen,7860.35,4823.41,38.64
+1347,Allen Solly Footwear Report,Fashion,Footwear,Allen Solly,2165.13,1209.02,44.16
+1348,Adidas Ethnic Wear Ready,Fashion,Ethnic Wear,Adidas,4685.14,2636.86,43.72
+1349,Nike Kids Wear Race,Fashion,Kids Wear,Nike,2738.26,1582.25,42.22
+1350,Adidas Mens Wear Billion,Fashion,Mens Wear,Adidas,8222.55,5280.74,35.78
+1351,Nike Footwear Ask,Fashion,Footwear,Nike,5380.76,3389.01,37.02
+1352,Allen Solly Footwear Interesting,Fashion,Footwear,Allen Solly,1418.94,711.61,49.85
+1353,Zara Kids Wear Should,Fashion,Kids Wear,Zara,5174.13,2734.63,47.15
+1354,Puma Footwear Group,Fashion,Footwear,Puma,4192.29,2296.43,45.22
+1355,Van Heusen Womens Wear Such,Fashion,Womens Wear,Van Heusen,11523.3,6460.59,43.93
+1356,Puma Womens Wear Training,Fashion,Womens Wear,Puma,7337.85,4316.3,41.18
+1357,Puma Kids Wear Boy,Fashion,Kids Wear,Puma,5558.59,2838.05,48.94
+1358,Adidas Kids Wear Energy,Fashion,Kids Wear,Adidas,12543.98,6337.8,49.48
+1359,Zara Accessories Dark,Fashion,Accessories,Zara,2302.31,1244.1,45.96
+1360,Nike Accessories Customer,Fashion,Accessories,Nike,14105.94,8785.39,37.72
+1361,Nike Mens Wear Not,Fashion,Mens Wear,Nike,1464.2,788.96,46.12
+1362,Allen Solly Ethnic Wear List,Fashion,Ethnic Wear,Allen Solly,8829.86,4624.42,47.63
+1363,Nike Footwear Challenge,Fashion,Footwear,Nike,2526.7,1340.94,46.93
+1364,Van Heusen Ethnic Wear Knowledge,Fashion,Ethnic Wear,Van Heusen,3423.6,2141.3,37.45
+1365,Van Heusen Ethnic Wear Cover,Fashion,Ethnic Wear,Van Heusen,2881.85,1521.08,47.22
+1366,Zara Footwear Family,Fashion,Footwear,Zara,10145.36,5798.48,42.85
+1367,Adidas Mens Wear Maintain,Fashion,Mens Wear,Adidas,5703.04,2956.57,48.16
+1368,Allen Solly Womens Wear Enjoy,Fashion,Womens Wear,Allen Solly,6190.45,3265.52,47.25
+1369,Nike Ethnic Wear Two,Fashion,Ethnic Wear,Nike,6867.46,4075.55,40.65
+1370,Puma Kids Wear Wind,Fashion,Kids Wear,Puma,7208.86,4359.87,39.52
+1371,Puma Footwear Bag,Fashion,Footwear,Puma,11340.34,6516.07,42.54
+1372,Puma Footwear Level,Fashion,Footwear,Puma,3867.08,1991.79,48.49
+1373,Van Heusen Kids Wear System,Fashion,Kids Wear,Van Heusen,6066.42,3448.56,43.15
+1374,Adidas Kids Wear Training,Fashion,Kids Wear,Adidas,13643.85,7590.95,44.36
+1375,Nike Kids Wear Total,Fashion,Kids Wear,Nike,2195.02,1117.32,49.1
+1376,Nike Mens Wear Oil,Fashion,Mens Wear,Nike,9601.77,5758.8,40.02
+1377,H&M Kids Wear Billion,Fashion,Kids Wear,H&M,2519.45,1337.57,46.91
+1378,Levis Ethnic Wear Apply,Fashion,Ethnic Wear,Levis,9491.05,5409.72,43.0
+1379,Nike Womens Wear Reach,Fashion,Womens Wear,Nike,13461.44,7157.59,46.83
+1380,Van Heusen Ethnic Wear Now,Fashion,Ethnic Wear,Van Heusen,2699.29,1628.32,39.68
+1381,Adidas Kids Wear Think,Fashion,Kids Wear,Adidas,4103.09,2209.14,46.16
+1382,Nike Mens Wear Administration,Fashion,Mens Wear,Nike,986.22,556.74,43.55
+1383,Nike Kids Wear Better,Fashion,Kids Wear,Nike,11555.65,5991.43,48.15
+1384,Levis Kids Wear With,Fashion,Kids Wear,Levis,5460.19,2876.49,47.32
+1385,Zara Kids Wear Some,Fashion,Kids Wear,Zara,2104.16,1100.54,47.7
+1386,Levis Ethnic Wear Time,Fashion,Ethnic Wear,Levis,2348.59,1386.62,40.96
+1387,Zara Kids Wear Economic,Fashion,Kids Wear,Zara,12060.78,7568.29,37.25
+1388,Adidas Mens Wear Compare,Fashion,Mens Wear,Adidas,3824.15,2071.4,45.83
+1389,Levis Ethnic Wear Investment,Fashion,Ethnic Wear,Levis,10940.53,6059.17,44.62
+1390,Van Heusen Ethnic Wear Mention,Fashion,Ethnic Wear,Van Heusen,10562.25,6005.6,43.14
+1391,Zara Mens Wear Medical,Fashion,Mens Wear,Zara,4151.09,2482.96,40.19
+1392,Adidas Accessories Different,Fashion,Accessories,Adidas,3133.17,1609.61,48.63
+1393,Van Heusen Footwear Treatment,Fashion,Footwear,Van Heusen,8959.18,5284.77,41.01
+1394,Puma Footwear Institution,Fashion,Footwear,Puma,7199.08,3656.47,49.21
+1395,Zara Womens Wear Weight,Fashion,Womens Wear,Zara,2723.6,1530.84,43.79
+1396,Van Heusen Kids Wear Artist,Fashion,Kids Wear,Van Heusen,7835.39,4374.36,44.17
+1397,H&M Mens Wear Community,Fashion,Mens Wear,H&M,762.6,395.93,48.08
+1398,Van Heusen Footwear Hundred,Fashion,Footwear,Van Heusen,14015.72,7922.11,43.48
+1399,Zara Mens Wear Able,Fashion,Mens Wear,Zara,10601.44,5423.96,48.84
+1400,Levis Womens Wear In,Fashion,Womens Wear,Levis,10754.96,6744.64,37.29
+1401,Adidas Accessories Evidence,Fashion,Accessories,Adidas,8856.18,4950.54,44.1
+1402,Nike Mens Wear With,Fashion,Mens Wear,Nike,6649.89,3587.84,46.05
+1403,Allen Solly Mens Wear Step,Fashion,Mens Wear,Allen Solly,14048.32,7181.01,48.88
+1404,Nike Accessories Still,Fashion,Accessories,Nike,7037.17,4454.63,36.7
+1405,Allen Solly Accessories Look,Fashion,Accessories,Allen Solly,14780.2,7747.27,47.58
+1406,Van Heusen Footwear Feeling,Fashion,Footwear,Van Heusen,2307.61,1181.2,48.81
+1407,Allen Solly Kids Wear Land,Fashion,Kids Wear,Allen Solly,13113.5,7503.21,42.78
+1408,Zara Kids Wear Same,Fashion,Kids Wear,Zara,9073.49,5354.72,40.99
+1409,H&M Accessories Side,Fashion,Accessories,H&M,1294.04,776.06,40.03
+1410,Nike Womens Wear Step,Fashion,Womens Wear,Nike,12141.38,7883.46,35.07
+1411,H&M Kids Wear Only,Fashion,Kids Wear,H&M,5335.74,3149.55,40.97
+1412,Nike Womens Wear Recently,Fashion,Womens Wear,Nike,8292.24,4245.81,48.8
+1413,H&M Womens Wear Serious,Fashion,Womens Wear,H&M,5522.02,3301.93,40.2
+1414,Zara Womens Wear Message,Fashion,Womens Wear,Zara,11193.77,6516.65,41.78
+1415,Van Heusen Footwear Clear,Fashion,Footwear,Van Heusen,3756.77,2186.94,41.79
+1416,Van Heusen Ethnic Wear Customer,Fashion,Ethnic Wear,Van Heusen,2542.43,1585.31,37.65
+1417,Zara Kids Wear Fine,Fashion,Kids Wear,Zara,7726.33,4536.6,41.28
+1418,Adidas Womens Wear Director,Fashion,Womens Wear,Adidas,13765.27,8199.16,40.44
+1419,Adidas Ethnic Wear Article,Fashion,Ethnic Wear,Adidas,8918.53,4951.21,44.48
+1420,Van Heusen Ethnic Wear Particularly,Fashion,Ethnic Wear,Van Heusen,689.87,379.75,44.95
+1421,Nike Mens Wear Simply,Fashion,Mens Wear,Nike,3081.52,1558.75,49.42
+1422,Nike Kids Wear Occur,Fashion,Kids Wear,Nike,2655.61,1560.98,41.22
+1423,H&M Footwear Ask,Fashion,Footwear,H&M,1737.57,869.6,49.95
+1424,Nike Accessories Small,Fashion,Accessories,Nike,7781.83,4363.21,43.93
+1425,Levis Ethnic Wear Former,Fashion,Ethnic Wear,Levis,1472.61,791.54,46.25
+1426,Levis Kids Wear Art,Fashion,Kids Wear,Levis,3543.63,1826.0,48.47
+1427,Zara Mens Wear Apply,Fashion,Mens Wear,Zara,3474.52,2159.06,37.86
+1428,Adidas Womens Wear Pattern,Fashion,Womens Wear,Adidas,1029.97,596.55,42.08
+1429,Adidas Accessories Me,Fashion,Accessories,Adidas,8690.2,5562.98,35.99
+1430,H&M Footwear Morning,Fashion,Footwear,H&M,11745.15,6835.76,41.8
+1431,Adidas Footwear Wide,Fashion,Footwear,Adidas,8103.66,4731.61,41.61
+1432,Allen Solly Ethnic Wear Tonight,Fashion,Ethnic Wear,Allen Solly,6311.06,3572.4,43.39
+1433,Van Heusen Kids Wear Nice,Fashion,Kids Wear,Van Heusen,2750.98,1713.06,37.73
+1434,H&M Footwear Coach,Fashion,Footwear,H&M,12995.89,6602.99,49.19
+1435,Zara Accessories Art,Fashion,Accessories,Zara,5912.99,3603.31,39.06
+1436,Puma Footwear Movie,Fashion,Footwear,Puma,9837.99,5791.53,41.13
+1437,Adidas Accessories Be,Fashion,Accessories,Adidas,868.1,543.93,37.34
+1438,H&M Mens Wear Today,Fashion,Mens Wear,H&M,10881.6,5997.52,44.88
+1439,Zara Womens Wear Cultural,Fashion,Womens Wear,Zara,892.89,550.65,38.33
+1440,Adidas Ethnic Wear Authority,Fashion,Ethnic Wear,Adidas,3850.58,2114.8,45.08
+1441,Zara Accessories Physical,Fashion,Accessories,Zara,785.8,498.5,36.56
+1442,Van Heusen Womens Wear Author,Fashion,Womens Wear,Van Heusen,12098.78,7540.18,37.68
+1443,Van Heusen Accessories Republican,Fashion,Accessories,Van Heusen,9964.82,6121.12,38.57
+1444,Levis Kids Wear Training,Fashion,Kids Wear,Levis,1941.9,1191.4,38.65
+1445,Allen Solly Accessories Easy,Fashion,Accessories,Allen Solly,10972.87,5723.95,47.84
+1446,Van Heusen Ethnic Wear International,Fashion,Ethnic Wear,Van Heusen,12538.19,7402.83,40.96
+1447,Van Heusen Mens Wear Call,Fashion,Mens Wear,Van Heusen,10187.23,6308.47,38.07
+1448,Allen Solly Kids Wear Year,Fashion,Kids Wear,Allen Solly,4750.64,2449.19,48.45
+1449,Puma Kids Wear Voice,Fashion,Kids Wear,Puma,688.53,438.71,36.28
+1450,Nestle Personal Care Over,Grocery,Personal Care,Nestle,431.61,386.73,10.4
+1451,Parle Dairy Employee,Grocery,Dairy,Parle,379.24,308.15,18.75
+1452,Dabur Beverages Particular,Grocery,Beverages,Dabur,854.42,654.57,23.39
+1453,Mother Dairy Snacks Phone,Grocery,Snacks,Mother Dairy,1638.54,1390.67,15.13
+1454,Amul Staples Among,Grocery,Staples,Amul,533.66,449.9,15.7
+1455,Nestle Beverages President,Grocery,Beverages,Nestle,1188.78,1022.1,14.02
+1456,Britannia Snacks Beat,Grocery,Snacks,Britannia,1255.81,1053.11,16.14
+1457,Nestle Snacks Kind,Grocery,Snacks,Nestle,1113.05,928.93,16.54
+1458,Amul Beverages Really,Grocery,Beverages,Amul,603.04,456.94,24.23
+1459,Dabur Personal Care Past,Grocery,Personal Care,Dabur,1531.94,1346.55,12.1
+1460,Amul Beverages Other,Grocery,Beverages,Amul,1739.57,1438.42,17.31
+1461,Parle Dairy Necessary,Grocery,Dairy,Parle,1791.21,1397.18,22.0
+1462,Dabur Staples Four,Grocery,Staples,Dabur,861.92,772.82,10.34
+1463,Dabur Personal Care Worry,Grocery,Personal Care,Dabur,551.98,451.94,18.12
+1464,HUL Fresh Produce Every,Grocery,Fresh Produce,HUL,1274.29,1097.57,13.87
+1465,ITC Snacks Democratic,Grocery,Snacks,ITC,295.93,229.27,22.52
+1466,Dabur Snacks Relationship,Grocery,Snacks,Dabur,1969.12,1616.94,17.89
+1467,Dabur Personal Care Sense,Grocery,Personal Care,Dabur,359.92,309.23,14.08
+1468,Amul Fresh Produce Former,Grocery,Fresh Produce,Amul,56.41,43.03,23.71
+1469,HUL Personal Care Edge,Grocery,Personal Care,HUL,253.15,205.94,18.65
+1470,ITC Personal Care Evidence,Grocery,Personal Care,ITC,562.63,459.6,18.31
+1471,Amul Snacks Individual,Grocery,Snacks,Amul,1309.81,1015.81,22.45
+1472,Mother Dairy Staples Catch,Grocery,Staples,Mother Dairy,428.71,385.13,10.16
+1473,HUL Fresh Produce Remain,Grocery,Fresh Produce,HUL,291.03,222.64,23.5
+1474,Dabur Fresh Produce Quite,Grocery,Fresh Produce,Dabur,1750.3,1418.42,18.96
+1475,ITC Fresh Produce First,Grocery,Fresh Produce,ITC,1209.02,967.51,19.98
+1476,Britannia Beverages Lot,Grocery,Beverages,Britannia,367.24,280.14,23.72
+1477,Britannia Staples Four,Grocery,Staples,Britannia,849.17,715.45,15.75
+1478,Dabur Beverages Woman,Grocery,Beverages,Dabur,1047.46,935.33,10.7
+1479,HUL Beverages Society,Grocery,Beverages,HUL,349.24,275.65,21.07
+1480,ITC Beverages Would,Grocery,Beverages,ITC,183.94,148.9,19.05
+1481,HUL Beverages Baby,Grocery,Beverages,HUL,505.79,425.68,15.84
+1482,ITC Staples Act,Grocery,Staples,ITC,591.61,500.89,15.34
+1483,Britannia Fresh Produce Low,Grocery,Fresh Produce,Britannia,1443.71,1235.0,14.46
+1484,Parle Beverages Pretty,Grocery,Beverages,Parle,1141.48,945.82,17.14
+1485,Britannia Staples Order,Grocery,Staples,Britannia,1334.07,1013.19,24.05
+1486,Britannia Fresh Produce Black,Grocery,Fresh Produce,Britannia,1470.49,1276.03,13.22
+1487,Britannia Personal Care Back,Grocery,Personal Care,Britannia,81.74,70.35,13.93
+1488,Dabur Staples Note,Grocery,Staples,Dabur,1198.25,1069.18,10.77
+1489,Dabur Dairy Different,Grocery,Dairy,Dabur,1002.81,812.75,18.95
+1490,Dabur Staples Move,Grocery,Staples,Dabur,681.8,534.78,21.56
+1491,Parle Snacks Evidence,Grocery,Snacks,Parle,231.06,205.35,11.13
+1492,Mother Dairy Staples Cause,Grocery,Staples,Mother Dairy,1461.81,1206.98,17.43
+1493,Parle Beverages Worker,Grocery,Beverages,Parle,1383.04,1154.53,16.52
+1494,HUL Dairy Happy,Grocery,Dairy,HUL,507.88,394.69,22.29
+1495,Mother Dairy Staples Upon,Grocery,Staples,Mother Dairy,1602.84,1275.53,20.42
+1496,Mother Dairy Dairy Authority,Grocery,Dairy,Mother Dairy,558.85,453.49,18.85
+1497,Parle Fresh Produce Until,Grocery,Fresh Produce,Parle,734.73,651.16,11.37
+1498,Dabur Personal Care Election,Grocery,Personal Care,Dabur,1836.28,1614.97,12.05
+1499,Mother Dairy Personal Care Hope,Grocery,Personal Care,Mother Dairy,1901.47,1584.11,16.69
+1500,ITC Beverages Feel,Grocery,Beverages,ITC,386.56,316.48,18.13
+1501,Amul Beverages Coach,Grocery,Beverages,Amul,1748.43,1381.55,20.98
+1502,Parle Dairy Left,Grocery,Dairy,Parle,1616.99,1295.5,19.88
+1503,Dabur Fresh Produce These,Grocery,Fresh Produce,Dabur,1390.71,1074.49,22.74
+1504,Dabur Fresh Produce Of,Grocery,Fresh Produce,Dabur,514.34,425.15,17.34
+1505,ITC Fresh Produce Score,Grocery,Fresh Produce,ITC,457.99,344.34,24.82
+1506,ITC Beverages Five,Grocery,Beverages,ITC,1889.24,1689.14,10.59
+1507,Dabur Fresh Produce Population,Grocery,Fresh Produce,Dabur,1417.04,1078.67,23.88
+1508,Parle Snacks Surface,Grocery,Snacks,Parle,377.54,307.62,18.52
+1509,Mother Dairy Staples Ready,Grocery,Staples,Mother Dairy,1832.67,1640.07,10.51
+1510,Nestle Personal Care Newspaper,Grocery,Personal Care,Nestle,1400.89,1198.32,14.46
+1511,Mother Dairy Snacks Across,Grocery,Snacks,Mother Dairy,1850.3,1395.76,24.57
+1512,Dabur Snacks Region,Grocery,Snacks,Dabur,1889.65,1566.27,17.11
+1513,Amul Staples Technology,Grocery,Staples,Amul,1726.84,1335.4,22.67
+1514,Nestle Staples Once,Grocery,Staples,Nestle,651.82,505.59,22.43
+1515,Britannia Dairy Firm,Grocery,Dairy,Britannia,93.28,75.61,18.94
+1516,Nestle Dairy Work,Grocery,Dairy,Nestle,475.42,419.28,11.81
+1517,Nestle Beverages Record,Grocery,Beverages,Nestle,172.37,137.13,20.44
+1518,Nestle Personal Care Body,Grocery,Personal Care,Nestle,692.95,548.32,20.87
+1519,ITC Beverages Wrong,Grocery,Beverages,ITC,149.41,127.4,14.73
+1520,Britannia Personal Care Unit,Grocery,Personal Care,Britannia,1088.19,850.3,21.86
+1521,Amul Fresh Produce Center,Grocery,Fresh Produce,Amul,651.13,524.89,19.39
+1522,Amul Snacks Everything,Grocery,Snacks,Amul,1774.24,1432.91,19.24
+1523,Parle Snacks Business,Grocery,Snacks,Parle,481.26,431.37,10.37
+1524,Mother Dairy Snacks Voice,Grocery,Snacks,Mother Dairy,1742.8,1562.96,10.32
+1525,HUL Dairy Both,Grocery,Dairy,HUL,1751.91,1437.72,17.93
+1526,Mother Dairy Staples Situation,Grocery,Staples,Mother Dairy,1879.35,1466.24,21.98
+1527,ITC Staples On,Grocery,Staples,ITC,1995.91,1691.32,15.26
+1528,ITC Dairy Clearly,Grocery,Dairy,ITC,1539.03,1292.34,16.03
+1529,Mother Dairy Fresh Produce Expert,Grocery,Fresh Produce,Mother Dairy,970.15,781.82,19.41
+1530,HUL Staples Father,Grocery,Staples,HUL,1749.88,1316.59,24.76
+1531,ITC Beverages Point,Grocery,Beverages,ITC,1541.18,1290.48,16.27
+1532,Dabur Dairy Develop,Grocery,Dairy,Dabur,854.29,674.34,21.06
+1533,Britannia Personal Care Series,Grocery,Personal Care,Britannia,492.78,435.34,11.66
+1534,Britannia Beverages Gun,Grocery,Beverages,Britannia,722.15,618.82,14.31
+1535,Amul Personal Care Democrat,Grocery,Personal Care,Amul,606.69,524.76,13.5
+1536,Britannia Beverages Right,Grocery,Beverages,Britannia,103.34,92.73,10.27
+1537,ITC Personal Care Protect,Grocery,Personal Care,ITC,1975.69,1651.35,16.42
+1538,Dabur Fresh Produce Tonight,Grocery,Fresh Produce,Dabur,780.97,623.26,20.19
+1539,Britannia Snacks Everything,Grocery,Snacks,Britannia,452.14,342.5,24.25
+1540,Mother Dairy Personal Care Mouth,Grocery,Personal Care,Mother Dairy,1576.96,1398.11,11.34
+1541,Britannia Personal Care Middle,Grocery,Personal Care,Britannia,846.81,650.46,23.19
+1542,Britannia Beverages Enter,Grocery,Beverages,Britannia,1890.57,1568.96,17.01
+1543,Mother Dairy Dairy Western,Grocery,Dairy,Mother Dairy,1234.55,1080.16,12.51
+1544,Nestle Beverages Whatever,Grocery,Beverages,Nestle,1982.51,1715.37,13.48
+1545,Mother Dairy Dairy Throughout,Grocery,Dairy,Mother Dairy,1886.61,1514.1,19.74
+1546,Parle Staples Approach,Grocery,Staples,Parle,1223.32,1006.91,17.69
+1547,Britannia Staples Best,Grocery,Staples,Britannia,476.73,416.43,12.65
+1548,Britannia Personal Care Protect,Grocery,Personal Care,Britannia,456.56,398.14,12.8
+1549,Mother Dairy Fresh Produce Land,Grocery,Fresh Produce,Mother Dairy,1563.58,1325.1,15.25
+1550,Amul Snacks Themselves,Grocery,Snacks,Amul,134.53,101.52,24.54
+1551,Amul Staples Factor,Grocery,Staples,Amul,1769.9,1346.61,23.92
+1552,Dabur Staples Another,Grocery,Staples,Dabur,1989.92,1739.02,12.61
+1553,HUL Snacks About,Grocery,Snacks,HUL,804.56,632.6,21.37
+1554,Parle Staples Goal,Grocery,Staples,Parle,1398.12,1226.03,12.31
+1555,HUL Dairy Spend,Grocery,Dairy,HUL,1635.35,1416.76,13.37
+1556,Britannia Staples Case,Grocery,Staples,Britannia,463.16,379.54,18.05
+1557,ITC Personal Care Public,Grocery,Personal Care,ITC,1194.02,970.72,18.7
+1558,Nestle Personal Care Everybody,Grocery,Personal Care,Nestle,201.14,154.55,23.16
+1559,Amul Personal Care Color,Grocery,Personal Care,Amul,545.89,480.7,11.94
+1560,Dabur Snacks Site,Grocery,Snacks,Dabur,1779.72,1346.63,24.33
+1561,Parle Fresh Produce Letter,Grocery,Fresh Produce,Parle,1727.01,1344.6,22.14
+1562,ITC Personal Care Ok,Grocery,Personal Care,ITC,1317.38,1076.79,18.26
+1563,Britannia Fresh Produce Season,Grocery,Fresh Produce,Britannia,192.23,161.23,16.13
+1564,Mother Dairy Snacks Late,Grocery,Snacks,Mother Dairy,757.92,652.6,13.9
+1565,HUL Dairy Option,Grocery,Dairy,HUL,1452.37,1199.1,17.44
+1566,Parle Dairy Act,Grocery,Dairy,Parle,180.47,156.46,13.3
+1567,Britannia Staples Brother,Grocery,Staples,Britannia,1372.85,1219.89,11.14
+1568,Britannia Dairy Bag,Grocery,Dairy,Britannia,1705.39,1408.19,17.43
+1569,Britannia Beverages You,Grocery,Beverages,Britannia,971.56,788.07,18.89
+1570,Parle Personal Care Use,Grocery,Personal Care,Parle,1652.87,1401.35,15.22
+1571,Dabur Fresh Produce Rock,Grocery,Fresh Produce,Dabur,1362.47,1110.6,18.49
+1572,ITC Fresh Produce Well,Grocery,Fresh Produce,ITC,548.72,421.53,23.18
+1573,Mother Dairy Dairy Church,Grocery,Dairy,Mother Dairy,1598.9,1281.09,19.88
+1574,Parle Staples Offer,Grocery,Staples,Parle,1704.15,1312.04,23.01
+1575,Mother Dairy Fresh Produce Also,Grocery,Fresh Produce,Mother Dairy,1422.56,1101.7,22.56
+1576,Britannia Fresh Produce They,Grocery,Fresh Produce,Britannia,1400.99,1117.96,20.2
+1577,Nestle Staples Hope,Grocery,Staples,Nestle,1244.85,979.81,21.29
+1578,Parle Beverages Pass,Grocery,Beverages,Parle,334.04,256.5,23.21
+1579,Britannia Personal Care Old,Grocery,Personal Care,Britannia,1746.25,1563.96,10.44
+1580,Mother Dairy Staples Choose,Grocery,Staples,Mother Dairy,1655.12,1457.61,11.93
+1581,Parle Personal Care Law,Grocery,Personal Care,Parle,683.54,538.95,21.15
+1582,HUL Fresh Produce Care,Grocery,Fresh Produce,HUL,338.3,262.96,22.27
+1583,Amul Beverages Analysis,Grocery,Beverages,Amul,1667.63,1373.93,17.61
+1584,Parle Staples Foot,Grocery,Staples,Parle,32.64,27.97,14.31
+1585,HUL Staples His,Grocery,Staples,HUL,1241.52,934.64,24.72
+1586,Nestle Personal Care Way,Grocery,Personal Care,Nestle,1270.99,1094.36,13.9
+1587,Dabur Personal Care Worker,Grocery,Personal Care,Dabur,1275.33,1044.5,18.1
+1588,Britannia Personal Care Style,Grocery,Personal Care,Britannia,1564.09,1382.58,11.6
+1589,Mother Dairy Personal Care Traditional,Grocery,Personal Care,Mother Dairy,1526.84,1250.19,18.12
+1590,ITC Fresh Produce Among,Grocery,Fresh Produce,ITC,1926.72,1635.24,15.13
+1591,Amul Fresh Produce Way,Grocery,Fresh Produce,Amul,1272.59,967.42,23.98
+1592,Dabur Snacks Help,Grocery,Snacks,Dabur,222.97,169.33,24.06
+1593,Nestle Fresh Produce Develop,Grocery,Fresh Produce,Nestle,1382.01,1229.75,11.02
+1594,ITC Dairy Rest,Grocery,Dairy,ITC,615.91,488.89,20.62
+1595,Dabur Beverages Enjoy,Grocery,Beverages,Dabur,153.35,124.62,18.73
+1596,Mother Dairy Snacks Reflect,Grocery,Snacks,Mother Dairy,704.85,568.72,19.31
+1597,ITC Staples Board,Grocery,Staples,ITC,110.57,85.06,23.07
+1598,Nestle Beverages Health,Grocery,Beverages,Nestle,1947.51,1469.72,24.53
+1599,Mother Dairy Beverages State,Grocery,Beverages,Mother Dairy,1504.31,1324.53,11.95
+1600,Amul Snacks Opportunity,Grocery,Snacks,Amul,1521.36,1363.61,10.37
+1601,Parle Personal Care Usually,Grocery,Personal Care,Parle,63.8,54.32,14.85
+1602,Dabur Dairy Two,Grocery,Dairy,Dabur,987.51,774.64,21.56
+1603,HUL Beverages Investment,Grocery,Beverages,HUL,1372.92,1143.8,16.69
+1604,Nestle Snacks Pressure,Grocery,Snacks,Nestle,561.78,421.58,24.96
+1605,Parle Personal Care So,Grocery,Personal Care,Parle,863.84,718.97,16.77
+1606,Parle Staples Clear,Grocery,Staples,Parle,343.98,268.57,21.92
+1607,Mother Dairy Fresh Produce Wish,Grocery,Fresh Produce,Mother Dairy,1393.49,1207.99,13.31
+1608,HUL Snacks Wonder,Grocery,Snacks,HUL,183.11,146.11,20.21
+1609,Dabur Fresh Produce Economic,Grocery,Fresh Produce,Dabur,1315.93,1130.4,14.1
+1610,HUL Fresh Produce Treatment,Grocery,Fresh Produce,HUL,1902.71,1669.33,12.27
+1611,Amul Personal Care Commercial,Grocery,Personal Care,Amul,876.02,664.42,24.15
+1612,Parle Fresh Produce Such,Grocery,Fresh Produce,Parle,851.06,684.44,19.58
+1613,ITC Dairy Talk,Grocery,Dairy,ITC,807.24,693.31,14.11
+1614,HUL Staples Cost,Grocery,Staples,HUL,1968.28,1650.6,16.14
+1615,HUL Fresh Produce Upon,Grocery,Fresh Produce,HUL,1790.32,1549.53,13.45
+1616,HUL Staples Itself,Grocery,Staples,HUL,441.95,395.69,10.47
+1617,Parle Dairy Ago,Grocery,Dairy,Parle,1310.3,1106.84,15.53
+1618,Amul Dairy Country,Grocery,Dairy,Amul,1731.43,1435.39,17.1
+1619,ITC Snacks Since,Grocery,Snacks,ITC,1937.02,1689.41,12.78
+1620,Britannia Dairy Window,Grocery,Dairy,Britannia,1739.87,1363.21,21.65
+1621,Nestle Dairy Go,Grocery,Dairy,Nestle,1546.43,1195.83,22.67
+1622,Amul Personal Care Stay,Grocery,Personal Care,Amul,1526.83,1230.73,19.39
+1623,Amul Dairy Word,Grocery,Dairy,Amul,279.86,250.51,10.49
+1624,HUL Snacks Its,Grocery,Snacks,HUL,1843.28,1488.45,19.25
+1625,Parle Staples Suffer,Grocery,Staples,Parle,1597.14,1322.07,17.22
+1626,ITC Fresh Produce Relationship,Grocery,Fresh Produce,ITC,252.27,222.31,11.88
+1627,Amul Snacks Treat,Grocery,Snacks,Amul,1377.42,1150.77,16.45
+1628,Mother Dairy Dairy Simple,Grocery,Dairy,Mother Dairy,417.04,344.58,17.37
+1629,Nestle Staples Talk,Grocery,Staples,Nestle,147.13,119.57,18.73
+1630,Nestle Personal Care Energy,Grocery,Personal Care,Nestle,552.61,431.24,21.96
+1631,Dabur Beverages Example,Grocery,Beverages,Dabur,634.52,527.74,16.83
+1632,Nestle Snacks Collection,Grocery,Snacks,Nestle,43.01,38.24,11.09
+1633,HUL Beverages Store,Grocery,Beverages,HUL,797.14,660.04,17.2
+1634,Amul Staples Science,Grocery,Staples,Amul,1208.04,1034.38,14.37
+1635,Britannia Personal Care Box,Grocery,Personal Care,Britannia,1396.06,1076.34,22.9
+1636,Amul Beverages Idea,Grocery,Beverages,Amul,1564.1,1398.39,10.59
+1637,Dabur Fresh Produce Turn,Grocery,Fresh Produce,Dabur,971.4,858.97,11.57
+1638,Mother Dairy Beverages American,Grocery,Beverages,Mother Dairy,499.25,375.44,24.8
+1639,Nestle Personal Care Town,Grocery,Personal Care,Nestle,302.14,249.32,17.48
+1640,Dabur Beverages Many,Grocery,Beverages,Dabur,1243.95,988.48,20.54
+1641,Nestle Fresh Produce Doctor,Grocery,Fresh Produce,Nestle,1128.1,1013.64,10.15
+1642,ITC Snacks Decision,Grocery,Snacks,ITC,666.39,548.0,17.77
+1643,ITC Fresh Produce Technology,Grocery,Fresh Produce,ITC,193.98,164.38,15.26
+1644,Parle Snacks Why,Grocery,Snacks,Parle,85.74,76.16,11.18
+1645,Britannia Beverages Magazine,Grocery,Beverages,Britannia,805.91,709.28,11.99
+1646,Mother Dairy Beverages Hard,Grocery,Beverages,Mother Dairy,1143.73,911.07,20.34
+1647,Nestle Fresh Produce Focus,Grocery,Fresh Produce,Nestle,1605.16,1396.45,13.0
+1648,HUL Personal Care Tend,Grocery,Personal Care,HUL,351.62,310.94,11.57
+1649,Dabur Beverages Stuff,Grocery,Beverages,Dabur,1280.13,1016.46,20.6
+1650,Mother Dairy Dairy Try,Grocery,Dairy,Mother Dairy,82.54,62.69,24.04
+1651,Dabur Snacks Drive,Grocery,Snacks,Dabur,122.9,100.63,18.12
+1652,Mother Dairy Beverages Dog,Grocery,Beverages,Mother Dairy,1423.94,1095.51,23.06
+1653,Nestle Personal Care Agent,Grocery,Personal Care,Nestle,1433.89,1118.06,22.03
+1654,Mother Dairy Snacks Receive,Grocery,Snacks,Mother Dairy,692.11,538.31,22.22
+1655,Britannia Snacks Data,Grocery,Snacks,Britannia,178.63,136.79,23.42
+1656,ITC Snacks Inside,Grocery,Snacks,ITC,1104.23,858.43,22.26
+1657,Dabur Personal Care Get,Grocery,Personal Care,Dabur,915.59,735.64,19.65
+1658,Nestle Fresh Produce Family,Grocery,Fresh Produce,Nestle,1062.28,839.48,20.97
+1659,Nestle Fresh Produce Treatment,Grocery,Fresh Produce,Nestle,181.63,161.82,10.91
+1660,Nestle Beverages Available,Grocery,Beverages,Nestle,509.26,446.15,12.39
+1661,Parle Personal Care Spring,Grocery,Personal Care,Parle,1746.13,1514.1,13.29
+1662,Amul Dairy Family,Grocery,Dairy,Amul,1952.21,1658.34,15.05
+1663,Parle Staples Have,Grocery,Staples,Parle,380.59,297.45,21.85
+1664,Nestle Personal Care Put,Grocery,Personal Care,Nestle,1324.24,1092.86,17.47
+1665,Parle Beverages Mr,Grocery,Beverages,Parle,1119.62,886.87,20.79
+1666,Mother Dairy Personal Care Instead,Grocery,Personal Care,Mother Dairy,472.34,354.51,24.95
+1667,Amul Personal Care Respond,Grocery,Personal Care,Amul,1950.09,1564.85,19.75
+1668,Britannia Snacks Threat,Grocery,Snacks,Britannia,415.09,331.23,20.2
+1669,Nestle Snacks Not,Grocery,Snacks,Nestle,162.95,145.91,10.46
+1670,HUL Staples Glass,Grocery,Staples,HUL,530.21,440.4,16.94
+1671,Dabur Dairy Wrong,Grocery,Dairy,Dabur,1739.18,1375.56,20.91
+1672,Nestle Dairy Ahead,Grocery,Dairy,Nestle,1490.56,1246.37,16.38
+1673,Parle Snacks Business,Grocery,Snacks,Parle,704.95,595.22,15.57
+1674,Britannia Fresh Produce Understand,Grocery,Fresh Produce,Britannia,1975.55,1766.11,10.6
+1675,HUL Staples Every,Grocery,Staples,HUL,1736.72,1412.3,18.68
+1676,Amul Beverages Could,Grocery,Beverages,Amul,888.46,702.96,20.88
+1677,Britannia Staples Partner,Grocery,Staples,Britannia,983.6,756.38,23.1
+1678,ITC Fresh Produce Evidence,Grocery,Fresh Produce,ITC,1803.39,1508.97,16.33
+1679,Britannia Snacks American,Grocery,Snacks,Britannia,568.12,460.83,18.89
+1680,Parle Snacks Boy,Grocery,Snacks,Parle,1826.48,1586.12,13.16
+1681,ITC Fresh Produce Pick,Grocery,Fresh Produce,ITC,1253.47,1009.38,19.47
+1682,Mother Dairy Dairy Leader,Grocery,Dairy,Mother Dairy,1471.56,1295.36,11.97
+1683,ITC Fresh Produce Hair,Grocery,Fresh Produce,ITC,1437.33,1097.61,23.64
+1684,Amul Personal Care Shoulder,Grocery,Personal Care,Amul,375.77,324.8,13.56
+1685,HUL Fresh Produce Stop,Grocery,Fresh Produce,HUL,1943.36,1696.27,12.71
+1686,Mother Dairy Beverages Former,Grocery,Beverages,Mother Dairy,1711.68,1414.12,17.38
+1687,Parle Beverages Least,Grocery,Beverages,Parle,509.52,392.02,23.06
+1688,Parle Dairy Police,Grocery,Dairy,Parle,901.7,741.9,17.72
+1689,Parle Snacks Much,Grocery,Snacks,Parle,731.28,593.11,18.89
+1690,Nestle Staples Business,Grocery,Staples,Nestle,343.78,289.24,15.87
+1691,ITC Fresh Produce Image,Grocery,Fresh Produce,ITC,1939.44,1670.4,13.87
+1692,Amul Dairy We,Grocery,Dairy,Amul,1320.34,1123.9,14.88
+1693,Nestle Personal Care Part,Grocery,Personal Care,Nestle,1551.48,1365.87,11.96
+1694,Dabur Snacks Customer,Grocery,Snacks,Dabur,1940.25,1614.16,16.81
+1695,Mother Dairy Personal Care Environmental,Grocery,Personal Care,Mother Dairy,487.38,433.27,11.1
+1696,Dabur Beverages Another,Grocery,Beverages,Dabur,356.12,292.74,17.8
+1697,Britannia Beverages Section,Grocery,Beverages,Britannia,687.27,533.09,22.43
+1698,Nestle Dairy Least,Grocery,Dairy,Nestle,873.16,753.27,13.73
+1699,Mother Dairy Snacks Ability,Grocery,Snacks,Mother Dairy,1241.95,986.09,20.6
+1700,Britannia Fresh Produce Nature,Grocery,Fresh Produce,Britannia,350.74,306.85,12.51
+1701,Dabur Personal Care Wish,Grocery,Personal Care,Dabur,92.61,73.12,21.05
+1702,Britannia Staples Sure,Grocery,Staples,Britannia,1334.33,1105.9,17.12
+1703,HUL Fresh Produce Nothing,Grocery,Fresh Produce,HUL,1691.46,1317.9,22.09
+1704,Amul Beverages Right,Grocery,Beverages,Amul,1179.0,907.55,23.02
+1705,HUL Fresh Produce Serve,Grocery,Fresh Produce,HUL,427.57,377.63,11.68
+1706,HUL Snacks Yard,Grocery,Snacks,HUL,554.1,493.95,10.86
+1707,Britannia Dairy Site,Grocery,Dairy,Britannia,1071.72,813.98,24.05
+1708,Parle Snacks Since,Grocery,Snacks,Parle,97.9,86.32,11.83
+1709,Amul Fresh Produce Religious,Grocery,Fresh Produce,Amul,915.35,695.59,24.01
+1710,Mother Dairy Beverages Debate,Grocery,Beverages,Mother Dairy,645.99,532.24,17.61
+1711,ITC Dairy Himself,Grocery,Dairy,ITC,102.31,89.8,12.23
+1712,HUL Beverages Lawyer,Grocery,Beverages,HUL,1973.53,1490.47,24.48
+1713,Parle Staples Available,Grocery,Staples,Parle,29.78,22.55,24.28
+1714,Mother Dairy Fresh Produce Red,Grocery,Fresh Produce,Mother Dairy,1285.46,989.56,23.02
+1715,Amul Personal Care Wife,Grocery,Personal Care,Amul,920.38,757.16,17.73
+1716,Amul Beverages Give,Grocery,Beverages,Amul,987.92,790.31,20.0
+1717,Nestle Beverages Price,Grocery,Beverages,Nestle,296.51,265.53,10.45
+1718,Mother Dairy Snacks Former,Grocery,Snacks,Mother Dairy,629.7,500.17,20.57
+1719,Mother Dairy Staples Record,Grocery,Staples,Mother Dairy,419.67,335.31,20.1
+1720,Mother Dairy Personal Care Thus,Grocery,Personal Care,Mother Dairy,1940.43,1719.06,11.41
+1721,Nestle Snacks Capital,Grocery,Snacks,Nestle,1351.75,1126.6,16.66
+1722,Amul Beverages Service,Grocery,Beverages,Amul,1738.92,1518.82,12.66
+1723,ITC Snacks We,Grocery,Snacks,ITC,1391.4,1077.34,22.57
+1724,Dabur Staples First,Grocery,Staples,Dabur,1890.34,1507.57,20.25
+1725,Parle Personal Care Movement,Grocery,Personal Care,Parle,1004.41,810.88,19.27
+1726,Mother Dairy Fresh Produce For,Grocery,Fresh Produce,Mother Dairy,1740.43,1417.42,18.56
+1727,HUL Fresh Produce Reflect,Grocery,Fresh Produce,HUL,80.17,60.96,23.96
+1728,Mother Dairy Beverages Issue,Grocery,Beverages,Mother Dairy,1385.26,1106.16,20.15
+1729,Nestle Staples General,Grocery,Staples,Nestle,447.04,358.15,19.88
+1730,Britannia Beverages Interesting,Grocery,Beverages,Britannia,799.85,641.73,19.77
+1731,Parle Personal Care Same,Grocery,Personal Care,Parle,231.05,185.15,19.87
+1732,Parle Dairy Find,Grocery,Dairy,Parle,1998.84,1784.5,10.72
+1733,Nestle Dairy Once,Grocery,Dairy,Nestle,1954.8,1640.01,16.1
+1734,Nestle Staples Care,Grocery,Staples,Nestle,1744.09,1365.0,21.74
+1735,HUL Staples Dark,Grocery,Staples,HUL,1142.69,901.85,21.08
+1736,Parle Snacks Kitchen,Grocery,Snacks,Parle,1759.46,1476.85,16.06
+1737,ITC Personal Care Red,Grocery,Personal Care,ITC,667.53,533.93,20.01
+1738,Nestle Dairy Yard,Grocery,Dairy,Nestle,1619.53,1272.4,21.43
+1739,Britannia Dairy Hundred,Grocery,Dairy,Britannia,1599.67,1335.18,16.53
+1740,ITC Dairy Research,Grocery,Dairy,ITC,1639.31,1445.82,11.8
+1741,ITC Staples Smile,Grocery,Staples,ITC,1098.09,987.33,10.09
+1742,Nestle Personal Care Weight,Grocery,Personal Care,Nestle,662.68,559.98,15.5
+1743,Dabur Dairy Contain,Grocery,Dairy,Dabur,804.42,640.06,20.43
+1744,Dabur Beverages Power,Grocery,Beverages,Dabur,789.35,657.29,16.73
+1745,Parle Personal Care Outside,Grocery,Personal Care,Parle,490.34,413.85,15.6
+1746,Parle Personal Care Fish,Grocery,Personal Care,Parle,469.99,417.83,11.1
+1747,Dabur Dairy Into,Grocery,Dairy,Dabur,1214.83,971.58,20.02
+1748,Dabur Fresh Produce Official,Grocery,Fresh Produce,Dabur,1246.59,1035.26,16.95
+1749,Britannia Beverages These,Grocery,Beverages,Britannia,771.98,594.81,22.95
+1750,IKEA Decor A,Home & Living,Decor,IKEA,26050.27,17665.28,32.19
+1751,Urban Ladder Decor Fly,Home & Living,Decor,Urban Ladder,1476.97,1032.13,30.12
+1752,Cello Decor Few,Home & Living,Decor,Cello,19133.74,13205.66,30.98
+1753,IKEA Bedding Develop,Home & Living,Bedding,IKEA,29092.58,19490.85,33.0
+1754,Philips Furniture Law,Home & Living,Furniture,Philips,30473.67,19358.93,36.47
+1755,Urban Ladder Decor Stock,Home & Living,Decor,Urban Ladder,40686.69,26132.31,35.77
+1756,Urban Ladder Lighting Particularly,Home & Living,Lighting,Urban Ladder,47785.08,35708.12,25.27
+1757,Milton Storage Policy,Home & Living,Storage,Milton,9949.74,7451.02,25.11
+1758,IKEA Bedding Real,Home & Living,Bedding,IKEA,32444.24,19962.79,38.47
+1759,Godrej Bedding Fund,Home & Living,Bedding,Godrej,12325.42,7530.15,38.91
+1760,Cello Decor Make,Home & Living,Decor,Cello,3201.32,1952.28,39.02
+1761,Pepperfry Storage Letter,Home & Living,Storage,Pepperfry,17710.81,13013.67,26.52
+1762,Cello Furniture Letter,Home & Living,Furniture,Cello,24396.41,17357.64,28.85
+1763,Philips Furniture Republican,Home & Living,Furniture,Philips,14386.67,10126.87,29.61
+1764,Urban Ladder Lighting Different,Home & Living,Lighting,Urban Ladder,40190.69,26892.63,33.09
+1765,Pepperfry Storage Much,Home & Living,Storage,Pepperfry,15703.12,10339.72,34.16
+1766,Godrej Furniture Material,Home & Living,Furniture,Godrej,35864.3,25431.6,29.09
+1767,Cello Lighting Student,Home & Living,Lighting,Cello,20794.75,15215.87,26.83
+1768,Pepperfry Bedding Wear,Home & Living,Bedding,Pepperfry,9221.24,5973.82,35.22
+1769,Philips Decor Style,Home & Living,Decor,Philips,9235.63,6199.19,32.88
+1770,Milton Decor Simply,Home & Living,Decor,Milton,35510.5,26063.59,26.6
+1771,Philips Bedding Condition,Home & Living,Bedding,Philips,28452.15,20244.15,28.85
+1772,IKEA Lighting Reason,Home & Living,Lighting,IKEA,48153.76,32622.64,32.25
+1773,Philips Lighting Become,Home & Living,Lighting,Philips,40338.43,26924.53,33.25
+1774,Philips Furniture Federal,Home & Living,Furniture,Philips,2361.94,1547.14,34.5
+1775,Milton Furniture Myself,Home & Living,Furniture,Milton,47579.89,31391.22,34.02
+1776,Prestige Decor Record,Home & Living,Decor,Prestige,40995.61,25309.42,38.26
+1777,Pepperfry Lighting Property,Home & Living,Lighting,Pepperfry,11558.37,8301.14,28.18
+1778,Urban Ladder Decor President,Home & Living,Decor,Urban Ladder,30626.85,21081.86,31.17
+1779,Pepperfry Storage Government,Home & Living,Storage,Pepperfry,42025.09,25845.28,38.5
+1780,Prestige Decor Better,Home & Living,Decor,Prestige,17800.38,12717.83,28.55
+1781,Milton Lighting Tell,Home & Living,Lighting,Milton,39070.17,27692.12,29.12
+1782,Urban Ladder Kitchen Society,Home & Living,Kitchen,Urban Ladder,41166.19,28258.09,31.36
+1783,Milton Decor Easy,Home & Living,Decor,Milton,33443.98,24603.72,26.43
+1784,Philips Lighting Remember,Home & Living,Lighting,Philips,31268.19,21332.25,31.78
+1785,Urban Ladder Kitchen Force,Home & Living,Kitchen,Urban Ladder,29413.1,21318.55,27.52
+1786,Milton Lighting Down,Home & Living,Lighting,Milton,36896.31,22897.13,37.94
+1787,Philips Storage Sure,Home & Living,Storage,Philips,10993.64,8087.39,26.44
+1788,Philips Furniture Decide,Home & Living,Furniture,Philips,1377.2,900.28,34.63
+1789,Pepperfry Decor Choice,Home & Living,Decor,Pepperfry,30433.28,20329.29,33.2
+1790,Philips Kitchen Ago,Home & Living,Kitchen,Philips,11750.97,8124.2,30.86
+1791,Godrej Bedding Any,Home & Living,Bedding,Godrej,29804.92,20132.78,32.45
+1792,Pepperfry Kitchen Election,Home & Living,Kitchen,Pepperfry,49391.72,36032.94,27.05
+1793,Urban Ladder Kitchen May,Home & Living,Kitchen,Urban Ladder,34818.2,24002.0,31.06
+1794,Urban Ladder Decor Popular,Home & Living,Decor,Urban Ladder,21524.34,13826.38,35.76
+1795,IKEA Storage To,Home & Living,Storage,IKEA,34683.32,20855.48,39.87
+1796,Philips Lighting Special,Home & Living,Lighting,Philips,6594.04,4842.55,26.56
+1797,Pepperfry Storage Baby,Home & Living,Storage,Pepperfry,36272.07,24057.16,33.68
+1798,Milton Storage Lose,Home & Living,Storage,Milton,13853.2,10224.87,26.19
+1799,Pepperfry Kitchen Join,Home & Living,Kitchen,Pepperfry,4465.78,2750.35,38.41
+1800,Pepperfry Kitchen Various,Home & Living,Kitchen,Pepperfry,9754.99,6843.07,29.85
+1801,Cello Lighting Professional,Home & Living,Lighting,Cello,11487.49,8003.92,30.32
+1802,Milton Furniture Parent,Home & Living,Furniture,Milton,3657.31,2458.23,32.79
+1803,Godrej Decor Day,Home & Living,Decor,Godrej,3567.11,2247.09,37.01
+1804,Prestige Bedding Serious,Home & Living,Bedding,Prestige,11838.86,7920.18,33.1
+1805,Cello Lighting Same,Home & Living,Lighting,Cello,44027.94,28722.44,34.76
+1806,Godrej Kitchen If,Home & Living,Kitchen,Godrej,26741.3,18755.01,29.87
+1807,Cello Decor Miss,Home & Living,Decor,Cello,16783.5,10902.17,35.04
+1808,Philips Kitchen Instead,Home & Living,Kitchen,Philips,49708.14,32346.29,34.93
+1809,Cello Lighting Either,Home & Living,Lighting,Cello,27977.61,17916.93,35.96
+1810,Prestige Bedding Choose,Home & Living,Bedding,Prestige,23367.24,17314.63,25.9
+1811,Milton Bedding Reality,Home & Living,Bedding,Milton,28202.38,17100.69,39.36
+1812,Godrej Kitchen Rise,Home & Living,Kitchen,Godrej,8930.09,5773.3,35.35
+1813,Pepperfry Storage Accept,Home & Living,Storage,Pepperfry,10206.5,6834.54,33.04
+1814,IKEA Decor Walk,Home & Living,Decor,IKEA,5014.49,3422.11,31.76
+1815,Cello Lighting Social,Home & Living,Lighting,Cello,37856.93,26419.0,30.21
+1816,Urban Ladder Decor Traditional,Home & Living,Decor,Urban Ladder,33312.6,21009.67,36.93
+1817,Urban Ladder Lighting Speech,Home & Living,Lighting,Urban Ladder,46373.46,33147.92,28.52
+1818,Urban Ladder Decor Value,Home & Living,Decor,Urban Ladder,20085.93,14605.23,27.29
+1819,Prestige Kitchen Both,Home & Living,Kitchen,Prestige,49625.68,30318.8,38.91
+1820,Pepperfry Bedding Start,Home & Living,Bedding,Pepperfry,27089.87,16895.82,37.63
+1821,Urban Ladder Bedding Large,Home & Living,Bedding,Urban Ladder,26143.71,17162.36,34.35
+1822,Cello Kitchen Discuss,Home & Living,Kitchen,Cello,4638.4,2953.31,36.33
+1823,IKEA Decor Control,Home & Living,Decor,IKEA,6560.13,4107.23,37.39
+1824,IKEA Bedding Summer,Home & Living,Bedding,IKEA,39145.0,25197.18,35.63
+1825,Philips Bedding Safe,Home & Living,Bedding,Philips,2000.79,1409.62,29.55
+1826,Milton Kitchen National,Home & Living,Kitchen,Milton,13303.01,9258.62,30.4
+1827,Philips Furniture Majority,Home & Living,Furniture,Philips,4564.61,2781.93,39.05
+1828,IKEA Kitchen Apply,Home & Living,Kitchen,IKEA,27779.35,19561.42,29.58
+1829,Urban Ladder Decor Onto,Home & Living,Decor,Urban Ladder,19969.68,13637.69,31.71
+1830,Philips Lighting Enjoy,Home & Living,Lighting,Philips,30109.6,20253.16,32.74
+1831,Pepperfry Kitchen Whose,Home & Living,Kitchen,Pepperfry,45985.72,31061.31,32.45
+1832,Prestige Furniture Thus,Home & Living,Furniture,Prestige,49609.47,30871.29,37.77
+1833,Pepperfry Bedding Campaign,Home & Living,Bedding,Pepperfry,10583.82,6460.48,38.96
+1834,Cello Lighting Loss,Home & Living,Lighting,Cello,5995.05,3761.19,37.26
+1835,IKEA Bedding Cell,Home & Living,Bedding,IKEA,19155.04,11843.64,38.17
+1836,IKEA Furniture Suddenly,Home & Living,Furniture,IKEA,43429.22,27321.81,37.09
+1837,Godrej Decor Majority,Home & Living,Decor,Godrej,39543.52,27850.43,29.57
+1838,Milton Kitchen Region,Home & Living,Kitchen,Milton,4229.78,2916.66,31.04
+1839,Prestige Furniture Nice,Home & Living,Furniture,Prestige,8841.52,5709.48,35.42
+1840,Prestige Kitchen Operation,Home & Living,Kitchen,Prestige,17435.77,10525.25,39.63
+1841,IKEA Furniture Physical,Home & Living,Furniture,IKEA,32120.41,20127.55,37.34
+1842,Milton Kitchen Free,Home & Living,Kitchen,Milton,6799.73,4220.58,37.93
+1843,Cello Lighting Someone,Home & Living,Lighting,Cello,46153.31,31243.05,32.31
+1844,Urban Ladder Furniture Vote,Home & Living,Furniture,Urban Ladder,30391.4,19307.0,36.47
+1845,IKEA Bedding Level,Home & Living,Bedding,IKEA,8906.96,6008.77,32.54
+1846,Godrej Lighting Position,Home & Living,Lighting,Godrej,20053.42,14599.77,27.2
+1847,Pepperfry Lighting Teacher,Home & Living,Lighting,Pepperfry,18503.21,13688.2,26.02
+1848,Milton Decor Serve,Home & Living,Decor,Milton,1485.43,1083.96,27.03
+1849,Philips Furniture Wait,Home & Living,Furniture,Philips,48163.13,32152.29,33.24
+1850,Milton Kitchen Mother,Home & Living,Kitchen,Milton,48297.94,33090.14,31.49
+1851,Urban Ladder Kitchen Last,Home & Living,Kitchen,Urban Ladder,15728.44,10602.21,32.59
+1852,Philips Storage Then,Home & Living,Storage,Philips,22087.68,16215.68,26.58
+1853,IKEA Furniture What,Home & Living,Furniture,IKEA,32113.15,23044.21,28.24
+1854,Cello Bedding Official,Home & Living,Bedding,Cello,31055.48,20262.76,34.75
+1855,Milton Furniture Like,Home & Living,Furniture,Milton,7770.84,5756.62,25.92
+1856,Prestige Decor Watch,Home & Living,Decor,Prestige,39081.93,26615.96,31.9
+1857,IKEA Lighting Cold,Home & Living,Lighting,IKEA,3096.56,1860.32,39.92
+1858,Urban Ladder Decor Six,Home & Living,Decor,Urban Ladder,3077.47,1987.26,35.43
+1859,Godrej Decor Training,Home & Living,Decor,Godrej,49187.21,35125.72,28.59
+1860,Urban Ladder Lighting May,Home & Living,Lighting,Urban Ladder,7284.02,5330.39,26.82
+1861,Philips Storage Listen,Home & Living,Storage,Philips,15303.1,11245.38,26.52
+1862,IKEA Kitchen Event,Home & Living,Kitchen,IKEA,34669.63,25678.28,25.93
+1863,Philips Decor Society,Home & Living,Decor,Philips,25569.22,15354.2,39.95
+1864,Pepperfry Lighting End,Home & Living,Lighting,Pepperfry,40735.72,26792.58,34.23
+1865,Cello Lighting Though,Home & Living,Lighting,Cello,15451.43,10142.56,34.36
+1866,Cello Lighting Public,Home & Living,Lighting,Cello,26446.66,18144.72,31.39
+1867,Pepperfry Lighting Factor,Home & Living,Lighting,Pepperfry,6709.38,4139.75,38.3
+1868,Urban Ladder Kitchen Space,Home & Living,Kitchen,Urban Ladder,22599.28,16289.71,27.92
+1869,Cello Lighting Star,Home & Living,Lighting,Cello,18514.42,12735.71,31.21
+1870,Dove Skincare Near,Beauty,Skincare,Dove,6637.55,3915.87,41.0
+1871,Lakme Makeup Memory,Beauty,Makeup,Lakme,6177.51,4314.04,30.17
+1872,Lakme Makeup Produce,Beauty,Makeup,Lakme,3387.62,2126.74,37.22
+1873,Dove Haircare Edge,Beauty,Haircare,Dove,251.62,166.33,33.9
+1874,Biotique Personal Care Face,Beauty,Personal Care,Biotique,6106.29,4148.82,32.06
+1875,The Body Shop Personal Care Less,Beauty,Personal Care,The Body Shop,4328.95,2890.53,33.23
+1876,Lakme Haircare Bank,Beauty,Haircare,Lakme,195.75,129.94,33.62
+1877,Nivea Beauty Tools Sell,Beauty,Beauty Tools,Nivea,7809.4,4527.65,42.02
+1878,Himalaya Haircare Feeling,Beauty,Haircare,Himalaya,7680.66,4814.41,37.32
+1879,Himalaya Skincare Easy,Beauty,Skincare,Himalaya,966.92,597.37,38.22
+1880,Maybelline Haircare Expert,Beauty,Haircare,Maybelline,3689.58,2115.41,42.67
+1881,Biotique Haircare Government,Beauty,Haircare,Biotique,874.85,548.32,37.32
+1882,The Body Shop Fragrances Front,Beauty,Fragrances,The Body Shop,1285.38,837.17,34.87
+1883,Himalaya Fragrances Walk,Beauty,Fragrances,Himalaya,5925.12,3724.51,37.14
+1884,The Body Shop Makeup Now,Beauty,Makeup,The Body Shop,3069.52,1967.04,35.92
+1885,The Body Shop Beauty Tools Be,Beauty,Beauty Tools,The Body Shop,3729.63,2171.57,41.78
+1886,Dove Haircare Certainly,Beauty,Haircare,Dove,7147.47,3979.0,44.33
+1887,Biotique Skincare City,Beauty,Skincare,Biotique,6316.54,4122.74,34.73
+1888,Biotique Skincare During,Beauty,Skincare,Biotique,5536.26,3511.98,36.56
+1889,LOreal Personal Care Identify,Beauty,Personal Care,LOreal,2111.9,1211.95,42.61
+1890,Dove Personal Care Rule,Beauty,Personal Care,Dove,403.57,227.91,43.53
+1891,Maybelline Haircare Claim,Beauty,Haircare,Maybelline,3745.67,2263.96,39.56
+1892,Himalaya Skincare Seat,Beauty,Skincare,Himalaya,5308.9,3003.42,43.43
+1893,Dove Beauty Tools Difficult,Beauty,Beauty Tools,Dove,5129.69,3118.39,39.21
+1894,The Body Shop Haircare Attack,Beauty,Haircare,The Body Shop,626.55,389.86,37.78
+1895,Biotique Personal Care Join,Beauty,Personal Care,Biotique,1286.34,758.15,41.06
+1896,The Body Shop Makeup Involve,Beauty,Makeup,The Body Shop,4146.55,2479.5,40.2
+1897,The Body Shop Haircare Give,Beauty,Haircare,The Body Shop,429.22,294.99,31.27
+1898,Himalaya Skincare Occur,Beauty,Skincare,Himalaya,5758.95,3969.0,31.08
+1899,Biotique Personal Care Man,Beauty,Personal Care,Biotique,662.93,462.85,30.18
+1900,Lakme Haircare Just,Beauty,Haircare,Lakme,7656.36,4512.46,41.06
+1901,Biotique Skincare Assume,Beauty,Skincare,Biotique,2890.69,1894.9,34.45
+1902,LOreal Haircare Design,Beauty,Haircare,LOreal,2862.66,1671.23,41.62
+1903,LOreal Skincare There,Beauty,Skincare,LOreal,5324.83,3579.46,32.78
+1904,The Body Shop Personal Care Kitchen,Beauty,Personal Care,The Body Shop,1475.46,1011.05,31.48
+1905,LOreal Skincare Improve,Beauty,Skincare,LOreal,5316.39,3111.92,41.47
+1906,Nivea Skincare West,Beauty,Skincare,Nivea,2193.87,1528.82,30.31
+1907,Himalaya Beauty Tools Speech,Beauty,Beauty Tools,Himalaya,749.16,415.65,44.52
+1908,Biotique Haircare Pattern,Beauty,Haircare,Biotique,2434.01,1422.96,41.54
+1909,Lakme Personal Care Young,Beauty,Personal Care,Lakme,5034.84,3235.94,35.73
+1910,LOreal Personal Care Safe,Beauty,Personal Care,LOreal,1724.93,1176.04,31.82
+1911,The Body Shop Beauty Tools Again,Beauty,Beauty Tools,The Body Shop,4958.6,2894.86,41.62
+1912,Himalaya Haircare Tough,Beauty,Haircare,Himalaya,5186.84,3218.2,37.95
+1913,Maybelline Fragrances Up,Beauty,Fragrances,Maybelline,431.41,239.31,44.53
+1914,LOreal Personal Care Southern,Beauty,Personal Care,LOreal,6409.84,4205.35,34.39
+1915,Himalaya Personal Care Parent,Beauty,Personal Care,Himalaya,7841.77,4781.27,39.03
+1916,Himalaya Fragrances Husband,Beauty,Fragrances,Himalaya,4701.14,2763.28,41.22
+1917,Dove Beauty Tools Me,Beauty,Beauty Tools,Dove,6512.98,3917.74,39.85
+1918,Maybelline Makeup According,Beauty,Makeup,Maybelline,1111.96,721.95,35.07
+1919,LOreal Skincare Yes,Beauty,Skincare,LOreal,7431.86,4951.91,33.37
+1920,Biotique Fragrances He,Beauty,Fragrances,Biotique,3040.12,1931.05,36.48
+1921,Maybelline Personal Care Fire,Beauty,Personal Care,Maybelline,3571.3,2171.56,39.19
+1922,Dove Haircare Some,Beauty,Haircare,Dove,7550.3,5012.61,33.61
+1923,The Body Shop Beauty Tools In,Beauty,Beauty Tools,The Body Shop,1059.86,710.51,32.96
+1924,Dove Makeup Tonight,Beauty,Makeup,Dove,7106.71,4286.26,39.69
+1925,The Body Shop Beauty Tools Wait,Beauty,Beauty Tools,The Body Shop,2358.66,1362.38,42.24
+1926,Maybelline Makeup Thing,Beauty,Makeup,Maybelline,6904.82,3956.62,42.7
+1927,Maybelline Makeup Kind,Beauty,Makeup,Maybelline,7359.52,4873.21,33.78
+1928,LOreal Fragrances Nothing,Beauty,Fragrances,LOreal,6064.83,3826.42,36.91
+1929,The Body Shop Beauty Tools Small,Beauty,Beauty Tools,The Body Shop,6751.79,3988.46,40.93
+1930,Himalaya Skincare Simple,Beauty,Skincare,Himalaya,6233.93,3750.18,39.84
+1931,Himalaya Beauty Tools Office,Beauty,Beauty Tools,Himalaya,1501.69,928.41,38.18
+1932,Maybelline Beauty Tools Such,Beauty,Beauty Tools,Maybelline,7878.89,4407.39,44.06
+1933,Dove Personal Care Player,Beauty,Personal Care,Dove,441.07,297.84,32.47
+1934,LOreal Haircare Water,Beauty,Haircare,LOreal,1140.66,674.25,40.89
+1935,LOreal Beauty Tools Discussion,Beauty,Beauty Tools,LOreal,6560.5,4382.24,33.2
+1936,Nivea Haircare Method,Beauty,Haircare,Nivea,4096.24,2350.81,42.61
+1937,Nivea Skincare Discuss,Beauty,Skincare,Nivea,5889.13,3643.4,38.13
+1938,Nivea Makeup Explain,Beauty,Makeup,Nivea,4763.75,2971.37,37.63
+1939,Lakme Fragrances Least,Beauty,Fragrances,Lakme,2450.63,1507.74,38.48
+1940,Himalaya Haircare Mention,Beauty,Haircare,Himalaya,5542.19,3153.51,43.1
+1941,LOreal Fragrances Air,Beauty,Fragrances,LOreal,5126.7,3003.38,41.42
+1942,Maybelline Personal Care Improve,Beauty,Personal Care,Maybelline,1364.57,860.72,36.92
+1943,Dove Skincare Great,Beauty,Skincare,Dove,173.72,115.18,33.7
+1944,The Body Shop Fragrances Relate,Beauty,Fragrances,The Body Shop,5839.05,3218.65,44.88
+1945,Biotique Personal Care Respond,Beauty,Personal Care,Biotique,883.51,565.25,36.02
+1946,Maybelline Fragrances Success,Beauty,Fragrances,Maybelline,6420.56,4297.89,33.06
+1947,Himalaya Makeup Interview,Beauty,Makeup,Himalaya,4485.17,2646.43,41.0
+1948,Maybelline Beauty Tools Shake,Beauty,Beauty Tools,Maybelline,4966.29,3336.34,32.82
+1949,The Body Shop Fragrances Company,Beauty,Fragrances,The Body Shop,2907.54,1693.44,41.76
+1950,Nivia Footwear Though,Sports,Footwear,Nivia,16760.53,13395.28,20.08
+1951,Puma Sportswear Manage,Sports,Sportswear,Puma,22901.43,18199.84,20.53
+1952,Cosco Sportswear Wide,Sports,Sportswear,Cosco,22448.29,17276.83,23.04
+1953,Nike Nutrition Care,Sports,Nutrition,Nike,28754.78,21416.82,25.52
+1954,Puma Fitness Equipment Prevent,Sports,Fitness Equipment,Puma,10009.87,7784.34,22.23
+1955,Puma Outdoor Gear None,Sports,Outdoor Gear,Puma,9376.45,6268.18,33.15
+1956,Nivia Sportswear Agreement,Sports,Sportswear,Nivia,29891.13,22261.53,25.52
+1957,Reebok Footwear What,Sports,Footwear,Reebok,13623.74,9423.4,30.83
+1958,Decathlon Outdoor Gear Indeed,Sports,Outdoor Gear,Decathlon,26620.01,18927.98,28.9
+1959,Decathlon Fitness Equipment Person,Sports,Fitness Equipment,Decathlon,11928.31,8804.37,26.19
+1960,Decathlon Sportswear Organization,Sports,Sportswear,Decathlon,20959.86,16757.77,20.05
+1961,Decathlon Sportswear Recognize,Sports,Sportswear,Decathlon,18701.8,13964.19,25.33
+1962,Adidas Nutrition Agreement,Sports,Nutrition,Adidas,23887.66,18776.93,21.39
+1963,Puma Nutrition Because,Sports,Nutrition,Puma,17769.61,12933.68,27.21
+1964,Puma Nutrition Question,Sports,Nutrition,Puma,19377.07,15313.16,20.97
+1965,Nivia Sportswear Later,Sports,Sportswear,Nivia,17525.52,12544.37,28.42
+1966,Nike Nutrition Central,Sports,Nutrition,Nike,16951.6,12026.77,29.05
+1967,Adidas Fitness Equipment Trial,Sports,Fitness Equipment,Adidas,20391.1,13850.69,32.07
+1968,Decathlon Fitness Equipment Main,Sports,Fitness Equipment,Decathlon,8313.68,5622.06,32.38
+1969,Reebok Footwear Court,Sports,Footwear,Reebok,15098.19,11904.04,21.16
+1970,Cosco Nutrition Apply,Sports,Nutrition,Cosco,2038.96,1528.94,25.01
+1971,Nike Nutrition Ever,Sports,Nutrition,Nike,23611.44,16382.75,30.62
+1972,Decathlon Sports Accessories Hundred,Sports,Sports Accessories,Decathlon,23721.86,17136.9,27.76
+1973,Decathlon Footwear Generation,Sports,Footwear,Decathlon,13373.91,10403.33,22.21
+1974,Reebok Sports Accessories Development,Sports,Sports Accessories,Reebok,10047.32,7383.75,26.51
+1975,Cosco Footwear Look,Sports,Footwear,Cosco,2931.43,2248.14,23.31
+1976,MuscleBlaze Outdoor Gear General,Sports,Outdoor Gear,MuscleBlaze,18067.29,12460.12,31.03
+1977,Nike Fitness Equipment Green,Sports,Fitness Equipment,Nike,29950.92,19768.6,34.0
+1978,MuscleBlaze Sportswear Sort,Sports,Sportswear,MuscleBlaze,19384.19,14282.52,26.32
+1979,MuscleBlaze Sports Accessories Until,Sports,Sports Accessories,MuscleBlaze,19194.47,13093.55,31.78
+1980,Reebok Sports Accessories Hundred,Sports,Sports Accessories,Reebok,3814.58,2817.12,26.15
+1981,Puma Outdoor Gear Fall,Sports,Outdoor Gear,Puma,25242.13,18740.39,25.76
+1982,Nivia Outdoor Gear Soldier,Sports,Outdoor Gear,Nivia,17284.61,12303.78,28.82
+1983,Nivia Footwear Theory,Sports,Footwear,Nivia,5778.94,4309.15,25.43
+1984,Puma Sports Accessories Know,Sports,Sports Accessories,Puma,10234.99,8147.77,20.39
+1985,Adidas Outdoor Gear Entire,Sports,Outdoor Gear,Adidas,1018.5,687.74,32.48
+1986,Reebok Outdoor Gear They,Sports,Outdoor Gear,Reebok,8410.2,6074.59,27.77
+1987,Adidas Sports Accessories Beat,Sports,Sports Accessories,Adidas,9172.15,6043.51,34.11
+1988,MuscleBlaze Outdoor Gear Many,Sports,Outdoor Gear,MuscleBlaze,8001.11,5885.23,26.44
+1989,Puma Sportswear After,Sports,Sportswear,Puma,26220.09,17664.74,32.63
+1990,Nike Fitness Equipment So,Sports,Fitness Equipment,Nike,5827.21,3960.19,32.04
+1991,Cosco Outdoor Gear Notice,Sports,Outdoor Gear,Cosco,13908.15,10118.94,27.24
+1992,Cosco Nutrition Area,Sports,Nutrition,Cosco,4264.36,3359.93,21.21
+1993,Puma Sportswear Hard,Sports,Sportswear,Puma,21919.8,15903.49,27.45
+1994,Nivia Outdoor Gear Door,Sports,Outdoor Gear,Nivia,13274.47,9167.0,30.94
+1995,Puma Sportswear Rate,Sports,Sportswear,Puma,23035.73,17879.5,22.38
+1996,MuscleBlaze Sports Accessories Authority,Sports,Sports Accessories,MuscleBlaze,18423.69,14364.89,22.03
+1997,Decathlon Sports Accessories Statement,Sports,Sports Accessories,Decathlon,22615.84,15864.03,29.85
+1998,Nike Sports Accessories Reach,Sports,Sports Accessories,Nike,28711.45,22672.18,21.03
+1999,Cosco Fitness Equipment Amount,Sports,Fitness Equipment,Cosco,1994.53,1511.2,24.23

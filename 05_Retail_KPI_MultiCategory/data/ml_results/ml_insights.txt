@@ -1,0 +1,17 @@
+================================================================================
+MULTI-CATEGORY RETAIL ML INSIGHTS
+================================================================================
+
+1. FORECASTING: Projected revenue for next 12 months is ₹301.48 Crore
+   → Next quarter expected revenue: ₹64.96 Crore
+
+2. ANOMALY DETECTION: Identified 55 anomalous days (5.0% of total)
+   → Average revenue on anomalous days: ₹70.93 Lakhs
+
+3. CLASSIFICATION: Electronics is the most consistent High performer
+   → 74 category-month combinations classified as High performance
+
+4. RECOMMENDATIONS:
+   → Focus improvement efforts on Grocery category
+   → Fashion has highest margin (39.39%) - expand inventory
+   → High revenue concentration (72.2%) - diversify product mix

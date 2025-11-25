@@ -1,0 +1,29 @@
+MULTI-CATEGORY RETAIL KPI INSIGHTS
+================================================================================
+
+1. REVENUE ANALYSIS:
+   • Total Revenue: ₹700.84 Crore
+   • Top Category: Electronics (₹505.93 Cr)
+   • Highest Margin: Electronics (39.39%)
+
+2. CUSTOMER INSIGHTS:
+   • Most Valuable Segment: VIP (₹732,541 per customer)
+   • Highest Transaction Frequency: VIP (10.1 txns/customer)
+
+3. CHANNEL PERFORMANCE:
+   • Leading Channel: In-Store (₹326.89 Cr)
+   • Channel Share: 46.6%
+
+4. STORE PERFORMANCE:
+   • Top Store: Delhi Connaught Place (₹48.26 Cr)
+   • Store Type: Flagship
+
+5. ML MODEL PREDICTIONS:
+   • 12-Month Forecast: ₹301.48 Crore
+   • Anomalies Detected: 55 days (5.0%)
+   • Classification Accuracy: 96.43%
+
+6. GROWTH OPPORTUNITIES:
+   • Expand high-margin categories: Fashion, Beauty
+   • Focus on VIP & Premium segments
+   • Diversify beyond Electronics to reduce concentration risk
