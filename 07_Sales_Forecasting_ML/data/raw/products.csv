@@ -1,0 +1,1001 @@
+product_id,category,product_name,base_price,margin_percent,cost
+P0001,Electronics,Electronics Product 1,59308.32,17.61,48866.66
+P0002,Electronics,Electronics Product 2,111139.12,14.79,94702.46
+P0003,Electronics,Electronics Product 3,27622.7,11.25,24515.71
+P0004,Electronics,Electronics Product 4,13422.12,16.93,11149.84
+P0005,Electronics,Electronics Product 5,92161.68,15.66,77724.94
+P0006,Electronics,Electronics Product 6,7984.75,17.76,6566.72
+P0007,Electronics,Electronics Product 7,125704.18,11.7,110998.41
+P0008,Electronics,Electronics Product 8,31364.62,11.47,27767.97
+P0009,Electronics,Electronics Product 9,49115.13,14.2,42141.73
+P0010,Electronics,Electronics Product 10,67632.03,12.33,59293.11
+P0011,Electronics,Electronics Product 11,93718.67,11.12,83300.95
+P0012,Electronics,Electronics Product 12,47360.97,12.93,41236.78
+P0013,Electronics,Electronics Product 13,71130.15,16.28,59549.16
+P0014,Electronics,Electronics Product 14,33952.7,14.11,29160.66
+P0015,Electronics,Electronics Product 15,90900.11,10.37,81472.31
+P0016,Electronics,Electronics Product 16,93094.0,11.36,82514.62
+P0017,Electronics,Electronics Product 17,14432.48,17.59,11893.65
+P0018,Electronics,Electronics Product 18,145016.64,16.47,121136.49
+P0019,Electronics,Electronics Product 19,49169.0,10.78,43867.9
+P0020,Electronics,Electronics Product 20,104213.79,13.52,90122.81
+P0021,Electronics,Electronics Product 21,22695.54,13.96,19526.92
+P0022,Electronics,Electronics Product 22,9986.34,17.27,8261.24
+P0023,Electronics,Electronics Product 23,42523.1,15.3,36016.99
+P0024,Electronics,Electronics Product 24,50198.11,14.16,43089.78
+P0025,Electronics,Electronics Product 25,84272.99,11.48,74599.43
+P0026,Electronics,Electronics Product 26,145589.77,16.2,122002.68
+P0027,Electronics,Electronics Product 27,141227.35,17.16,116994.68
+P0028,Electronics,Electronics Product 28,91695.5,17.37,75763.41
+P0029,Electronics,Electronics Product 29,17831.41,11.57,15768.7
+P0030,Electronics,Electronics Product 30,11557.96,12.6,10101.35
+P0031,Electronics,Electronics Product 31,61358.21,12.17,53890.43
+P0032,Electronics,Electronics Product 32,125166.94,12.85,109077.95
+P0033,Electronics,Electronics Product 33,45735.5,14.34,39176.32
+P0034,Electronics,Electronics Product 34,25434.01,16.42,21258.36
+P0035,Electronics,Electronics Product 35,15809.84,17.9,12980.66
+P0036,Electronics,Electronics Product 36,116975.49,11.59,103418.35
+P0037,Electronics,Electronics Product 37,5800.71,16.52,4842.22
+P0038,Electronics,Electronics Product 38,107494.31,15.83,90475.75
+P0039,Electronics,Electronics Product 39,116834.2,10.59,104458.7
+P0040,Electronics,Electronics Product 40,56977.53,10.93,50751.62
+P0041,Electronics,Electronics Product 41,130150.0,14.99,110645.22
+P0042,Electronics,Electronics Product 42,52980.21,10.51,47412.81
+P0043,Electronics,Electronics Product 43,50092.44,12.6,43780.05
+P0044,Electronics,Electronics Product 44,110792.9,15.1,94062.66
+P0045,Electronics,Electronics Product 45,133645.85,13.78,115232.5
+P0046,Electronics,Electronics Product 46,22341.17,15.71,18832.27
+P0047,Electronics,Electronics Product 47,115313.83,14.49,98604.61
+P0048,Electronics,Electronics Product 48,116790.24,13.95,100497.58
+P0049,Electronics,Electronics Product 49,80796.26,13.42,69953.14
+P0050,Electronics,Electronics Product 50,8685.77,10.86,7742.23
+P0051,Electronics,Electronics Product 51,9557.23,15.09,8114.92
+P0052,Electronics,Electronics Product 52,50581.62,14.07,43465.51
+P0053,Electronics,Electronics Product 53,136597.14,11.99,120213.22
+P0054,Electronics,Electronics Product 54,64505.52,16.04,54155.99
+P0055,Electronics,Electronics Product 55,38175.73,10.62,34123.06
+P0056,Electronics,Electronics Product 56,47013.96,11.29,41706.19
+P0057,Electronics,Electronics Product 57,139806.16,16.46,116787.13
+P0058,Electronics,Electronics Product 58,96843.54,16.97,80407.56
+P0059,Electronics,Electronics Product 59,121532.45,11.49,107565.26
+P0060,Electronics,Electronics Product 60,134421.05,14.31,115179.03
+P0061,Electronics,Electronics Product 61,122078.82,17.17,101119.44
+P0062,Electronics,Electronics Product 62,51110.5,10.88,45549.47
+P0063,Electronics,Electronics Product 63,38050.6,13.42,32945.4
+P0064,Electronics,Electronics Product 64,123612.14,16.89,102739.19
+P0065,Electronics,Electronics Product 65,6008.06,14.09,5161.77
+P0066,Electronics,Electronics Product 66,65524.6,11.78,57807.85
+P0067,Electronics,Electronics Product 67,22380.48,12.7,19537.95
+P0068,Electronics,Electronics Product 68,141721.91,12.59,123885.32
+P0069,Electronics,Electronics Product 69,80224.64,15.62,67690.22
+P0070,Electronics,Electronics Product 70,57726.29,17.77,47465.87
+P0071,Electronics,Electronics Product 71,144554.86,12.01,127187.66
+P0072,Electronics,Electronics Product 72,77101.03,12.41,67535.09
+P0073,Electronics,Electronics Product 73,46301.87,10.3,41535.05
+P0074,Electronics,Electronics Product 74,93386.83,14.02,80292.66
+P0075,Electronics,Electronics Product 75,12464.42,12.23,10940.12
+P0076,Electronics,Electronics Product 76,136698.55,11.92,120408.88
+P0077,Electronics,Electronics Product 77,26009.76,13.92,22390.34
+P0078,Electronics,Electronics Product 78,147919.32,11.94,130263.01
+P0079,Electronics,Electronics Product 79,102459.65,16.09,85970.87
+P0080,Electronics,Electronics Product 80,39457.44,15.83,33213.02
+P0081,Electronics,Electronics Product 81,58328.55,15.06,49545.18
+P0082,Electronics,Electronics Product 82,96861.81,14.29,83023.94
+P0083,Electronics,Electronics Product 83,18092.02,16.68,15073.83
+P0084,Electronics,Electronics Product 84,51513.11,11.49,45593.15
+P0085,Electronics,Electronics Product 85,10912.4,14.73,9305.31
+P0086,Electronics,Electronics Product 86,103246.83,10.13,92785.14
+P0087,Electronics,Electronics Product 87,79253.49,11.81,69892.1
+P0088,Electronics,Electronics Product 88,98550.05,11.39,87320.34
+P0089,Electronics,Electronics Product 89,105185.97,13.09,91413.04
+P0090,Electronics,Electronics Product 90,140825.85,11.1,125193.94
+P0091,Electronics,Electronics Product 91,54454.62,10.91,48514.83
+P0092,Electronics,Electronics Product 92,139080.57,17.02,115410.85
+P0093,Electronics,Electronics Product 93,42401.54,15.28,35922.64
+P0094,Electronics,Electronics Product 94,123497.22,14.44,105662.24
+P0095,Electronics,Electronics Product 95,81799.33,11.93,72036.73
+P0096,Electronics,Electronics Product 96,18499.9,17.18,15322.04
+P0097,Electronics,Electronics Product 97,135560.62,15.06,115138.67
+P0098,Electronics,Electronics Product 98,54159.32,12.79,47230.35
+P0099,Electronics,Electronics Product 99,110263.57,17.18,91323.73
+P0100,Electronics,Electronics Product 100,133627.53,16.24,111927.75
+P0101,Electronics,Electronics Product 101,98094.59,10.67,87624.84
+P0102,Electronics,Electronics Product 102,28436.16,17.19,23548.43
+P0103,Electronics,Electronics Product 103,92932.21,10.07,83570.62
+P0104,Electronics,Electronics Product 104,19713.37,15.31,16695.65
+P0105,Electronics,Electronics Product 105,5733.93,11.29,5086.77
+P0106,Electronics,Electronics Product 106,84566.4,15.54,71428.87
+P0107,Electronics,Electronics Product 107,99534.38,11.79,87795.14
+P0108,Electronics,Electronics Product 108,108265.99,11.9,95384.51
+P0109,Electronics,Electronics Product 109,52182.96,15.97,43848.33
+P0110,Electronics,Electronics Product 110,99196.77,16.79,82537.88
+P0111,Electronics,Electronics Product 111,100353.87,14.55,85755.93
+P0112,Electronics,Electronics Product 112,18582.84,12.94,16177.9
+P0113,Electronics,Electronics Product 113,43454.34,11.95,38260.72
+P0114,Electronics,Electronics Product 114,146086.53,13.14,126883.77
+P0115,Electronics,Electronics Product 115,134346.75,15.05,114128.76
+P0116,Electronics,Electronics Product 116,120247.64,14.02,103387.6
+P0117,Electronics,Electronics Product 117,88651.06,13.94,76292.98
+P0118,Electronics,Electronics Product 118,33310.23,15.78,28054.01
+P0119,Electronics,Electronics Product 119,45711.99,10.19,41051.87
+P0120,Electronics,Electronics Product 120,98593.48,11.42,87337.18
+P0121,Electronics,Electronics Product 121,141366.49,17.63,116441.56
+P0122,Electronics,Electronics Product 122,137655.34,12.96,119813.46
+P0123,Electronics,Electronics Product 123,7241.21,17.43,5979.32
+P0124,Electronics,Electronics Product 124,67086.7,17.73,55190.06
+P0125,Electronics,Electronics Product 125,144724.9,16.82,120376.27
+P0126,Electronics,Electronics Product 126,47695.09,13.08,41456.2
+P0127,Electronics,Electronics Product 127,128414.82,12.54,112317.54
+P0128,Electronics,Electronics Product 128,29576.45,14.45,25301.35
+P0129,Electronics,Electronics Product 129,140742.44,15.57,118831.32
+P0130,Electronics,Electronics Product 130,87658.87,10.78,78211.51
+P0131,Electronics,Electronics Product 131,94176.05,17.92,77299.29
+P0132,Electronics,Electronics Product 132,25312.18,14.15,21731.36
+P0133,Electronics,Electronics Product 133,132219.1,15.93,111161.69
+P0134,Electronics,Electronics Product 134,106067.28,15.62,89499.71
+P0135,Electronics,Electronics Product 135,57126.22,12.35,50071.85
+P0136,Electronics,Electronics Product 136,122357.37,16.48,102191.76
+P0137,Electronics,Electronics Product 137,130725.49,17.31,108102.23
+P0138,Electronics,Electronics Product 138,79144.65,14.01,68054.8
+P0139,Electronics,Electronics Product 139,120752.8,15.2,102398.72
+P0140,Electronics,Electronics Product 140,106785.2,16.37,89308.37
+P0141,Electronics,Electronics Product 141,134050.77,12.7,117021.02
+P0142,Electronics,Electronics Product 142,59459.53,10.75,53066.53
+P0143,Electronics,Electronics Product 143,88850.62,10.29,79710.08
+P0144,Electronics,Electronics Product 144,72511.71,14.34,62112.69
+P0145,Electronics,Electronics Product 145,46548.48,14.73,39693.44
+P0146,Electronics,Electronics Product 146,9422.54,10.3,8452.13
+P0147,Electronics,Electronics Product 147,124277.08,12.88,108268.3
+P0148,Electronics,Electronics Product 148,23423.77,14.18,20102.76
+P0149,Electronics,Electronics Product 149,116649.07,11.73,102970.13
+P0150,Electronics,Electronics Product 150,95319.12,10.68,85136.39
+P0151,Electronics,Electronics Product 151,12493.85,14.25,10713.37
+P0152,Electronics,Electronics Product 152,83392.09,15.1,70800.35
+P0153,Electronics,Electronics Product 153,110283.24,17.81,90645.31
+P0154,Electronics,Electronics Product 154,79863.55,12.58,69813.8
+P0155,Electronics,Electronics Product 155,120302.0,12.17,105665.27
+P0156,Electronics,Electronics Product 156,68650.86,10.63,61354.88
+P0157,Electronics,Electronics Product 157,8675.86,17.7,7140.13
+P0158,Electronics,Electronics Product 158,126217.12,15.57,106567.9
+P0159,Electronics,Electronics Product 159,64298.18,11.39,56976.96
+P0160,Electronics,Electronics Product 160,27683.37,12.0,24360.83
+P0161,Electronics,Electronics Product 161,84637.87,15.72,71335.53
+P0162,Electronics,Electronics Product 162,100728.62,12.24,88399.97
+P0163,Electronics,Electronics Product 163,143455.47,15.9,120641.49
+P0164,Electronics,Electronics Product 164,85381.34,14.89,72664.84
+P0165,Electronics,Electronics Product 165,65842.01,11.98,57952.92
+P0166,Electronics,Electronics Product 166,56616.04,16.06,47521.94
+P0167,Electronics,Electronics Product 167,7087.06,10.93,6312.54
+P0168,Electronics,Electronics Product 168,11670.38,10.33,10465.32
+P0169,Electronics,Electronics Product 169,129041.78,15.63,108873.5
+P0170,Electronics,Electronics Product 170,73755.21,10.78,65802.42
+P0171,Electronics,Electronics Product 171,76284.3,13.79,65766.39
+P0172,Electronics,Electronics Product 172,30114.27,13.47,26057.63
+P0173,Electronics,Electronics Product 173,62783.19,14.93,53411.67
+P0174,Electronics,Electronics Product 174,97088.58,10.36,87027.84
+P0175,Electronics,Electronics Product 175,59318.83,15.01,50416.92
+P0176,Electronics,Electronics Product 176,77954.76,16.85,64817.89
+P0177,Electronics,Electronics Product 177,100510.58,11.3,89149.39
+P0178,Electronics,Electronics Product 178,15232.47,15.14,12926.37
+P0179,Electronics,Electronics Product 179,8844.14,14.69,7545.27
+P0180,Electronics,Electronics Product 180,141333.39,14.6,120693.35
+P0181,Electronics,Electronics Product 181,61284.64,15.15,52002.28
+P0182,Electronics,Electronics Product 182,71446.67,14.36,61183.4
+P0183,Electronics,Electronics Product 183,141512.4,13.09,122990.09
+P0184,Electronics,Electronics Product 184,144372.63,17.24,119478.74
+P0185,Electronics,Electronics Product 185,33389.71,10.55,29865.47
+P0186,Electronics,Electronics Product 186,19612.81,10.15,17622.94
+P0187,Electronics,Electronics Product 187,18694.23,15.46,15803.34
+P0188,Electronics,Electronics Product 188,15322.35,12.55,13399.12
+P0189,Electronics,Electronics Product 189,127506.92,10.19,114518.84
+P0190,Electronics,Electronics Product 190,123097.93,12.25,108012.48
+P0191,Electronics,Electronics Product 191,22133.9,15.57,18686.79
+P0192,Electronics,Electronics Product 192,96196.71,17.02,79824.25
+P0193,Electronics,Electronics Product 193,111585.3,16.43,93254.24
+P0194,Electronics,Electronics Product 194,45895.01,11.42,40654.02
+P0195,Electronics,Electronics Product 195,113839.14,16.45,95107.28
+P0196,Electronics,Electronics Product 196,148623.25,13.3,128854.95
+P0197,Electronics,Electronics Product 197,58942.62,16.21,49387.25
+P0198,Electronics,Electronics Product 198,54416.51,17.45,44922.98
+P0199,Electronics,Electronics Product 199,129469.85,13.43,112079.52
+P0200,Electronics,Electronics Product 200,113876.3,16.04,95614.71
+P0201,Electronics,Electronics Product 201,19952.96,17.22,16516.98
+P0202,Electronics,Electronics Product 202,78261.59,16.61,65261.04
+P0203,Electronics,Electronics Product 203,51407.19,17.16,42583.57
+P0204,Electronics,Electronics Product 204,61434.24,10.09,55237.55
+P0205,Electronics,Electronics Product 205,136280.39,10.73,121657.1
+P0206,Electronics,Electronics Product 206,51300.48,17.6,42271.34
+P0207,Electronics,Electronics Product 207,142838.04,14.59,122001.53
+P0208,Electronics,Electronics Product 208,96616.4,13.59,83488.58
+P0209,Electronics,Electronics Product 209,47515.56,12.63,41514.67
+P0210,Electronics,Electronics Product 210,102515.18,16.02,86093.27
+P0211,Electronics,Electronics Product 211,119778.96,16.32,100234.69
+P0212,Electronics,Electronics Product 212,18224.88,13.96,15681.54
+P0213,Electronics,Electronics Product 213,13346.02,14.4,11424.7
+P0214,Electronics,Electronics Product 214,69021.92,17.1,57218.05
+P0215,Electronics,Electronics Product 215,55882.68,10.94,49771.05
+P0216,Electronics,Electronics Product 216,25733.79,16.09,21592.69
+P0217,Electronics,Electronics Product 217,94641.62,10.81,84411.82
+P0218,Electronics,Electronics Product 218,17195.49,15.61,14511.66
+P0219,Electronics,Electronics Product 219,15550.64,16.57,12973.14
+P0220,Electronics,Electronics Product 220,107405.12,10.65,95965.63
+P0221,Electronics,Electronics Product 221,17301.47,17.89,14205.7
+P0222,Electronics,Electronics Product 222,59269.27,12.97,51584.92
+P0223,Electronics,Electronics Product 223,122855.94,17.58,101260.33
+P0224,Electronics,Electronics Product 224,147970.15,16.03,124254.94
+P0225,Electronics,Electronics Product 225,59557.64,10.67,53204.03
+P0226,Electronics,Electronics Product 226,117686.3,14.47,100660.35
+P0227,Electronics,Electronics Product 227,66512.19,17.25,55038.28
+P0228,Electronics,Electronics Product 228,21123.63,13.94,18178.79
+P0229,Electronics,Electronics Product 229,6646.28,13.75,5732.46
+P0230,Electronics,Electronics Product 230,13163.97,10.95,11722.45
+P0231,Electronics,Electronics Product 231,22041.31,15.19,18692.42
+P0232,Electronics,Electronics Product 232,113176.51,14.67,96576.97
+P0233,Electronics,Electronics Product 233,144515.02,13.0,125729.56
+P0234,Electronics,Electronics Product 234,46428.25,16.95,38559.22
+P0235,Electronics,Electronics Product 235,37421.4,17.71,30795.65
+P0236,Electronics,Electronics Product 236,6762.4,17.76,5561.46
+P0237,Electronics,Electronics Product 237,11258.19,17.13,9329.76
+P0238,Electronics,Electronics Product 238,81516.66,17.94,66889.54
+P0239,Electronics,Electronics Product 239,15700.5,14.43,13434.79
+P0240,Electronics,Electronics Product 240,145548.87,14.18,124903.08
+P0241,Electronics,Electronics Product 241,96262.8,15.57,81278.54
+P0242,Electronics,Electronics Product 242,70908.45,15.02,60257.68
+P0243,Electronics,Electronics Product 243,89725.58,17.21,74284.46
+P0244,Electronics,Electronics Product 244,11589.73,12.25,10170.25
+P0245,Electronics,Electronics Product 245,142809.67,17.12,118357.64
+P0246,Electronics,Electronics Product 246,71070.23,14.96,60437.37
+P0247,Electronics,Electronics Product 247,45220.27,11.5,40017.69
+P0248,Electronics,Electronics Product 248,72236.27,12.83,62970.65
+P0249,Electronics,Electronics Product 249,89630.14,10.62,80109.73
+P0250,Electronics,Electronics Product 250,146287.25,17.89,120116.92
+P0251,Fashion,Fashion Product 1,10623.34,43.04,6050.9
+P0252,Fashion,Fashion Product 2,4988.15,47.21,2633.4
+P0253,Fashion,Fashion Product 3,10428.6,37.44,6524.21
+P0254,Fashion,Fashion Product 4,13708.44,47.34,7219.13
+P0255,Fashion,Fashion Product 5,14272.1,45.89,7723.23
+P0256,Fashion,Fashion Product 6,9394.52,41.27,5517.06
+P0257,Fashion,Fashion Product 7,14024.56,47.99,7294.04
+P0258,Fashion,Fashion Product 8,1155.67,35.4,746.62
+P0259,Fashion,Fashion Product 9,5958.72,47.16,3148.69
+P0260,Fashion,Fashion Product 10,14815.5,37.26,9295.8
+P0261,Fashion,Fashion Product 11,9114.9,40.71,5403.91
+P0262,Fashion,Fashion Product 12,14563.76,47.63,7626.78
+P0263,Fashion,Fashion Product 13,12655.77,42.03,7336.5
+P0264,Fashion,Fashion Product 14,6514.88,39.1,3967.49
+P0265,Fashion,Fashion Product 15,1317.44,47.97,685.46
+P0266,Fashion,Fashion Product 16,12287.06,50.0,6144.05
+P0267,Fashion,Fashion Product 17,14951.23,43.33,8472.64
+P0268,Fashion,Fashion Product 18,11650.32,49.17,5921.68
+P0269,Fashion,Fashion Product 19,12819.89,38.71,7857.28
+P0270,Fashion,Fashion Product 20,7032.89,36.94,4435.12
+P0271,Fashion,Fashion Product 21,14333.74,44.09,8013.62
+P0272,Fashion,Fashion Product 22,3815.32,45.08,2095.55
+P0273,Fashion,Fashion Product 23,9462.86,40.37,5642.47
+P0274,Fashion,Fashion Product 24,2146.59,45.07,1179.04
+P0275,Fashion,Fashion Product 25,8044.46,46.58,4296.97
+P0276,Fashion,Fashion Product 26,8042.37,47.78,4199.51
+P0277,Fashion,Fashion Product 27,8502.65,43.41,4811.3
+P0278,Fashion,Fashion Product 28,13211.48,41.05,7787.87
+P0279,Fashion,Fashion Product 29,2443.22,35.43,1577.55
+P0280,Fashion,Fashion Product 30,11449.49,44.3,6376.83
+P0281,Fashion,Fashion Product 31,10709.16,38.19,6618.85
+P0282,Fashion,Fashion Product 32,2477.39,35.22,1604.9
+P0283,Fashion,Fashion Product 33,5583.52,43.85,3135.22
+P0284,Fashion,Fashion Product 34,6187.54,41.56,3615.87
+P0285,Fashion,Fashion Product 35,13610.3,40.22,8135.72
+P0286,Fashion,Fashion Product 36,7952.85,46.75,4234.51
+P0287,Fashion,Fashion Product 37,6249.87,44.33,3479.22
+P0288,Fashion,Fashion Product 38,13004.27,49.24,6600.6
+P0289,Fashion,Fashion Product 39,2632.57,48.9,1345.27
+P0290,Fashion,Fashion Product 40,7635.69,38.87,4667.42
+P0291,Fashion,Fashion Product 41,7157.47,49.7,3600.17
+P0292,Fashion,Fashion Product 42,7642.96,39.93,4591.03
+P0293,Fashion,Fashion Product 43,9684.31,38.6,5945.96
+P0294,Fashion,Fashion Product 44,1600.02,36.93,1009.08
+P0295,Fashion,Fashion Product 45,2356.66,37.28,1478.13
+P0296,Fashion,Fashion Product 46,2512.99,44.61,1391.87
+P0297,Fashion,Fashion Product 47,3137.26,40.19,1876.55
+P0298,Fashion,Fashion Product 48,13503.43,42.11,7817.21
+P0299,Fashion,Fashion Product 49,10179.59,37.58,6353.61
+P0300,Fashion,Fashion Product 50,3288.19,35.61,2117.17
+P0301,Fashion,Fashion Product 51,2949.56,39.18,1793.96
+P0302,Fashion,Fashion Product 52,3066.65,36.33,1952.52
+P0303,Fashion,Fashion Product 53,2249.22,41.91,1306.53
+P0304,Fashion,Fashion Product 54,3491.84,40.46,2078.9
+P0305,Fashion,Fashion Product 55,7799.55,45.36,4261.99
+P0306,Fashion,Fashion Product 56,1070.03,46.99,567.21
+P0307,Fashion,Fashion Product 57,9604.56,36.23,6125.17
+P0308,Fashion,Fashion Product 58,13166.89,48.81,6739.72
+P0309,Fashion,Fashion Product 59,1385.63,39.15,843.11
+P0310,Fashion,Fashion Product 60,12189.92,46.22,6555.26
+P0311,Fashion,Fashion Product 61,3175.55,38.14,1964.39
+P0312,Fashion,Fashion Product 62,5871.85,42.27,3389.94
+P0313,Fashion,Fashion Product 63,9464.69,40.53,5628.3
+P0314,Fashion,Fashion Product 64,7206.75,46.21,3876.36
+P0315,Fashion,Fashion Product 65,1031.91,38.79,631.67
+P0316,Fashion,Fashion Product 66,10843.57,48.43,5592.23
+P0317,Fashion,Fashion Product 67,7919.32,42.98,4515.46
+P0318,Fashion,Fashion Product 68,2053.99,41.71,1197.25
+P0319,Fashion,Fashion Product 69,8222.95,38.64,5045.84
+P0320,Fashion,Fashion Product 70,4404.03,40.66,2613.38
+P0321,Fashion,Fashion Product 71,791.03,39.83,475.95
+P0322,Fashion,Fashion Product 72,3566.0,39.91,2142.72
+P0323,Fashion,Fashion Product 73,2236.55,48.36,1155.0
+P0324,Fashion,Fashion Product 74,9107.09,45.19,4991.91
+P0325,Fashion,Fashion Product 75,11942.98,42.48,6870.01
+P0326,Fashion,Fashion Product 76,1760.34,43.06,1002.4
+P0327,Fashion,Fashion Product 77,9009.2,46.18,4848.61
+P0328,Fashion,Fashion Product 78,6759.06,36.91,4264.04
+P0329,Fashion,Fashion Product 79,4614.75,40.45,2748.26
+P0330,Fashion,Fashion Product 80,9865.8,43.56,5568.09
+P0331,Fashion,Fashion Product 81,5663.4,49.8,2843.16
+P0332,Fashion,Fashion Product 82,9283.73,38.56,5704.08
+P0333,Fashion,Fashion Product 83,1975.85,37.29,1239.0
+P0334,Fashion,Fashion Product 84,4066.39,37.41,2545.14
+P0335,Fashion,Fashion Product 85,3205.22,39.28,1946.33
+P0336,Fashion,Fashion Product 86,3013.92,48.45,1553.63
+P0337,Fashion,Fashion Product 87,1663.39,42.87,950.33
+P0338,Fashion,Fashion Product 88,6450.75,49.74,3242.43
+P0339,Fashion,Fashion Product 89,2124.56,40.97,1254.18
+P0340,Fashion,Fashion Product 90,14557.32,47.98,7572.34
+P0341,Fashion,Fashion Product 91,12347.55,38.87,7548.23
+P0342,Fashion,Fashion Product 92,2977.87,45.03,1636.95
+P0343,Fashion,Fashion Product 93,13975.95,43.35,7917.17
+P0344,Fashion,Fashion Product 94,8788.38,39.2,5343.37
+P0345,Fashion,Fashion Product 95,11657.65,37.81,7250.4
+P0346,Fashion,Fashion Product 96,5193.35,41.38,3044.26
+P0347,Fashion,Fashion Product 97,7860.35,38.64,4823.41
+P0348,Fashion,Fashion Product 98,2165.13,44.16,1209.03
+P0349,Fashion,Fashion Product 99,4685.14,43.72,2636.87
+P0350,Fashion,Fashion Product 100,2738.26,42.22,1582.25
+P0351,Fashion,Fashion Product 101,8222.55,35.78,5280.74
+P0352,Fashion,Fashion Product 102,5380.76,37.02,3389.01
+P0353,Fashion,Fashion Product 103,1418.94,49.85,711.61
+P0354,Fashion,Fashion Product 104,5174.13,47.15,2734.63
+P0355,Fashion,Fashion Product 105,4192.29,45.22,2296.43
+P0356,Fashion,Fashion Product 106,11523.3,43.93,6460.59
+P0357,Fashion,Fashion Product 107,7337.85,41.18,4316.3
+P0358,Fashion,Fashion Product 108,5558.59,48.94,2838.05
+P0359,Fashion,Fashion Product 109,12543.98,49.48,6337.8
+P0360,Fashion,Fashion Product 110,2302.31,45.96,1244.1
+P0361,Fashion,Fashion Product 111,14105.94,37.72,8785.39
+P0362,Fashion,Fashion Product 112,1464.2,46.12,788.96
+P0363,Fashion,Fashion Product 113,8829.86,47.63,4624.42
+P0364,Fashion,Fashion Product 114,2526.7,46.93,1340.94
+P0365,Fashion,Fashion Product 115,3423.6,37.45,2141.29
+P0366,Fashion,Fashion Product 116,2881.85,47.22,1521.08
+P0367,Fashion,Fashion Product 117,10145.36,42.85,5798.48
+P0368,Fashion,Fashion Product 118,5703.04,48.16,2956.57
+P0369,Fashion,Fashion Product 119,6190.45,47.25,3265.53
+P0370,Fashion,Fashion Product 120,6867.46,40.65,4075.55
+P0371,Fashion,Fashion Product 121,7208.86,39.52,4359.87
+P0372,Fashion,Fashion Product 122,11340.34,42.54,6516.07
+P0373,Fashion,Fashion Product 123,3867.08,48.49,1991.8
+P0374,Fashion,Fashion Product 124,6066.42,43.15,3448.56
+P0375,Fashion,Fashion Product 125,13643.85,44.36,7590.95
+P0376,Fashion,Fashion Product 126,2195.02,49.1,1117.32
+P0377,Fashion,Fashion Product 127,9601.77,40.02,5758.8
+P0378,Fashion,Fashion Product 128,2519.45,46.91,1337.56
+P0379,Fashion,Fashion Product 129,9491.05,43.0,5409.72
+P0380,Fashion,Fashion Product 130,13461.44,46.83,7157.59
+P0381,Fashion,Fashion Product 131,2699.29,39.68,1628.32
+P0382,Fashion,Fashion Product 132,4103.09,46.16,2209.14
+P0383,Fashion,Fashion Product 133,986.22,43.55,556.74
+P0384,Fashion,Fashion Product 134,11555.65,48.15,5991.43
+P0385,Fashion,Fashion Product 135,5460.19,47.32,2876.49
+P0386,Fashion,Fashion Product 136,2104.16,47.7,1100.54
+P0387,Fashion,Fashion Product 137,2348.59,40.96,1386.62
+P0388,Fashion,Fashion Product 138,12060.78,37.25,7568.29
+P0389,Fashion,Fashion Product 139,3824.15,45.83,2071.39
+P0390,Fashion,Fashion Product 140,10940.53,44.62,6059.17
+P0391,Fashion,Fashion Product 141,10562.25,43.14,6005.61
+P0392,Fashion,Fashion Product 142,4151.09,40.19,2482.95
+P0393,Fashion,Fashion Product 143,3133.17,48.63,1609.61
+P0394,Fashion,Fashion Product 144,8959.18,41.01,5284.77
+P0395,Fashion,Fashion Product 145,7199.08,49.21,3656.47
+P0396,Fashion,Fashion Product 146,2723.6,43.79,1530.84
+P0397,Fashion,Fashion Product 147,7835.39,44.17,4374.35
+P0398,Fashion,Fashion Product 148,762.6,48.08,395.93
+P0399,Fashion,Fashion Product 149,14015.72,43.48,7922.1
+P0400,Fashion,Fashion Product 150,10601.44,48.84,5423.96
+P0401,Fashion,Fashion Product 151,10754.96,37.29,6744.64
+P0402,Fashion,Fashion Product 152,8856.18,44.1,4950.54
+P0403,Fashion,Fashion Product 153,6649.89,46.05,3587.84
+P0404,Fashion,Fashion Product 154,14048.32,48.88,7181.01
+P0405,Fashion,Fashion Product 155,7037.17,36.7,4454.63
+P0406,Fashion,Fashion Product 156,14780.2,47.58,7747.27
+P0407,Fashion,Fashion Product 157,2307.61,48.81,1181.2
+P0408,Fashion,Fashion Product 158,13113.5,42.78,7503.21
+P0409,Fashion,Fashion Product 159,9073.49,40.99,5354.72
+P0410,Fashion,Fashion Product 160,1294.04,40.03,776.06
+P0411,Fashion,Fashion Product 161,12141.38,35.07,7883.46
+P0412,Fashion,Fashion Product 162,5335.74,40.97,3149.55
+P0413,Fashion,Fashion Product 163,8292.24,48.8,4245.8
+P0414,Fashion,Fashion Product 164,5522.02,40.2,3301.93
+P0415,Fashion,Fashion Product 165,11193.77,41.78,6516.65
+P0416,Fashion,Fashion Product 166,3756.77,41.79,2186.94
+P0417,Fashion,Fashion Product 167,2542.43,37.65,1585.31
+P0418,Fashion,Fashion Product 168,7726.33,41.28,4536.6
+P0419,Fashion,Fashion Product 169,13765.27,40.44,8199.16
+P0420,Fashion,Fashion Product 170,8918.53,44.48,4951.21
+P0421,Fashion,Fashion Product 171,689.87,44.95,379.75
+P0422,Fashion,Fashion Product 172,3081.52,49.42,1558.76
+P0423,Fashion,Fashion Product 173,2655.61,41.22,1560.98
+P0424,Fashion,Fashion Product 174,1737.57,49.95,869.6
+P0425,Fashion,Fashion Product 175,7781.83,43.93,4363.21
+P0426,Fashion,Fashion Product 176,1472.61,46.25,791.54
+P0427,Fashion,Fashion Product 177,3543.63,48.47,1826.0
+P0428,Fashion,Fashion Product 178,3474.52,37.86,2159.06
+P0429,Fashion,Fashion Product 179,1029.97,42.08,596.55
+P0430,Fashion,Fashion Product 180,8690.2,35.99,5562.97
+P0431,Fashion,Fashion Product 181,11745.15,41.8,6835.76
+P0432,Fashion,Fashion Product 182,8103.66,41.61,4731.61
+P0433,Fashion,Fashion Product 183,6311.06,43.39,3572.4
+P0434,Fashion,Fashion Product 184,2750.98,37.73,1713.07
+P0435,Fashion,Fashion Product 185,12995.89,49.19,6602.99
+P0436,Fashion,Fashion Product 186,5912.99,39.06,3603.3
+P0437,Fashion,Fashion Product 187,9837.99,41.13,5791.53
+P0438,Fashion,Fashion Product 188,868.1,37.34,543.93
+P0439,Fashion,Fashion Product 189,10881.6,44.88,5997.52
+P0440,Fashion,Fashion Product 190,892.89,38.33,550.65
+P0441,Fashion,Fashion Product 191,3850.58,45.08,2114.8
+P0442,Fashion,Fashion Product 192,785.8,36.56,498.5
+P0443,Fashion,Fashion Product 193,12098.78,37.68,7540.18
+P0444,Fashion,Fashion Product 194,9964.82,38.57,6121.11
+P0445,Fashion,Fashion Product 195,1941.9,38.65,1191.4
+P0446,Fashion,Fashion Product 196,10972.87,47.84,5723.95
+P0447,Fashion,Fashion Product 197,12538.19,40.96,7402.83
+P0448,Fashion,Fashion Product 198,10187.23,38.07,6308.47
+P0449,Fashion,Fashion Product 199,4750.64,48.45,2449.19
+P0450,Fashion,Fashion Product 200,688.53,36.28,438.71
+P0451,Home & Furniture,Home & Furniture Product 1,18215.13,20.4,14499.61
+P0452,Home & Furniture,Home & Furniture Product 2,16151.96,28.75,11508.98
+P0453,Home & Furniture,Home & Furniture Product 3,34871.11,33.39,23227.62
+P0454,Home & Furniture,Home & Furniture Product 4,65760.6,25.13,49236.76
+P0455,Home & Furniture,Home & Furniture Product 5,22235.03,25.7,16521.65
+P0456,Home & Furniture,Home & Furniture Product 6,48043.01,24.02,36502.62
+P0457,Home & Furniture,Home & Furniture Product 7,50683.61,26.14,37434.32
+P0458,Home & Furniture,Home & Furniture Product 8,45059.68,26.54,33099.99
+P0459,Home & Furniture,Home & Furniture Product 9,24968.33,34.23,16422.47
+P0460,Home & Furniture,Home & Furniture Product 10,61561.25,22.1,47955.17
+P0461,Home & Furniture,Home & Furniture Product 11,69740.5,27.31,50693.35
+P0462,Home & Furniture,Home & Furniture Product 12,71775.07,32.0,48808.61
+P0463,Home & Furniture,Home & Furniture Product 13,35166.65,20.34,28014.8
+P0464,Home & Furniture,Home & Furniture Product 14,22956.83,28.12,16500.34
+P0465,Home & Furniture,Home & Furniture Product 15,51411.3,23.87,39140.29
+P0466,Home & Furniture,Home & Furniture Product 16,12869.77,32.52,8684.01
+P0467,Home & Furniture,Home & Furniture Product 17,78783.37,27.89,56814.35
+P0468,Home & Furniture,Home & Furniture Product 18,15390.98,24.08,11684.13
+P0469,Home & Furniture,Home & Furniture Product 19,3434.47,33.71,2276.56
+P0470,Home & Furniture,Home & Furniture Product 20,11184.58,28.65,7980.45
+P0471,Home & Furniture,Home & Furniture Product 21,23376.31,28.31,16757.85
+P0472,Home & Furniture,Home & Furniture Product 22,52810.79,32.45,35675.73
+P0473,Home & Furniture,Home & Furniture Product 23,18100.86,20.16,14450.83
+P0474,Home & Furniture,Home & Furniture Product 24,12677.08,33.5,8430.22
+P0475,Home & Furniture,Home & Furniture Product 25,70163.43,28.96,49843.26
+P0476,Home & Furniture,Home & Furniture Product 26,48840.32,29.98,34200.16
+P0477,Home & Furniture,Home & Furniture Product 27,15678.96,33.72,10392.61
+P0478,Home & Furniture,Home & Furniture Product 28,34664.1,25.75,25739.11
+P0479,Home & Furniture,Home & Furniture Product 29,42475.58,20.7,33681.23
+P0480,Home & Furniture,Home & Furniture Product 30,14970.1,31.07,10318.82
+P0481,Home & Furniture,Home & Furniture Product 31,8458.3,29.05,6001.39
+P0482,Home & Furniture,Home & Furniture Product 32,21137.23,25.84,15675.49
+P0483,Home & Furniture,Home & Furniture Product 33,24518.11,25.34,18306.43
+P0484,Home & Furniture,Home & Furniture Product 34,58085.58,24.46,43879.69
+P0485,Home & Furniture,Home & Furniture Product 35,46179.56,27.14,33646.08
+P0486,Home & Furniture,Home & Furniture Product 36,53766.35,34.05,35457.59
+P0487,Home & Furniture,Home & Furniture Product 37,59140.62,23.22,45405.74
+P0488,Home & Furniture,Home & Furniture Product 38,4432.28,23.93,3371.46
+P0489,Home & Furniture,Home & Furniture Product 39,48416.08,20.77,38359.39
+P0490,Home & Furniture,Home & Furniture Product 40,40716.57,28.95,28928.05
+P0491,Home & Furniture,Home & Furniture Product 41,28071.02,31.56,19210.77
+P0492,Home & Furniture,Home & Furniture Product 42,10314.66,21.13,8135.48
+P0493,Home & Furniture,Home & Furniture Product 43,58798.72,27.43,42668.84
+P0494,Home & Furniture,Home & Furniture Product 44,55695.39,26.52,40923.63
+P0495,Home & Furniture,Home & Furniture Product 45,21219.36,32.29,14368.36
+P0496,Home & Furniture,Home & Furniture Product 46,64354.44,30.42,44777.53
+P0497,Home & Furniture,Home & Furniture Product 47,23227.32,28.85,16525.44
+P0498,Home & Furniture,Home & Furniture Product 48,30155.96,21.37,23710.51
+P0499,Home & Furniture,Home & Furniture Product 49,73550.46,22.05,57330.91
+P0500,Home & Furniture,Home & Furniture Product 50,76118.51,26.69,55802.42
+P0501,Home & Furniture,Home & Furniture Product 51,16440.37,28.13,11815.94
+P0502,Home & Furniture,Home & Furniture Product 52,70089.78,30.98,48373.6
+P0503,Home & Furniture,Home & Furniture Product 53,64911.77,29.88,45515.0
+P0504,Home & Furniture,Home & Furniture Product 54,55997.57,32.74,37665.12
+P0505,Home & Furniture,Home & Furniture Product 55,21474.1,27.34,15602.79
+P0506,Home & Furniture,Home & Furniture Product 56,19254.34,34.82,12550.94
+P0507,Home & Furniture,Home & Furniture Product 57,75636.63,20.59,60061.99
+P0508,Home & Furniture,Home & Furniture Product 58,57034.86,33.88,37712.18
+P0509,Home & Furniture,Home & Furniture Product 59,16084.88,28.52,11497.6
+P0510,Home & Furniture,Home & Furniture Product 60,73408.09,20.51,58352.68
+P0511,Home & Furniture,Home & Furniture Product 61,56398.78,24.46,42603.51
+P0512,Home & Furniture,Home & Furniture Product 62,74102.9,34.57,48488.59
+P0513,Home & Furniture,Home & Furniture Product 63,75652.79,27.11,55140.88
+P0514,Home & Furniture,Home & Furniture Product 64,69239.33,32.67,46620.06
+P0515,Home & Furniture,Home & Furniture Product 65,26889.84,32.43,18168.46
+P0516,Home & Furniture,Home & Furniture Product 66,4886.6,28.94,3472.22
+P0517,Home & Furniture,Home & Furniture Product 67,19940.69,21.81,15591.92
+P0518,Home & Furniture,Home & Furniture Product 68,8002.35,30.44,5566.09
+P0519,Home & Furniture,Home & Furniture Product 69,28510.25,30.87,19708.71
+P0520,Home & Furniture,Home & Furniture Product 70,7097.79,24.73,5342.56
+P0521,Home & Furniture,Home & Furniture Product 71,44080.32,31.86,30035.96
+P0522,Home & Furniture,Home & Furniture Product 72,26862.7,29.39,18968.19
+P0523,Home & Furniture,Home & Furniture Product 73,71106.26,29.24,50316.25
+P0524,Home & Furniture,Home & Furniture Product 74,20170.84,20.37,16062.84
+P0525,Home & Furniture,Home & Furniture Product 75,69867.71,20.32,55671.26
+P0526,Home & Furniture,Home & Furniture Product 76,70226.73,27.93,50609.56
+P0527,Home & Furniture,Home & Furniture Product 77,75247.28,31.98,51181.88
+P0528,Home & Furniture,Home & Furniture Product 78,79838.86,25.26,59671.02
+P0529,Home & Furniture,Home & Furniture Product 79,61840.69,26.03,45744.2
+P0530,Home & Furniture,Home & Furniture Product 80,39430.3,29.41,27832.83
+P0531,Home & Furniture,Home & Furniture Product 81,70146.81,34.76,45762.9
+P0532,Home & Furniture,Home & Furniture Product 82,61925.33,26.27,45659.71
+P0533,Home & Furniture,Home & Furniture Product 83,34865.85,31.06,24035.21
+P0534,Home & Furniture,Home & Furniture Product 84,20624.62,21.66,16157.92
+P0535,Home & Furniture,Home & Furniture Product 85,29660.53,24.31,22450.47
+P0536,Home & Furniture,Home & Furniture Product 86,25112.03,23.5,19209.67
+P0537,Home & Furniture,Home & Furniture Product 87,5283.27,20.27,4212.45
+P0538,Home & Furniture,Home & Furniture Product 88,79042.35,26.42,58162.05
+P0539,Home & Furniture,Home & Furniture Product 89,31977.48,30.19,22321.97
+P0540,Home & Furniture,Home & Furniture Product 90,19023.8,34.25,12508.26
+P0541,Home & Furniture,Home & Furniture Product 91,63334.91,21.34,49818.5
+P0542,Home & Furniture,Home & Furniture Product 92,34571.3,33.19,23098.2
+P0543,Home & Furniture,Home & Furniture Product 93,75689.1,27.01,55244.7
+P0544,Home & Furniture,Home & Furniture Product 94,49846.09,22.51,38627.97
+P0545,Home & Furniture,Home & Furniture Product 95,79311.15,23.48,60692.8
+P0546,Home & Furniture,Home & Furniture Product 96,75533.08,29.74,53065.99
+P0547,Home & Furniture,Home & Furniture Product 97,49403.47,27.69,35723.49
+P0548,Home & Furniture,Home & Furniture Product 98,19992.25,22.65,15464.42
+P0549,Home & Furniture,Home & Furniture Product 99,19197.92,22.8,14821.46
+P0550,Home & Furniture,Home & Furniture Product 100,62807.59,25.25,46947.49
+P0551,Home & Furniture,Home & Furniture Product 101,6511.73,34.54,4262.8
+P0552,Home & Furniture,Home & Furniture Product 102,70935.3,33.92,46876.68
+P0553,Home & Furniture,Home & Furniture Product 103,79602.81,22.61,61605.87
+P0554,Home & Furniture,Home & Furniture Product 104,32906.88,31.37,22582.81
+P0555,Home & Furniture,Home & Furniture Product 105,56289.61,22.31,43732.28
+P0556,Home & Furniture,Home & Furniture Product 106,65634.98,23.37,50298.31
+P0557,Home & Furniture,Home & Furniture Product 107,19457.77,28.05,13998.97
+P0558,Home & Furniture,Home & Furniture Product 108,48249.31,28.7,34401.14
+P0559,Home & Furniture,Home & Furniture Product 109,9135.97,33.16,6106.31
+P0560,Home & Furniture,Home & Furniture Product 110,22716.8,21.94,17732.12
+P0561,Home & Furniture,Home & Furniture Product 111,71322.35,34.33,46833.98
+P0562,Home & Furniture,Home & Furniture Product 112,69245.95,32.14,46988.41
+P0563,Home & Furniture,Home & Furniture Product 113,53108.87,28.26,38098.79
+P0564,Home & Furniture,Home & Furniture Product 114,8784.97,26.13,6489.74
+P0565,Home & Furniture,Home & Furniture Product 115,31069.7,23.9,23645.19
+P0566,Home & Furniture,Home & Furniture Product 116,58426.77,27.44,42395.55
+P0567,Home & Furniture,Home & Furniture Product 117,8321.6,23.3,6382.44
+P0568,Home & Furniture,Home & Furniture Product 118,55294.18,21.14,43603.91
+P0569,Home & Furniture,Home & Furniture Product 119,68394.14,27.43,49635.54
+P0570,Home & Furniture,Home & Furniture Product 120,39485.75,28.89,28079.85
+P0571,Home & Furniture,Home & Furniture Product 121,66325.12,25.22,49599.82
+P0572,Home & Furniture,Home & Furniture Product 122,54885.26,28.49,39250.66
+P0573,Home & Furniture,Home & Furniture Product 123,22828.21,33.18,15253.93
+P0574,Home & Furniture,Home & Furniture Product 124,64199.23,29.88,45018.57
+P0575,Home & Furniture,Home & Furniture Product 125,68345.37,33.01,45784.97
+P0576,Home & Furniture,Home & Furniture Product 126,57252.31,32.56,38613.71
+P0577,Home & Furniture,Home & Furniture Product 127,56402.77,30.2,39367.95
+P0578,Home & Furniture,Home & Furniture Product 128,50251.69,31.29,34527.56
+P0579,Home & Furniture,Home & Furniture Product 129,14371.2,33.21,9598.08
+P0580,Home & Furniture,Home & Furniture Product 130,70003.8,20.44,55695.92
+P0581,Home & Furniture,Home & Furniture Product 131,66413.71,21.93,51847.16
+P0582,Home & Furniture,Home & Furniture Product 132,28139.27,31.15,19373.15
+P0583,Home & Furniture,Home & Furniture Product 133,14539.27,32.27,9847.52
+P0584,Home & Furniture,Home & Furniture Product 134,66906.47,27.61,48432.24
+P0585,Home & Furniture,Home & Furniture Product 135,2498.1,24.31,1890.92
+P0586,Home & Furniture,Home & Furniture Product 136,50120.3,34.72,32719.64
+P0587,Home & Furniture,Home & Furniture Product 137,51281.46,23.9,39026.7
+P0588,Home & Furniture,Home & Furniture Product 138,51452.44,28.1,36994.42
+P0589,Home & Furniture,Home & Furniture Product 139,62827.94,21.6,49254.15
+P0590,Home & Furniture,Home & Furniture Product 140,61360.18,28.12,44106.31
+P0591,Home & Furniture,Home & Furniture Product 141,77113.38,25.13,57736.26
+P0592,Home & Furniture,Home & Furniture Product 142,51344.51,33.98,33897.43
+P0593,Home & Furniture,Home & Furniture Product 143,9995.76,34.06,6591.36
+P0594,Home & Furniture,Home & Furniture Product 144,55655.09,21.02,43957.75
+P0595,Home & Furniture,Home & Furniture Product 145,25475.16,30.62,17674.01
+P0596,Home & Furniture,Home & Furniture Product 146,7253.35,28.73,5169.27
+P0597,Home & Furniture,Home & Furniture Product 147,28978.88,29.31,20484.09
+P0598,Home & Furniture,Home & Furniture Product 148,5567.88,33.07,3726.41
+P0599,Home & Furniture,Home & Furniture Product 149,77932.14,34.53,51019.7
+P0600,Home & Furniture,Home & Furniture Product 150,60472.84,21.95,47198.27
+P0601,Home & Furniture,Home & Furniture Product 151,61144.53,20.37,48690.12
+P0602,Home & Furniture,Home & Furniture Product 152,3725.64,24.85,2799.66
+P0603,Home & Furniture,Home & Furniture Product 153,40114.17,31.56,27455.7
+P0604,Home & Furniture,Home & Furniture Product 154,55297.04,26.69,40539.07
+P0605,Home & Furniture,Home & Furniture Product 155,23342.88,34.96,15182.94
+P0606,Home & Furniture,Home & Furniture Product 156,35242.14,26.77,25807.54
+P0607,Home & Furniture,Home & Furniture Product 157,14762.66,31.92,10050.1
+P0608,Home & Furniture,Home & Furniture Product 158,56107.21,23.31,43027.76
+P0609,Home & Furniture,Home & Furniture Product 159,8425.72,30.21,5880.52
+P0610,Home & Furniture,Home & Furniture Product 160,53051.87,24.1,40266.96
+P0611,Home & Furniture,Home & Furniture Product 161,76167.36,22.27,59208.03
+P0612,Home & Furniture,Home & Furniture Product 162,35722.11,34.15,23521.5
+P0613,Home & Furniture,Home & Furniture Product 163,34738.73,29.58,24463.75
+P0614,Home & Furniture,Home & Furniture Product 164,33012.36,24.11,25052.02
+P0615,Home & Furniture,Home & Furniture Product 165,78750.26,26.14,58164.93
+P0616,Home & Furniture,Home & Furniture Product 166,71739.74,23.45,54917.26
+P0617,Home & Furniture,Home & Furniture Product 167,18622.17,20.47,14810.77
+P0618,Home & Furniture,Home & Furniture Product 168,52830.01,25.53,39343.62
+P0619,Home & Furniture,Home & Furniture Product 169,69419.94,27.1,50608.42
+P0620,Home & Furniture,Home & Furniture Product 170,77519.09,22.78,59858.0
+P0621,Home & Furniture,Home & Furniture Product 171,69752.61,31.65,47676.64
+P0622,Home & Furniture,Home & Furniture Product 172,62131.9,32.67,41832.32
+P0623,Home & Furniture,Home & Furniture Product 173,61359.87,29.39,43324.18
+P0624,Home & Furniture,Home & Furniture Product 174,12237.1,20.49,9729.98
+P0625,Home & Furniture,Home & Furniture Product 175,73826.13,29.25,52232.17
+P0626,Home & Furniture,Home & Furniture Product 176,64129.91,27.22,46671.93
+P0627,Home & Furniture,Home & Furniture Product 177,11150.04,21.88,8710.66
+P0628,Home & Furniture,Home & Furniture Product 178,55474.09,26.45,40798.65
+P0629,Home & Furniture,Home & Furniture Product 179,17640.93,27.37,12811.92
+P0630,Home & Furniture,Home & Furniture Product 180,7008.3,28.73,4994.84
+P0631,Grocery,Grocery Product 1,1418.07,13.58,1225.45
+P0632,Grocery,Grocery Product 2,1620.77,11.19,1439.47
+P0633,Grocery,Grocery Product 3,156.94,8.51,143.59
+P0634,Grocery,Grocery Product 4,2023.22,11.36,1793.39
+P0635,Grocery,Grocery Product 5,3040.1,10.04,2734.82
+P0636,Grocery,Grocery Product 6,3505.41,14.02,3013.92
+P0637,Grocery,Grocery Product 7,3921.27,8.28,3596.69
+P0638,Grocery,Grocery Product 8,2454.48,8.73,2240.1
+P0639,Grocery,Grocery Product 9,1286.02,14.91,1094.32
+P0640,Grocery,Grocery Product 10,798.23,11.49,706.49
+P0641,Grocery,Grocery Product 11,3128.96,12.92,2724.79
+P0642,Grocery,Grocery Product 12,2842.28,8.07,2612.95
+P0643,Grocery,Grocery Product 13,1699.66,11.62,1502.09
+P0644,Grocery,Grocery Product 14,530.55,10.45,475.08
+P0645,Grocery,Grocery Product 15,262.7,8.55,240.23
+P0646,Grocery,Grocery Product 16,2044.92,8.93,1862.33
+P0647,Grocery,Grocery Product 17,2880.95,12.83,2511.43
+P0648,Grocery,Grocery Product 18,4022.87,9.4,3644.68
+P0649,Grocery,Grocery Product 19,920.66,8.73,840.27
+P0650,Grocery,Grocery Product 20,3218.51,12.95,2801.86
+P0651,Grocery,Grocery Product 21,254.77,14.55,217.69
+P0652,Grocery,Grocery Product 22,354.66,11.79,312.85
+P0653,Grocery,Grocery Product 23,3574.4,14.1,3070.52
+P0654,Grocery,Grocery Product 24,3599.03,13.61,3109.12
+P0655,Grocery,Grocery Product 25,1763.31,13.7,1521.67
+P0656,Grocery,Grocery Product 26,492.56,14.26,422.3
+P0657,Grocery,Grocery Product 27,2783.2,13.72,2401.32
+P0658,Grocery,Grocery Product 28,2316.36,12.51,2026.7
+P0659,Grocery,Grocery Product 29,2679.37,13.12,2327.81
+P0660,Grocery,Grocery Product 30,499.99,8.42,457.88
+P0661,Grocery,Grocery Product 31,1310.81,9.12,1191.3
+P0662,Grocery,Grocery Product 32,4371.74,9.53,3954.92
+P0663,Grocery,Grocery Product 33,4881.74,10.36,4376.08
+P0664,Grocery,Grocery Product 34,992.38,13.53,858.13
+P0665,Grocery,Grocery Product 35,3327.67,11.49,2945.41
+P0666,Grocery,Grocery Product 36,2821.28,13.03,2453.54
+P0667,Grocery,Grocery Product 37,1219.43,14.97,1036.83
+P0668,Grocery,Grocery Product 38,4876.49,12.55,4264.38
+P0669,Grocery,Grocery Product 39,1077.76,12.76,940.22
+P0670,Grocery,Grocery Product 40,453.77,8.21,416.5
+P0671,Grocery,Grocery Product 41,1362.65,11.24,1209.51
+P0672,Grocery,Grocery Product 42,4354.54,13.09,3784.52
+P0673,Grocery,Grocery Product 43,3739.26,10.98,3328.75
+P0674,Grocery,Grocery Product 44,1795.08,10.6,1604.85
+P0675,Grocery,Grocery Product 45,4939.48,8.28,4530.46
+P0676,Grocery,Grocery Product 46,4348.45,12.05,3824.43
+P0677,Grocery,Grocery Product 47,2249.22,13.08,1955.09
+P0678,Grocery,Grocery Product 48,2484.68,14.11,2133.99
+P0679,Grocery,Grocery Product 49,4513.44,10.95,4019.13
+P0680,Grocery,Grocery Product 50,1456.46,12.15,1279.55
+P0681,Grocery,Grocery Product 51,4570.58,9.47,4137.53
+P0682,Grocery,Grocery Product 52,3152.54,12.42,2760.96
+P0683,Grocery,Grocery Product 53,3692.25,8.92,3362.87
+P0684,Grocery,Grocery Product 54,3607.54,14.36,3089.38
+P0685,Grocery,Grocery Product 55,980.45,9.66,885.71
+P0686,Grocery,Grocery Product 56,4859.84,9.27,4409.48
+P0687,Grocery,Grocery Product 57,4286.49,11.45,3795.86
+P0688,Grocery,Grocery Product 58,1311.43,14.1,1126.58
+P0689,Grocery,Grocery Product 59,2282.0,11.6,2017.2
+P0690,Grocery,Grocery Product 60,1860.24,12.15,1634.21
+P0691,Grocery,Grocery Product 61,901.27,10.74,804.49
+P0692,Grocery,Grocery Product 62,4850.12,9.81,4374.47
+P0693,Grocery,Grocery Product 63,3318.01,10.28,2977.04
+P0694,Grocery,Grocery Product 64,3890.02,8.92,3543.18
+P0695,Grocery,Grocery Product 65,4852.12,11.18,4309.82
+P0696,Grocery,Grocery Product 66,1256.65,8.51,1149.65
+P0697,Grocery,Grocery Product 67,931.81,11.64,823.37
+P0698,Grocery,Grocery Product 68,1751.32,13.8,1509.6
+P0699,Grocery,Grocery Product 69,2211.35,9.74,1995.94
+P0700,Grocery,Grocery Product 70,3124.01,12.95,2719.53
+P0701,Grocery,Grocery Product 71,918.51,9.17,834.25
+P0702,Grocery,Grocery Product 72,279.69,13.15,242.9
+P0703,Grocery,Grocery Product 73,3352.64,11.32,2973.04
+P0704,Grocery,Grocery Product 74,4236.44,13.64,3658.6
+P0705,Grocery,Grocery Product 75,2968.24,14.08,2550.37
+P0706,Grocery,Grocery Product 76,1108.62,8.78,1011.25
+P0707,Grocery,Grocery Product 77,1421.77,8.4,1302.35
+P0708,Grocery,Grocery Product 78,2702.73,14.56,2309.31
+P0709,Grocery,Grocery Product 79,292.78,8.85,266.86
+P0710,Grocery,Grocery Product 80,2315.78,14.54,1979.13
+P0711,Grocery,Grocery Product 81,1649.16,11.55,1458.68
+P0712,Grocery,Grocery Product 82,303.71,9.04,276.26
+P0713,Grocery,Grocery Product 83,4934.49,14.76,4206.36
+P0714,Grocery,Grocery Product 84,124.21,14.66,105.99
+P0715,Grocery,Grocery Product 85,3231.69,14.08,2776.81
+P0716,Grocery,Grocery Product 86,2328.23,11.61,2057.94
+P0717,Grocery,Grocery Product 87,2495.35,12.67,2179.24
+P0718,Grocery,Grocery Product 88,784.29,8.21,719.9
+P0719,Grocery,Grocery Product 89,1608.86,12.93,1400.79
+P0720,Grocery,Grocery Product 90,1089.08,12.71,950.62
+P0721,Grocery,Grocery Product 91,4852.57,8.66,4432.47
+P0722,Grocery,Grocery Product 92,3395.75,11.11,3018.61
+P0723,Grocery,Grocery Product 93,4353.9,9.24,3951.59
+P0724,Grocery,Grocery Product 94,3493.87,13.87,3009.38
+P0725,Grocery,Grocery Product 95,4728.61,12.78,4124.16
+P0726,Grocery,Grocery Product 96,2536.16,12.32,2223.58
+P0727,Grocery,Grocery Product 97,4357.63,11.99,3834.97
+P0728,Grocery,Grocery Product 98,248.9,14.52,212.77
+P0729,Grocery,Grocery Product 99,3478.68,12.74,3035.65
+P0730,Grocery,Grocery Product 100,1156.81,12.61,1010.91
+P0731,Grocery,Grocery Product 101,2029.94,12.56,1775.0
+P0732,Grocery,Grocery Product 102,622.31,12.6,543.86
+P0733,Grocery,Grocery Product 103,4997.13,8.34,4580.49
+P0734,Grocery,Grocery Product 104,4888.15,10.85,4357.87
+P0735,Grocery,Grocery Product 105,4366.69,13.48,3778.21
+P0736,Grocery,Grocery Product 106,2878.38,13.17,2499.32
+P0737,Grocery,Grocery Product 107,4404.73,10.83,3927.74
+P0738,Grocery,Grocery Product 108,1702.46,12.67,1486.71
+P0739,Grocery,Grocery Product 109,4058.45,13.34,3517.21
+P0740,Grocery,Grocery Product 110,4009.29,11.05,3566.3
+P0741,Grocery,Grocery Product 111,4107.39,8.84,3744.23
+P0742,Grocery,Grocery Product 112,2768.0,8.04,2545.44
+P0743,Grocery,Grocery Product 113,1690.47,10.57,1511.87
+P0744,Grocery,Grocery Product 114,2041.25,12.87,1778.57
+P0745,Grocery,Grocery Product 115,2003.93,11.14,1780.68
+P0746,Grocery,Grocery Product 116,1263.97,10.61,1129.82
+P0747,Grocery,Grocery Product 117,1213.62,8.51,1110.31
+P0748,Grocery,Grocery Product 118,3056.9,12.68,2669.36
+P0749,Grocery,Grocery Product 119,3135.5,11.24,2782.93
+P0750,Grocery,Grocery Product 120,1960.95,14.04,1685.57
+P0751,Grocery,Grocery Product 121,2643.5,11.35,2343.35
+P0752,Grocery,Grocery Product 122,225.65,10.39,202.2
+P0753,Grocery,Grocery Product 123,1962.96,10.79,1751.12
+P0754,Grocery,Grocery Product 124,2942.84,11.74,2597.5
+P0755,Grocery,Grocery Product 125,3078.73,13.35,2667.6
+P0756,Grocery,Grocery Product 126,4083.63,13.03,3551.66
+P0757,Grocery,Grocery Product 127,4782.07,8.13,4393.4
+P0758,Grocery,Grocery Product 128,1059.31,8.05,974.01
+P0759,Grocery,Grocery Product 129,3272.63,14.29,2805.09
+P0760,Grocery,Grocery Product 130,1293.06,14.49,1105.71
+P0761,Grocery,Grocery Product 131,395.31,14.54,337.83
+P0762,Grocery,Grocery Product 132,1822.95,8.71,1664.17
+P0763,Grocery,Grocery Product 133,2480.77,9.8,2237.72
+P0764,Grocery,Grocery Product 134,1495.88,10.15,1344.03
+P0765,Grocery,Grocery Product 135,4034.83,11.77,3559.76
+P0766,Grocery,Grocery Product 136,1625.41,12.27,1425.93
+P0767,Grocery,Grocery Product 137,3609.14,9.91,3251.53
+P0768,Grocery,Grocery Product 138,2126.39,8.85,1938.14
+P0769,Grocery,Grocery Product 139,987.63,12.77,861.53
+P0770,Grocery,Grocery Product 140,989.05,11.68,873.57
+P0771,Grocery,Grocery Product 141,3574.33,8.75,3261.64
+P0772,Grocery,Grocery Product 142,2879.83,9.8,2597.72
+P0773,Grocery,Grocery Product 143,4818.34,11.38,4269.78
+P0774,Grocery,Grocery Product 144,4049.36,11.85,3569.45
+P0775,Grocery,Grocery Product 145,312.72,12.43,273.84
+P0776,Grocery,Grocery Product 146,4761.88,12.21,4180.39
+P0777,Grocery,Grocery Product 147,4114.03,14.19,3530.27
+P0778,Grocery,Grocery Product 148,1217.59,9.48,1102.11
+P0779,Grocery,Grocery Product 149,3093.81,10.88,2757.29
+P0780,Grocery,Grocery Product 150,4215.32,14.3,3612.52
+P0781,Beauty & Personal Care,Beauty & Personal Care Product 1,2956.69,33.55,1964.63
+P0782,Beauty & Personal Care,Beauty & Personal Care Product 2,6288.1,34.12,4142.47
+P0783,Beauty & Personal Care,Beauty & Personal Care Product 3,6616.39,36.36,4210.93
+P0784,Beauty & Personal Care,Beauty & Personal Care Product 4,5406.89,31.43,3707.34
+P0785,Beauty & Personal Care,Beauty & Personal Care Product 5,5066.1,36.78,3202.97
+P0786,Beauty & Personal Care,Beauty & Personal Care Product 6,4775.55,32.52,3222.53
+P0787,Beauty & Personal Care,Beauty & Personal Care Product 7,5947.62,42.94,3393.59
+P0788,Beauty & Personal Care,Beauty & Personal Care Product 8,1890.57,31.44,1296.26
+P0789,Beauty & Personal Care,Beauty & Personal Care Product 9,384.38,39.63,232.05
+P0790,Beauty & Personal Care,Beauty & Personal Care Product 10,4935.33,38.2,3050.01
+P0791,Beauty & Personal Care,Beauty & Personal Care Product 11,2009.19,35.86,1288.62
+P0792,Beauty & Personal Care,Beauty & Personal Care Product 12,4836.92,37.45,3025.42
+P0793,Beauty & Personal Care,Beauty & Personal Care Product 13,7904.73,32.05,5371.53
+P0794,Beauty & Personal Care,Beauty & Personal Care Product 14,5622.13,36.06,3594.52
+P0795,Beauty & Personal Care,Beauty & Personal Care Product 15,3539.96,40.76,2096.93
+P0796,Beauty & Personal Care,Beauty & Personal Care Product 16,5601.0,44.87,3087.9
+P0797,Beauty & Personal Care,Beauty & Personal Care Product 17,1201.48,31.56,822.27
+P0798,Beauty & Personal Care,Beauty & Personal Care Product 18,5849.84,38.68,3587.37
+P0799,Beauty & Personal Care,Beauty & Personal Care Product 19,2338.45,31.19,1609.06
+P0800,Beauty & Personal Care,Beauty & Personal Care Product 20,868.13,43.41,491.25
+P0801,Beauty & Personal Care,Beauty & Personal Care Product 21,1696.57,34.85,1105.3
+P0802,Beauty & Personal Care,Beauty & Personal Care Product 22,1967.92,35.32,1272.75
+P0803,Beauty & Personal Care,Beauty & Personal Care Product 23,741.51,37.79,461.32
+P0804,Beauty & Personal Care,Beauty & Personal Care Product 24,727.38,42.01,421.84
+P0805,Beauty & Personal Care,Beauty & Personal Care Product 25,2022.95,38.1,1252.21
+P0806,Beauty & Personal Care,Beauty & Personal Care Product 26,7064.62,39.76,4255.5
+P0807,Beauty & Personal Care,Beauty & Personal Care Product 27,4357.07,34.87,2837.98
+P0808,Beauty & Personal Care,Beauty & Personal Care Product 28,2797.41,40.04,1677.27
+P0809,Beauty & Personal Care,Beauty & Personal Care Product 29,7954.29,39.93,4778.33
+P0810,Beauty & Personal Care,Beauty & Personal Care Product 30,4550.71,40.96,2686.75
+P0811,Beauty & Personal Care,Beauty & Personal Care Product 31,3828.6,30.9,2645.48
+P0812,Beauty & Personal Care,Beauty & Personal Care Product 32,4585.92,44.36,2551.4
+P0813,Beauty & Personal Care,Beauty & Personal Care Product 33,1567.36,40.35,934.93
+P0814,Beauty & Personal Care,Beauty & Personal Care Product 34,1767.28,38.04,1095.05
+P0815,Beauty & Personal Care,Beauty & Personal Care Product 35,954.08,36.76,603.4
+P0816,Beauty & Personal Care,Beauty & Personal Care Product 36,6098.07,35.21,3950.72
+P0817,Beauty & Personal Care,Beauty & Personal Care Product 37,5386.31,41.93,3127.74
+P0818,Beauty & Personal Care,Beauty & Personal Care Product 38,7431.99,33.52,4940.81
+P0819,Beauty & Personal Care,Beauty & Personal Care Product 39,3314.66,32.29,2244.48
+P0820,Beauty & Personal Care,Beauty & Personal Care Product 40,7941.37,43.91,4454.71
+P0821,Beauty & Personal Care,Beauty & Personal Care Product 41,4411.67,42.63,2530.95
+P0822,Beauty & Personal Care,Beauty & Personal Care Product 42,4263.47,39.35,2585.63
+P0823,Beauty & Personal Care,Beauty & Personal Care Product 43,895.17,41.33,525.21
+P0824,Beauty & Personal Care,Beauty & Personal Care Product 44,1196.17,42.39,689.1
+P0825,Beauty & Personal Care,Beauty & Personal Care Product 45,6299.82,40.63,3740.13
+P0826,Beauty & Personal Care,Beauty & Personal Care Product 46,482.05,34.55,315.52
+P0827,Beauty & Personal Care,Beauty & Personal Care Product 47,2252.28,35.4,1454.93
+P0828,Beauty & Personal Care,Beauty & Personal Care Product 48,883.61,44.05,494.34
+P0829,Beauty & Personal Care,Beauty & Personal Care Product 49,4519.66,34.58,2956.63
+P0830,Beauty & Personal Care,Beauty & Personal Care Product 50,3296.46,36.71,2086.39
+P0831,Beauty & Personal Care,Beauty & Personal Care Product 51,4884.64,37.74,3041.41
+P0832,Beauty & Personal Care,Beauty & Personal Care Product 52,7371.26,37.45,4610.39
+P0833,Beauty & Personal Care,Beauty & Personal Care Product 53,7938.83,42.77,4543.28
+P0834,Beauty & Personal Care,Beauty & Personal Care Product 54,1826.38,43.96,1023.52
+P0835,Beauty & Personal Care,Beauty & Personal Care Product 55,1107.66,42.26,639.54
+P0836,Beauty & Personal Care,Beauty & Personal Care Product 56,3168.86,43.17,1800.88
+P0837,Beauty & Personal Care,Beauty & Personal Care Product 57,6970.84,42.09,4036.89
+P0838,Beauty & Personal Care,Beauty & Personal Care Product 58,6362.24,34.57,4162.8
+P0839,Beauty & Personal Care,Beauty & Personal Care Product 59,831.17,36.04,531.58
+P0840,Beauty & Personal Care,Beauty & Personal Care Product 60,1553.49,40.42,925.5
+P0841,Beauty & Personal Care,Beauty & Personal Care Product 61,2899.58,44.63,1605.38
+P0842,Beauty & Personal Care,Beauty & Personal Care Product 62,5199.58,42.34,2998.22
+P0843,Beauty & Personal Care,Beauty & Personal Care Product 63,1233.69,42.93,704.07
+P0844,Beauty & Personal Care,Beauty & Personal Care Product 64,7397.51,37.31,4637.8
+P0845,Beauty & Personal Care,Beauty & Personal Care Product 65,4928.77,41.47,2884.7
+P0846,Beauty & Personal Care,Beauty & Personal Care Product 66,1563.74,37.54,976.74
+P0847,Beauty & Personal Care,Beauty & Personal Care Product 67,3309.57,32.2,2244.03
+P0848,Beauty & Personal Care,Beauty & Personal Care Product 68,3066.77,31.02,2115.38
+P0849,Beauty & Personal Care,Beauty & Personal Care Product 69,401.33,32.03,272.8
+P0850,Beauty & Personal Care,Beauty & Personal Care Product 70,7712.3,38.24,4762.89
+P0851,Beauty & Personal Care,Beauty & Personal Care Product 71,7733.41,36.49,4911.69
+P0852,Beauty & Personal Care,Beauty & Personal Care Product 72,2632.17,37.59,1642.68
+P0853,Beauty & Personal Care,Beauty & Personal Care Product 73,3628.19,31.58,2482.23
+P0854,Beauty & Personal Care,Beauty & Personal Care Product 74,5198.45,33.24,3470.45
+P0855,Beauty & Personal Care,Beauty & Personal Care Product 75,5032.79,39.75,3032.1
+P0856,Beauty & Personal Care,Beauty & Personal Care Product 76,1385.79,30.92,957.3
+P0857,Beauty & Personal Care,Beauty & Personal Care Product 77,6289.94,36.9,3969.14
+P0858,Beauty & Personal Care,Beauty & Personal Care Product 78,653.68,44.92,360.03
+P0859,Beauty & Personal Care,Beauty & Personal Care Product 79,650.69,40.43,387.64
+P0860,Beauty & Personal Care,Beauty & Personal Care Product 80,7872.7,33.59,5228.44
+P0861,Beauty & Personal Care,Beauty & Personal Care Product 81,1309.55,31.82,892.84
+P0862,Beauty & Personal Care,Beauty & Personal Care Product 82,2565.55,31.52,1757.0
+P0863,Beauty & Personal Care,Beauty & Personal Care Product 83,5598.86,30.93,3866.89
+P0864,Beauty & Personal Care,Beauty & Personal Care Product 84,4173.49,44.95,2297.49
+P0865,Beauty & Personal Care,Beauty & Personal Care Product 85,6548.97,39.23,3979.92
+P0866,Beauty & Personal Care,Beauty & Personal Care Product 86,2588.78,39.36,1569.88
+P0867,Beauty & Personal Care,Beauty & Personal Care Product 87,4310.92,36.39,2742.12
+P0868,Beauty & Personal Care,Beauty & Personal Care Product 88,1219.54,43.3,691.49
+P0869,Beauty & Personal Care,Beauty & Personal Care Product 89,3708.32,32.92,2487.57
+P0870,Beauty & Personal Care,Beauty & Personal Care Product 90,3068.52,36.21,1957.35
+P0871,Beauty & Personal Care,Beauty & Personal Care Product 91,6654.8,41.0,3926.05
+P0872,Beauty & Personal Care,Beauty & Personal Care Product 92,6200.58,30.17,4330.14
+P0873,Beauty & Personal Care,Beauty & Personal Care Product 93,3446.0,37.22,2163.39
+P0874,Beauty & Personal Care,Beauty & Personal Care Product 94,349.7,33.9,231.16
+P0875,Beauty & Personal Care,Beauty & Personal Care Product 95,6130.26,32.06,4165.1
+P0876,Beauty & Personal Care,Beauty & Personal Care Product 96,4375.42,33.23,2921.55
+P0877,Beauty & Personal Care,Beauty & Personal Care Product 97,294.54,33.62,195.52
+P0878,Beauty & Personal Care,Beauty & Personal Care Product 98,7811.82,42.02,4529.05
+P0879,Beauty & Personal Care,Beauty & Personal Care Product 99,7684.7,37.32,4816.94
+P0880,Beauty & Personal Care,Beauty & Personal Care Product 100,1055.94,38.22,652.37
+P0881,Beauty & Personal Care,Beauty & Personal Care Product 101,3744.14,42.67,2146.69
+P0882,Beauty & Personal Care,Beauty & Personal Care Product 102,965.04,37.32,604.85
+P0883,Beauty & Personal Care,Beauty & Personal Care Product 103,1370.38,34.87,892.53
+P0884,Beauty & Personal Care,Beauty & Personal Care Product 104,5951.39,37.14,3741.02
+P0885,Beauty & Personal Care,Beauty & Personal Care Product 105,3131.93,35.92,2007.03
+P0886,Beauty & Personal Care,Beauty & Personal Care Product 106,3783.68,41.78,2203.04
+P0887,Beauty & Personal Care,Beauty & Personal Care Product 107,7158.26,44.33,3985.0
+P0888,Beauty & Personal Care,Beauty & Personal Care Product 108,6337.85,34.73,4136.64
+P0889,Beauty & Personal Care,Beauty & Personal Care Product 109,5567.45,36.56,3531.77
+P0890,Beauty & Personal Care,Beauty & Personal Care Product 110,2186.43,42.61,1254.73
+P0891,Beauty & Personal Care,Beauty & Personal Care Product 111,499.73,43.53,282.21
+P0892,Beauty & Personal Care,Beauty & Personal Care Product 112,3799.52,39.56,2296.51
+P0893,Beauty & Personal Care,Beauty & Personal Care Product 113,5342.96,43.43,3022.69
+P0894,Beauty & Personal Care,Beauty & Personal Care Product 114,5166.02,39.21,3140.48
+P0895,Beauty & Personal Care,Beauty & Personal Care Product 115,719.89,37.78,447.94
+P0896,Beauty & Personal Care,Beauty & Personal Care Product 116,1371.32,41.06,808.23
+P0897,Beauty & Personal Care,Beauty & Personal Care Product 117,4195.33,40.2,2508.66
+P0898,Beauty & Personal Care,Beauty & Personal Care Product 118,525.05,31.27,360.86
+P0899,Beauty & Personal Care,Beauty & Personal Care Product 119,5787.32,31.08,3988.55
+P0900,Beauty & Personal Care,Beauty & Personal Care Product 120,755.8,30.18,527.69
+P0901,Sports & Fitness,Sports & Fitness Product 1,23934.28,36.06,15302.95
+P0902,Sports & Fitness,Sports & Fitness Product 2,9154.66,29.45,6458.79
+P0903,Sports & Fitness,Sports & Fitness Product 3,9067.73,36.62,5747.14
+P0904,Sports & Fitness,Sports & Fitness Product 4,16703.58,27.78,12063.67
+P0905,Sports & Fitness,Sports & Fitness Product 5,4765.68,26.48,3503.92
+P0906,Sports & Fitness,Sports & Fitness Product 6,16677.42,36.47,10595.9
+P0907,Sports & Fitness,Sports & Fitness Product 7,6993.64,25.31,5223.26
+P0908,Sports & Fitness,Sports & Fitness Product 8,2513.21,39.52,1520.04
+P0909,Sports & Fitness,Sports & Fitness Product 9,7738.4,36.54,4910.91
+P0910,Sports & Fitness,Sports & Fitness Product 10,15804.26,30.73,10947.75
+P0911,Sports & Fitness,Sports & Fitness Product 11,5539.34,26.82,4053.64
+P0912,Sports & Fitness,Sports & Fitness Product 12,15567.82,36.62,9866.96
+P0913,Sports & Fitness,Sports & Fitness Product 13,16275.65,32.95,10912.09
+P0914,Sports & Fitness,Sports & Fitness Product 14,1527.8,39.53,923.9
+P0915,Sports & Fitness,Sports & Fitness Product 15,20068.5,29.39,14169.9
+P0916,Sports & Fitness,Sports & Fitness Product 16,24509.27,34.03,16169.2
+P0917,Sports & Fitness,Sports & Fitness Product 17,14769.36,36.22,9419.73
+P0918,Sports & Fitness,Sports & Fitness Product 18,20388.36,34.85,13283.59
+P0919,Sports & Fitness,Sports & Fitness Product 19,3638.35,30.07,2544.15
+P0920,Sports & Fitness,Sports & Fitness Product 20,23238.05,28.37,16645.59
+P0921,Sports & Fitness,Sports & Fitness Product 21,9618.09,31.48,6590.21
+P0922,Sports & Fitness,Sports & Fitness Product 22,11265.42,34.19,7413.31
+P0923,Sports & Fitness,Sports & Fitness Product 23,23605.36,28.61,16851.77
+P0924,Sports & Fitness,Sports & Fitness Product 24,3476.78,27.96,2504.6
+P0925,Sports & Fitness,Sports & Fitness Product 25,22229.66,34.69,14518.82
+P0926,Sports & Fitness,Sports & Fitness Product 26,7504.72,37.24,4710.02
+P0927,Sports & Fitness,Sports & Fitness Product 27,21603.56,37.7,13459.51
+P0928,Sports & Fitness,Sports & Fitness Product 28,23013.7,28.78,16389.53
+P0929,Sports & Fitness,Sports & Fitness Product 29,18998.53,31.91,12936.46
+P0930,Sports & Fitness,Sports & Fitness Product 30,21128.96,35.93,13537.89
+P0931,Sports & Fitness,Sports & Fitness Product 31,19522.96,34.84,12720.69
+P0932,Sports & Fitness,Sports & Fitness Product 32,4847.0,33.18,3238.99
+P0933,Sports & Fitness,Sports & Fitness Product 33,24624.41,39.06,15005.91
+P0934,Sports & Fitness,Sports & Fitness Product 34,1557.76,27.47,1129.81
+P0935,Sports & Fitness,Sports & Fitness Product 35,3727.35,35.89,2389.62
+P0936,Sports & Fitness,Sports & Fitness Product 36,20535.74,28.2,14744.11
+P0937,Sports & Fitness,Sports & Fitness Product 37,12893.39,37.61,8044.12
+P0938,Sports & Fitness,Sports & Fitness Product 38,18453.64,33.13,12339.29
+P0939,Sports & Fitness,Sports & Fitness Product 39,14963.52,32.63,10081.61
+P0940,Sports & Fitness,Sports & Fitness Product 40,7789.94,33.48,5182.23
+P0941,Sports & Fitness,Sports & Fitness Product 41,17377.69,38.1,10756.82
+P0942,Sports & Fitness,Sports & Fitness Product 42,16089.14,36.42,10229.99
+P0943,Sports & Fitness,Sports & Fitness Product 43,4421.76,31.92,3010.18
+P0944,Sports & Fitness,Sports & Fitness Product 44,728.62,28.7,519.51
+P0945,Sports & Fitness,Sports & Fitness Product 45,18298.31,39.88,11001.47
+P0946,Sports & Fitness,Sports & Fitness Product 46,2929.86,31.02,2020.95
+P0947,Sports & Fitness,Sports & Fitness Product 47,20101.74,28.06,14461.08
+P0948,Sports & Fitness,Sports & Fitness Product 48,14099.58,36.0,9024.29
+P0949,Sports & Fitness,Sports & Fitness Product 49,15591.64,27.82,11253.99
+P0950,Sports & Fitness,Sports & Fitness Product 50,9206.92,36.76,5822.74
+P0951,Sports & Fitness,Sports & Fitness Product 51,14078.55,25.08,10547.87
+P0952,Sports & Fitness,Sports & Fitness Product 52,19144.27,25.53,14256.8
+P0953,Sports & Fitness,Sports & Fitness Product 53,18770.48,28.04,13507.76
+P0954,Sports & Fitness,Sports & Fitness Product 54,23972.8,30.52,16656.51
+P0955,Sports & Fitness,Sports & Fitness Product 55,8509.82,27.23,6192.32
+P0956,Sports & Fitness,Sports & Fitness Product 56,7987.3,38.15,4940.17
+P0957,Sports & Fitness,Sports & Fitness Product 57,24910.19,30.52,17306.44
+P0958,Sports & Fitness,Sports & Fitness Product 58,11490.96,35.83,7373.63
+P0959,Sports & Fitness,Sports & Fitness Product 59,22211.8,33.9,14682.96
+P0960,Sports & Fitness,Sports & Fitness Product 60,10092.38,31.19,6944.63
+P0961,Sports & Fitness,Sports & Fitness Product 61,17542.64,25.05,13148.51
+P0962,Sports & Fitness,Sports & Fitness Product 62,15679.94,30.33,10923.84
+P0963,Sports & Fitness,Sports & Fitness Product 63,19957.83,26.39,14689.99
+P0964,Sports & Fitness,Sports & Fitness Product 64,14910.96,32.21,10107.45
+P0965,Sports & Fitness,Sports & Fitness Product 65,16236.98,25.97,12019.78
+P0966,Sports & Fitness,Sports & Fitness Product 66,14709.6,33.42,9793.32
+P0967,Sports & Fitness,Sports & Fitness Product 67,14236.17,34.05,9388.43
+P0968,Sports & Fitness,Sports & Fitness Product 68,17073.46,37.07,10743.51
+P0969,Sports & Fitness,Sports & Fitness Product 69,7110.61,37.38,4452.97
+P0970,Sports & Fitness,Sports & Fitness Product 70,12707.26,26.16,9383.57
+P0971,Sports & Fitness,Sports & Fitness Product 71,1934.5,30.01,1353.89
+P0972,Sports & Fitness,Sports & Fitness Product 72,19729.98,35.62,12703.1
+P0973,Sports & Fitness,Sports & Fitness Product 73,19821.07,32.76,13327.88
+P0974,Sports & Fitness,Sports & Fitness Product 74,11284.88,27.21,8214.06
+P0975,Sports & Fitness,Sports & Fitness Product 75,8540.72,31.51,5849.52
+P0976,Sports & Fitness,Sports & Fitness Product 76,2670.71,28.31,1914.65
+P0977,Sports & Fitness,Sports & Fitness Product 77,15156.52,36.03,9694.88
+P0978,Sports & Fitness,Sports & Fitness Product 78,24959.51,39.0,15226.13
+P0979,Sports & Fitness,Sports & Fitness Product 79,16242.85,31.32,11155.8
+P0980,Sports & Fitness,Sports & Fitness Product 80,16086.35,36.78,10169.02
+P0981,Sports & Fitness,Sports & Fitness Product 81,3399.24,31.15,2340.42
+P0982,Sports & Fitness,Sports & Fitness Product 82,21075.16,30.76,14592.97
+P0983,Sports & Fitness,Sports & Fitness Product 83,14510.87,33.82,9603.8
+P0984,Sports & Fitness,Sports & Fitness Product 84,5019.67,30.43,3492.01
+P0985,Sports & Fitness,Sports & Fitness Product 85,8695.53,25.39,6487.48
+P0986,Sports & Fitness,Sports & Fitness Product 86,1092.7,37.48,683.2
+P0987,Sports & Fitness,Sports & Fitness Product 87,7190.23,32.77,4833.91
+P0988,Sports & Fitness,Sports & Fitness Product 88,7818.78,39.11,4760.84
+P0989,Sports & Fitness,Sports & Fitness Product 89,6852.77,31.44,4697.93
+P0990,Sports & Fitness,Sports & Fitness Product 90,21881.89,37.63,13647.95
+P0991,Sports & Fitness,Sports & Fitness Product 91,5059.48,37.04,3185.47
+P0992,Sports & Fitness,Sports & Fitness Product 92,11725.58,32.24,7944.72
+P0993,Sports & Fitness,Sports & Fitness Product 93,3770.26,26.21,2782.11
+P0994,Sports & Fitness,Sports & Fitness Product 94,18334.51,32.45,12385.53
+P0995,Sports & Fitness,Sports & Fitness Product 95,11202.84,35.94,7176.25
+P0996,Sports & Fitness,Sports & Fitness Product 96,19255.07,27.38,13982.33
+P0997,Sports & Fitness,Sports & Fitness Product 97,15450.52,27.03,11274.19
+P0998,Sports & Fitness,Sports & Fitness Product 98,18908.69,34.85,12318.19
+P0999,Sports & Fitness,Sports & Fitness Product 99,23937.06,26.03,17705.2
+P1000,Sports & Fitness,Sports & Fitness Product 100,1897.84,29.23,1343.05

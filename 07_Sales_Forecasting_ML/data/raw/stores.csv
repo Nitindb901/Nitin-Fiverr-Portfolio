@@ -1,0 +1,26 @@
+store_id,store_name,region,region_multiplier
+S001,Delhi CP,North,1.2
+S002,Delhi Saket,North,1.2
+S003,Gurgaon,North,1.2
+S004,Noida,North,1.2
+S005,Chandigarh,North,1.2
+S006,Bangalore,South,1.15
+S007,Chennai,South,1.15
+S008,Hyderabad,South,1.15
+S009,Kochi,South,1.15
+S010,Pune,South,1.15
+S011,Mumbai Bandra,West,1.1
+S012,Mumbai Andheri,West,1.1
+S013,Ahmedabad,West,1.1
+S014,Surat,West,1.1
+S015,Nashik,West,1.1
+S016,Kolkata,East,0.95
+S017,Bhubaneswar,East,0.95
+S018,Patna,East,0.95
+S019,Guwahati,East,0.95
+S020,Ranchi,East,0.95
+S021,Indore,Central,0.9
+S022,Bhopal,Central,0.9
+S023,Nagpur,Central,0.9
+S024,Raipur,Central,0.9
+S025,Jabalpur,Central,0.9
